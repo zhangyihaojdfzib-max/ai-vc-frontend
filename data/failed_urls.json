@@ -1,23 +1,23 @@
 {
   "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-04T23:50:09.117554"
+    "timestamp": "2026-01-05T13:04:47.752146"
   },
   "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-04T23:50:09.166984"
+    "timestamp": "2026-01-05T13:04:47.715608"
   },
   "https://medium.com/airbnb-engineering/graphql-data-mocking-at-scale-with-llms-and-generatemock-30b380f12bd6?source=rss----53c7c27702d5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-04T23:54:59.022764"
+    "timestamp": "2026-01-05T13:19:10.049642"
   },
   "https://medium.com/airbnb-engineering/from-static-rate-limiting-to-adaptive-traffic-management-in-airbnbs-key-value-store-29362764e5c2?source=rss----53c7c27702d5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-04T23:54:59.038119"
+    "timestamp": "2026-01-05T13:19:10.083468"
   },
   "https://supabase.com/blog/building-chatgpt-apps-with-supabase": {
     "count": 1,
@@ -28,5 +28,55 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-01-04T23:58:53.470186"
+  },
+  "https://a16z.simplecast.com/episodes/ai-will-save-the-world-with-marc-andreessen-and-martin-casado-bra-dqi2-AydQxUTD": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:01:48.798723"
+  },
+  "https://a16z.simplecast.com/episodes/wartime-vs-peacetime-ben-horowitz-on-leadership-uhaaybsk-5UIRv479": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:01:48.866987"
+  },
+  "https://a16z.simplecast.com/episodes/the-techno-optimist-manifesto-with-marc-andreessen-and-ben-horowitz-1b5mv8pi-gna9iB8R": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:01:48.921640"
+  },
+  "https://medium.com/@nfx/the-network-effects-of-bitcoin-video-d6095050df63?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:02:44.650170"
+  },
+  "https://medium.com/@nfx/https-medium-com-nfx-why-startup-timing-is-everything-51c2bb91e02b-53fb010baebe?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:02:44.668488"
+  },
+  "https://medium.com/@nfx/the-network-effects-of-bitcoin-34a175297fc1?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:02:44.679809"
+  },
+  "https://medium.com/point-nine-news/the-state-of-ai-first-services-today-648e5816e89d?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:02:44.951983"
+  },
+  "https://medium.com/point-nine-news/the-best-code-you-never-wrote-ba2669e30e27?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:02:44.969932"
+  },
+  "https://medium.com/point-nine-news/how-chatgpt-became-my-task-manager-and-why-it-might-become-yours-too-218d35716e1a?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:02:44.973233"
+  },
+  "https://medium.com/airbnb-engineering/building-a-next-generation-key-value-store-at-airbnb-0de8465ba354?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T13:19:10.060911"
   }
 }
