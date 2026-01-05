@@ -12,7 +12,7 @@ export default function PostClient({ post }: PostClientProps) {
   // 简单的 Markdown 渲染
   const renderContent = (content: string) => {
     const lines = content.split('\n')
-    const elements: JSX.Element[] = []
+    const elements: React.ReactElement[] = []
     let inList = false
     let listItems: string[] = []
 
