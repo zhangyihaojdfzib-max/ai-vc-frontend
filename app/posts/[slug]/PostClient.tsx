@@ -12,8 +12,7 @@ export default function PostClient({ post }: PostClientProps) {
   // 简单的 Markdown 渲染
   const renderContent = (content: string) => {
     const lines = content.split('\n')
-    const elements: React.ReactElement[] = []
-    let inList = false
+    const elements: React.ReactNode[] = []
     let listItems: string[] = []
 
     const flushList = () => {
@@ -26,7 +25,6 @@ export default function PostClient({ post }: PostClientProps) {
           </ul>
         )
         listItems = []
-        inList = false
       }
     }
 
@@ -48,10 +46,8 @@ export default function PostClient({ post }: PostClientProps) {
           </h3>
         )
       } else if (trimmed.startsWith('- ') || trimmed.startsWith('* ')) {
-        inList = true
         listItems.push(trimmed.replace(/^[-*] /, ''))
       } else if (trimmed.match(/^\d+\. /)) {
-        inList = true
         listItems.push(trimmed.replace(/^\d+\. /, ''))
       } else if (trimmed.startsWith('> ')) {
         flushList()
@@ -83,7 +79,7 @@ export default function PostClient({ post }: PostClientProps) {
         <motion.header
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] }}
+          transition={{ duration: 0.6, ease: [0.22, 1, 0.36, 1] as const }}
           className="mb-12"
         >
           {/* Back link */}
@@ -135,7 +131,7 @@ export default function PostClient({ post }: PostClientProps) {
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
+          transition={{ duration: 0.6, delay: 0.2, ease: [0.22, 1, 0.36, 1] as const }}
           className="prose prose-lg max-w-none"
         >
           {renderContent(post.content)}
