@@ -1,0 +1,166 @@
+@import "tailwindcss";
+
+/* ============================================
+   自定义字体
+   ============================================ */
+
+@font-face {
+  font-family: 'Serif';
+  src: local('Georgia'), local('Times New Roman');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* ============================================
+   全局样式
+   ============================================ */
+
+html {
+  scroll-behavior: auto; /* Lenis 会接管滚动 */
+}
+
+body {
+  font-feature-settings: 'kern' 1, 'liga' 1;
+  text-rendering: optimizeLegibility;
+}
+
+/* ============================================
+   字体工具类
+   ============================================ */
+
+.font-serif {
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+/* ============================================
+   平滑滚动条（可选）
+   ============================================ */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a1a1a1;
+}
+
+/* ============================================
+   文章内容样式
+   ============================================ */
+
+.prose {
+  --tw-prose-body: #374151;
+  --tw-prose-headings: #111827;
+  --tw-prose-links: #059669;
+  --tw-prose-bold: #111827;
+  --tw-prose-quotes: #6b7280;
+  --tw-prose-quote-borders: #059669;
+  --tw-prose-code: #111827;
+  --tw-prose-pre-bg: #1f2937;
+}
+
+.prose p {
+  margin-bottom: 1.5em;
+  line-height: 1.85;
+}
+
+.prose h2 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: 400;
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+}
+
+.prose h3 {
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+}
+
+.prose a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color 0.2s;
+}
+
+.prose a:hover {
+  color: #047857;
+}
+
+.prose blockquote {
+  border-left: 3px solid #059669;
+  padding-left: 1.5em;
+  font-style: italic;
+  color: #6b7280;
+}
+
+.prose code {
+  background: #f3f4f6;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.prose pre {
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+.prose img {
+  border-radius: 8px;
+  margin: 2em 0;
+}
+
+/* ============================================
+   动画工具类
+   ============================================ */
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ============================================
+   选择高亮
+   ============================================ */
+
+::selection {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+/* ============================================
+   Line Clamp
+   ============================================ */
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
