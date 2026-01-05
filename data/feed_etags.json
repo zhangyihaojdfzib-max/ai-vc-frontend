@@ -1,0 +1,112 @@
+{
+  "https://huggingface.co/blog/feed.xml": {
+    "etag": "W/\"32b5e-eZdGffjK85H64fzpG+PE3rZqr1w\"",
+    "last_modified": null,
+    "updated": "2026-01-04T22:04:09.561067"
+  },
+  "https://www.ycombinator.com/blog/rss/": {
+    "etag": "W/\"64af0a097897ac08f9fb6dcdedc71360\"",
+    "last_modified": null,
+    "updated": "2026-01-05T01:28:15.314501"
+  },
+  "https://greylock.com/feed/": {
+    "etag": "W/\"e5c63d2e35d3731eaaad2541d2a52519\"",
+    "last_modified": "Fri, 19 Dec 2025 18:42:01 GMT",
+    "updated": "2026-01-04T22:12:11.242781"
+  },
+  "https://blog.research.google/feeds/posts/default": {
+    "etag": null,
+    "last_modified": "Sat, 27 Dec 2025 11:18:43 GMT",
+    "updated": "2026-01-04T23:50:10.205393"
+  },
+  "https://tomtunguz.com/index.xml": {
+    "etag": "W/\"e2c6cc21a273765b9652a8c15a6620ef\"",
+    "last_modified": "Fri, 02 Jan 2026 01:16:14 UTC",
+    "updated": "2026-01-04T23:24:03.068665"
+  },
+  "https://www.usv.com/feed/": {
+    "etag": "\"a118ba434befb463c534a58d1cd63652\"",
+    "last_modified": "Wed, 10 Dec 2025 20:51:42 GMT",
+    "updated": "2026-01-04T23:46:27.773551"
+  },
+  "https://blog.samaltman.com/posts.atom": {
+    "etag": "\"55215aeba5e6cdfdd32aed57f8e22602\"",
+    "last_modified": null,
+    "updated": "2026-01-04T23:28:26.994833"
+  },
+  "https://www.ben-evans.com/benedictevans?format=rss": {
+    "etag": "W/\"982b0546920ce62e4f289d6192ecabf4\"",
+    "last_modified": null,
+    "updated": "2026-01-04T23:29:18.452031"
+  },
+  "https://avc.com/feed/": {
+    "etag": null,
+    "last_modified": "Thu, 02 May 2024 17:34:05 GMT",
+    "updated": "2026-01-04T23:30:43.828139"
+  },
+  "https://feld.com/feed": {
+    "etag": "W/\"a4e664bb7b074dde11b727238526bdd1\"",
+    "last_modified": "Thu, 18 Dec 2025 19:27:32 GMT",
+    "updated": "2026-01-04T23:31:37.147989"
+  },
+  "https://abovethecrowd.com/feed/": {
+    "etag": "W/\"8171e06de0f26f39260e81bf2d53fb99\"",
+    "last_modified": "Mon, 03 Nov 2025 00:54:04 GMT",
+    "updated": "2026-01-04T23:32:21.693703"
+  },
+  "https://deepmind.google/blog/rss.xml": {
+    "etag": "\"dFRhLQ\"",
+    "last_modified": null,
+    "updated": "2026-01-04T23:50:08.337322"
+  },
+  "https://andrewchen.com/feed/": {
+    "etag": "W/\"632a23c6bbdd08fa68594b94e14541a9\"",
+    "last_modified": "Tue, 28 Jan 2025 17:18:51 GMT",
+    "updated": "2026-01-04T23:43:32.872713"
+  },
+  "https://hunterwalk.com/feed/": {
+    "etag": "W/\"e0b62821156d2f2334d791c54264f9ba\"",
+    "last_modified": "Sun, 28 Dec 2025 00:16:03 GMT",
+    "updated": "2026-01-04T23:48:05.926111"
+  },
+  "https://www.saastr.com/feed/": {
+    "etag": "W/\"44e44c6976069f634d9ea91665a22afc\"",
+    "last_modified": "Sun, 04 Jan 2026 19:33:23 GMT",
+    "updated": "2026-01-04T23:48:41.571820"
+  },
+  "https://mattturck.com/feed/": {
+    "etag": "W/\"120e4499577f4aac21ae5a8b872aa563\"",
+    "last_modified": "Wed, 17 Dec 2025 15:47:47 GMT",
+    "updated": "2026-01-04T23:49:59.422585"
+  },
+  "https://www.microsoft.com/en-us/research/feed/": {
+    "etag": "\"f8881c0fa925eaca43c6ab3dbe62bd95\"",
+    "last_modified": "Sun, 04 Jan 2026 18:10:00 GMT",
+    "updated": "2026-01-04T23:51:29.737217"
+  },
+  "https://bair.berkeley.edu/blog/feed.xml": {
+    "etag": "\"2a7d0-642fc5b1f50a6-gzip\"",
+    "last_modified": "Fri, 07 Nov 2025 07:44:48 GMT",
+    "updated": "2026-01-04T23:52:26.340694"
+  },
+  "https://blog.langchain.dev/rss/": {
+    "etag": "W/\"2faa8-Okd8yRV7tsoOf02pbBLAIe8hOkw\"",
+    "last_modified": null,
+    "updated": "2026-01-04T23:53:43.113096"
+  },
+  "https://www.databricks.com/feed": {
+    "etag": "W/\"2dcdd9c92f4a6d9089876f75f72b0619\"",
+    "last_modified": "Sun, 04 Jan 2026 09:16:21 GMT",
+    "updated": "2026-01-04T23:56:18.681350"
+  },
+  "https://supabase.com/rss.xml": {
+    "etag": "W/\"d9d75e24b73e2c5e1b10244b457ea9a1\"",
+    "last_modified": "Fri, 02 Jan 2026 19:35:00 GMT",
+    "updated": "2026-01-04T23:58:52.740389"
+  },
+  "https://www.sequoiacap.com/feed/": {
+    "etag": "W/\"7b00883e93b92a2f0b5ebc5d88c15473\"",
+    "last_modified": "Fri, 19 Dec 2025 22:18:24 GMT",
+    "updated": "2026-01-05T01:29:54.097641"
+  }
+}

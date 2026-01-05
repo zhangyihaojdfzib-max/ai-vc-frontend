@@ -1,0 +1,38 @@
+﻿name: Daily Article Fetch & Translate
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch-and-translate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests feedparser beautifulsoup4 trafilatura openai pyyaml
+
+      - name: Run fetch and translate script
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_BASE_URL: https://api.deepseek.com
+        run: |
+          python scripts/main.py --max-per-source 3
+
+      - name: Commit and push new articles
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/posts/ data/
+          git diff --staged --quiet || git commit -m "Auto: Add new translated articles"
+          git push

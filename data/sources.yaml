@@ -1,0 +1,490 @@
+# AI/VC/Startup 内容聚合系统 - 数据源配置
+# 更新日期: 2026-01-05
+# 修复了10个之前失效的源，覆盖率从69%提升到90%
+
+settings:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  request_delay: 2.0
+  translation_model: "deepseek-chat"
+  max_retries: 3
+  timeout_seconds: 30
+  categories:
+    - "AI研究"
+    - "AI产品"
+    - "AI基础设施"
+    - "VC观点"
+    - "创业"
+    - "技术趋势"
+    - "政策监管"
+    - "未分类"
+
+# ============================================
+# VC 基金博客
+# ============================================
+vc_funds:
+  - name: ycombinator
+    display_name: Y Combinator
+    type: rss
+    url: https://www.ycombinator.com/blog
+    feed_url: https://www.ycombinator.com/blog/rss/
+    category: vc_funds
+    enabled: true
+
+  - name: a16z
+    display_name: Andreessen Horowitz (a16z)
+    type: rss
+    url: https://a16z.com/
+    feed_url: https://feeds.simplecast.com/JGE3yC0V  # ✅ 修复：播客RSS
+    category: vc_funds
+    enabled: true
+    note: "播客RSS，包含a16z的音频内容"
+
+  - name: sequoia
+    display_name: 红杉资本 (Sequoia)
+    type: rss
+    url: https://www.sequoiacap.com/
+    feed_url: https://www.sequoiacap.com/feed/  # ✅ 修复：官网RSS恢复
+    category: vc_funds
+    enabled: true
+
+  - name: greylock
+    display_name: Greylock Partners
+    type: rss
+    url: https://greylock.com/
+    feed_url: https://greylock.com/feed/
+    category: vc_funds
+    enabled: true
+
+  - name: usv
+    display_name: Union Square Ventures
+    type: rss
+    url: https://www.usv.com/blog/
+    feed_url: https://www.usv.com/feed/
+    category: vc_funds
+    enabled: true
+
+  - name: redpoint
+    display_name: Redpoint Ventures
+    type: rss
+    url: https://www.redpoint.com/blog/
+    feed_url: https://www.redpoint.com/feed/
+    category: vc_funds
+    enabled: true
+
+  - name: lux-capital
+    display_name: Lux Capital
+    type: rss
+    url: https://www.luxcapital.com/
+    feed_url: https://www.luxcapital.com/feed
+    category: vc_funds
+    enabled: true
+
+  - name: contrary
+    display_name: Contrary
+    type: rss
+    url: https://contrary.com/blog
+    feed_url: https://contrary.com/feed.xml
+    category: vc_funds
+    enabled: true
+
+  - name: amplify-partners
+    display_name: Amplify Partners
+    type: rss
+    url: https://amplifypartners.com/
+    feed_url: https://amplifypartners.com/feed/
+    category: vc_funds
+    enabled: true
+
+  - name: unusual-ventures
+    display_name: Unusual Ventures
+    type: rss
+    url: https://www.unusual.vc/
+    feed_url: https://www.unusual.vc/feed
+    category: vc_funds
+    enabled: true
+
+  - name: first-round-review
+    display_name: First Round Review
+    type: rss
+    url: https://review.firstround.com/
+    feed_url: https://review.firstround.com/feed.xml
+    category: vc_funds
+    enabled: false  # ❌ 仍失效，所有路径404
+    note: "RSS已失效，需要Playwright方案"
+
+  - name: bessemer
+    display_name: Bessemer Venture Partners
+    type: rss
+    url: https://www.bvp.com/atlas
+    feed_url: https://www.bvp.com/rss.xml
+    category: vc_funds
+    enabled: false  # ❌ 仍失效
+    note: "RSS已失效，需要Playwright方案"
+
+  - name: nfx
+    display_name: NFX
+    type: rss
+    url: https://www.nfx.com/essays
+    feed_url: https://medium.com/feed/@nfx  # ✅ 修复：使用Medium RSS
+    category: vc_funds
+    enabled: true
+
+  - name: craft-ventures
+    display_name: Craft Ventures
+    type: homepage
+    url: https://www.craftventures.com/blog
+    feed_url: null
+    category: vc_funds
+    enabled: false  # ❌ 完全失效
+    note: "博客可能已关闭"
+
+  - name: point-nine
+    display_name: Point Nine Capital
+    type: rss
+    url: https://www.pointnine.com/blog
+    feed_url: https://medium.com/feed/point-nine-news  # ✅ 修复：使用Medium RSS
+    category: vc_funds
+    enabled: true
+
+  - name: boldstart
+    display_name: Boldstart Ventures
+    type: rss
+    url: https://boldstart.vc/
+    feed_url: https://fastforward.boldstart.vc/rss  # ✅ 修复：使用/rss而非/feed
+    category: vc_funds
+    enabled: true
+
+# ============================================
+# 知名投资人个人博客
+# ============================================
+investors:
+  - name: paul-graham
+    display_name: Paul Graham
+    type: rss
+    url: https://paulgraham.com/
+    feed_url: https://paulgraham.com/rss.html
+    category: investors
+    enabled: true
+
+  - name: sam-altman
+    display_name: Sam Altman
+    type: rss
+    url: https://blog.samaltman.com/
+    feed_url: https://blog.samaltman.com/feed
+    category: investors
+    enabled: true
+
+  - name: benedict-evans
+    display_name: Benedict Evans
+    type: rss
+    url: https://www.ben-evans.com/
+    feed_url: https://www.ben-evans.com/benedictevans?format=rss
+    category: investors
+    enabled: true
+
+  - name: fred-wilson
+    display_name: Fred Wilson (AVC)
+    type: rss
+    url: https://avc.com/
+    feed_url: https://avc.com/feed/
+    category: investors
+    enabled: true
+
+  - name: brad-feld
+    display_name: Brad Feld
+    type: rss
+    url: https://feld.com/
+    feed_url: https://feld.com/feed
+    category: investors
+    enabled: true
+
+  - name: bill-gurley
+    display_name: Bill Gurley
+    type: rss
+    url: https://abovethecrowd.com/
+    feed_url: https://abovethecrowd.com/feed/
+    category: investors
+    enabled: true
+
+  - name: andrew-chen
+    display_name: Andrew Chen
+    type: rss
+    url: https://andrewchen.com/
+    feed_url: https://andrewchen.com/feed/
+    category: investors
+    enabled: true
+
+  - name: hunter-walk
+    display_name: Hunter Walk
+    type: rss
+    url: https://hunterwalk.com/
+    feed_url: https://hunterwalk.com/feed/
+    category: investors
+    enabled: true
+
+  - name: saastr
+    display_name: Jason Lemkin (SaaStr)
+    type: rss
+    url: https://www.saastr.com/
+    feed_url: https://www.saastr.com/feed/
+    category: investors
+    enabled: true
+
+  - name: mark-suster
+    display_name: Mark Suster
+    type: rss
+    url: https://bothsidesofthetable.com/
+    feed_url: https://bothsidesofthetable.com/feed  # ✅ 修复：SSL问题已解决
+    category: investors
+    enabled: true
+
+  - name: tomasz-tunguz
+    display_name: Tomasz Tunguz
+    type: rss
+    url: https://tomtunguz.com/
+    feed_url: https://tomtunguz.com/index.xml  # ✅ 修复：使用index.xml
+    category: investors
+    enabled: true
+
+  - name: matt-turck
+    display_name: Matt Turck
+    type: rss
+    url: https://mattturck.com/
+    feed_url: https://mattturck.com/feed/
+    category: investors
+    enabled: false  # ❌ 仍失效，返回HTML不是RSS
+    note: "网站可能重构，RSS无效"
+
+# ============================================
+# AI 研究机构
+# ============================================
+ai_research:
+  - name: openai
+    display_name: OpenAI
+    type: rss
+    url: https://openai.com/blog
+    feed_url: https://openai.com/blog/rss/
+    category: ai_research
+    enabled: false  # ❌ 403 Forbidden，需要Playwright
+    note: "反爬严格，需要Playwright方案"
+
+  - name: anthropic
+    display_name: Anthropic
+    type: rss
+    url: https://www.anthropic.com/news
+    feed_url: https://www.anthropic.com/rss.xml
+    category: ai_research
+    enabled: true
+
+  - name: deepmind
+    display_name: Google DeepMind
+    type: rss
+    url: https://deepmind.google/discover/blog/
+    feed_url: https://deepmind.google/blog/rss.xml
+    category: ai_research
+    enabled: true
+
+  - name: meta-ai
+    display_name: Meta AI
+    type: rss
+    url: https://ai.meta.com/blog/
+    feed_url: https://ai.meta.com/blog/rss/
+    category: ai_research
+    enabled: true
+
+  - name: google-ai
+    display_name: Google AI Blog
+    type: rss
+    url: https://blog.research.google/
+    feed_url: https://blog.research.google/feeds/posts/default  # ✅ 修复：575KB大源
+    category: ai_research
+    enabled: true
+
+  - name: microsoft-research
+    display_name: Microsoft Research
+    type: rss
+    url: https://www.microsoft.com/en-us/research/blog/
+    feed_url: https://www.microsoft.com/en-us/research/feed/
+    category: ai_research
+    enabled: true
+
+  - name: nvidia-ai
+    display_name: NVIDIA AI Blog
+    type: rss
+    url: https://blogs.nvidia.com/blog/category/deep-learning/
+    feed_url: https://blogs.nvidia.com/feed/
+    category: ai_research
+    enabled: true
+
+  - name: huggingface
+    display_name: Hugging Face Blog
+    type: rss
+    url: https://huggingface.co/blog
+    feed_url: https://huggingface.co/blog/feed.xml
+    category: ai_research
+    enabled: true
+
+  - name: berkeley-ai
+    display_name: Berkeley AI Research (BAIR)
+    type: rss
+    url: https://bair.berkeley.edu/blog/
+    feed_url: https://bair.berkeley.edu/blog/feed.xml
+    category: ai_research
+    enabled: true
+
+  - name: stanford-hai
+    display_name: Stanford HAI
+    type: rss
+    url: https://hai.stanford.edu/news
+    feed_url: https://hai.stanford.edu/news/feed
+    category: ai_research
+    enabled: true
+
+  - name: mit-csail
+    display_name: MIT CSAIL
+    type: rss
+    url: https://www.csail.mit.edu/news
+    feed_url: https://www.csail.mit.edu/news/feed
+    category: ai_research
+    enabled: true
+
+# ============================================
+# 技术博客
+# ============================================
+tech_blogs:
+  - name: langchain
+    display_name: LangChain Blog
+    type: rss
+    url: https://blog.langchain.dev/
+    feed_url: https://blog.langchain.dev/rss/
+    category: tech_blogs
+    enabled: true
+
+  - name: openai-cookbook
+    display_name: OpenAI Cookbook
+    type: rss
+    url: https://cookbook.openai.com/
+    feed_url: https://cookbook.openai.com/feed.xml
+    category: tech_blogs
+    enabled: true
+
+  - name: replicate
+    display_name: Replicate Blog
+    type: rss
+    url: https://replicate.com/blog
+    feed_url: https://replicate.com/blog/rss
+    category: tech_blogs
+    enabled: true
+
+  - name: netflix-tech
+    display_name: Netflix Tech Blog
+    type: rss
+    url: https://netflixtechblog.com/
+    feed_url: https://netflixtechblog.com/feed  # ✅ 修复：SSL问题已解决
+    category: tech_blogs
+    enabled: true
+
+  - name: uber-engineering
+    display_name: Uber Engineering
+    type: rss
+    url: https://www.uber.com/blog/engineering/
+    feed_url: https://www.uber.com/blog/engineering/feed/
+    category: tech_blogs
+    enabled: true
+
+  - name: airbnb-engineering
+    display_name: Airbnb Engineering
+    type: rss
+    url: https://medium.com/airbnb-engineering
+    feed_url: https://medium.com/feed/airbnb-engineering
+    category: tech_blogs
+    enabled: true
+
+  - name: stripe-blog
+    display_name: Stripe Blog
+    type: rss
+    url: https://stripe.com/blog
+    feed_url: https://stripe.com/blog/feed.rss
+    category: tech_blogs
+    enabled: true
+
+  - name: cloudflare-blog
+    display_name: Cloudflare Blog
+    type: rss
+    url: https://blog.cloudflare.com/
+    feed_url: https://blog.cloudflare.com/rss/
+    category: tech_blogs
+    enabled: true
+
+  - name: vercel-blog
+    display_name: Vercel Blog
+    type: rss
+    url: https://vercel.com/blog
+    feed_url: https://vercel.com/atom
+    category: tech_blogs
+    enabled: true
+
+  - name: databricks-blog
+    display_name: Databricks Blog
+    type: rss
+    url: https://www.databricks.com/blog
+    feed_url: https://www.databricks.com/feed
+    category: tech_blogs
+    enabled: true
+
+  - name: spotify-engineering
+    display_name: Spotify Engineering
+    type: rss
+    url: https://engineering.atspotify.com/
+    feed_url: https://engineering.atspotify.com/feed/
+    category: tech_blogs
+    enabled: true
+
+  - name: doordash-engineering
+    display_name: DoorDash Engineering
+    type: rss
+    url: https://doordash.engineering/
+    feed_url: https://medium.com/feed/@DoorDash  # ✅ 修复：使用Medium RSS
+    category: tech_blogs
+    enabled: true
+    note: "Medium RSS内容较少，但可用"
+
+  - name: discord-engineering
+    display_name: Discord Engineering
+    type: rss
+    url: https://discord.com/blog
+    feed_url: https://discord.com/blog/rss.xml
+    category: tech_blogs
+    enabled: true
+
+  - name: figma-blog
+    display_name: Figma Blog
+    type: rss
+    url: https://www.figma.com/blog/
+    feed_url: https://www.figma.com/blog/feed/
+    category: tech_blogs
+    enabled: true
+
+  - name: notion-blog
+    display_name: Notion Blog
+    type: rss
+    url: https://www.notion.so/blog
+    feed_url: https://www.notion.so/blog/rss
+    category: tech_blogs
+    enabled: true
+
+  - name: linear-blog
+    display_name: Linear Blog
+    type: rss
+    url: https://linear.app/blog
+    feed_url: https://linear.app/blog/rss
+    category: tech_blogs
+    enabled: true
+
+  - name: supabase-blog
+    display_name: Supabase Blog
+    type: rss
+    url: https://supabase.com/blog
+    feed_url: https://supabase.com/blog/rss.xml
+    category: tech_blogs
+    enabled: true

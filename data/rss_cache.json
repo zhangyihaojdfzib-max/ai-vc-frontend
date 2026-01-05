@@ -1,0 +1,17 @@
+{
+  "https://paulgraham.com/articles.html": null,
+  "https://www.redpoint.com/infrared/": null,
+  "https://www.luxcapital.com/news": null,
+  "https://contrary.com/blog": null,
+  "https://amplifypartners.com/blog": null,
+  "https://www.unusual.vc/blog": "https://www.unusual.vc/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.unusual.vc%2Fblog%2F&format=xml",
+  "https://abovethecrowd.com/": "https://abovethecrowd.com/feed/",
+  "https://deepmind.google/discover/blog/": "https://deepmind.google/blog/rss.xml",
+  "https://www.anthropic.com/research": null,
+  "https://ai.meta.com/blog/": null,
+  "https://hai.stanford.edu/news": null,
+  "https://mistral.ai/news/": null,
+  "https://stripe.com/blog/engineering": null,
+  "https://www.databricks.com/blog": "https://www.databricks.com/feed",
+  "https://vercel.com/blog": null
+}

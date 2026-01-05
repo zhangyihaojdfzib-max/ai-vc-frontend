@@ -1,0 +1,32 @@
+{
+  "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-04T23:50:09.117554"
+  },
+  "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-04T23:50:09.166984"
+  },
+  "https://medium.com/airbnb-engineering/graphql-data-mocking-at-scale-with-llms-and-generatemock-30b380f12bd6?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-04T23:54:59.022764"
+  },
+  "https://medium.com/airbnb-engineering/from-static-rate-limiting-to-adaptive-traffic-management-in-airbnbs-key-value-store-29362764e5c2?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-04T23:54:59.038119"
+  },
+  "https://supabase.com/blog/building-chatgpt-apps-with-supabase": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-04T23:58:53.446861"
+  },
+  "https://supabase.com/blog/stripe-sync-engine-integration": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-04T23:58:53.470186"
+  }
+}
