@@ -10,14 +10,14 @@
     "timestamp": "2026-01-05T13:04:47.715608"
   },
   "https://medium.com/airbnb-engineering/graphql-data-mocking-at-scale-with-llms-and-generatemock-30b380f12bd6?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:19:10.049642"
+    "timestamp": "2026-01-05T17:20:18.943222"
   },
   "https://medium.com/airbnb-engineering/from-static-rate-limiting-to-adaptive-traffic-management-in-airbnbs-key-value-store-29362764e5c2?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:19:10.083468"
+    "timestamp": "2026-01-05T17:20:18.928220"
   },
   "https://supabase.com/blog/building-chatgpt-apps-with-supabase": {
     "count": 1,
@@ -45,38 +45,158 @@
     "timestamp": "2026-01-05T13:01:48.921640"
   },
   "https://medium.com/@nfx/the-network-effects-of-bitcoin-video-d6095050df63?source=rss-c97362fd5497------2": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:02:44.650170"
+    "timestamp": "2026-01-05T17:01:40.132719"
   },
   "https://medium.com/@nfx/https-medium-com-nfx-why-startup-timing-is-everything-51c2bb91e02b-53fb010baebe?source=rss-c97362fd5497------2": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:02:44.668488"
+    "timestamp": "2026-01-05T17:01:40.144376"
   },
   "https://medium.com/@nfx/the-network-effects-of-bitcoin-34a175297fc1?source=rss-c97362fd5497------2": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:02:44.679809"
+    "timestamp": "2026-01-05T17:01:40.127359"
   },
   "https://medium.com/point-nine-news/the-state-of-ai-first-services-today-648e5816e89d?source=rss----92bc84a24ea5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:02:44.951983"
+    "timestamp": "2026-01-05T17:01:40.876297"
   },
   "https://medium.com/point-nine-news/the-best-code-you-never-wrote-ba2669e30e27?source=rss----92bc84a24ea5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:02:44.969932"
+    "timestamp": "2026-01-05T17:01:40.850164"
   },
   "https://medium.com/point-nine-news/how-chatgpt-became-my-task-manager-and-why-it-might-become-yours-too-218d35716e1a?source=rss----92bc84a24ea5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:02:44.973233"
+    "timestamp": "2026-01-05T17:01:40.857202"
   },
   "https://medium.com/airbnb-engineering/building-a-next-generation-key-value-store-at-airbnb-0de8465ba354?source=rss----53c7c27702d5---4": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:20:18.912101"
+  },
+  "https://medium.com/@nfx/announcing-vc-match-the-obvious-fundraising-tool-no-one-built-until-now-e026cb47ab6b?source=rss-c97362fd5497------2": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:19:10.060911"
+    "timestamp": "2026-01-05T17:01:40.187486"
+  },
+  "https://medium.com/@nfx/dont-believe-your-own-b-s-863f96e28246?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.190204"
+  },
+  "https://medium.com/@nfx/the-ladder-of-proof-56254ddd675f?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.203686"
+  },
+  "https://medium.com/@nfx/the-network-effects-bible-c6a06b8ae75b?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.252881"
+  },
+  "https://medium.com/@nfx/nfx-invests-in-ribbon-to-transform-the-home-buying-experience-dbbce6840bbf?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.256764"
+  },
+  "https://medium.com/@nfx/network-effects-in-biotechnology-introducing-mammoth-biosciences-ba0b629a41e2?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.264017"
+  },
+  "https://medium.com/@nfx/network-effects-predict-the-future-of-facebook-35f9d3c214ec?source=rss-c97362fd5497------2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.317180"
+  },
+  "https://medium.com/point-nine-news/a-first-landscape-of-ai-first-service-businesses-d0a5e4977678?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.911576"
+  },
+  "https://medium.com/point-nine-news/agents-powered-b2b-marketplaces-13652989812f?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.914478"
+  },
+  "https://medium.com/point-nine-news/welcoming-laura-to-point-nine-249c00152ad0?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.941291"
+  },
+  "https://medium.com/point-nine-news/the-agents-are-coming-winter-is-not-6232601fa0fd?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.962756"
+  },
+  "https://medium.com/point-nine-news/the-new-german-esop-does-it-stack-up-and-how-does-it-compare-666619f0b86e?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:40.991389"
+  },
+  "https://medium.com/point-nine-news/some-thoughts-on-software-1c43db57c40f?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:41.020505"
+  },
+  "https://medium.com/point-nine-news/activate-founder-mode-4cf169108865?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:01:41.040642"
+  },
+  "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:10:32.869372"
+  },
+  "https://deepmind.google/blog/how-were-bringing-ai-image-verification-to-the-gemini-app/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:11:28.672972"
+  },
+  "https://deepmind.google/blog/build-with-nano-banana-pro-our-gemini-3-pro-image-model/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:11:28.788178"
+  },
+  "https://medium.com/airbnb-engineering/viaduct-five-years-on-modernizing-the-data-oriented-service-mesh-e66397c9e9a9?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:20:18.966700"
+  },
+  "https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:20:18.988017"
+  },
+  "https://medium.com/airbnb-engineering/seamless-istio-upgrades-at-scale-bcb0e49c5cf8?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:20:19.027268"
+  },
+  "https://medium.com/airbnb-engineering/migrating-airbnbs-jvm-monorepo-to-bazel-33f90eda51ec?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:20:19.030819"
+  },
+  "https://medium.com/airbnb-engineering/achieving-high-availability-with-distributed-database-on-kubernetes-at-airbnb-58cc2e9856f4?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:20:19.048595"
+  },
+  "https://medium.com/airbnb-engineering/load-testing-with-impulse-at-airbnb-f466874d03d2?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:20:19.095145"
+  },
+  "https://medium.com/airbnb-engineering/understanding-and-improving-swiftui-performance-37b77ac61896?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-05T17:20:19.134162"
   }
 }
