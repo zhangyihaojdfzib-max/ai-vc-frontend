@@ -23,7 +23,7 @@ const typeLabels = {
   tech: { label: '科技公司', color: 'orange' },
 }
 
-const colorClasses = {
+const colorClasses: Record<string, string> = {
   emerald: 'bg-emerald-50 text-emerald-700 border-emerald-200',
   blue: 'bg-blue-50 text-blue-700 border-blue-200',
   purple: 'bg-purple-50 text-purple-700 border-purple-200',
