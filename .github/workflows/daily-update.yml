@@ -2,8 +2,8 @@
 
 on:
   schedule:
-    # 每天北京时间早上 8 点运行 (UTC 0:00)
-    - cron: '0 0 * * *'
+    # 测试：UTC 2:00 (英国凌晨2点，北京早上10点)
+    - cron: '0 2 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
