@@ -2,6 +2,7 @@
 import SourcesClient from './SourcesClient'
 
 const sourcesMeta: Record<string, { name: string; slug: string; description: string; type: 'vc' | 'investor' | 'research' | 'tech' }> = {
+  // VC 基金
   'Y Combinator': { name: 'Y Combinator', slug: 'ycombinator', description: '全球最知名的创业加速器', type: 'vc' },
   'Sequoia Capital': { name: '红杉资本', slug: 'sequoia', description: '全球顶级风险投资基金', type: 'vc' },
   '红杉资本 (Sequoia)': { name: '红杉资本', slug: 'sequoia', description: '全球顶级风险投资基金', type: 'vc' },
@@ -9,7 +10,9 @@ const sourcesMeta: Record<string, { name: string; slug: string; description: str
   'Union Square Ventures': { name: 'USV', slug: 'usv', description: '纽约知名风投，专注网络效应', type: 'vc' },
   'Boldstart Ventures': { name: 'Boldstart', slug: 'boldstart', description: '专注企业软件的早期投资', type: 'vc' },
   'Unusual Ventures': { name: 'Unusual Ventures', slug: 'unusual-ventures', description: '专注 B2B 的早期基金', type: 'vc' },
+  'Andreessen Horowitz (a16z)': { name: 'a16z', slug: 'a16z', description: '硅谷顶级风投，投资了 Facebook、Airbnb', type: 'vc' },
 
+  // 知名投资人
   'Benedict Evans': { name: 'Benedict Evans', slug: 'benedict-evans', description: '科技行业分析师', type: 'investor' },
   'Fred Wilson': { name: 'Fred Wilson', slug: 'fred-wilson', description: 'USV 联合创始人', type: 'investor' },
   'Fred Wilson (AVC)': { name: 'Fred Wilson', slug: 'fred-wilson', description: 'USV 联合创始人', type: 'investor' },
@@ -21,6 +24,7 @@ const sourcesMeta: Record<string, { name: string; slug: string; description: str
   'Jason Lemkin (SaaStr)': { name: 'Jason Lemkin', slug: 'saastr', description: 'SaaStr 创始人，SaaS 专家', type: 'investor' },
   'Sam Altman': { name: 'Sam Altman', slug: 'sam-altman', description: 'OpenAI CEO，前 YC 总裁', type: 'investor' },
 
+  // AI 研究
   'Google DeepMind': { name: 'DeepMind', slug: 'deepmind', description: 'Google 旗下 AI 研究实验室', type: 'research' },
   'Google AI Blog': { name: 'Google AI', slug: 'google-ai', description: 'Google AI 研究博客', type: 'research' },
   'Microsoft Research': { name: 'Microsoft Research', slug: 'microsoft-research', description: '微软研究院', type: 'research' },
@@ -29,7 +33,9 @@ const sourcesMeta: Record<string, { name: string; slug: string; description: str
   'Hugging Face': { name: 'Hugging Face', slug: 'huggingface', description: '开源 AI 社区领导者', type: 'research' },
   'Berkeley AI Research (BAIR)': { name: 'BAIR', slug: 'bair', description: '伯克利 AI 研究实验室', type: 'research' },
   'LangChain': { name: 'LangChain', slug: 'langchain', description: 'LLM 应用开发框架', type: 'research' },
+  'LangChain Blog': { name: 'LangChain', slug: 'langchain', description: 'LLM 应用开发框架', type: 'research' },
 
+  // 科技公司博客
   'Stripe Blog': { name: 'Stripe', slug: 'stripe-blog', description: '全球领先的支付平台', type: 'tech' },
   'Cloudflare Blog': { name: 'Cloudflare', slug: 'cloudflare-blog', description: '全球领先的网络安全公司', type: 'tech' },
   'Vercel Blog': { name: 'Vercel', slug: 'vercel-blog', description: 'Next.js 背后的公司', type: 'tech' },
