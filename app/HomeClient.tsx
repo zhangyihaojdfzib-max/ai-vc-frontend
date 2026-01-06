@@ -1,4 +1,4 @@
-'use client'
+﻿'use client'
 
 import { motion } from 'framer-motion'
 import Link from 'next/link'
@@ -8,9 +8,18 @@ import { PostMeta } from '@/lib/posts'
 interface HomeClientProps {
   featuredPosts: PostMeta[]
   totalPosts: number
+  totalSources: number
+  topSources: string[]
+  totalCategories: number
 }
 
-export default function HomeClient({ featuredPosts, totalPosts }: HomeClientProps) {
+export default function HomeClient({ 
+  featuredPosts, 
+  totalPosts, 
+  totalSources, 
+  topSources,
+  totalCategories 
+}: HomeClientProps) {
   return (
     <main>
       {/* Hero Section */}
@@ -70,10 +79,10 @@ export default function HomeClient({ featuredPosts, totalPosts }: HomeClientProp
         <div className="max-w-6xl mx-auto px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
             {[
-              { number: '44+', label: '信息源' },
+              { number: `${totalSources}`, label: '信息源' },
               { number: `${totalPosts}`, label: '已翻译文章' },
+              { number: `${totalCategories}`, label: '内容分类' },
               { number: '每日', label: '自动更新' },
-              { number: '免费', label: '完全开放' },
             ].map((stat, index) => (
               <motion.div
                 key={stat.label}
@@ -174,18 +183,7 @@ export default function HomeClient({ featuredPosts, totalPosts }: HomeClientProp
             transition={{ duration: 0.8 }}
             className="flex flex-wrap justify-center gap-4"
           >
-            {[
-              'Sequoia Capital',
-              'Y Combinator',
-              'a16z',
-              'Greylock',
-              'USV',
-              'Anthropic',
-              'OpenAI',
-              'Google AI',
-              'Paul Graham',
-              'Sam Altman',
-            ].map((source) => (
+            {topSources.map((source) => (
               <span
                 key={source}
                 className="px-4 py-2 bg-white border border-gray-200 rounded-full text-sm text-gray-600"
@@ -193,6 +191,21 @@ export default function HomeClient({ featuredPosts, totalPosts }: HomeClientProp
                 {source}
               </span>
             ))}
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8, delay: 0.2 }}
+            className="mt-8"
+          >
+            <Link 
+              href="/sources" 
+              className="text-sm text-emerald-600 hover:text-emerald-700 transition-colors"
+            >
+              查看全部 {totalSources} 个信息源 →
+            </Link>
           </motion.div>
         </div>
       </section>

@@ -5,9 +5,9 @@
     "updated": "2026-01-05T13:13:02.138120"
   },
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"191484313bec5a23c740650608ef7db3\"",
+    "etag": "W/\"6764eed68d75e34ee820fde70946f618\"",
     "last_modified": null,
-    "updated": "2026-01-05T16:39:55.133999"
+    "updated": "2026-01-06T00:47:08.322080"
   },
   "https://greylock.com/feed/": {
     "etag": "W/\"e5c63d2e35d3731eaaad2541d2a52519\"",
@@ -21,13 +21,13 @@
   },
   "https://tomtunguz.com/index.xml": {
     "etag": "W/\"10ee369bdddbb49c2855f42d8fbd391e\"",
-    "last_modified": "Mon, 05 Jan 2026 16:22:52 UTC",
-    "updated": "2026-01-05T17:07:17.836237"
+    "last_modified": "Mon, 05 Jan 2026 17:33:17 UTC",
+    "updated": "2026-01-06T00:48:14.118397"
   },
   "https://www.usv.com/feed/": {
     "etag": "\"a118ba434befb463c534a58d1cd63652\"",
     "last_modified": "Wed, 10 Dec 2025 20:51:42 GMT",
-    "updated": "2026-01-05T17:01:16.375705"
+    "updated": "2026-01-06T00:47:10.569697"
   },
   "https://blog.samaltman.com/posts.atom": {
     "etag": "\"55215aeba5e6cdfdd32aed57f8e22602\"",
@@ -55,9 +55,9 @@
     "updated": "2026-01-04T23:32:21.693703"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"BV6tYA\"",
+    "etag": "\"RNhAmQ\"",
     "last_modified": null,
-    "updated": "2026-01-05T17:10:32.479366"
+    "updated": "2026-01-06T00:48:14.879885"
   },
   "https://andrewchen.com/feed/": {
     "etag": "W/\"632a23c6bbdd08fa68594b94e14541a9\"",
@@ -80,9 +80,9 @@
     "updated": "2026-01-04T23:49:59.422585"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"215bc513111d7811570ae26be9fbad56\"",
-    "last_modified": "Mon, 05 Jan 2026 09:59:32 GMT",
-    "updated": "2026-01-05T13:06:23.706783"
+    "etag": "\"f3e24f831e4d0f2529dbab8683d9c762\"",
+    "last_modified": "Mon, 05 Jan 2026 22:29:37 GMT",
+    "updated": "2026-01-06T00:49:49.063254"
   },
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"2a7d0-642fc5b1f50a6-gzip\"",
@@ -115,9 +115,9 @@
     "updated": "2026-01-05T13:01:44.900069"
   },
   "https://www.unusual.vc/feed": {
-    "etag": "W/\"7350fd288e2d83ce65c5e424a9ab3ffd\"",
-    "last_modified": "Thu, 18 Dec 2025 17:19:52 GMT",
-    "updated": "2026-01-05T13:02:24.611571"
+    "etag": "W/\"ede1f1206c6a0bbaaec201b433178ff7\"",
+    "last_modified": "Tue, 06 Jan 2026 00:01:55 GMT",
+    "updated": "2026-01-06T00:47:14.034255"
   },
   "https://fastforward.boldstart.vc/rss": {
     "etag": "W/\"2b5e001f923c217ecf28bb1305c38297\"",
@@ -125,9 +125,9 @@
     "updated": "2026-01-05T13:02:45.311148"
   },
   "https://blogs.nvidia.com/feed/": {
-    "etag": "\"ad25f83675754bc7024c16a118500e62-gzip\"",
-    "last_modified": "Sat, 03 Jan 2026 00:22:32 GMT",
-    "updated": "2026-01-05T13:12:07.141317"
+    "etag": "\"cafe6c6bd9a1ba3d4e51680e4960d6ed-gzip\"",
+    "last_modified": "Tue, 06 Jan 2026 00:49:42 GMT",
+    "updated": "2026-01-06T00:52:41.730055"
   },
   "https://replicate.com/blog/rss": {
     "etag": "W/\"10a86-19b39210d10\"",
