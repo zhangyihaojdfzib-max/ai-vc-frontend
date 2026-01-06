@@ -5,14 +5,9 @@
     "updated": "2026-01-06T00:57:22.363052"
   },
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"d4eaf43c71d3d9346089228298088934\"",
+    "etag": "W/\"e179ea8797056348abded8dad46521e7\"",
     "last_modified": null,
-    "updated": "2026-01-06T04:27:54.900007"
-  },
-  "https://greylock.com/feed/": {
-    "etag": "W/\"e5c63d2e35d3731eaaad2541d2a52519\"",
-    "last_modified": "Fri, 19 Dec 2025 18:42:01 GMT",
-    "updated": "2026-01-04T22:12:11.242781"
+    "updated": "2026-01-06T17:07:30.930891"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
@@ -27,7 +22,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"a118ba434befb463c534a58d1cd63652\"",
     "last_modified": "Wed, 10 Dec 2025 20:51:42 GMT",
-    "updated": "2026-01-06T04:27:55.555306"
+    "updated": "2026-01-06T17:07:58.674648"
   },
   "https://blog.samaltman.com/posts.atom": {
     "etag": "\"55215aeba5e6cdfdd32aed57f8e22602\"",
@@ -55,9 +50,9 @@
     "updated": "2026-01-04T23:32:21.693703"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"gXpD2Q\"",
+    "etag": "\"31D5CQ\"",
     "last_modified": null,
-    "updated": "2026-01-06T04:28:00.390789"
+    "updated": "2026-01-06T17:09:04.393344"
   },
   "https://andrewchen.com/feed/": {
     "etag": "W/\"632a23c6bbdd08fa68594b94e14541a9\"",
@@ -90,9 +85,9 @@
     "updated": "2026-01-06T04:29:21.679617"
   },
   "https://blog.langchain.dev/rss/": {
-    "etag": "W/\"2faa8-akwZRZpduMlGAFImy23cCWj+4sU\"",
+    "etag": "W/\"2faa8-Ws1Fu0PFwHN1c7UOIeUXfryS6kU\"",
     "last_modified": null,
-    "updated": "2026-01-06T01:08:17.553361"
+    "updated": "2026-01-06T17:09:32.821803"
   },
   "https://www.databricks.com/feed": {
     "etag": "W/\"e73da1ed82c18c0415fb93b7ee7be1ff\"",
@@ -143,5 +138,10 @@
     "etag": "W/\"13rnxmd0uuyah1\"",
     "last_modified": null,
     "updated": "2026-01-06T04:31:04.007076"
+  },
+  "https://greylock.com/feed/": {
+    "etag": "W/\"e5c63d2e35d3731eaaad2541d2a52519\"",
+    "last_modified": "Fri, 19 Dec 2025 18:42:01 GMT",
+    "updated": "2026-01-06T17:11:43.075359"
   }
 }
