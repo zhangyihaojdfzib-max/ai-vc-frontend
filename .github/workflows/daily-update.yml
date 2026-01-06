@@ -2,39 +2,39 @@
 
 on:
   schedule:
-    # 测试：UTC 2:00 (英国凌晨2点，北京早上10点)
-    - cron: '0 2 * * *'
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 2 * * *'  # UTC 2:00 (北京早上10点)
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+          fetch-depth: 0  # 获取完整历史
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
         run: |
           pip install requests feedparser trafilatura openai pyyaml beautifulsoup4
-      
+
       - name: Run content pipeline
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: |
           python scripts/main.py --max-per-source 5
-      
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add content/posts/*.md data/*.json
           git diff --staged --quiet || git commit -m "Daily update: $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
           git push
