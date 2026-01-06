@@ -1,4 +1,4 @@
-import fs from 'fs'
+﻿import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import readingTime from 'reading-time'
@@ -31,17 +31,23 @@ export interface PostMeta {
   readingTime: string
 }
 
-// 确保目录存在
 function ensureDirectoryExists() {
   if (!fs.existsSync(postsDirectory)) {
     fs.mkdirSync(postsDirectory, { recursive: true })
   }
 }
 
-// 获取所有文章的 slug
+// 将日期转换为字符串
+function formatDate(date: unknown): string {
+  if (!date) return ''
+  if (date instanceof Date) {
+    return date.toISOString().split('T')[0]
+  }
+  return String(date)
+}
+
 export function getPostSlugs(): string[] {
   ensureDirectoryExists()
-  
   try {
     const files = fs.readdirSync(postsDirectory)
     return files
@@ -52,12 +58,10 @@ export function getPostSlugs(): string[] {
   }
 }
 
-// 根据 slug 获取单篇文章
 export function getPostBySlug(slug: string): Post | null {
   ensureDirectoryExists()
-  
   const fullPath = path.join(postsDirectory, `${slug}.md`)
-  
+
   if (!fs.existsSync(fullPath)) {
     return null
   }
@@ -68,29 +72,28 @@ export function getPostBySlug(slug: string): Post | null {
 
   return {
     slug,
-    title: data.title || '',
-    title_original: data.title_original,
-    date: data.date || '',
-    source: data.source || '',
-    source_url: data.source_url,
-    author: data.author,
-    summary: data.summary || '',
-    categories: data.categories || [],
-    tags: data.tags || [],
+    title: String(data.title || ''),
+    title_original: data.title_original ? String(data.title_original) : undefined,
+    date: formatDate(data.date),
+    source: String(data.source || ''),
+    source_url: data.source_url ? String(data.source_url) : undefined,
+    author: data.author ? String(data.author) : undefined,
+    summary: String(data.summary || ''),
+    categories: Array.isArray(data.categories) ? data.categories.map(String) : [],
+    tags: Array.isArray(data.tags) ? data.tags.map(String) : [],
     content,
     readingTime: `${Math.ceil(stats.minutes)} 分钟`,
   }
 }
 
-// 获取所有文章元数据（用于列表页）
 export function getAllPosts(): PostMeta[] {
   const slugs = getPostSlugs()
-  
+
   const posts = slugs
     .map((slug) => {
       const post = getPostBySlug(slug)
       if (!post) return null
-      
+
       return {
         slug: post.slug,
         title: post.title,
@@ -108,13 +111,11 @@ export function getAllPosts(): PostMeta[] {
   return posts
 }
 
-// 按分类获取文章
 export function getPostsByCategory(category: string): PostMeta[] {
   const posts = getAllPosts()
   return posts.filter((post) => post.categories.includes(category))
 }
 
-// 获取所有分类
 export function getAllCategories(): { name: string; count: number }[] {
   const posts = getAllPosts()
   const categoryCount: Record<string, number> = {}
@@ -130,7 +131,6 @@ export function getAllCategories(): { name: string; count: number }[] {
     .sort((a, b) => b.count - a.count)
 }
 
-// 获取所有标签
 export function getAllTags(): { name: string; count: number }[] {
   const posts = getAllPosts()
   const tagCount: Record<string, number> = {}
