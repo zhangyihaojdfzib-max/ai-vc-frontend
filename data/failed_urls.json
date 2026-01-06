@@ -40,9 +40,9 @@
     "timestamp": "2026-01-05T13:01:48.866987"
   },
   "https://a16z.simplecast.com/episodes/the-techno-optimist-manifesto-with-marc-andreessen-and-ben-horowitz-1b5mv8pi-gna9iB8R": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-05T13:01:48.921640"
+    "timestamp": "2026-01-06T17:52:55.175419"
   },
   "https://medium.com/@nfx/the-network-effects-of-bitcoin-video-d6095050df63?source=rss-c97362fd5497------2": {
     "count": 3,
@@ -210,29 +210,29 @@
     "timestamp": "2026-01-06T04:28:00.866004"
   },
   "https://deepmind.google/blog/a-new-era-of-intelligence-with-gemini-3/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T04:28:01.015857"
+    "timestamp": "2026-01-06T17:54:38.793904"
   },
   "https://deepmind.google/blog/introducing-google-antigravity/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T00:48:15.710939"
+    "timestamp": "2026-01-06T17:54:38.771069"
   },
   "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T00:48:15.905340"
+    "timestamp": "2026-01-06T17:54:38.799040"
   },
   "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T00:48:36.827231"
+    "timestamp": "2026-01-06T17:54:38.934620"
   },
   "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T00:49:01.885774"
+    "timestamp": "2026-01-06T17:54:38.950518"
   },
   "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models/": {
     "count": 1,
@@ -258,5 +258,25 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-01-06T00:49:02.993971"
+  },
+  "https://a16z.simplecast.com/episodes/why-a16zs-martin-casado-believes-the-ai-boom-still-has-years-to-run-XxCz1OYF": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-06T17:52:55.163602"
+  },
+  "https://a16z.simplecast.com/episodes/the-inside-story-of-growth-investing-at-a16z-F7_Z134S": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-06T17:52:55.179868"
+  },
+  "https://a16z.simplecast.com/episodes/where-does-consumer-ai-stand-at-the-end-of-2025-tEyfJBlw": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-06T17:52:55.229331"
+  },
+  "https://a16z.simplecast.com/episodes/big-ideas-2026-new-infrastructure-primitives-uhuC1TnI": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-06T17:52:55.240941"
   }
 }
