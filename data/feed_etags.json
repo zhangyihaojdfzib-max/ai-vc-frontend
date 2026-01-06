@@ -87,17 +87,17 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"2a7d0-642fc5b1f50a6-gzip\"",
     "last_modified": "Fri, 07 Nov 2025 07:44:48 GMT",
-    "updated": "2026-01-05T17:16:59.430958"
+    "updated": "2026-01-06T01:08:15.476030"
   },
   "https://blog.langchain.dev/rss/": {
-    "etag": "W/\"2faa8-Okd8yRV7tsoOf02pbBLAIe8hOkw\"",
+    "etag": "W/\"2faa8-akwZRZpduMlGAFImy23cCWj+4sU\"",
     "last_modified": null,
-    "updated": "2026-01-04T23:53:43.113096"
+    "updated": "2026-01-06T01:08:17.553361"
   },
   "https://www.databricks.com/feed": {
-    "etag": "W/\"2dcdd9c92f4a6d9089876f75f72b0619\"",
-    "last_modified": "Sun, 04 Jan 2026 09:16:21 GMT",
-    "updated": "2026-01-04T23:56:18.681350"
+    "etag": "W/\"e73da1ed82c18c0415fb93b7ee7be1ff\"",
+    "last_modified": "Mon, 05 Jan 2026 23:40:33 GMT",
+    "updated": "2026-01-06T01:22:42.138631"
   },
   "https://supabase.com/rss.xml": {
     "etag": "W/\"d9d75e24b73e2c5e1b10244b457ea9a1\"",
@@ -137,7 +137,7 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Sat, 03 Jan 2026 09:41:34 GMT",
-    "updated": "2026-01-05T17:28:46.627998"
+    "updated": "2026-01-06T01:25:14.553869"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"111g7kh6eh9ah1\"",

@@ -1,0 +1,40 @@
+﻿name: Daily Content Update
+
+on:
+  schedule:
+    # 每天北京时间早上 8 点运行 (UTC 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests feedparser trafilatura openai pyyaml beautifulsoup4
+      
+      - name: Run content pipeline
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          python scripts/main.py --max-per-source 5
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add content/posts/*.md data/*.json
+          git diff --staged --quiet || git commit -m "Daily update: $(date +'%Y-%m-%d')"
+          git push
