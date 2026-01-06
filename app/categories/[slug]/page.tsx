@@ -9,7 +9,7 @@ interface Props {
 export async function generateStaticParams() {
   const categories = getAllCategories()
   return categories.map((cat) => ({
-    slug: encodeURIComponent(cat.name),
+    slug: cat.name,
   }))
 }
 
