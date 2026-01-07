@@ -18,6 +18,7 @@ export interface Post {
   tags: string[]
   content: string
   readingTime: string
+  translated_at?: string
 }
 
 export interface PostMeta {
@@ -29,7 +30,7 @@ export interface PostMeta {
   categories: string[]
   tags: string[]
   readingTime: string
-  mtime: number
+  translated_at?: string
 }
 
 function ensureDirectoryExists() {
@@ -84,6 +85,7 @@ export function getPostBySlug(slug: string): Post | null {
     tags: Array.isArray(data.tags) ? data.tags.map(String) : [],
     content,
     readingTime: `${Math.ceil(stats.minutes)} 分钟`,
+    translated_at: data.translated_at ? String(data.translated_at) : undefined,
   }
 }
 
@@ -95,11 +97,7 @@ export function getAllPosts(): PostMeta[] {
       const post = getPostBySlug(slug)
       if (!post) return null
       
-      // 获取文件修改时间
-      const fullPath = path.join(process.cwd(), 'content/posts', `${slug}.md`)
-      const stat = fs.statSync(fullPath)
-      const mtime = stat.mtimeMs || 0
-
+      
       return {
         slug: post.slug,
         title: post.title,
@@ -109,16 +107,19 @@ export function getAllPosts(): PostMeta[] {
         categories: post.categories,
         tags: post.tags,
         readingTime: post.readingTime,
-        mtime,
+        ...(post.translated_at && { translated_at: post.translated_at }),
       }
     })
     .filter((post): post is PostMeta => post !== null)
     .sort((a, b) => {
-      const dateA = new Date(a.date).getTime()
-      const dateB = new Date(b.date).getTime()
-      if (dateA !== dateB) return dateB - dateA
-      // 同一天的文章按文件修改时间降序（最新翻译的排前面）
-      return (b.mtime || 0) - (a.mtime || 0)
+      // 优先按 translated_at 排序（最新翻译的排前面）
+      if (a.translated_at && b.translated_at) {
+        const timeA = new Date(a.translated_at).getTime()
+        const timeB = new Date(b.translated_at).getTime()
+        if (timeA !== timeB) return timeB - timeA
+      }
+      // 如果没有 translated_at，按日期排序
+      return new Date(b.date).getTime() - new Date(a.date).getTime()
     })
 
   return posts

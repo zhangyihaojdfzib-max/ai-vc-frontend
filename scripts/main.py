@@ -782,6 +782,7 @@ class ArticleGenerator:
             'categories': [translated.get('category', '未分类')],
             'tags': translated.get('tags', []),
             'draft': False,
+            'translated_at': datetime.now().isoformat(),
         }
         
         front_matter_yaml = yaml.safe_dump(
