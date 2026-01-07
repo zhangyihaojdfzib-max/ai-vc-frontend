@@ -40,9 +40,9 @@
     "timestamp": "2026-01-05T13:01:48.866987"
   },
   "https://a16z.simplecast.com/episodes/the-techno-optimist-manifesto-with-marc-andreessen-and-ben-horowitz-1b5mv8pi-gna9iB8R": {
-    "count": 3,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:58:51.683278"
+    "timestamp": "2026-01-06T17:52:55.175419"
   },
   "https://medium.com/@nfx/the-network-effects-of-bitcoin-video-d6095050df63?source=rss-c97362fd5497------2": {
     "count": 3,
@@ -235,53 +235,78 @@
     "timestamp": "2026-01-07T02:40:29.064181"
   },
   "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models/": {
-    "count": 3,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T04:28:40.090671"
+    "timestamp": "2026-01-07T02:40:29.052112"
   },
   "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/": {
-    "count": 3,
+    "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:59:16.798864"
+    "timestamp": "2026-01-06T00:49:02.344187"
   },
   "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide/": {
-    "count": 3,
+    "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:59:16.794433"
+    "timestamp": "2026-01-06T00:49:02.587745"
   },
   "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/": {
-    "count": 2,
+    "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:59:16.790539"
+    "timestamp": "2026-01-06T00:49:02.793156"
   },
   "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/": {
-    "count": 2,
+    "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:59:16.960401"
+    "timestamp": "2026-01-06T00:49:02.993971"
   },
   "https://a16z.simplecast.com/episodes/why-a16zs-martin-casado-believes-the-ai-boom-still-has-years-to-run-XxCz1OYF": {
-    "count": 2,
+    "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:58:51.764351"
+    "timestamp": "2026-01-06T17:52:55.163602"
   },
   "https://a16z.simplecast.com/episodes/the-inside-story-of-growth-investing-at-a16z-F7_Z134S": {
-    "count": 2,
+    "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:58:51.689389"
+    "timestamp": "2026-01-06T17:52:55.179868"
   },
   "https://a16z.simplecast.com/episodes/where-does-consumer-ai-stand-at-the-end-of-2025-tEyfJBlw": {
-    "count": 2,
+    "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:58:51.762796"
+    "timestamp": "2026-01-06T17:52:55.229331"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-2026-new-infrastructure-primitives-uhuC1TnI": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-01-06T17:52:55.240941"
   },
-  "https://a16z.simplecast.com/episodes/marc-andreessens-2026-outlook-ai-timelines-us-vs-china-and-the-price-of-ai-vLiGj_5o": {
+  "https://greylock.com/press/73-of-the-most-promising-startups-of-2023-according-to-top-vcs/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-07T16:22:05.922294"
+  },
+  "https://greylock.com/press/30-most-powerful-people-in-enterprise-software/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-07T16:22:08.495254"
+  },
+  "https://greylock.com/press/feeling-ready-for-kids-being-social-chair-of-your-marriage-mike-duboe-father-of-2-gp-greylock/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T12:58:51.672217"
+    "timestamp": "2026-01-07T16:22:06.911155"
+  },
+  "https://greylock.com/press/the-19-most-promising-cybersecurity-startups-of-2023-according-to-vcs/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-07T16:22:10.280613"
+  },
+  "https://greylock.com/press/greylocks-chen-its-ai-or-die/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-07T16:23:13.457006"
+  },
+  "https://greylock.com/press/the-race-to-build-a-chatgpt-powered-search-engine/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-07T16:26:37.936673"
   }
 }
