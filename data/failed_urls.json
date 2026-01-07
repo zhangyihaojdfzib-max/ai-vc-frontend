@@ -215,29 +215,29 @@
     "timestamp": "2026-01-06T17:54:38.793904"
   },
   "https://deepmind.google/blog/introducing-google-antigravity/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T17:54:38.771069"
+    "timestamp": "2026-01-07T02:40:28.893673"
   },
   "https://deepmind.google/blog/weathernext-2-our-most-advanced-weather-forecasting-model/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T17:54:38.799040"
+    "timestamp": "2026-01-07T02:40:28.888281"
   },
   "https://deepmind.google/blog/how-ai-is-giving-northern-ireland-teachers-time-back/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T17:54:38.934620"
+    "timestamp": "2026-01-07T02:40:28.912574"
   },
   "https://deepmind.google/blog/accelerating-discovery-with-the-ai-for-math-initiative/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T17:54:38.950518"
+    "timestamp": "2026-01-07T02:40:29.064181"
   },
   "https://deepmind.google/blog/t5gemma-a-new-collection-of-encoder-decoder-gemma-models/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T00:49:02.124823"
+    "timestamp": "2026-01-07T02:40:29.052112"
   },
   "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/": {
     "count": 1,
