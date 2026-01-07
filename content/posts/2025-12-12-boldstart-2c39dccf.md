@@ -15,6 +15,7 @@ tags:
 - 风险投资
 - 行业评论
 draft: false
+translated_at: '2026-01-05T16:35:07.391Z'
 ---
 
 访问 boldstart.vc

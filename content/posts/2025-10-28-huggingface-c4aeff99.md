@@ -16,6 +16,7 @@ tags:
 - 机器人部署
 - 数字孪生
 draft: false
+translated_at: '2026-01-07T03:12:32.186Z'
 ---
 
 # 如何利用NVIDIA Isaac for Healthcare从仿真到部署构建医疗机器人

@@ -16,6 +16,7 @@ tags:
 - 嵌入式组件
 - Stripe
 draft: false
+translated_at: '2026-01-05T17:20:55.364Z'
 ---
 
 分析SaaS平台如何在数天内交付支付与金融产品

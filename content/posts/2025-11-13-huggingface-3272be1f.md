@@ -16,6 +16,7 @@ tags:
 - 边缘AI
 - 开源
 draft: false
+translated_at: '2026-01-06T01:06:42.509Z'
 ---
 
 参加AMD开源机器人黑客松

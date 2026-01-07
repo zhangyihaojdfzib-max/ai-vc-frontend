@@ -17,6 +17,7 @@ tags:
 - 创业导师
 - AI创业
 draft: false
+translated_at: '2026-01-04T23:26:13.066Z'
 ---
 
 作者：Garry Tan 2025年9月12日

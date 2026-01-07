@@ -16,6 +16,7 @@ tags:
 - AI平台
 - 可靠性工程
 draft: false
+translated_at: '2026-01-06T01:23:06.001Z'
 ---
 
 今天，我们非常高兴地欢迎 Stately Cloud 团队加入 Databricks。此次交易进一步夯实了我们对 Databricks 数据智能平台基础层的深度投入。

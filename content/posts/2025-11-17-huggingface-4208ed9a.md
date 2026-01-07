@@ -16,6 +16,7 @@ tags:
 - PyTorch扩展
 - 高性能计算
 draft: false
+translated_at: '2026-01-06T01:08:14.564Z'
 ---
 
 轻松使用 Hugging Face 构建和分享 ROCm 内核

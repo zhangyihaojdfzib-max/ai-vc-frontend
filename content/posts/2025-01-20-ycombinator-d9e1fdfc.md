@@ -15,6 +15,7 @@ tags:
 - 初创公司
 - AI创业
 draft: false
+translated_at: '2026-01-05T16:40:17.007Z'
 ---
 
 作者：Dalton Caldwell  

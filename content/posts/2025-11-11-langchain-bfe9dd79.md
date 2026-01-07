@@ -17,6 +17,7 @@ tags:
 - LangSmith
 - AI基础设施
 draft: false
+translated_at: '2026-01-06T01:12:12.856Z'
 ---
 
 如果您今年将参加拉斯维加斯的 AWS re:Invent 大会并致力于 Agent（智能体）开发，以下是我们为您准备的活动安排：

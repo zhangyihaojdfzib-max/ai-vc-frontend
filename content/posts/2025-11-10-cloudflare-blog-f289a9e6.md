@@ -18,6 +18,7 @@ tags:
 - Serverless
 - AI开发
 draft: false
+translated_at: '2026-01-06T01:18:01.093Z'
 ---
 
 开发者已经可以使用 Cloudflare Workflows 在 Workers 上构建长时间运行的多步骤应用程序。现在，Python Workflows 也已到来，这意味着您可以使用自己选择的语言来编排多步骤应用程序。

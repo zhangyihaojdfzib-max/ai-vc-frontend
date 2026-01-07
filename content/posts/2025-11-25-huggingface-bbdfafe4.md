@@ -15,6 +15,7 @@ tags:
 - KV缓存
 - 计算效率
 draft: false
+translated_at: '2026-01-06T01:03:56.611Z'
 ---
 
 连续批处理

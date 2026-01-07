@@ -15,6 +15,7 @@ tags:
 - 大语言模型
 - AI开发工具
 draft: false
+translated_at: '2026-01-05T16:35:07.397Z'
 ---
 
 Transformers v5 中的分词：更简洁、更清晰、更模块化

@@ -15,6 +15,7 @@ tags:
 - 研究资助
 - 技术教育
 draft: false
+translated_at: '2026-01-05T16:35:07.382Z'
 ---
 
 作者：Harj Taggar  

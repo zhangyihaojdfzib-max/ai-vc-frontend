@@ -15,6 +15,7 @@ tags:
 - 编译器
 - 无服务器
 draft: false
+translated_at: '2026-01-06T01:21:17.350Z'
 ---
 
 5 分钟阅读

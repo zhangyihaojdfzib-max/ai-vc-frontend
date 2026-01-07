@@ -16,6 +16,7 @@ tags:
 - 机器人技术
 - 开源模型
 draft: false
+translated_at: '2026-01-06T00:58:13.818Z'
 ---
 
 **NVIDIA Cosmos Reason 2 为物理AI带来先进的推理能力**

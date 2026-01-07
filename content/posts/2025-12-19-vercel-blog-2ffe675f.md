@@ -15,6 +15,7 @@ tags:
 - 开发者工具
 - 前端工程化
 draft: false
+translated_at: '2026-01-05T17:27:44.093Z'
 ---
 
 1 分钟阅读

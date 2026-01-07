@@ -16,6 +16,7 @@ tags:
 - 信息检索
 - 系统架构
 draft: false
+translated_at: '2026-01-07T03:12:32.193Z'
 ---
 
 ![Instructed Retriever](/images/posts/4cca8fce96da.png)

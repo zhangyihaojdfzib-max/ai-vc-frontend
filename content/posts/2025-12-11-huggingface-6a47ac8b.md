@@ -15,6 +15,7 @@ tags:
 - 自动化机器学习
 - 开源AI
 draft: false
+translated_at: '2026-01-06T01:00:44.769Z'
 ---
 
 Codex 正在开源 AI 模型

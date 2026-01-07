@@ -15,6 +15,7 @@ tags:
 - Traceable
 - Jyoti Bansal
 draft: false
+translated_at: '2026-01-06T00:47:25.828Z'
 ---
 
 Harness以55亿美元估值完成2.4亿美元E轮融资。阅读更多！

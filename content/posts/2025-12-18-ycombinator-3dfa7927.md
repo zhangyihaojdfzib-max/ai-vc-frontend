@@ -16,6 +16,7 @@ tags:
 - 风险投资
 - 初创公司
 draft: false
+translated_at: '2026-01-04T22:10:02.859Z'
 ---
 
 由 Y Combinator 发布于 2025年12月18日

@@ -15,6 +15,7 @@ tags:
 - 学生创业
 - 东海岸高校
 draft: false
+translated_at: '2026-01-05T16:35:07.383Z'
 ---
 
 作者：Y Combinator 2025年3月13日

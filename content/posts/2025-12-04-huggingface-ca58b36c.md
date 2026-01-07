@@ -15,6 +15,7 @@ tags:
 - 模型微调
 - 轻量化
 draft: false
+translated_at: '2026-01-06T01:00:09.049Z'
 ---
 
 DeepMath：基于smolagents的轻量级数学推理Agent（智能体）

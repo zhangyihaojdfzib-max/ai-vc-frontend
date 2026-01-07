@@ -15,6 +15,7 @@ tags:
 - AI安全
 - 软件工程
 draft: false
+translated_at: '2026-01-06T00:51:02.218Z'
 ---
 
 引言

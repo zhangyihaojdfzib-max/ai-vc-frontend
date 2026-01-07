@@ -15,6 +15,7 @@ tags:
 - 企业服务
 - 全球化
 draft: false
+translated_at: '2026-01-06T00:47:35.667Z'
 ---
 
 Harness以55亿美元估值完成2.4亿美元E轮融资。了解更多！

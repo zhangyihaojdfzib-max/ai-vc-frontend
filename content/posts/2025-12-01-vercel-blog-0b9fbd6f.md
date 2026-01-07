@@ -16,6 +16,7 @@ tags:
 - 开发者工具
 - 云服务
 draft: false
+translated_at: '2026-01-07T03:12:32.188Z'
 ---
 
 我们正在扩大与AWS的合作关系，让开发者能更快速地利用AWS基础设施进行构建和扩展。12月15日起，Aurora PostgreSQL、Amazon DynamoDB和Aurora DSQL将作为原生集成服务在Vercel应用市场中上线。

@@ -16,6 +16,7 @@ tags:
 - Nitro
 - 社交应用
 draft: false
+translated_at: '2026-01-05T16:35:07.390Z'
 ---
 
 为你生命中那位专注的Discord用户准备的礼物灵感

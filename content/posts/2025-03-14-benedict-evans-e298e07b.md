@@ -16,6 +16,7 @@ tags:
 - 服务业务
 - Vision Pro
 draft: false
+translated_at: '2026-01-05T17:03:08.379Z'
 ---
 
 苹果的创新与执行

@@ -15,6 +15,7 @@ tags:
 - 印度市场
 - 创业公司
 draft: false
+translated_at: '2026-01-04T22:11:00.699Z'
 ---
 
 作者：Jon Levy 2025年11月12日

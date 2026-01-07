@@ -15,6 +15,7 @@ tags:
 - 金融科技
 - Revolut
 draft: false
+translated_at: '2026-01-07T03:12:32.189Z'
 ---
 
 ![](/images/posts/bf18e00fc195.jpg)

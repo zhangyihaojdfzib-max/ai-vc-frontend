@@ -16,6 +16,7 @@ tags:
 - 谷歌研究
 - 信息图理解
 draft: false
+translated_at: '2026-01-05T16:35:07.380Z'
 ---
 
 ScreenAI：用于界面与视觉语言理解的视觉语言模型  

@@ -15,6 +15,7 @@ tags:
 - 科技趋势
 - 用户行为
 draft: false
+translated_at: '2026-01-04T23:30:40.994Z'
 ---
 
 **AI 指标**

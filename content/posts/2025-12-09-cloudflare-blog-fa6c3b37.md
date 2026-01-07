@@ -16,6 +16,7 @@ tags:
 - Terraform
 - 左移
 draft: false
+translated_at: '2026-01-05T17:23:08.501Z'
 ---
 
 Cloudflare平台是Cloudflare自身的关键系统。我们是自己的"零号客户"——使用自家产品来保护和优化我们自己的服务。

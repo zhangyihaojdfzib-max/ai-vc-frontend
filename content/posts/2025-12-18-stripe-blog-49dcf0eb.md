@@ -15,6 +15,7 @@ tags:
 - 营收增长
 - AI Agent
 draft: false
+translated_at: '2026-01-05T16:35:07.397Z'
 ---
 
 **Stripe Atlas 初创公司 2025 年度回顾**

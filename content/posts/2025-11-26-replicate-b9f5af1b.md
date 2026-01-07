@@ -16,6 +16,7 @@ tags:
 - OCR
 - 视觉推理
 draft: false
+translated_at: '2026-01-05T16:35:07.388Z'
 ---
 
 在 Replicate 上运行 Isaac 0.1

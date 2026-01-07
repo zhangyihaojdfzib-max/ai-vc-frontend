@@ -15,6 +15,7 @@ tags:
 - SQL分析
 - AI基础设施
 draft: false
+translated_at: '2026-01-06T18:15:23.225Z'
 ---
 
 -   为何选择 Databricks

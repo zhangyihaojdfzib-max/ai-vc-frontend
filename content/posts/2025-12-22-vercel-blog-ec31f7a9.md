@@ -16,6 +16,7 @@ tags:
 - 大模型
 - 代码生成
 draft: false
+translated_at: '2026-01-05T17:27:25.321Z'
 ---
 
 1 分钟阅读

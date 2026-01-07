@@ -17,6 +17,7 @@ tags:
 - Claude Code
 - 提示词设计
 draft: false
+translated_at: '2026-01-04T23:56:03.580Z'
 ---
 
 **背景编程智能体：上下文工程（第二部分）**

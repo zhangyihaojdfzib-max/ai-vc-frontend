@@ -15,6 +15,7 @@ tags:
 - 职业发展
 - 科技生态
 draft: false
+translated_at: '2026-01-04T23:44:57.279Z'
 ---
 
 如何打入硅谷

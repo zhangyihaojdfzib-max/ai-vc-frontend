@@ -16,6 +16,7 @@ tags:
 - 数据库运维
 - Bot Management
 draft: false
+translated_at: '2026-01-06T01:16:34.793Z'
 ---
 
 2025年11月18日11:20 UTC（本文所有时间均为UTC），Cloudflare的网络开始出现核心网络流量交付的重大故障。对于试图访问我们客户网站的互联网用户而言，这表现为一个显示Cloudflare网络内部错误的页面。

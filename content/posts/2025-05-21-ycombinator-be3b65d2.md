@@ -16,6 +16,7 @@ tags:
 - 普通合伙人
 - 创始人经验
 draft: false
+translated_at: '2026-01-04T23:46:23.856Z'
 ---
 
 作者：Garry Tan 2025年5月21日

@@ -15,6 +15,7 @@ tags:
 - 谷歌Gemini
 - AI成本
 draft: false
+translated_at: '2026-01-05T17:09:18.250Z'
 ---
 
 Gemini 3 Flash 代表了模型成本紧缩的阶跃式提升：这是一次公开挑战。

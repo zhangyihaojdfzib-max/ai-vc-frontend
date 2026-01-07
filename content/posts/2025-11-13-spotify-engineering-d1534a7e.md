@@ -15,6 +15,7 @@ tags:
 - 音乐流媒体
 - 随机算法
 draft: false
+translated_at: '2026-01-05T16:35:07.387Z'
 ---
 
 Shuffle：让随机播放更贴近人性  

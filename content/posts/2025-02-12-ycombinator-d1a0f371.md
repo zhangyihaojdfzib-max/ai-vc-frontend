@@ -15,6 +15,7 @@ tags:
 - 人才培养
 - 初创企业
 draft: false
+translated_at: '2026-01-05T16:40:17.735Z'
 ---
 
 作者：Garry Tan 2025年2月12日

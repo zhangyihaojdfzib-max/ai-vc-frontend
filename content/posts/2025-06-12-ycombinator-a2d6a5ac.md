@@ -16,6 +16,7 @@ tags:
 - 创业生态
 - AI投资
 draft: false
+translated_at: '2026-01-04T23:46:19.972Z'
 ---
 
 作者：Garry Tan 2025年6月12日

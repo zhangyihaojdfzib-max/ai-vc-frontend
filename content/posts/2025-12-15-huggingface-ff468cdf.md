@@ -16,6 +16,7 @@ tags:
 - 智能体框架
 - Groq
 draft: false
+translated_at: '2026-01-06T00:58:15.667Z'
 ---
 
 **Hugging Face 上的 CUGA：普及可配置的 AI Agent（智能体）**

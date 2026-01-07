@@ -15,6 +15,7 @@ tags:
 - 提示工程
 - AI开发
 draft: false
+translated_at: '2026-01-06T01:09:03.967Z'
 ---
 
 今天，我们正式推出Polly：一款直接集成在LangSmith中的AI助手，它能帮助你调试、分析和改进你的Agent（智能体）。

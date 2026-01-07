@@ -15,6 +15,7 @@ tags:
 - 创始人经验
 - 初创公司
 draft: false
+translated_at: '2026-01-04T22:12:07.294Z'
 ---
 
 作者：Harj Taggar 2025年10月14日

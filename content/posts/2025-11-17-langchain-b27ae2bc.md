@@ -16,6 +16,7 @@ tags:
 - 客户成功
 - 工作流自动化
 draft: false
+translated_at: '2026-01-06T01:11:37.753Z'
 ---
 
 作者：Ganesh Srinivasan（ServiceNow）、Linda Ye（LangChain）、Jake Broekhuizen（LangChain）

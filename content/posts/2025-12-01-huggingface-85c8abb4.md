@@ -15,6 +15,7 @@ tags:
 - 开源AI
 - 机器学习库
 draft: false
+translated_at: '2026-01-06T01:01:58.217Z'
 ---
 
 Transformers v5：驱动AI生态系统的简洁模型定义

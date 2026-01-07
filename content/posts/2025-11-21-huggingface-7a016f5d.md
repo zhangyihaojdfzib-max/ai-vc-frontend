@@ -16,6 +16,7 @@ tags:
 - 模型优化
 - Hugging Face
 draft: false
+translated_at: '2026-01-06T01:06:11.325Z'
 ---
 
 **RapidFire AI 实现 20 倍速 TRL 微调**

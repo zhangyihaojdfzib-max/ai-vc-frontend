@@ -17,6 +17,7 @@ tags:
 - 性能优化
 - 开源AI
 draft: false
+translated_at: '2026-01-06T01:18:49.769Z'
 ---
 
 3 分钟阅读

@@ -17,6 +17,7 @@ tags:
 - 开发者工具
 - Spotify
 draft: false
+translated_at: '2026-01-05T16:35:07.386Z'
 ---
 
 1,500+次PR之后：Spotify与我们的后台编码Agent之旅（第一部分）

@@ -16,6 +16,7 @@ tags:
 - FLUX.2
 - AI推理平台
 draft: false
+translated_at: '2026-01-05T17:26:29.499Z'
 ---
 
 近几个月来，随着谷歌的Nano Banana和OpenAI图像生成模型的崛起，我们看到闭源图像生成模型取得了飞跃。今天，我们很高兴地分享，随着Black Forest Lab的FLUX.2 [dev]的发布，一位新的开源权重竞争者回归了，并且可以在Cloudflare的推理平台Workers AI上运行。您可以在BFL关于其新模型发布的博客文章中详细了解这个新模型。

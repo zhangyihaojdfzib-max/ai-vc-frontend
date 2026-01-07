@@ -16,6 +16,7 @@ tags:
 - 数据驱动
 - 学习框架
 draft: false
+translated_at: '2026-01-05T16:35:07.386Z'
 ---
 
 **超越胜负：Spotify的"学习型实验"框架实践**

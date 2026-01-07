@@ -17,6 +17,7 @@ tags:
 - 模型部署
 - 开源模型
 draft: false
+translated_at: '2026-01-06T01:05:10.592Z'
 ---
 
 推出 AnyLanguageModel：为苹果平台本地与远程 LLM 提供统一 API

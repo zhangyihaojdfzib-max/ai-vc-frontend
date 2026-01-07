@@ -15,6 +15,7 @@ tags:
 - AI应用实践
 - 技术架构
 draft: false
+translated_at: '2026-01-06T01:14:28.377Z'
 ---
 
 作者：Liam Bush

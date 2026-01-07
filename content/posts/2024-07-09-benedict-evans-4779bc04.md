@@ -15,6 +15,7 @@ tags:
 - ChatGPT
 - AI趋势
 draft: false
+translated_at: '2026-01-05T17:04:18.927Z'
 ---
 
 **AI盛夏**

@@ -16,6 +16,7 @@ tags:
 - Llama Nemotron
 - 向量数据库
 draft: false
+translated_at: '2026-01-07T03:12:32.195Z'
 ---
 
 # 小而强大：利用 Llama Nemotron RAG 模型提升多模态搜索与视觉文档检索的准确性

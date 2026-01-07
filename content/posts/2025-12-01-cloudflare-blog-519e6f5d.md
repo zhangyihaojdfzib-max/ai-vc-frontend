@@ -16,6 +16,7 @@ tags:
 - 模型部署
 - 边缘计算
 draft: false
+translated_at: '2026-01-05T17:25:28.547Z'
 ---
 
 我们很高兴地宣布，从今天起，Replicate 正式成为 Cloudflare 的一部分。

@@ -15,6 +15,7 @@ tags:
 - 端侧智能
 - 隐私计算
 draft: false
+translated_at: '2026-01-05T17:05:19.595Z'
 ---
 
 苹果智能与AI极致主义

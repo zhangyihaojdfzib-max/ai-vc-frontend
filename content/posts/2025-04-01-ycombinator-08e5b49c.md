@@ -16,6 +16,7 @@ tags:
 - 教育科技
 - 创始人故事
 draft: false
+translated_at: '2026-01-05T01:28:49.249Z'
 ---
 
 作者：Garry Tan 2025年4月1日

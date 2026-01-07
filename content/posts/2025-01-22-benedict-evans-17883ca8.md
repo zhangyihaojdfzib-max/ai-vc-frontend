@@ -15,6 +15,7 @@ tags:
 - 确定性系统
 - 生成式AI
 draft: false
+translated_at: '2026-01-05T17:03:33.023Z'
 ---
 
 更好的模型就更好吗？

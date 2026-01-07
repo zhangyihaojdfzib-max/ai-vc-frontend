@@ -16,6 +16,7 @@ tags:
 - 开源AI
 - 开发者平台
 draft: false
+translated_at: '2026-01-06T01:15:33.087Z'
 ---
 
 今天我们有一个重大消息要宣布：领先的AI模型运行平台Replicate即将加入Cloudflare。

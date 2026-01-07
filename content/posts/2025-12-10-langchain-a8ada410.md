@@ -16,6 +16,7 @@ tags:
 - 命令行工具
 - 可观测性
 draft: false
+translated_at: '2026-01-06T01:09:14.285Z'
 ---
 
 今天我们发布 LangSmith Fetch，这是一款 CLI 工具，它将 LangSmith 追踪的全部功能直接带入了您的终端和 IDE。

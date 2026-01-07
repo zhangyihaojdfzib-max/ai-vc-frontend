@@ -16,6 +16,7 @@ tags:
 - 创业公司
 - 液体活检
 draft: false
+translated_at: '2026-01-04T22:11:28.509Z'
 ---
 
 作者：Jared Friedman 2025年11月6日

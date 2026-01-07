@@ -16,6 +16,7 @@ tags:
 - 无服务器计算
 - 开源模型
 draft: false
+translated_at: '2026-01-06T01:03:48.409Z'
 ---
 
 **OVHcloud 成为 Hugging Face 推理服务提供商 🔥**

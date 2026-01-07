@@ -15,6 +15,7 @@ tags:
 - 财务指标
 - 企业服务
 draft: false
+translated_at: '2026-01-05T17:08:17.469Z'
 ---
 
 Motive，这家曾用名为KeepTruckin的人工智能车队管理公司，已提交了S-1上市申请。

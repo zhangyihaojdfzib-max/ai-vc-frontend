@@ -16,6 +16,7 @@ tags:
 - 数据平台
 - AI基础设施
 draft: false
+translated_at: '2026-01-06T18:15:23.227Z'
 ---
 
 - 为什么选择 Databricks

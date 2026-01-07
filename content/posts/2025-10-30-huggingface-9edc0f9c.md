@@ -15,6 +15,7 @@ tags:
 - 交错思维
 - 基准测试
 draft: false
+translated_at: '2026-01-07T03:12:32.187Z'
 ---
 
 # 对齐什么？重新思考 MiniMax M2 中智能体的泛化问题

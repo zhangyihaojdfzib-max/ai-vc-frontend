@@ -15,6 +15,7 @@ tags:
 - OpenAI
 - 信息检索
 draft: false
+translated_at: '2026-01-05T17:03:13.267Z'
 ---
 
 深度研究的问题

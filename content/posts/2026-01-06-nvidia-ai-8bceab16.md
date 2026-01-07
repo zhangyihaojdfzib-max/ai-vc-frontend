@@ -16,6 +16,7 @@ tags:
 - ComfyUI
 - 4K视频
 draft: false
+translated_at: '2026-01-06T18:15:23.228Z'
 ---
 
 # NVIDIA RTX 通过LTX-2与ComfyUI升级，在PC上加速4K AI视频生成

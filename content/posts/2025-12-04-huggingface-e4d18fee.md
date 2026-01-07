@@ -16,6 +16,7 @@ tags:
 - AI工具链
 - 云端训练
 draft: false
+translated_at: '2026-01-06T01:01:56.505Z'
 ---
 
 我们让Claude微调了一个开源LLM

@@ -16,6 +16,7 @@ tags:
 - 开发者体验
 - GPU集群
 draft: false
+translated_at: '2026-01-05T17:29:58.995Z'
 ---
 
 Discord机器学习如何触及其扩展极限

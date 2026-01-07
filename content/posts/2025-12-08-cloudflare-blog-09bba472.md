@@ -18,6 +18,7 @@ tags:
 - 冷启动优化
 - 边缘计算
 draft: false
+translated_at: '2026-01-05T17:24:35.265Z'
 ---
 
 注：本文已更新，补充了关于 AWS Lambda 的详细信息。

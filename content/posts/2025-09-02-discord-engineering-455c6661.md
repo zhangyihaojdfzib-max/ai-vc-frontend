@@ -16,6 +16,7 @@ tags:
 - WebAssembly
 - 浏览器技术
 draft: false
+translated_at: '2026-01-06T14:49:02.038Z'
 ---
 
 去年，我们推出了DAVE协议，作为为Discord语音和视频通话提供端到端加密（简称"E2EE"）的解决方案。自那时起，DAVE每天为数千万次Discord通话提供E2EE保护。今天，我们很高兴地宣布，我们将把DAVE支持扩展到所有剩余平台，包括浏览器、游戏主机和我们的社交SDK。

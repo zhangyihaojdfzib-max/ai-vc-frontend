@@ -16,6 +16,7 @@ tags:
 - Cloudflare
 - 远程代码执行
 draft: false
+translated_at: '2026-01-05T17:25:01.961Z'
 ---
 
 Cloudflare 已部署新的防护措施，以应对 React 服务器组件（RSC）中的一个漏洞。所有 Cloudflare 客户均自动受到保护，包括免费和付费计划的用户，只要其 React 应用流量通过 Cloudflare Web 应用程序防火墙（WAF）代理即可。

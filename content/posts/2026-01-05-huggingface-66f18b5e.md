@@ -16,6 +16,7 @@ tags:
 - 开源模型
 - 边缘AI
 draft: false
+translated_at: '2026-01-06T00:59:02.777Z'
 ---
 
 NVIDIA通过DGX Spark与Reachy Mini将智能体带入现实

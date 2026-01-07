@@ -17,6 +17,7 @@ tags:
 - Sim2Real
 - 机器人部署
 draft: false
+translated_at: '2026-01-07T03:12:32.186Z'
 ---
 
 # 基于NVIDIA Isaac从仿真到部署构建医疗机器人

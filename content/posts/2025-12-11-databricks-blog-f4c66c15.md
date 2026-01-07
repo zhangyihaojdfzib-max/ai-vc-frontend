@@ -17,6 +17,7 @@ tags:
 - 企业AI
 - 大模型集成
 draft: false
+translated_at: '2026-01-06T01:25:13.336Z'
 ---
 
 • OpenAI GPT-5.2 和 Responses API 现已登陆 Databricks，为团队提供了一种统一的方式来构建具备推理、多模态和使用工具能力的 Agent（智能体），且集成工作量极小。

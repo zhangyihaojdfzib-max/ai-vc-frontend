@@ -18,6 +18,7 @@ tags:
 - 客户端库
 - 移动开发
 draft: false
+translated_at: '2026-01-06T01:00:27.739Z'
 ---
 
 **推出 swift-huggingface：Hugging Face 的完整 Swift 客户端**

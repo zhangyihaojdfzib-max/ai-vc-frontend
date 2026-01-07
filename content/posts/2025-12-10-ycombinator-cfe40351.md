@@ -15,6 +15,7 @@ tags:
 - 小微商户
 - 创业历程
 draft: false
+translated_at: '2026-01-04T22:10:37.333Z'
 ---
 
 作者：Tim Brady 2025年12月10日

@@ -15,6 +15,7 @@ tags:
 - 支付技术
 - Stripe
 draft: false
+translated_at: '2026-01-05T17:21:24.944Z'
 ---
 
 **助力SaaS平台管理风险并保持合规的新功能**

@@ -16,6 +16,7 @@ tags:
 - MoE
 - 推理服务
 draft: false
+translated_at: '2026-01-07T03:12:32.188Z'
 ---
 
 您现在可以通过Vercel的AI网关访问Arcee AI的最新模型Trinity Mini，无需其他供应商账户。Trinity Mini是一个开源权重的MoE推理模型，拥有260亿参数（活跃参数30亿），在美国进行端到端训练。

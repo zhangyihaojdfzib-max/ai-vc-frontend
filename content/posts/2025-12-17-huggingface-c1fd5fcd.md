@@ -16,6 +16,7 @@ tags:
 - 基准测试
 - 可复现性
 draft: false
+translated_at: '2026-01-05T16:35:07.395Z'
 ---
 
 开放评估标准：使用NeMo Evaluator对NVIDIA Nemotron 3 Nano进行基准测试

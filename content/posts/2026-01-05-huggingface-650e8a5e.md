@@ -17,6 +17,7 @@ tags:
 - 自然语言处理
 - Falcon
 draft: false
+translated_at: '2026-01-05T16:35:07.402Z'
 ---
 
 **Falcon-H1-Arabic 发布：以混合架构突破阿拉伯语AI的边界**
