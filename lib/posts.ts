@@ -29,7 +29,7 @@ export interface PostMeta {
   categories: string[]
   tags: string[]
   readingTime: string
-  mtime?: number
+  mtime: number
 }
 
 function ensureDirectoryExists() {
@@ -98,7 +98,7 @@ export function getAllPosts(): PostMeta[] {
       // 获取文件修改时间
       const fullPath = path.join(process.cwd(), 'content/posts', `${slug}.md`)
       const stat = fs.statSync(fullPath)
-      const mtime = stat.mtimeMs
+      const mtime = stat.mtimeMs || 0
 
       return {
         slug: post.slug,
