@@ -29,6 +29,7 @@ export interface PostMeta {
   categories: string[]
   tags: string[]
   readingTime: string
+  mtime?: number
 }
 
 function ensureDirectoryExists() {
@@ -93,6 +94,11 @@ export function getAllPosts(): PostMeta[] {
     .map((slug) => {
       const post = getPostBySlug(slug)
       if (!post) return null
+      
+      // 获取文件修改时间
+      const fullPath = path.join(process.cwd(), 'content/posts', `${slug}.md`)
+      const stat = fs.statSync(fullPath)
+      const mtime = stat.mtimeMs
 
       return {
         slug: post.slug,
@@ -103,10 +109,17 @@ export function getAllPosts(): PostMeta[] {
         categories: post.categories,
         tags: post.tags,
         readingTime: post.readingTime,
+        mtime,
       }
     })
     .filter((post): post is PostMeta => post !== null)
-    .sort((a, b) => (new Date(b.date).getTime() - new Date(a.date).getTime()))
+    .sort((a, b) => {
+      const dateA = new Date(a.date).getTime()
+      const dateB = new Date(b.date).getTime()
+      if (dateA !== dateB) return dateB - dateA
+      // 同一天的文章按文件修改时间降序（最新翻译的排前面）
+      return (b.mtime || 0) - (a.mtime || 0)
+    })
 
   return posts
 }
