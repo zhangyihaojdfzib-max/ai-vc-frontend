@@ -240,19 +240,19 @@
     "timestamp": "2026-01-08T04:41:46.230482"
   },
   "https://deepmind.google/blog/medgemma-our-most-capable-open-models-for-health-ai-development/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-08T04:41:46.240404"
+    "timestamp": "2026-01-09T04:31:53.960278"
   },
   "https://deepmind.google/blog/introducing-gemma-3n-the-developer-guide/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-08T04:41:46.217635"
+    "timestamp": "2026-01-09T04:31:53.940448"
   },
   "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T00:49:02.793156"
+    "timestamp": "2026-01-09T04:31:53.953341"
   },
   "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/": {
     "count": 1,
@@ -265,9 +265,9 @@
     "timestamp": "2026-01-06T17:52:55.163602"
   },
   "https://a16z.simplecast.com/episodes/the-inside-story-of-growth-investing-at-a16z-F7_Z134S": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-08T04:26:52.564715"
+    "timestamp": "2026-01-09T04:28:03.470869"
   },
   "https://a16z.simplecast.com/episodes/where-does-consumer-ai-stand-at-the-end-of-2025-tEyfJBlw": {
     "count": 1,
@@ -290,19 +290,19 @@
     "timestamp": "2026-01-08T04:27:54.606730"
   },
   "https://greylock.com/press/feeling-ready-for-kids-being-social-chair-of-your-marriage-mike-duboe-father-of-2-gp-greylock/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-08T04:27:55.111715"
+    "timestamp": "2026-01-09T04:28:49.592533"
   },
   "https://greylock.com/press/the-19-most-promising-cybersecurity-startups-of-2023-according-to-vcs/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T16:22:10.280613"
+    "timestamp": "2026-01-09T04:28:49.275995"
   },
   "https://greylock.com/press/greylocks-chen-its-ai-or-die/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T16:23:13.457006"
+    "timestamp": "2026-01-09T04:28:49.043019"
   },
   "https://greylock.com/press/the-race-to-build-a-chatgpt-powered-search-engine/": {
     "count": 1,
@@ -310,9 +310,9 @@
     "timestamp": "2026-01-07T16:26:37.936673"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessens-2026-outlook-ai-timelines-us-vs-china-and-the-price-of-ai-vLiGj_5o": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-08T04:26:52.553067"
+    "timestamp": "2026-01-09T04:28:03.459703"
   },
   "https://blogs.nvidia.com/blog/caterpillar-ces-2026/": {
     "count": 1,
@@ -320,8 +320,13 @@
     "timestamp": "2026-01-08T04:41:49.098737"
   },
   "https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-09T04:34:32.809476"
+  },
+  "https://a16z.simplecast.com/episodes/keycard-2026-is-the-year-of-agents-U4tyBiJL": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-08T04:49:15.483105"
+    "timestamp": "2026-01-09T04:28:03.474574"
   }
 }
