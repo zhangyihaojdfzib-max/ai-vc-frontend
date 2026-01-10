@@ -250,14 +250,14 @@
     "timestamp": "2026-01-09T04:31:53.940448"
   },
   "https://deepmind.google/blog/gemini-25-flash-lite-is-now-ready-for-scaled-production-use/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-09T04:31:53.953341"
+    "timestamp": "2026-01-10T04:10:59.470224"
   },
   "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T00:49:02.993971"
+    "timestamp": "2026-01-10T04:10:59.474673"
   },
   "https://a16z.simplecast.com/episodes/why-a16zs-martin-casado-believes-the-ai-boom-still-has-years-to-run-XxCz1OYF": {
     "count": 1,
@@ -295,24 +295,24 @@
     "timestamp": "2026-01-09T04:28:49.592533"
   },
   "https://greylock.com/press/the-19-most-promising-cybersecurity-startups-of-2023-according-to-vcs/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-09T04:28:49.275995"
+    "timestamp": "2026-01-10T04:09:30.967765"
   },
   "https://greylock.com/press/greylocks-chen-its-ai-or-die/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-09T04:28:49.043019"
+    "timestamp": "2026-01-10T04:09:30.886841"
   },
   "https://greylock.com/press/the-race-to-build-a-chatgpt-powered-search-engine/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-01-07T16:26:37.936673"
-  },
-  "https://a16z.simplecast.com/episodes/marc-andreessens-2026-outlook-ai-timelines-us-vs-china-and-the-price-of-ai-vLiGj_5o": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-09T04:28:03.459703"
+    "timestamp": "2026-01-10T04:09:30.874561"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessens-2026-outlook-ai-timelines-us-vs-china-and-the-price-of-ai-vLiGj_5o": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-10T04:09:29.621404"
   },
   "https://blogs.nvidia.com/blog/caterpillar-ces-2026/": {
     "count": 1,
@@ -320,13 +320,18 @@
     "timestamp": "2026-01-08T04:41:49.098737"
   },
   "https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-09T04:34:32.809476"
+    "timestamp": "2026-01-10T04:15:35.965617"
   },
   "https://a16z.simplecast.com/episodes/keycard-2026-is-the-year-of-agents-U4tyBiJL": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-10T04:09:29.628140"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-on-raising-a-new-fund-and-how-venture-firms-scale-hbJKzBdX": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-09T04:28:03.474574"
+    "timestamp": "2026-01-10T04:09:29.627520"
   }
 }
