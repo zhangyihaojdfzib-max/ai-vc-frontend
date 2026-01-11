@@ -255,14 +255,14 @@
     "timestamp": "2026-01-10T04:10:59.470224"
   },
   "https://deepmind.google/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-10T04:10:59.474673"
+    "timestamp": "2026-01-11T04:41:48.829608"
   },
   "https://a16z.simplecast.com/episodes/why-a16zs-martin-casado-believes-the-ai-boom-still-has-years-to-run-XxCz1OYF": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T17:52:55.163602"
+    "timestamp": "2026-01-11T04:37:48.065794"
   },
   "https://a16z.simplecast.com/episodes/the-inside-story-of-growth-investing-at-a16z-F7_Z134S": {
     "count": 3,
@@ -325,13 +325,18 @@
     "timestamp": "2026-01-10T04:15:35.965617"
   },
   "https://a16z.simplecast.com/episodes/keycard-2026-is-the-year-of-agents-U4tyBiJL": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-10T04:09:29.628140"
+    "timestamp": "2026-01-11T04:37:48.077599"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-raising-a-new-fund-and-how-venture-firms-scale-hbJKzBdX": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-11T04:37:48.081439"
+  },
+  "https://greylock.com/press/cyber-investors-arent-worried-about-a-recession-yet/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-10T04:09:29.627520"
+    "timestamp": "2026-01-11T04:37:49.815755"
   }
 }
