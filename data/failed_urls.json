@@ -260,9 +260,9 @@
     "timestamp": "2026-01-11T04:41:48.829608"
   },
   "https://a16z.simplecast.com/episodes/why-a16zs-martin-casado-believes-the-ai-boom-still-has-years-to-run-XxCz1OYF": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-11T04:37:48.065794"
+    "timestamp": "2026-01-12T04:40:28.724769"
   },
   "https://a16z.simplecast.com/episodes/the-inside-story-of-growth-investing-at-a16z-F7_Z134S": {
     "count": 3,
@@ -270,14 +270,14 @@
     "timestamp": "2026-01-09T04:28:03.470869"
   },
   "https://a16z.simplecast.com/episodes/where-does-consumer-ai-stand-at-the-end-of-2025-tEyfJBlw": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T17:52:55.229331"
+    "timestamp": "2026-01-12T04:40:28.899428"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-2026-new-infrastructure-primitives-uhuC1TnI": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-06T17:52:55.240941"
+    "timestamp": "2026-01-12T04:40:28.934588"
   },
   "https://greylock.com/press/73-of-the-most-promising-startups-of-2023-according-to-top-vcs/": {
     "count": 3,
@@ -330,13 +330,33 @@
     "timestamp": "2026-01-11T04:37:48.077599"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-raising-a-new-fund-and-how-venture-firms-scale-hbJKzBdX": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-11T04:37:48.081439"
+    "timestamp": "2026-01-12T04:40:28.733497"
   },
   "https://greylock.com/press/cyber-investors-arent-worried-about-a-recession-yet/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-12T04:40:30.526324"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-on-tbpn-three-decades-with-marc-and-building-for-the-long-game-pxsceypR": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-11T04:37:49.815755"
+    "timestamp": "2026-01-12T04:40:28.740396"
+  },
+  "https://www.saastr.com/rfp-lost-small-size/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-12T04:47:38.052788"
+  },
+  "https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-12T04:50:03.147612"
+  },
+  "https://deepmind.google/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-12T04:50:03.499933"
   }
 }
