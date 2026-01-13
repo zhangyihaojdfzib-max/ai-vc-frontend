@@ -270,9 +270,9 @@
     "timestamp": "2026-01-09T04:28:03.470869"
   },
   "https://a16z.simplecast.com/episodes/where-does-consumer-ai-stand-at-the-end-of-2025-tEyfJBlw": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-12T04:40:28.899428"
+    "timestamp": "2026-01-13T04:28:02.844889"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-2026-new-infrastructure-primitives-uhuC1TnI": {
     "count": 2,
@@ -315,9 +315,9 @@
     "timestamp": "2026-01-10T04:09:29.621404"
   },
   "https://blogs.nvidia.com/blog/caterpillar-ces-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-08T04:41:49.098737"
+    "timestamp": "2026-01-13T04:30:22.787122"
   },
   "https://engineering.atspotify.com/2026/1/why-we-use-separate-tech-stacks-for-personalization-and-experimentation/": {
     "count": 3,
@@ -335,28 +335,53 @@
     "timestamp": "2026-01-12T04:40:28.733497"
   },
   "https://greylock.com/press/cyber-investors-arent-worried-about-a-recession-yet/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-12T04:40:30.526324"
+    "timestamp": "2026-01-13T04:28:04.114088"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-tbpn-three-decades-with-marc-and-building-for-the-long-game-pxsceypR": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-12T04:40:28.740396"
+    "timestamp": "2026-01-13T04:28:02.832832"
   },
   "https://www.saastr.com/rfp-lost-small-size/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-12T04:47:38.052788"
+    "timestamp": "2026-01-13T04:28:46.335835"
   },
   "https://deepmind.google/blog/gemini-achieves-gold-medal-level-at-the-international-collegiate-programming-contest-world-finals/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-12T04:50:03.147612"
+    "timestamp": "2026-01-13T04:30:17.603640"
   },
   "https://deepmind.google/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-13T04:30:17.774857"
+  },
+  "https://a16z.simplecast.com/episodes/alex-rampell-on-venture-at-scale-and-founder-incentives-m0n2Jb9j": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-12T04:50:03.499933"
+    "timestamp": "2026-01-13T04:28:02.828636"
+  },
+  "https://greylock.com/press/greylock-sees-surge-in-vc-funding-in-the-cloud-industry/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-13T04:28:04.724517"
+  },
+  "https://deepmind.google/blog/strengthening-our-frontier-safety-framework/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-13T04:30:18.802565"
+  },
+  "https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-13T04:30:22.838495"
+  },
+  "https://medium.com/airbnb-engineering/pay-as-a-local-bef469b72f32?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-13T04:33:38.115442"
   }
 }
