@@ -360,34 +360,34 @@
     "timestamp": "2026-01-14T04:44:27.213426"
   },
   "https://a16z.simplecast.com/episodes/alex-rampell-on-venture-at-scale-and-founder-incentives-m0n2Jb9j": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-14T04:38:07.371731"
+    "timestamp": "2026-01-15T04:30:16.874520"
   },
   "https://greylock.com/press/greylock-sees-surge-in-vc-funding-in-the-cloud-industry/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-14T04:38:52.053639"
+    "timestamp": "2026-01-15T04:31:36.383217"
   },
   "https://deepmind.google/blog/strengthening-our-frontier-safety-framework/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-13T04:30:18.802565"
+    "timestamp": "2026-01-15T04:39:19.926204"
   },
   "https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-14T04:44:29.879693"
+    "timestamp": "2026-01-15T04:39:22.570911"
   },
   "https://medium.com/airbnb-engineering/pay-as-a-local-bef469b72f32?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-14T04:46:59.344026"
+    "timestamp": "2026-01-15T04:41:36.108199"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-investing-in-ai-ai-bubbles-economic-impact-and-vc-acceleration-GG9lt_tr": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-14T04:38:07.400590"
+    "timestamp": "2026-01-15T04:30:16.846503"
   },
   "https://www.saastr.com/dear-saastr-how-much-money-does-a-vc-make-if-their-investment-sells-for-one-billion/": {
     "count": 1,
@@ -395,8 +395,23 @@
     "timestamp": "2026-01-14T04:43:12.397297"
   },
   "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-15T04:39:18.599411"
+  },
+  "https://a16z.simplecast.com/episodes/alex-rampell-on-tbpn-revenge-redemption-and-founder-drive-mAJy8JDE": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-14T04:44:27.009412"
+    "timestamp": "2026-01-15T04:30:16.878219"
+  },
+  "https://www.saastr.com/elevenlabs-just-hit-330m-arr-it-took-twilio-8-years-to-get-there/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-15T04:37:36.030433"
+  },
+  "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-15T04:39:19.060758"
   }
 }
