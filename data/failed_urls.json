@@ -370,9 +370,9 @@
     "timestamp": "2026-01-15T04:31:36.383217"
   },
   "https://deepmind.google/blog/strengthening-our-frontier-safety-framework/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-15T04:39:19.926204"
+    "timestamp": "2026-01-16T04:36:36.798081"
   },
   "https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/": {
     "count": 3,
@@ -385,9 +385,9 @@
     "timestamp": "2026-01-15T04:41:36.108199"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-investing-in-ai-ai-bubbles-economic-impact-and-vc-acceleration-GG9lt_tr": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-15T04:30:16.846503"
+    "timestamp": "2026-01-16T04:28:21.662862"
   },
   "https://www.saastr.com/dear-saastr-how-much-money-does-a-vc-make-if-their-investment-sells-for-one-billion/": {
     "count": 1,
@@ -395,14 +395,14 @@
     "timestamp": "2026-01-14T04:43:12.397297"
   },
   "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-15T04:39:18.599411"
+    "timestamp": "2026-01-16T04:36:35.766378"
   },
   "https://a16z.simplecast.com/episodes/alex-rampell-on-tbpn-revenge-redemption-and-founder-drive-mAJy8JDE": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-15T04:30:16.878219"
+    "timestamp": "2026-01-16T04:28:21.676605"
   },
   "https://www.saastr.com/elevenlabs-just-hit-330m-arr-it-took-twilio-8-years-to-get-there/": {
     "count": 1,
@@ -410,8 +410,13 @@
     "timestamp": "2026-01-15T04:37:36.030433"
   },
   "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-16T04:36:38.162159"
+  },
+  "https://a16z.simplecast.com/episodes/ben-marc-why-everything-is-about-to-get-10x-bigger-N5Nvq7Wf": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-15T04:39:19.060758"
+    "timestamp": "2026-01-16T04:28:21.680541"
   }
 }
