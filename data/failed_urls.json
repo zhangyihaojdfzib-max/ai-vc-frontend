@@ -425,18 +425,28 @@
     "timestamp": "2026-01-17T04:08:46.909455"
   },
   "https://www.saastr.com/should-i-hire-a-sales-rep-first-or-a-sales-manager/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-17T04:12:41.728017"
+    "timestamp": "2026-01-18T04:37:37.562900"
   },
   "https://deepmind.google/blog/bringing-ai-to-the-next-generation-of-fusion-energy/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-17T04:13:44.112243"
+    "timestamp": "2026-01-18T04:38:15.471525"
   },
   "https://deepmind.google/blog/introducing-codemender-an-ai-agent-for-code-security/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-18T04:38:16.003495"
+  },
+  "https://www.saastr.com/dear-saastr-should-we-pay-our-sales-reps-on-renewals/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-17T04:13:44.761464"
+    "timestamp": "2026-01-18T04:37:37.546478"
+  },
+  "https://deepmind.google/blog/try-deep-think-in-the-gemini-app/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-18T04:38:14.949700"
   }
 }
