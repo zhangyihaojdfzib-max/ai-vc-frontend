@@ -415,14 +415,14 @@
     "timestamp": "2026-01-17T04:13:46.304876"
   },
   "https://a16z.simplecast.com/episodes/ben-marc-why-everything-is-about-to-get-10x-bigger-N5Nvq7Wf": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-17T04:08:46.895917"
+    "timestamp": "2026-01-20T04:35:24.267448"
   },
   "https://a16z.simplecast.com/episodes/how-foundation-models-evolved-a-phd-journey-through-ais-breakthrough-era-7PGAXSBb": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-17T04:08:46.909455"
+    "timestamp": "2026-01-20T04:35:24.254984"
   },
   "https://www.saastr.com/should-i-hire-a-sales-rep-first-or-a-sales-manager/": {
     "count": 2,
@@ -445,8 +445,23 @@
     "timestamp": "2026-01-18T04:37:37.546478"
   },
   "https://deepmind.google/blog/try-deep-think-in-the-gemini-app/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-19T05:02:44.901926"
+    "timestamp": "2026-01-20T04:40:16.868260"
+  },
+  "https://a16z.simplecast.com/episodes/the-ai-opportunity-that-goes-beyond-models-f9t5aXG0": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-20T04:35:24.270909"
+  },
+  "https://deepmind.google/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-20T04:40:16.846466"
+  },
+  "https://deepmind.google/blog/rethinking-how-we-measure-ai-intelligence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-20T04:40:16.852971"
   }
 }
