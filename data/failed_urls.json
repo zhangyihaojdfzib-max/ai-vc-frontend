@@ -420,9 +420,9 @@
     "timestamp": "2026-01-20T04:35:24.267448"
   },
   "https://a16z.simplecast.com/episodes/how-foundation-models-evolved-a-phd-journey-through-ais-breakthrough-era-7PGAXSBb": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-20T04:35:24.254984"
+    "timestamp": "2026-01-21T04:35:03.837573"
   },
   "https://www.saastr.com/should-i-hire-a-sales-rep-first-or-a-sales-manager/": {
     "count": 2,
@@ -450,18 +450,33 @@
     "timestamp": "2026-01-20T04:40:16.868260"
   },
   "https://a16z.simplecast.com/episodes/the-ai-opportunity-that-goes-beyond-models-f9t5aXG0": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-20T04:35:24.270909"
+    "timestamp": "2026-01-21T04:35:03.896656"
   },
   "https://deepmind.google/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-20T04:40:16.846466"
+    "timestamp": "2026-01-21T04:37:21.610192"
   },
   "https://deepmind.google/blog/rethinking-how-we-measure-ai-intelligence/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-21T04:37:21.593291"
+  },
+  "https://a16z.simplecast.com/episodes/from-code-search-to-ai-agents-inside-sourcegraphs-transformation-with-cto-beyang-liu-68cORVQD": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-20T04:40:16.852971"
+    "timestamp": "2026-01-21T04:35:03.841374"
+  },
+  "https://www.saastr.com/strange-world-indeed-january-2026-edition-the-massive-divergence-between-public-b2b-and-private-ai-b2b/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-21T04:36:37.712567"
+  },
+  "https://deepmind.google/blog/image-editing-in-gemini-just-got-a-major-upgrade/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-21T04:37:21.612536"
   }
 }

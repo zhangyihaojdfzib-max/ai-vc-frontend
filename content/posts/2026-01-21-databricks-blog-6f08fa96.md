@@ -1,0 +1,660 @@
+---
+title: 从Brickbuilder到Databricks市场应用：Alchemist的演变之路
+title_original: 'Alchemist: from Brickbuilder to a Databricks Marketplace App'
+date: '2026-01-21'
+source: Databricks Blog
+source_url: https://www.databricks.com/blog/alchemist-brickbuilder-databricks-marketplace-app
+author: ''
+summary: 本文以Alchemist应用为例，探讨了Databricks平台如何通过其统一的Lakehouse架构、丰富的产品生态和合作伙伴网络，支持企业从数据工程到AI应用的全流程构建。文章详细介绍了Databricks在数据管理、AI开发、市场集成等方面的核心能力，并展示了其面向各行业及初创企业的解决方案，旨在说明Databricks如何成为构建和部署数据与AI应用的关键基础设施。
+categories:
+- AI基础设施
+tags:
+- Databricks
+- Lakehouse
+- 数据平台
+- AI应用开发
+- 数据市场
+draft: false
+translated_at: '2026-01-21T04:44:02.852577'
+---
+
+-   为何选择 Databricks
+    探索
+        面向高管
+        面向初创企业
+        Lakehouse 架构
+        Mosaic 研究
+    客户
+        客户案例
+    合作伙伴
+        云服务提供商
+            Databricks 在 AWS、Azure、GCP 和 SAP 上
+        咨询与系统集成商
+            构建、部署和迁移至 Databricks 的专家
+        技术合作伙伴
+            将您现有工具连接到您的 Lakehouse
+        C&SI 合作伙伴计划
+            构建、部署或迁移至 Lakehouse
+        数据合作伙伴
+            接入数据消费者生态系统
+        合作伙伴解决方案
+            查找定制行业和迁移解决方案
+        Built on Databricks
+            构建、营销和发展您的业务
+
+-   产品
+    Databricks 平台
+        平台概览
+            面向数据、分析和 AI 的统一平台
+        数据管理
+            数据可靠性、安全性和性能
+        共享
+            面向所有数据的开放、安全、零拷贝共享
+        数据仓库
+            用于 SQL 分析的无服务器数据仓库
+        治理
+            面向所有数据、分析和 AI 资产的统一治理
+        数据工程
+            批处理和流式数据的 ETL 与编排
+        人工智能
+            构建和部署 ML 与 GenAI 应用
+        数据科学
+            大规模协作式数据科学
+        商业智能
+            面向真实世界数据的智能分析
+        应用开发
+            快速构建安全的数据和 AI 应用
+        数据库
+            用于数据应用和 AI Agent（智能体）的 Postgres
+    集成与数据
+        市场
+            面向数据、分析和 AI 的开放市场
+        IDE 集成
+            在您喜爱的 IDE 中基于 Lakehouse 进行构建
+        Partner Connect
+            发现并与 Databricks 生态系统集成
+    定价
+        Databricks 定价
+            探索产品定价、DBU 等
+        成本计算器
+            估算您在任意云上的计算成本
+    开源
+        开源技术
+            深入了解平台背后的创新
+
+-   解决方案
+        面向行业的 Databricks
+            通信
+            媒体与娱乐
+            金融服务
+            公共部门
+            医疗保健与生命科学
+            零售
+            制造业
+            查看所有行业
+        跨行业解决方案
+            AI Agent（智能体）
+            网络安全
+            营销
+            迁移与部署
+                数据迁移
+                专业服务
+        解决方案加速器
+            探索加速器
+            更快地实现重要成果
+
+-   资源
+        学习
+            培训
+                发现为您量身定制的课程
+            Databricks Academy
+                登录 Databricks 学习平台
+            认证
+                获得认可与差异化
+            Free Edition
+                免费学习专业数据与 AI 工具
+            University Alliance
+                想要教授 Databricks？了解详情。
+        活动
+            Data + AI Summit
+            Data + AI World Tour
+            Data Intelligence Days
+            活动日历
+        博客与播客
+            Databricks 博客
+                探索新闻、产品公告等
+            Databricks Mosaic 研究博客
+                发现我们 Gen AI 研究的最新进展
+            Data Brew 播客
+                让我们聊聊数据！
+            Champions of Data + AI 播客
+                来自推动创新的数据领导者的见解
+        获取帮助
+            客户支持
+            文档
+            社区
+        深入探索
+            资源中心
+            演示中心
+            架构中心
+
+-   关于
+        公司
+            我们是谁
+            我们的团队
+            Databricks Ventures
+            联系我们
+        职业
+            在 Databricks 工作
+            开放职位
+        新闻
+            奖项与认可
+            新闻中心
+        安全与信任
+            安全与信任
+
+- 面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗保健与生命科学零售制造业查看所有行业跨行业解决方案AI Agents（智能体）网络安全营销迁移与部署数据迁移专业服务解决方案加速器探索加速器更快实现关键成果
+
+- 面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗保健与生命科学零售制造业查看所有行业
+- 跨行业解决方案AI Agents（智能体）网络安全营销
+- 迁移与部署数据迁移专业服务
+- 解决方案加速器探索加速器更快实现关键成果
+
+- 通信
+- 媒体与娱乐
+- 金融服务
+- 公共部门
+- 医疗保健与生命科学
+- 零售
+- 制造业
+- 查看所有行业
+
+- AI Agents（智能体）
+- 网络安全
+- 营销
+
+- 数据迁移
+- 专业服务
+
+- 探索加速器更快实现关键成果
+
+- 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分度免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。活动Data + AI SummitData + AI World TourData Intelligence Days活动日历博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI Podcast来自推动创新的数据领导者的见解获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
+
+- 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分度免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。
+- 活动Data + AI SummitData + AI World TourData Intelligence Days活动日历
+- 博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI Podcast来自推动创新的数据领导者的见解
+- 获取帮助客户支持文档社区
+- 深入探索资源中心演示中心架构中心
+
+- 培训发现满足您需求的定制课程
+- Databricks Academy登录Databricks学习平台
+- 认证获得认可与区分度
+- 免费版免费学习专业的Data和AI工具
+- 大学联盟想教授Databricks？了解详情。
+
+- Data + AI Summit
+- Data + AI World Tour
+- Data Intelligence Days
+- 活动日历
+
+- Databricks博客探索新闻、产品公告等
+- Databricks Mosaic研究博客发现我们Gen AI研究的最新进展
+- Data Brew播客让我们聊聊数据！
+- Champions of Data + AI Podcast来自推动创新的数据领导者的见解
+
+- 客户支持
+- 文档
+- 社区
+
+- 资源中心
+- 演示中心
+- 架构中心
+
+- 公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻奖项与认可新闻中心安全与信任安全与信任
+
+- 公司关于我们我们的团队Databricks Ventures联系我们
+- 职业发展在Databricks工作开放职位
+- 新闻奖项与认可新闻中心
+- 安全与信任安全与信任
+
+- 关于我们
+- 我们的团队
+- Databricks Ventures
+- 联系我们
+
+- 在Databricks工作
+- 开放职位
+
+- 奖项与认可
+- 新闻中心
+
+- 安全与信任
+
+- 准备开始了吗？
+- 获取演示
+
+- 登录
+- 联系我们
+- 试用Databricks
+
+1. 博客
+2. /医疗保健与生命科学
+3. /文章
+
+# Alchemist：从Brickbuilder到Databricks Marketplace应用
+
+## 自动化您的SAS到Databricks迁移
+
+![Alchemist SAS to Databricks Migrations](/images/posts/8fd9bc88023e.png)
+
+![Alchemist SAS to Databricks Migrations](/images/posts/8fd9bc88023e.png)
+
+![Alchemist SAS to Databricks Migrations](/images/posts/8fd9bc88023e.png)
+
+发布日期：2026年1月21日
+
+作者：Dmitriy Alkhimov 和 Aaron Zavora
+
+- 
+- 
+- 
+
+Alchemist是一个全面的SAS到Databricks迁移加速器，它结合了深厚的传统技术专长与现代AI能力。该解决方案既是一个分析器——提供关于代码复杂性和依赖关系的详细洞察，也是一个转译器，它利用大语言模型（LLMs）实现从SAS EG和.spk等格式到PySpark接近100%的代码转换。Alchemist确保企业不仅能实现代码现代化，还能快速成功地将业务流程和团队过渡到Databricks平台。
+
+- Alchemist是一个全面的SAS到Databricks迁移加速器，它结合了深厚的传统技术专长与现代AI能力。
+- 该解决方案既是一个分析器——提供关于代码复杂性和依赖关系的详细洞察，也是一个转译器，它利用大语言模型（LLMs）实现从SAS EG和.spk等格式到PySpark接近100%的代码转换。
+- Alchemist确保企业不仅能实现代码现代化，还能快速成功地将业务流程和团队过渡到Databricks平台。
+
+近六年来，T1A一直与Databricks合作，开展端到端的SAS到Databricks迁移项目，以帮助企业实现其数据平台现代化。作为前SAS白金合作伙伴，我们深刻理解该平台的优势、特性以及源于SAS引擎独特行为所导致的隐藏问题。如今，这种传统专长得到了一个由Databricks冠军和专门的数据工程实践团队的支持，使我们具备了罕见的能力，能够流利地同时使用“SAS”和“Spark”语言。
+
+在我们旅程的早期，我们观察到一个反复出现的模式：组织出于各种原因希望摆脱SAS，但每一条迁移路径看起来都充满痛苦、风险，或两者兼有。我们调研了市场，试用了多种工具选项，并得出结论：大多数解决方案功能不足，并且将SAS迁移仅仅视为“切换SQL方言”。这一差距促使我们构建自己的转译器，Alchemist于2022年首次发布。
+
+![Alchemist is a powerful tool that automates your migration from SAS to Databricks](/images/posts/0574149e6873.png)
+
+Alchemist是一个强大的工具，可自动化您的SAS到Databricks迁移：
+
+- **分析SAS**并解析您的代码，提供各个层级的详细洞察，弥补基础分析器留下的空白，让您清晰了解工作负载
+- **将SAS代码转换为Databricks**，采用由我们的架构师和Databricks冠军设计的最佳实践，交付干净、可读的代码，避免不必要的复杂性
+- **支持所有常见格式**，包括**SAS代码**（.sas文件）、**SAS EG项目文件**以及.spk格式的**SAS DI作业**，提取代码和宝贵的元数据
+- **提供灵活、可配置的结果**，带有自定义模板函数，以满足最严格的架构要求
+- **集成AI LLM能力**处理非典型代码结构，在每个文件上实现100%的转换率
+- **轻松与框架或CI/CD管道集成**，自动化整个迁移流程，从分析到最终验证和部署
+
+Alchemist，连同我们所有的工具，不再仅仅是一个迁移加速器；它是我们项目中的主要引擎和迁移驱动力。
+
+那么，Alchemist具体是什么呢？
+
+首先，Alchemist不仅仅是一个转译器，它还是一个强大的评估和分析工具。Alchemist分析器能快速解析和检查任何批量的代码，生成其SAS代码特征的全面概况。客户无需花费数周进行手动审查，即可在几分钟内获得代码模式和复杂性的完整视图。
+
+![](/images/posts/0477a09dd3d7.png)
+
+分析仪表板现已免费提供，可通过以下两种方式获取：
+
+- Databricks Marketplace：T1A Alchemist
+- SaaS版本：https://live.getalchemist.io/
+- 本地版本：快速入门指南位于 https://app.getalchemist.io/main
+
+该分析可帮助洞察迁移范围规模，突出显示独特元素，检测集成点，并有助于评估团队对不同编程模式的偏好。它还能对工作负载类型进行分类，帮助我们预测自动化转换率，并估算结果质量验证所需的工作量。
+
+Alchemist Analyzer 不仅仅提供高层概览，还提供详细的表格视图（我们称之为 DDS），展示过程和选项的使用方式、数据血缘关系以及代码组件之间的相互依赖关系。
+
+这种细节水平有助于回答以下问题：
+
+- 我们应该选择哪个用例作为 MVP，以快速展示改进效果？
+- 我们应如何确定代码迁移的优先级，例如，是先迁移频繁使用的数据，还是优先处理关键的数据生产者？
+- 如果我们重构特定的宏或更改源结构，哪些其他代码段会受到影响？
+- 为了释放磁盘空间，或停止使用昂贵的 SAS 组件，我们应该首先采取哪些行动？
+
+![](/images/posts/d92f195d7742.png)
+
+因为分析器揭示了每一个依赖关系、控制流和数据接触点，它让我们真正理解代码，使我们能够做的远不止自动化转换。我们可以精确定位需要验证结果的位置，将单体应用分解为有意义的迁移块，发现可重复的模式，并简化端到端测试，这些能力我们已经在多个客户项目中应用。
+
+让我们先简要概述一下 Alchemist 的功能：
+
+- 源：SAS EG 项目 (.egp)、SAS 基础代码 (.sas)、SAS DI 作业 (.spk)
+- 目标：Databricks 笔记本、PySpark Python 代码、Prophecy 管道等。
+- 覆盖范围：对于 SQL、常见过程和转换、数据步以及宏代码，实现接近 100% 的覆盖率和准确率。
+- 基于 LLM 的后转换：识别有问题的语句，并使用 LLM 进行调整以改进最终代码。
+- 模板：提供重新定义转换器行为的功能，以满足重构或目标架构愿景。
+
+![](/images/posts/16c208f7d32a.png)
+
+Alchemist 转译器分三步工作：
+
+1.  解析代码：将代码解析成详细的抽象语法树 (AST)，完整描述其逻辑。
+2.  重建代码：根据目标方言，对每个 AST 节点应用特定规则，在目标引擎中逐步重建转换逻辑，并重新生成代码。
+3.  分析结果并优化：分析结果。如果有任何语句遇到错误，可以使用 LLM 进行转换。此过程包括提供原始语句以及所有相关的元数据，如使用的表、计算上下文和代码要求。
+
+这一切听起来很有前景，但在实际的迁移场景中是如何体现的呢？
+
+让我们分享最近一个涉及多个业务部门的迁移项目中的一些指标，在该项目中，我们将数百个 SAS Enterprise Guide 流程迁移到了 Databricks。这些流程处理日常报告和数据整合，执行常规业务检查，主要由分析团队维护。典型的输入包括文本文件、XLSX 工作簿和各种 RDBMS 表；输出范围从 Excel/CSV 提取文件和电子邮件警报到参数化的屏幕摘要。迁移是使用 Alchemist v2024.2（比当前可用版本更早的版本）执行的，因此今天的用户可以期待更高的自动化率和更丰富的结果质量。
+
+为了提供一些数字，我们测量了使用 Alchemist 迁移的 30 个随机 EG 流程中的一部分的统计数据。
+
+我们必须首先做一个简要声明：
+
+1.  在讨论转换率时，我们指的是原始代码中已自动转换为可在 Databricks 中执行的代码的百分比。然而，这种转换的真正准确性只能在运行数据测试并验证结果后才能确定。
+2.  指标是在之前的 Alchemist 版本上收集的，并且未使用模板、额外配置和 LLM 功能。
+
+因此，我们获得了接近 75% 的转换率，以及接近 90% 的准确率（90% 的流程步骤无需更改即通过验证）：
+
+完全自动转换，准确率 100%
+完全转换，但验证时存在数据差异
+在结果数据验证过程中发现微小差异
+部分步骤未转换，每个流程中少于 20% 的步骤
+准备问题（例如，映射不正确、数据源样本不正确、原始 EG 文件损坏或不可执行）和罕见的语句类型
+
+在采用具备 AI 驱动转换功能的最新 Alchemist 版本后，我们实现了 100% 的转换率。然而，AI 提供的结果仍然存在同样的问题，即缺乏准确性。这使得数据验证成为迁移的下一个“兔子洞”。
+
+顺便提一下，值得强调的是，对代码、对象映射和其他配置的彻底准备对于成功迁移至关重要。损坏的代码、不正确的数据映射、数据源迁移问题、过时的代码以及其他与准备相关的问题通常难以识别和隔离，但它们会显著影响迁移时间表。
+
+## 数据验证工作流与 Agent（智能体）方法
+
+随着自动化和 AI 驱动的代码转换现已接近“一键式”，真正的瓶颈已转移到业务验证和用户验收上。在大多数情况下，此阶段消耗了整个迁移时间表的 60-70%，并构成了项目风险和成本的主要部分。多年来，我们尝试了多种验证技术、框架和工具，以在不损失质量的前提下缩短“验证阶段”。
+
+我们与客户面临的典型业务挑战是：
+
+- 需要多少测试才能确保质量，同时又不扩大项目范围？
+- 如何实现测试隔离，使它们仅衡量转换的质量，同时保持可重复性和确定性？即“苹果对苹果”的比较。
+- 自动化整个循环：测试准备、执行、结果分析和修复
+- 精确定位导致差异的确切步骤、表或函数，使工程师能够一次性修复问题并继续前进
+
+我们确定了以下配置方案：
+
+- 基于在 SAS 中自动收集的真实数据样本进行自动测试生成
+- 隔离的四阶段测试：单元测试 - 对每个转换后的语句进行隔离测试端到端测试 - 使用从 SAS 复制的数据，对管道或笔记本进行完整测试真实源验证 - 在测试环境中使用目标源进行完整测试类生产环境测试 - 在类生产环境中使用真实源进行完整测试，以衡量性能、验证部署、收集结果统计指标并运行若干使用场景
+- “氛围测试” - AI Agent（智能体）在修复和调整单元测试及端到端测试方面表现良好。这是由于它们的上下文有限、验证结果快速以及通过数据采样的可迭代性。然而，在后两个阶段，Agent（智能体）的帮助较小，因为这些阶段需要深厚的专业知识和经验。
+- 报告。结果应整合在清晰、可复现的报告中，以便关键利益相关者快速审查。他们通常没有太多时间来验证迁移后的代码，只准备接受和测试完整的用例。
+
+- 单元测试 - 对每个转换后的语句进行隔离测试
+- 端到端测试 - 使用从 SAS 复制的数据，对管道或笔记本进行完整测试
+- 真实源验证 - 在测试环境中使用目标源进行完整测试
+- 类生产环境测试 - 在类生产环境中使用真实源进行完整测试，以衡量性能、验证部署、收集结果统计指标并运行若干使用场景
+
+![](/images/posts/57d6d3adc07a.png)
+
+我们通过框架、脚本和模板来围绕这一流程进行构建，以实现速度和灵活性。我们并非试图打造一个“开箱即用”的产品，因为每次迁移都是独特的，涉及不同的环境、要求和客户参与程度。尽管如此，安装和配置过程仍应快速完成。
+
+![](/images/posts/231dee3f8e1c.png)
+
+Alchemist 的技术先进性与我们成熟的方法论相结合，持续带来了可衡量的成果：接近 100% 的转换自动化率，验证和部署时间减少 70%。
+
+衡量任何迁移解决方案的真正标准不在于其功能，而在于其对客户实际运营产生的真实影响。在 T1A，我们关注的不仅仅是迁移的技术层面。我们知道，当代码转换和测试完成时，迁移并未结束。只有当所有业务流程都完成迁移并从新平台消费数据，业务用户成功入驻，并且他们已经开始利用 Databricks 进行工作时，迁移才算真正完成。因此，我们不仅提供迁移服务，还通过我们的专家提供先进的迁移后项目支持，以确保客户更顺畅地入驻，包括：
+
+*   为您的数据平台提供定制化监控
+*   为不同受众量身定制的可定制教育研讨会
+*   配备灵活参与度的支持团队，以处理技术和业务用户的请求
+*   最佳实践分享研讨会
+*   协助在贵公司内部建立专业知识中心。
+
+所有这些——从全面的代码分析和自动化转译，到 AI 驱动的验证框架和迁移后支持——都已在多次企业迁移中经过实战检验。我们已准备好与您分享我们的专业知识。
+
+那么，是时候进行总结了。过去几年，我们已在不同的医疗保健和保险组织中应用了这种集成方法，每个组织都面临着独特的挑战、监管要求和业务关键型工作负载。
+
+![](/images/posts/71207c38de9b.png)
+
+我们一直在学习、开发工具并改进我们的方法，现在我们在此与您分享我们的愿景和方法论。这里您可以看到我们项目案例的一小部分，我们已准备好应您的要求分享更多。
+
+**大型健康保险公司，比荷卢经济联盟**
+
+使用 Alchemist 将企业级 EDWH 从 SAS 迁移到 Databricks。引入了一种对重复性任务（1600 个 ETL 作业）实现 80% 自动化率的迁移方法。设计并实施了迁移基础设施，使转换和迁移过程能够与持续的业务运营共存。我们的自动化测试框架将 UAT 时间减少了 70%。
+
+**健康保险公司，美国**
+
+使用 Alchemist 将分析报告从本地 SAS EG 迁移到 Azure Databricks。T1A 利用 Alchemist 加速了分析、代码迁移和内部测试。T1A 为配置选定的 Azure 服务以支持启用 Unity Catalog 的 Databricks 提供了咨询服务，并在目标平台上启用和培训用户，并简化迁移流程以确保最终用户的无缝过渡。
+
+**医疗保健公司，日本**
+
+将分析报告从本地 SAS EG 迁移到 Azure Databricks。T1A 利用 Alchemist 加速了分析、代码迁移和内部测试。我们的工作包括建立数据集市、设计架构、启用云功能，以及建立超过 150 个数据馈送管道以支持报告。我们为配置选定的 Azure 服务以支持启用 Unity Catalog 的 Databricks 提供了咨询服务，并在目标平台上提供了用户启用和培训。
+
+**PacificSource Health Plans，美国**
+
+通过将基于 SAS 的 ETL 参数化工作流（70 个脚本）和 SAS 分析数据集市迁移到 Databricks，实现了客户遗留分析基础设施的现代化。将数据集市刷新时间减少了 95%，通过使用标准的 PySpark 代码语言扩大了人才库的访问范围，启用了 GenAI 辅助和 vibe coding，改进了 Git 和 CI/CD 以提高可靠性，显著减少了 SAS 占用空间，并节省了 SAS 许可证费用。
+
+我们才刚刚开始采用 Agentic（智能体）方法，但我们已经认识到其在自动化常规活动方面的潜力。这包括准备配置和映射、生成定制化的测试数据以实现代码的全面覆盖、自动创建模板以满足架构规则等想法。
+
+另一方面，我们看到当前的 AI 能力尚未足够成熟来处理某些高度复杂的任务和场景。因此，我们预计最有效的前进道路在于 AI 和程序化方法的交叉点。
+
+**加入我们的下一次网络研讨会 - "SAS 迁移最佳实践：来自 20 多个企业项目的经验"→**
+
+我们将详细分享我们学到的东西、下一步是什么，以及向 Databricks 全周期迁移的最佳实践。或者，观看我们的迁移方法演示 → 以及我们频道中许多其他关于迁移的资料。
+
+## 准备好加速您的 SAS 迁移了吗？
+
+### 零风险开始 - 立即获取免费评估
+
+**几分钟内分析您的 SAS 环境 →**
+
+上传您的 SAS 代码，即可获得即时、全面的分析。发现迁移复杂性，识别快速见效的机会，并获得自动化的规模估算，完全免费，无需注册。
+
+**对于准备迁移的组织 ([email protected])：**
+
+*   **预约战略咨询** - 45 分钟会议，审查您的分析结果并起草定制的迁移路线图
+*   **申请概念验证** - 通过对您最关键的工作流进行试点迁移来验证我们的方法
+
+**预约战略咨询** - 45 分钟会议，审查您的分析结果并起草定制的迁移路线图
+
+**申请概念验证** - 通过对您最关键的工作流进行试点迁移来验证我们的方法
+
+**对于早期规划阶段：**
+
+*   **下载迁移准备清单→** 自我评估指南，用于评估您组织的准备水平
+
+*   
+*   
+*   
+
+## 不错过任何 Databricks 动态
+
+![Providence Health: Scaling ML/AI Projects with Databricks Mosaic AI](/images/posts/88d1810f1d75.png)
+
+![Providence Health: Scaling ML/AI Projects with Databricks Mosaic AI](/images/posts/88d1810f1d75.png)
+
+![Providence Health: Scaling ML/AI Projects with Databricks Mosaic AI](/images/posts/88d1810f1d75.png)
+
+医疗保健与生命科学
+
+2024年11月14日 / 2 分钟阅读
+
+#### Providence Health：使用 Databricks Mosaic AI 扩展 ML/AI 项目
+
+![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
+
+![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
+
+![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
+
+2024年12月19日 / 5 分钟阅读
+
+#### 携手 Databricks 与 The Virtue Foundation 提升全球健康水平
+
+![databricks logo](/images/posts/443a5359ee28.png)
+
+![databricks logo](/images/posts/443a5359ee28.png)
+
+![databricks logo](/images/posts/443a5359ee28.png)
+
+*   面向高管
+*   面向初创公司
+*   Lakehouse 架构
+*   Mosaic 研究
+
+*   客户案例
+
+*   云提供商
+*   技术合作伙伴
+*   数据合作伙伴
+*   基于 Databricks 构建
+*   咨询与系统集成商
+*   C&SI 合作伙伴计划
+*   合作伙伴解决方案
+
+*   面向高管
+*   面向初创公司
+*   Lakehouse 架构
+*   Mosaic 研究
+
+*   客户案例
+
+*   云提供商
+*   技术合作伙伴
+*   数据合作伙伴
+*   基于 Databricks 构建
+*   咨询与系统集成商
+*   C&SI 合作伙伴计划
+*   合作伙伴解决方案
+
+*   平台概览
+*   共享
+*   治理
+*   人工智能
+*   商业智能
+*   数据库
+*   数据管理
+*   数据仓库
+*   数据工程
+*   数据科学
+*   应用开发
+
+*   定价概览
+*   定价计算器
+
+*   市场
+*   IDE 集成
+*   合作伙伴连接
+
+- 平台概览
+- 共享
+- 治理
+- 人工智能
+- 商业智能
+- 数据库
+- 数据管理
+- 数据仓库
+- 数据工程
+- 数据科学
+- 应用开发
+
+- 定价概览
+- 定价计算器
+
+- 市场
+- IDE集成
+- 合作伙伴连接
+
+- 通信
+- 金融服务
+- 医疗保健与生命科学
+- 制造业
+- 媒体与娱乐
+- 公共部门
+- 零售
+- 查看全部
+
+- 网络安全
+- 市场营销
+
+- 通信
+- 金融服务
+- 医疗保健与生命科学
+- 制造业
+- 媒体与娱乐
+- 公共部门
+- 零售
+- 查看全部
+
+- 网络安全
+- 市场营销
+
+- 培训
+- 认证
+- 免费版
+- 大学联盟
+- Databricks学院登录
+
+- Data + AI峰会
+- Data + AI全球巡展
+- 数据智能日
+- 活动日历
+
+- Databricks博客
+- Databricks Mosaic研究博客
+- Data Brew播客
+- 数据与AI冠军播客
+
+- 培训
+- 认证
+- 免费版
+- 大学联盟
+- Databricks学院登录
+
+- Data + AI峰会
+- Data + AI全球巡展
+- 数据智能日
+- 活动日历
+
+- Databricks博客
+- Databricks Mosaic研究博客
+- Data Brew播客
+- 数据与AI冠军播客
+
+- 关于我们
+- 我们的团队
+- Databricks Ventures
+- 联系我们
+
+- 开放职位
+- 在Databricks工作
+
+- 奖项与认可
+- 新闻中心
+
+- 关于我们
+- 我们的团队
+- Databricks Ventures
+- 联系我们
+
+- 开放职位
+- 在Databricks工作
+
+- 奖项与认可
+- 新闻中心
+
+![databricks logo](/images/posts/443a5359ee28.png)
+
+![databricks logo](/images/posts/443a5359ee28.png)
+
+![databricks logo](/images/posts/443a5359ee28.png)
+
+Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+查看Databricks的招聘职位
+
+- 
+- 
+- 
+- 
+- 
+- 
+
+© Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache软件基金会的商标。
+
+- 隐私声明
+- |使用条款
+- |现代奴隶制声明
+- |加州隐私
+- |您的隐私选择
+-
+
+---
+
+> 本文由AI自动翻译，原文链接：[Alchemist: from Brickbuilder to a Databricks Marketplace App](https://www.databricks.com/blog/alchemist-brickbuilder-databricks-marketplace-app)
+> 
+> 翻译时间：2026-01-21 04:44
