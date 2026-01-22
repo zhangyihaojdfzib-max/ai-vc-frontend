@@ -450,33 +450,43 @@
     "timestamp": "2026-01-20T04:40:16.868260"
   },
   "https://a16z.simplecast.com/episodes/the-ai-opportunity-that-goes-beyond-models-f9t5aXG0": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-21T04:35:03.896656"
+    "timestamp": "2026-01-22T04:38:22.002506"
   },
   "https://deepmind.google/blog/introducing-gemma-3-270m-the-compact-model-for-hyper-efficient-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-21T04:37:21.610192"
+    "timestamp": "2026-01-22T04:45:59.990810"
   },
   "https://deepmind.google/blog/rethinking-how-we-measure-ai-intelligence/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-21T04:37:21.593291"
+    "timestamp": "2026-01-22T04:45:59.975143"
   },
   "https://a16z.simplecast.com/episodes/from-code-search-to-ai-agents-inside-sourcegraphs-transformation-with-cto-beyang-liu-68cORVQD": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-21T04:35:03.841374"
+    "timestamp": "2026-01-22T04:38:22.011063"
   },
   "https://www.saastr.com/strange-world-indeed-january-2026-edition-the-massive-divergence-between-public-b2b-and-private-ai-b2b/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-21T04:36:37.712567"
+    "timestamp": "2026-01-22T04:43:38.727722"
   },
   "https://deepmind.google/blog/image-editing-in-gemini-just-got-a-major-upgrade/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-22T04:45:59.997851"
+  },
+  "https://a16z.simplecast.com/episodes/martin-casado-on-the-demand-forces-behind-ai-pUTZS22R": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-21T04:37:21.612536"
+    "timestamp": "2026-01-22T04:38:22.014900"
+  },
+  "https://feld.com/archives/2025/10/authors-innovators-2025/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-22T04:41:21.467621"
   }
 }
