@@ -153,8 +153,7 @@ translated_at: '2026-01-06T18:15:23.225Z'
     安全与信任
         安全与信任
 
--  
--   
+
 -   通信
 -   媒体与娱乐
 -   金融服务
@@ -173,12 +172,6 @@ translated_at: '2026-01-06T18:15:23.225Z'
 
 -   探索加速器更快实现重要成果
 
--   
--   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的数据与AI工具大学联盟想教授Databricks？了解详情。
--   活动Data + AI SummitData + AI World TourData Intelligence Days活动日历
--   博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们生成式AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的洞见
--   获取帮助客户支持文档社区
--   深入探索资源中心演示中心架构中心
 
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
@@ -204,11 +197,9 @@ translated_at: '2026-01-06T18:15:23.225Z'
 -   演示中心
 -   架构中心
 
--   
--   公司关于我们我们的团队Databricks Ventures联系我们
--   职业发展在Databricks工作开放职位
--   新闻奖项与认可新闻中心
--   安全与信任安全与信任
+-   安全与信任
+
+-   安全与信任
 
 -   关于我们
 -   我们的团队
@@ -248,6 +239,8 @@ translated_at: '2026-01-06T18:15:23.225Z'
 
 作者：Ina Felsheim 和 Ruwen Henning Hess
 
+-   \-
+-   \-
 -   \-
 
 -   **无需调优的更快分析**：今年DBSQL新增了另一项自动加速功能，无需任何索引或参数管理即可提升仪表板和查询性能。
@@ -583,9 +576,19 @@ Databricks SQL作为AI原生、运维就绪的数据仓库，继续引领市场�
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
 *   
+*   
+*   
+*   
+*   
+*   
 
 查看Databricks的招聘职位
 
+*   
+*   
+*   
+*   
+*   
 *   
 
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache Software Foundation的商标。

@@ -152,6 +152,7 @@ translated_at: '2026-01-10T04:15:34.640062'
     奖项与认可
     新闻中心
     安全与信任
+    安全与信任
 
 -  探索
     面向高管
@@ -326,12 +327,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 - 探索加速器更快实现重要成果
 
-- 
-- 学习培训发现满足您需求的定制课程Databricks 学院登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的 Data 和 AI 工具大学联盟想教授 Databricks？了解详情。
-- 活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
-- 博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们 Gen AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见
-- 获取帮助客户支持文档社区
-- 深入探索资源中心演示中心架构中心
 
 - 培训发现满足您需求的定制课程
 - Databricks 学院登录 Databricks 学习平台
@@ -357,11 +352,9 @@ translated_at: '2026-01-10T04:15:34.640062'
 - 演示中心
 - 架构中心
 
-- 
-- 公司关于我们我们的团队Databricks Ventures联系我们
-- 职业发展在 Databricks 工作开放职位
-- 新闻与媒体奖项与认可新闻中心
-- 安全与信任安全与信任
+- 安全与信任
+
+- 安全与信任
 
 - 关于我们
 - 我们的团队

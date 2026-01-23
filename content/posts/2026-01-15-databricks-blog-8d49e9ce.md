@@ -85,10 +85,21 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
+通信
+媒体与娱乐
+金融服务
+公共部门
 医疗保健与生命科学
+零售
+制造业
+查看所有行业
 跨行业解决方案
 AI Agent（智能体）
+网络安全
+营销
 迁移与部署
+数据迁移
+专业服务
 解决方案加速器
 探索加速器
 更快地实现关键成果
@@ -109,6 +120,7 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
+活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品发布等
@@ -119,14 +131,28 @@ Data Brew 播客
 数据与 AI 先锋播客
 来自推动创新的数据领导者的见解
 获取帮助
+客户支持
+文档
+社区
 深入探索
+资源中心
+演示中心
+架构中心
 
 - 关于
 公司
 我们是谁
+我们的团队
+Databricks Ventures
+联系我们
 招聘
 在 Databricks 工作
+开放职位
 新闻
+奖项与认可
+新闻中心
+安全与信任
+安全与信任
 
 - 探索
 面向高管
@@ -280,12 +306,6 @@ Databricks 定价
 
 -   探索加速器更快实现关键成果
 
--   
--   学习培训发现满足您需求的定制课程Databricks Academy登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的 Data 和 AI 工具大学联盟想要教授 Databricks？了解详情。
--   活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
--   博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们 Gen AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客聆听推动创新的数据领导者分享洞见
--   获取帮助客户支持文档社区
--   深入探索资源中心演示中心架构中心
 
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录 Databricks 学习平台
@@ -311,11 +331,9 @@ Databricks 定价
 -   演示中心
 -   架构中心
 
--   
--   公司关于我们我们的团队Databricks Ventures联系我们
--   职业发展在 Databricks 工作开放职位
--   新闻与媒体奖项与认可新闻中心
--   安全与信任安全与信任
+-   安全与信任
+
+-   安全与信任
 
 -   关于我们
 -   我们的团队
@@ -353,6 +371,8 @@ Databricks 定价
 
 发布日期：2026年1月15日
 
+-   -
+-   -
 -   -
 
 高管们报告存在数据与 AI 人才短缺，这为从业者提供了通过技能提升和认证来规划职业生涯的机会。Databricks 认证为展示您的技术熟练度提供了一个正式的基准，有助于与利益相关者建立即时的技术权威和信任。Databricks 培训与认证项目已发展壮大，认证了超过 90,000 名掌握 AI、数据工程、数据科学等高需求技能的专业人士。
@@ -430,6 +450,7 @@ Data Science Lab 的数据工程主管 Claudia Sulsters 指出，这种信任建
 
 ![Mastering Multimodal AI with Twelve Labs and Databricks](/images/posts/6e9482c1bb74.png)
 
+媒体与娱乐
 
 2024年8月29日 / 17 分钟阅读
 

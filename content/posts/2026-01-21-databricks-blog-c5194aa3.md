@@ -154,8 +154,7 @@ translated_at: '2026-01-23T04:45:01.635432'
     安全与信任
         安全与信任
 
--  
--   
+
 -   通信
 -   媒体与娱乐
 -   金融服务
@@ -174,12 +173,6 @@ translated_at: '2026-01-23T04:45:01.635432'
 
 -   探索加速器更快实现重要成果
 
--   
--   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。
--   活动Data + AI SummitData + AI World TourAI Days活动日历
--   博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的见解
--   获取帮助客户支持文档社区
--   深入探索资源中心演示中心架构中心
 
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
@@ -205,11 +198,9 @@ translated_at: '2026-01-23T04:45:01.635432'
 -   演示中心
 -   架构中心
 
--   
--   公司关于我们我们的团队Databricks Ventures联系我们
--   职业发展在Databricks工作开放职位
--   新闻与媒体奖项与认可新闻中心
--   安全与信任安全与信任
+-   安全与信任
+
+-   安全与信任
 
 -   关于我们
 -   我们的团队
@@ -247,6 +238,8 @@ translated_at: '2026-01-23T04:45:01.635432'
 
 作者：Caelin Kaplan 和 Alex Warnecke
 
+-   -
+-   -
 -   -
 
 宣布发布BlackIce，这是一个用于AI安全测试的开源容器化工具包，首次在CAMLIS Red 2025上推出解释BlackIce如何整合14个开源工具，并映射到MITRE ATLAS和Databricks AI安全框架（DASF）分享论文、GitHub仓库和Docker镜像的链接，助您快速上手

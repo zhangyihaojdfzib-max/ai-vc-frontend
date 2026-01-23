@@ -178,12 +178,6 @@ translated_at: '2026-01-21T04:44:02.852577'
 
 - 探索加速器更快实现关键成果
 
-- 
-- 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分度免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。
-- 活动Data + AI SummitData + AI World TourData Intelligence Days活动日历
-- 博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI Podcast来自推动创新的数据领导者的见解
-- 获取帮助客户支持文档社区
-- 深入探索资源中心演示中心架构中心
 
 - 培训发现满足您需求的定制课程
 - Databricks Academy登录Databricks学习平台
@@ -209,11 +203,9 @@ translated_at: '2026-01-21T04:44:02.852577'
 - 演示中心
 - 架构中心
 
-- 
-- 公司关于我们我们的团队Databricks Ventures联系我们
-- 职业发展在Databricks工作开放职位
-- 新闻奖项与认可新闻中心
-- 安全与信任安全与信任
+- 安全与信任
+
+- 安全与信任
 
 - 关于我们
 - 我们的团队
@@ -435,6 +427,8 @@ Alchemist 的技术先进性与我们成熟的方法论相结合，持续带来�
 
 *   **下载迁移准备清单→** 自我评估指南，用于评估您组织的准备水平
 
+*   
+*   
 *   
 
 ## 不错过任何 Databricks 动态
