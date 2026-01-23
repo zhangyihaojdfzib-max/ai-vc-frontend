@@ -465,9 +465,9 @@
     "timestamp": "2026-01-22T04:45:59.975143"
   },
   "https://a16z.simplecast.com/episodes/from-code-search-to-ai-agents-inside-sourcegraphs-transformation-with-cto-beyang-liu-68cORVQD": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-22T04:38:22.011063"
+    "timestamp": "2026-01-23T04:32:16.760557"
   },
   "https://www.saastr.com/strange-world-indeed-january-2026-edition-the-massive-divergence-between-public-b2b-and-private-ai-b2b/": {
     "count": 2,
@@ -480,13 +480,28 @@
     "timestamp": "2026-01-22T04:45:59.997851"
   },
   "https://a16z.simplecast.com/episodes/martin-casado-on-the-demand-forces-behind-ai-pUTZS22R": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-22T04:38:22.014900"
+    "timestamp": "2026-01-23T04:32:16.749000"
   },
   "https://feld.com/archives/2025/10/authors-innovators-2025/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-01-22T04:41:21.467621"
+  },
+  "https://a16z.simplecast.com/episodes/inferact-building-the-infrastructure-that-runs-modern-ai-baPx6f5v": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-23T04:32:16.763935"
+  },
+  "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-23T04:38:57.325960"
+  },
+  "https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-23T04:45:40.648122"
   }
 }
