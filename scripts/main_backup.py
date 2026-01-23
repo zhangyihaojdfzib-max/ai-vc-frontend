@@ -36,7 +36,7 @@ import yaml
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-import trafilatura
+from content_extractor_v2 import ContentExtractorV2
 from openai import OpenAI
 
 # ============================================
@@ -337,6 +337,11 @@ class ContentFetcher:
             cache_file=state_manager.processed_file.parent / "rss_cache.json"
         )
     
+        # 图片提取器
+        images_dir = state_manager.processed_file.parent.parent / "public" / "images" / "posts"
+        images_dir.mkdir(parents=True, exist_ok=True)
+        self.extractor = ContentExtractorV2(images_dir)
+
     def fetch_from_source(
         self, 
         source: Dict, 
@@ -503,35 +508,38 @@ class ContentFetcher:
             return []
     
     def fetch_article_content(self, url: str) -> Optional[Dict]:
+        """使用 ContentExtractorV2 提取内容（带图片）"""
         try:
             headers = {'User-Agent': self.config.user_agent}
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
-            
-            downloaded = response.text
-            result = trafilatura.extract(
-                downloaded,
-                include_comments=False,
-                include_tables=True,
-                include_images=False,
-                output_format='txt'
-            )
-            
-            if not result or len(result) < 200:
-                return None
-            
-            metadata = trafilatura.extract_metadata(downloaded)
-            
-            return {
-                'content': result,
-                'title': metadata.title if metadata else '',
-                'author': metadata.author if metadata else '',
-                'date': metadata.date if metadata else '',
-            }
-            
-        except Exception as e:
-            return None
 
+            html = response.text
+            result = self.extractor.extract(html, url)
+
+            if not result['blocks']:
+                return None
+
+            text_blocks = [b for b in result['blocks'] if b['type'] == 'text']
+            img_blocks = [b for b in result['blocks'] if b['type'] == 'image']
+            self.logger.info(f"    提取: {len(text_blocks)} 文本块, {len(img_blocks)} 图片")
+
+            content_md = self.extractor.blocks_to_markdown(result['blocks'])
+
+            if len(content_md) < 200:
+                return None
+
+            return {
+                'content': content_md,
+                'title': result.get('title', ''),
+                'author': '',
+                'date': '',
+                'blocks': result['blocks'],
+            }
+
+        except Exception as e:
+            self.logger.error(f"内容提取失败: {e}")
+            return None
 
 # ============================================
 # 翻译器
@@ -774,6 +782,7 @@ class ArticleGenerator:
             'categories': [translated.get('category', '未分类')],
             'tags': translated.get('tags', []),
             'draft': False,
+            'translated_at': datetime.now().isoformat(),
         }
         
         front_matter_yaml = yaml.safe_dump(

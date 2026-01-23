@@ -36,6 +36,123 @@ import yaml
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+
+
+# ============================================
+# 内容清洗器 (ContentCleaner)
+# ============================================
+
+class ContentCleaner:
+    """
+    内容清洗器 - 清除导航菜单、页脚等垃圾内容
+    """
+    
+    GARBAGE_PATTERNS = {
+        'databricks': {
+            'header_garbage': [
+                '为什么选择 Databricks', '为何选择 Databricks',
+                'Why Databricks', '面向高管', '面向初创企业', 
+                '湖仓一体架构', '客户案例', '云服务提供商', '平台概览',
+                '数据管理', '数据仓库', '数据工程', '商业智能',
+                '培训', '认证', '免费版', '试用 Databricks',
+                'Databricks 定价', '成本计算器', '咨询与系统集成商',
+                'Data + AI 峰会', '博客与播客', '客户支持', '文档', '社区',
+                '我们是谁', '我们的团队', '开放职位', '安全与信任',
+                '准备开始了吗？', '探索产品定价',
+            ],
+            'footer_garbage': [
+                '© Databricks', '1-866-330-0121',
+                'Databricks学院登录', '查看 Databricks 的职位',
+                '联系我们', '关于我们', '隐私政策', '使用条款',
+                '准备好开始了吗', 'Ready to get started',
+            ],
+        },
+        'sequoia': {
+            'header_garbage': ['About', 'Companies', 'Perspectives', 'People'],
+            'footer_garbage': ['© Sequoia', 'Privacy Policy', 'All rights reserved'],
+        },
+        'a16z': {
+            'header_garbage': ['About', 'Portfolio', 'News', 'Podcasts', 'Newsletter'],
+            'footer_garbage': ['© Andreessen Horowitz', 'Privacy Policy', 'Disclosures'],
+        },
+        '_default': {
+            'header_garbage': ['Skip to content', 'Navigation', 'Menu'],
+            'footer_garbage': ['All rights reserved', 'Privacy Policy', 'Terms of Service'],
+        },
+    }
+    
+    def __init__(self, source_name, logger=None):
+        self.source_name = source_name.lower()
+        self.logger = logger
+        self.patterns = None
+        for key in self.GARBAGE_PATTERNS:
+            if key in self.source_name or self.source_name in key:
+                self.patterns = self.GARBAGE_PATTERNS[key]
+                break
+        if self.patterns is None:
+            self.patterns = self.GARBAGE_PATTERNS.get('_default', {})
+    
+    def clean(self, content):
+        if not content:
+            return content
+        original_length = len(content)
+        content = self._remove_header_garbage(content)
+        content = self._remove_footer_garbage(content)
+        cleaned_length = len(content)
+        if self.logger and original_length != cleaned_length:
+            removed = original_length - cleaned_length
+            self.logger.info(f"  [ContentCleaner] 清洗了 {removed} 字符 ({removed*100//original_length}%)")
+        return content.strip()
+    
+    def _remove_header_garbage(self, content):
+        header_keywords = self.patterns.get('header_garbage', [])
+        if not header_keywords:
+            return content
+        lines = content.split('\n')
+        title_line_idx = 0
+        for i, line in enumerate(lines):
+            stripped = line.strip()
+            if not stripped:
+                continue
+            if stripped.startswith('# ') and len(stripped) > 10:
+                is_menu = any(kw.lower() in stripped.lower() for kw in header_keywords[:20])
+                if not is_menu:
+                    title_line_idx = i
+                    break
+            if i < 100 and len(stripped) > 80:
+                is_garbage = any(kw.lower() in stripped.lower() for kw in header_keywords)
+                if not is_garbage:
+                    title_line_idx = i
+                    break
+        if title_line_idx > 5:
+            header_content = '\n'.join(lines[:title_line_idx])
+            has_garbage = any(kw.lower() in header_content.lower() for kw in header_keywords)
+            if has_garbage:
+                return '\n'.join(lines[title_line_idx:])
+        return content
+    
+    def _remove_footer_garbage(self, content):
+        footer_keywords = self.patterns.get('footer_garbage', [])
+        if not footer_keywords:
+            return content
+        lines = content.split('\n')
+        cutoff_idx = len(lines)
+        for i in range(len(lines) - 1, max(0, len(lines) - 150), -1):
+            line = lines[i].strip()
+            if any(kw.lower() in line.lower() for kw in footer_keywords):
+                following_lines = '\n'.join(lines[i:i+10])
+                footer_indicators = sum(1 for kw in footer_keywords if kw.lower() in following_lines.lower())
+                if footer_indicators >= 2:
+                    cutoff_idx = i
+                    break
+        for i in range(cutoff_idx, len(lines)):
+            if lines[i].strip() == '---' or '本文由AI自动翻译' in lines[i]:
+                cutoff_idx = i
+                break
+        if cutoff_idx < len(lines):
+            return '\n'.join(lines[:cutoff_idx])
+        return content
+
 from content_extractor_v2 import ContentExtractorV2
 from openai import OpenAI
 
@@ -858,6 +975,16 @@ class Pipeline:
             
             # 合并信息
             article.update(full_content)
+
+            # 清洗内容 - 删除导航菜单和页脚垃圾
+            cleaner = ContentCleaner(source['name'], self.logger)
+            article['content'] = cleaner.clean(article['content'])
+            
+            # 检查清洗后内容是否足够
+            if len(article.get('content', '')) < 200:
+                self.logger.warning(f"    清洗后内容过短，跳过")
+                self.state.mark_failed(url, "content_too_short_after_cleaning")
+                return False
             
             # 翻译
             self.logger.info(f"    开始翻译正文（{len(article.get('content', ''))} 字符）...")
