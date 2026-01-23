@@ -173,15 +173,11 @@ C&SI 合作伙伴计划
 基于 Databricks 构建
 构建、推广和发展您的业务
 
-- 云服务提供商
 Databricks 在 AWS、Azure、GCP 和 SAP 上的服务
-- 咨询与系统集成商
 构建、部署和迁移至 Databricks 的专家
-- 技术合作伙伴
 将您现有工具连接到湖仓一体
 - C&SI 合作伙伴计划
 构建、部署或迁移至湖仓一体
-- 数据合作伙伴
 接入数据消费者生态系统
 - 合作伙伴解决方案
 寻找定制行业与迁移解决方案
@@ -230,25 +226,15 @@ Databricks 定价
 开源技术
 深入了解平台背后的创新
 
-- 平台概览
 面向数据、分析和 AI 的统一平台
-- 数据管理
 数据可靠性、安全性与性能
-- 共享
 面向所有数据的开放、安全、零拷贝共享
-- 数据仓库
 用于 SQL 分析的无服务器数据仓库
-- 治理
 面向所有数据、分析和 AI 资产的统一治理
-- 数据工程
 批处理和流式数据的 ETL 与编排
-- 人工智能
 构建和部署机器学习与生成式 AI 应用
-- 数据科学
 大规模协作式数据科学
-- 商业智能
 面向真实世界数据的智能分析
-- 应用开发
 快速构建安全的数据与 AI 应用
 - 数据库
 面向数据应用和 AI Agent（智能体）的 Postgres
@@ -268,70 +254,13 @@ Databricks 定价
 - 开源技术
 深入了解平台背后的创新
 
-- 面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗与生命科学零售制造业查看所有行业跨行业解决方案AI Agents（智能体）网络安全营销迁移与部署数据迁移专业服务解决方案加速器探索加速器更快实现关键成果
-
-- 面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗与生命科学零售制造业查看所有行业
-- 跨行业解决方案AI Agents（智能体）网络安全营销
-- 迁移与部署数据迁移专业服务
-- 解决方案加速器探索加速器更快实现关键成果
-
-- 通信
-- 媒体与娱乐
-- 金融服务
-- 公共部门
 - 医疗与生命科学
-- 零售
-- 制造业
-- 查看所有行业
 
 - AI Agents（智能体）
-- 网络安全
-- 营销
 
-- 数据迁移
-- 专业服务
-
-- 探索加速器更快实现关键成果
-
-- 培训发现满足您需求的定制课程
-- Databricks Academy登录Databricks学习平台
-- 认证获得认可与区分
-- 免费版免费学习专业数据与AI工具
-- 大学联盟想教授Databricks？了解详情。
-
-- Data + AI Summit
-- Data + AI World Tour
 - Data Intelligence Days
-- 活动日历
-
-- Databricks博客探索新闻、产品公告等
-- Databricks Mosaic研究博客发现我们生成式AI研究的最新进展
-- Data Brew播客让我们聊聊数据！
-- Champions of Data + AI播客来自推动创新的数据领导者的洞见
-
-- 客户支持
-- 文档
-- 社区
-
-- 资源中心
-- 演示中心
-- 架构中心
-
-- 安全与信任
-
-- 安全与信任
-
-- 在Databricks工作
-- 开放职位
-
-- 安全与信任
 
 - 准备开始了吗？
-- 获取演示
-
-- 登录
-- 联系我们
-- 试用Databricks
 
 1. 博客
 2. /公告
@@ -345,7 +274,6 @@ Databricks 定价
 
 作者：Sandy Ryza, Jerry Peng, Wenchen Fan, Herman van Hövell, Hyukjin Kwon, Allison Wang, Serge Rielau, DB Tsai, Xiao Li 和 Reynold Xin
 
-- Spark声明式管道（SDP）将数据工程的重点从“如何做”转向“做什么”，这是继我们从Spark交互式RDD（如何做）发展到声明式DataFrame（做什么）之后，合乎逻辑的下一步演进。
 - 结构化流处理中的实时模式为实时流处理实现了关键的亚秒级延迟，对于无状态工作负载甚至可达个位数毫秒。
 - SQL脚本和递归CTE正式发布，极大地扩展了基于SQL的复杂数据分析能力。
 
@@ -461,55 +389,7 @@ Apache Spark 4.1 是 Apache Spark 社区推动的又一个强劲发布周期的�
 
 ![](/images/posts/06157093bb52.png)
 
-## 不错过任何 Databricks 文章
-
-2024年11月26日 / 9 分钟阅读
-
-#### 为无服务器计算实现 Databricks 虚拟机启动速度提升 7 倍
-
-2024年12月10日 / 7 分钟阅读
-
-#### 使用 Mosaic AI Model Serving 对微调 Llama 模型进行批量推理
-
-- 面向高管
-- 面向初创公司
-- 湖仓一体架构
-- Mosaic 研究
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于 Databricks 构建
-- 咨询与系统集成商
-- C&SI 合作伙伴计划
-- 合作伙伴解决方案
-
-- 面向高管
-- 面向初创公司
-- 湖仓一体架构
-- Mosaic 研究
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于 Databricks 构建
-- 咨询与系统集成商
-- C&SI 合作伙伴计划
-- 合作伙伴解决方案
-
-- Data + AI 峰会
-- Data + AI 世界巡回
-- 数据智能日
-- 活动日历
-
-- Data + AI 峰会
-- Data + AI 世界巡回
-- 数据智能日
-- 活动日历
-
-查看 Databricks 的职位
-
-© Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
+##
 
 ---
 

@@ -154,63 +154,11 @@ translated_at: '2026-01-23T04:45:01.635432'
     安全与信任
         安全与信任
 
--   通信
--   媒体与娱乐
--   金融服务
--   公共部门
--   医疗保健与生命科学
--   零售
--   制造业
--   查看所有行业
-
 -   AI Agents（智能体）
--   网络安全
--   营销
 
--   数据迁移
--   专业服务
-
--   探索加速器更快实现重要成果
-
--   培训发现满足您需求的定制课程
--   Databricks Academy登录Databricks学习平台
--   认证获得认可与区分
--   免费版免费学习专业的Data和AI工具
--   大学联盟想教授Databricks？了解详情。
-
--   Data + AI Summit
--   Data + AI World Tour
 -   AI Days
--   活动日历
-
--   Databricks博客探索新闻、产品公告等
--   Databricks Mosaic研究博客发现我们Gen AI研究的最新进展
--   Data Brew播客让我们聊聊数据！
--   Champions of Data + AI播客来自推动创新的数据领导者的见解
-
--   客户支持
--   文档
--   社区
-
--   资源中心
--   演示中心
--   架构中心
-
--   安全与信任
-
--   安全与信任
-
--   在Databricks工作
--   开放职位
-
--   安全与信任
 
 -   准备开始了吗？
--   获取演示
-
--   登录
--   联系我们
--   试用Databricks
 
 1.  博客
 2.  /安全与信任
@@ -258,55 +206,7 @@ BlackIce镜像可在Databricks的Docker Hub上获取，当前版本可以使用�
 
 有关工具选择过程和 Docker 镜像架构的更多详细信息，请参阅我们的 CAMLIS 红皮书。
 
-## 不错过任何 Databricks 动态
-
-2024年11月20日 / 阅读 4 分钟
-
-#### 统计预测优化功能发布
-
-2024年11月21日 / 阅读 3 分钟
-
-#### 如何在 AI/BI 仪表板中呈现和共享 Notebook 洞察
-
-- 面向高管
-- 面向初创公司
-- 湖仓一体架构
-- Mosaic 研究
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于 Databricks 构建
-- 咨询与系统集成商
-- C&SI 合作伙伴计划
-- 合作伙伴解决方案
-
-- 面向高管
-- 面向初创公司
-- 湖仓一体架构
-- Mosaic 研究
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于 Databricks 构建
-- 咨询与系统集成商
-- C&SI 合作伙伴计划
-- 合作伙伴解决方案
-
-- Data + AI 峰会
-- Data + AI 全球巡展
-- AI 日
-- 活动日历
-
-- Data + AI 峰会
-- Data + AI 全球巡展
-- AI 日
-- 活动日历
-
-查看 Databricks 的职位
-
-© Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache 软件基金会的商标。
+##
 
 ---
 

@@ -215,63 +215,11 @@ translated_at: '2026-01-20T04:48:41.332250'
         开源技术
             深入了解平台背后的创新
 
-- 通信
-- 媒体与娱乐
-- 金融服务
-- 公共部门
-- 医疗保健与生命科学
-- 零售
-- 制造业
-- 查看所有行业
-
 - AI Agent（智能体）
-- 网络安全
-- 营销
 
-- 数据迁移
-- 专业服务
-
-- 探索加速器更快实现重要成果
-
-- 培训发现满足您需求的定制课程
-- Databricks学院登录Databricks学习平台
-- 认证获得认可与区分
-- 免费版免费学习专业数据与AI工具
-- 大学联盟想教授Databricks？了解详情。
-
-- Data + AI 峰会
-- Data + AI 全球巡展
 - Data Intelligence Days
-- 活动日历
-
-- Databricks博客探索新闻、产品发布等
-- Databricks Mosaic研究博客发现我们生成式AI研究的最新进展
-- Data Brew播客让我们聊聊数据！
-- Champions of Data + AI播客来自推动创新的数据领导者的洞见
-
-- 客户支持
-- 文档
-- 社区
-
-- 资源中心
-- 演示中心
-- 架构中心
-
-- 安全与信任
-
-- 安全与信任
-
-- 在Databricks工作
-- 开放职位
-
-- 安全与信任
 
 - 准备开始了吗？
-- 获取演示
-
-- 登录
-- 联系我们
-- 试用Databricks
 
 1. 博客
 2. /数据 + AI 基础
@@ -285,7 +233,6 @@ AI Agent（智能体）正从预测走向执行，通过基于反射、基于模
 
 - AI Agent（智能体）正从预测走向执行，通过基于反射、基于模型、基于目标、基于效用和基于学习的方法采取实际行动，这些方法以可预测性换取适应性。
 - 合适的Agent取决于任务：简单Agent适合稳定、重复性工作，而动态环境可能需要规划或学习能力，但增加的自主性通常会提高风险和复杂性。
-- 最成功的生产级Agent是混合型，它们结合反射以确保安全、规划以提供灵活性、有限学习以实现适应，并通过治理、明确的权衡取舍和渐进式扩展来指导。
 
 AI Agent（智能体）正从新奇事物变为必需品。最初简单的自动化和基于聊天的助手，正在演变为能够观察环境、决定下一步行动并在真实工作流中采取行动的系统。这些Agent执行任务、调用工具、更新系统并影响那些曾经需要人类判断的决策。
 
@@ -461,74 +408,7 @@ AI Playground 是在 Databricks 上创建Agent的最简单方式。AI Playground
 
 Agent Bricks 是 Databricks 数据智能平台的一部分，可用于构建多种适用于生产环境的人工智能 Agent，这些 Agent 针对常见的企业用例进行了优化。主要支持的 Agent 类型包括：
 
-- **信息提取 Agent**：此类 Agent 可将非结构化文档（如 PDF、电子邮件、报告等）转换为结构化数据以供分析。
-- **知识助手 Agent**：此类 Agent 可创建一个高质量、可定制的聊天机器人，能够基于您组织的特定数据和文档（例如，人力资源政策、技术手册或产品文档）回答问题，并提供答案引用来源。
-- **自定义 LLM Agent**：此类 Agent 处理专门的文本生成和转换任务，例如总结客户通话、按主题分类内容、分析情感或生成符合品牌形象的营销内容。
-- **多 Agent 监督器**：此类 Agent 协调多个专门的 Agent（以及其他工具或 API），使其在复杂的多步骤工作流程中协同工作，例如将文档检索与合规性检查相结合。
-
-## 不错过任何 Databricks 内容
-
-- 面向高管
-- 面向初创公司
-- Lakehouse 架构
-- Mosaic 研究
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于 Databricks 构建
-- 咨询与系统集成商
-- C&SI 合作伙伴计划
-- 合作伙伴解决方案
-
-- 面向高管
-- 面向初创公司
-- Lakehouse 架构
-- Mosaic 研究
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于 Databricks 构建
-- 咨询与系统集成商
-- C&SI 合作伙伴计划
-- 合作伙伴解决方案
-
-- 培训
-- 认证
-- 免费版
-- 大学联盟
-- Databricks Academy 登录
-
-- Data + AI 峰会
-- Data + AI 全球巡展
-- 数据智能日
-- 活动日历
-
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- Champions of Data & AI 播客
-
-- 培训
-- 认证
-- 免费版
-- 大学联盟
-- Databricks Academy 登录
-
-- Data + AI 峰会
-- Data + AI 全球巡展
-- 数据智能日
-- 活动日历
-
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- Champions of Data & AI 播客
-
-查看 Databricks 的职位
-
-© Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
+##
 
 ---
 
