@@ -160,8 +160,6 @@ translated_at: '2026-01-10T04:15:34.640062'
     湖仓一体架构
     Mosaic 研究
 
--  客户案例
-
 -  合作伙伴
     云服务提供商
     Databricks 在 AWS、Azure、GCP 和 SAP 上的服务
@@ -177,16 +175,6 @@ translated_at: '2026-01-10T04:15:34.640062'
     寻找定制化行业与迁移解决方案
     基于 Databricks 构建
     构建、推广和发展您的业务
-
--  面向高管
-
--  面向初创企业
-
--  湖仓一体架构
-
--  Mosaic 研究
-
--  客户案例
 
 -  云服务提供商
     Databricks 在 AWS、Azure、GCP 和 SAP 上的服务
@@ -327,7 +315,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 - 探索加速器更快实现重要成果
 
-
 - 培训发现满足您需求的定制课程
 - Databricks 学院登录 Databricks 学习平台
 - 认证获得认可与区分
@@ -356,16 +343,8 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 - 安全与信任
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 在 Databricks 工作
 - 开放职位
-
-- 奖项与认可
-- 新闻中心
 
 - 安全与信任
 
@@ -384,16 +363,9 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 ## 了解 7‑Eleven 如何构建一个由 AI 驱动的技术员维护助手，该助手能在 Microsoft Teams 内直接提供来自维护手册、图表和图像的快速、准确答案。
 
-![How 7‑Eleven Transformed Maintenance Technician Knowledge Access with Databricks Agent Bricks](/images/posts/13b2d53f430b.png)
-
-![How 7‑Eleven Transformed Maintenance Technician Knowledge Access with Databricks Agent Bricks](/images/posts/13b2d53f430b.png)
-
-![How 7‑Eleven Transformed Maintenance Technician Knowledge Access with Databricks Agent Bricks](/images/posts/13b2d53f430b.png)
-
 发布日期：2026年1月9日
 
 作者：Sai Sandeep Kantareddy
-
 
 - 7‑Eleven 的技术员使用基于 Databricks 构建的 AI 驱动技术员维护助手，将维护文档搜索时间缩短了高达 60%。
 - 该解决方案通过即时文档访问、视觉部件识别以及与 Microsoft Teams 的集成，将首次修复率提高了 25%。
@@ -487,102 +459,25 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 探索Databricks AI解决方案
 
-
 ## 不错过任何一篇Databricks文章
-
-![MIT与Databricks报告](/images/posts/0162ea62a015.png)
-
-![MIT与Databricks报告](/images/posts/0162ea62a015.png)
-
-![MIT与Databricks报告](/images/posts/0162ea62a015.png)
 
 2023年10月16日 / 3分钟阅读
 
 #### CIO们如何为AI引领的增长奠定基础
 
-![AI在改变公司结构和动态中的作用](/images/posts/b0700da93c4a.png)
-
-![AI在改变公司结构和动态中的作用](/images/posts/b0700da93c4a.png)
-
-![AI在改变公司结构和动态中的作用](/images/posts/b0700da93c4a.png)
-
 2024年11月12日 / 9分钟阅读
 
 #### AI在改变公司结构和动态中的作用
 
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - 湖仓一体架构
 - Mosaic研究
 
-- 客户案例
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于Databricks构建
-- 咨询与系统集成商
-- C&SI合作伙伴计划
-- 合作伙伴解决方案
-
 - 面向高管
 - 面向初创公司
 - 湖仓一体架构
 - Mosaic研究
-
-- 客户案例
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于Databricks构建
-- 咨询与系统集成商
-- C&SI合作伙伴计划
-- 合作伙伴解决方案
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
 
 - 通信
 - 金融服务
@@ -593,9 +488,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 - 零售业
 - 查看全部
 
-- 网络安全
-- 市场营销
-
 - 通信
 - 金融服务
 - 医疗保健与生命科学
@@ -604,9 +496,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 - 公共部门
 - 零售业
 - 查看全部
-
-- 网络安全
-- 市场营销
 
 - 培训
 - 认证
@@ -640,45 +529,15 @@ translated_at: '2026-01-10T04:15:34.640062'
 - Data Brew播客
 - 数据与AI冠军播客
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 开放职位
 - 在Databricks工作
 
-- 奖项与认可
-- 新闻中心
-
 - 开放职位
 - 在Databricks工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.
-160 Spear Street, 15th Floor
-San Francisco, CA 94105
-1-866-330-0121
-
 
 查看Databricks的职业生涯
 
-
 © Databricks 2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache Software Foundation的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

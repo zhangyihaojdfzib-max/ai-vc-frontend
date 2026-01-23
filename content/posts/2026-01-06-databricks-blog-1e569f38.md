@@ -19,12 +19,6 @@ draft: false
 translated_at: '2026-01-07T03:12:32.193Z'
 ---
 
-![Instructed Retriever](/images/posts/4cca8fce96da.png)
-
-![Instructed Retriever](/images/posts/4cca8fce96da.png)
-
-![Instructed Retriever](/images/posts/4cca8fce96da.png)
-
 基于检索的智能体是许多关键任务型企业应用场景的核心。企业客户期望它们能够执行需要遵循特定用户指令、并在异构知识源中有效运作的推理任务。然而，传统检索增强生成（RAG）往往无法将细粒度的用户意图和知识源规范转化为精确的搜索查询。大多数现有解决方案实际上忽略了这个问题，直接采用现成的搜索工具。另一些则严重低估了这一挑战，仅依赖用于嵌入和重排的定制模型，而这些模型在表达能力上存在根本性限制。在本博客中，我们介绍**指令化检索器**——一种新颖的检索架构，它解决了RAG的局限性，并重新构想了智能体时代的搜索。接着，我们将阐述这种架构如何赋能更强大的基于检索的智能体，包括像**Agent Bricks: Knowledge Assistant**这样的系统，它们必须对复杂的企业数据进行推理并严格遵守用户指令。
 
 例如，考虑图1中的一个示例，用户询问一个虚构的FooBrand产品的电池寿命预期。此外，系统规范还包括关于时效性、需考虑的文档类型以及响应长度的指令。为了正确遵循系统规范，用户请求必须首先被转化为结构化的搜索查询，这些查询除了关键词外，还需包含适当的**列过滤器**。然后，必须基于用户指令，根据查询结果生成一个简洁的、有依据的响应。这种复杂且需要刻意遵循指令的过程，是仅关注用户查询的简单检索流程无法实现的。
@@ -57,19 +51,11 @@ translated_at: '2026-01-07T03:12:32.193Z'
 
 为了展示指令化检索器的优势，图2预览了其在一系列企业问答数据集上，与基于RAG的基线相比的性能表现。在这些复杂的基准测试中，与传统RAG相比，指令化检索器将性能提升了70%以上。指令化检索器甚至比基于RAG的多步智能体高出10%。将其作为工具整合到多步智能体中，与RAG相比，在减少执行步骤的同时，带来了额外的性能提升。
 
-![Figure 2. Comparing the response quality for instructed retriever and RAG, in both single-step and multi-step setup. RAG is implemented using Databricks Vector Search, and the multi-step agent is based on Claude Sonnet 4.](/images/posts/9067e2e583d4.png)
-
-![ Comparing the response quality for instructed retriever and RAG,](/images/posts/9067e2e583d4.png)
-
 在博客文章的其余部分，我们将讨论这种新颖的指令化检索器架构的设计与实现。我们将证明，指令化检索器在查询生成阶段实现了精确且稳健的指令遵循，从而显著提高了检索召回率。此外，我们展示了即使在小模型中，也可以通过离线强化学习来解锁这些查询生成能力。最后，我们进一步分解了指令化检索器在单步和多步智能体设置下的端到端性能。我们证明，与传统RAG架构相比，它始终能显著提升响应质量。
 
 ## 指令化检索器架构
 
 为了应对智能体检索系统中系统级推理的挑战，我们提出了一种新颖的**指令化检索器**架构，如图3所示。指令化检索器既可以在静态工作流中调用，也可以作为工具暴露给智能体。其关键创新在于，这种新架构提供了一种简化的方式，不仅能处理用户的即时查询，还能将系统规范的**全部内容**传播给检索和生成系统组件。这是对传统RAG流程的根本性转变，在传统流程中，系统规范（最多）可能影响初始查询，但随后便丢失了，迫使检索器和响应生成器在没有这些规范关键上下文的情况下运行。
-
-![Figure 3.The general Instructed Retriever architecture, which propagates both query and system specifications to both retrieval and response generation components, and enables new capabilities in each component.](/images/posts/5359c26f82e5.png)
-
-![Figure 3. The general Instructed Retriever architecture, which propagates both query and system specifications to both retrieval and response generation components, and enables new capabilities in each component.](/images/posts/5359c26f82e5.png)
 
 因此，系统规范是一组指导原则和指令，智能体必须遵循它们才能忠实地满足用户请求，这些规范可能包括：
 
@@ -109,12 +95,6 @@ StaRK-Instruct的结果如图4(a)所示。与原始查询基线相比，指令�
 
 为了进一步评估我们方法的泛化能力，我们还测量了在原始评估集StaRK-Amazon上的性能，该集合中的查询没有明确的元数据相关指令。如图4(b)所示，所有指令化查询生成方法在StaRK-Amazon上的召回率都比原始查询高出约10%，证实了指令遵循在无约束查询生成场景中同样有益。我们还观察到InstructedRetriever-4B的性能相比未微调的模型没有下降，这证实了针对结构化查询生成的专业化不会损害其通用查询生成能力。
 
-![StaRK-Instruct](/images/posts/f11076396f58.png)
-
-![图4. 在(a) StaRK-Instruct和(b) StaRK-Amazon的三类查询上的平均检索性能。指令化查询生成模型提供了显著的性能改进。离线RL使得能够以一小部分成本微调一个高效的InstructedRetriever-4B模型，使其性能与GPT-5和Claude-4.5模型相当。](/images/posts/addde67a165a.png)
-
-![StaRK-Amazon](/images/posts/addde67a165a.png)
-
 ## 在Agent Bricks中部署指令化检索器
 
 在上一节中，我们展示了使用指令遵循查询生成可以实现的检索质量显著提升。在本节中，我们进一步探讨指令化检索器作为生产级Agent检索系统一部分的实用性。具体来说，指令化检索器被部署在Agent Bricks知识助手中，这是一个问答聊天机器人，您可以向其提问，并基于提供的领域专业知识获得可靠的答案。
@@ -129,14 +109,6 @@ StaRK-Instruct的结果如图4(a)所示。与原始查询基线相比，指令�
 总体而言，我们可以看到所有系统在所有数据集上均持续优于简单的RAG基线，这反映了RAG在解释和一致执行多部分规范方面的不足。增加重排序阶段能改善结果，证明了事后相关性建模的益处。采用指令检索器架构实现的知识助手带来了进一步的提升，这表明在检索和生成的每个阶段持续贯彻系统规范——包括约束、排除项、时间偏好和元数据过滤器——至关重要。
 
 多步骤搜索智能体的效果持续优于单步骤检索工作流。此外，工具的选择也很重要——以知识助手作为工具比以RAG作为工具性能高出30%以上，且在所有数据集上均有一致的改进。有趣的是，它不仅提升了质量，在大多数数据集上还实现了更短的任务完成时间，平均减少了8%（图6）。
-
-![图5. 在五个基准数据集上比较自建RAG+重排序、Agent Bricks知识助手以及使用这两者作为工具的多步骤搜索智能体的响应质量（相对于RAG基线的提升百分比）。RAG+重排序使用Databricks向量搜索实现，多步骤智能体基于Claude Sonnet 4。](/images/posts/7b3a041c6e22.png)
-
-![在五个基准数据集上比较响应质量](/images/posts/7b3a041c6e22.png)
-
-![图6. 分别比较基于RAG或知识助手作为工具的多步骤智能体在五个基准数据集上的任务完成时间（秒）。](/images/posts/93375629f4db.png)
-
-![在五个基准数据集上比较任务完成时间（秒）](/images/posts/93375629f4db.png)
 
 构建可靠的企业智能体需要具备全面的指令遵循能力和系统级推理能力，以便从异构知识源中检索信息。为此，我们在本篇博客中提出了**指令检索器**架构，其核心创新在于将完整的系统规范——从指令到示例和索引模式——贯穿于搜索流程的每个阶段。
 

@@ -215,7 +215,6 @@ translated_at: '2026-01-20T04:48:41.332250'
         开源技术
             深入了解平台背后的创新
 
-
 - 通信
 - 媒体与娱乐
 - 金融服务
@@ -233,7 +232,6 @@ translated_at: '2026-01-20T04:48:41.332250'
 - 专业服务
 
 - 探索加速器更快实现重要成果
-
 
 - 培训发现满足您需求的定制课程
 - Databricks学院登录Databricks学习平台
@@ -263,16 +261,8 @@ translated_at: '2026-01-20T04:48:41.332250'
 
 - 安全与信任
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 在Databricks工作
 - 开放职位
-
-- 奖项与认可
-- 新闻中心
 
 - 安全与信任
 
@@ -289,14 +279,7 @@ translated_at: '2026-01-20T04:48:41.332250'
 
 # AI Agent（智能体）的类型：定义、角色与示例
 
-![Types of AI Agents: Definitions, Roles, and Examples](/images/posts/c3f2f99da41d.png)
-
-![Types of AI Agents: Definitions, Roles, and Examples](/images/posts/c3f2f99da41d.png)
-
-![Types of AI Agents: Definitions, Roles, and Examples](/images/posts/c3f2f99da41d.png)
-
 发布日期：2026年1月19日
-
 
 AI Agent（智能体）正从预测走向执行，通过基于反射、基于模型、基于目标、基于效用和基于学习的方法采取实际行动，这些方法以可预测性换取适应性。合适的Agent取决于任务：简单Agent适合稳定、重复性工作，而动态环境可能需要规划或学习能力，但增加的自主性通常会提高风险和复杂性。最成功的生产级Agent是混合型，它们结合反射以确保安全、规划以提供灵活性、有限学习以实现适应，并通过治理、明确的权衡取舍和渐进式扩展来指导。
 
@@ -483,21 +466,12 @@ Agent Bricks 是 Databricks 数据智能平台的一部分，可用于构建多�
 - **自定义 LLM Agent**：此类 Agent 处理专门的文本生成和转换任务，例如总结客户通话、按主题分类内容、分析情感或生成符合品牌形象的营销内容。
 - **多 Agent 监督器**：此类 Agent 协调多个专门的 Agent（以及其他工具或 API），使其在复杂的多步骤工作流程中协同工作，例如将文档检索与合规性检查相结合。
 
-
 ## 不错过任何 Databricks 内容
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - Lakehouse 架构
 - Mosaic 研究
-
-- 客户案例
 
 - 云提供商
 - 技术合作伙伴
@@ -512,8 +486,6 @@ Agent Bricks 是 Databricks 数据智能平台的一部分，可用于构建多�
 - Lakehouse 架构
 - Mosaic 研究
 
-- 客户案例
-
 - 云提供商
 - 技术合作伙伴
 - 数据合作伙伴
@@ -521,68 +493,6 @@ Agent Bricks 是 Databricks 数据智能平台的一部分，可用于构建多�
 - 咨询与系统集成商
 - C&SI 合作伙伴计划
 - 合作伙伴解决方案
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
 
 - 培训
 - 认证
@@ -615,48 +525,10 @@ Agent Bricks 是 Databricks 数据智能平台的一部分，可用于构建多�
 - Databricks Mosaic 研究博客
 - Data Brew 播客
 - Champions of Data & AI 播客
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看 Databricks 的职位
 
-
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

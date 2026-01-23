@@ -85,13 +85,7 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -178,13 +172,6 @@ C&SI 合作伙伴计划
 寻找定制行业与迁移解决方案
 基于 Databricks 构建
 构建、推广和发展您的业务
-
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
 
 - 云服务提供商
 Databricks 在 AWS、Azure、 GCP 和 SAP 上的服务
@@ -281,7 +268,6 @@ Databricks 定价
 - 开源技术
 深入了解平台背后的创新
 
-
 - 通信
 - 媒体与娱乐
 - 金融服务
@@ -299,7 +285,6 @@ Databricks 定价
 - 专业服务
 
 - 探索加速器更快实现重要成果
-
 
 - 培训发现满足您需求的定制课程
 - Databricks Academy登录Databricks学习平台
@@ -329,16 +314,8 @@ Databricks 定价
 
 - 安全与信任
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 在Databricks工作
 - 开放职位
-
-- 奖项与认可
-- 新闻中心
 
 - 安全与信任
 
@@ -357,16 +334,9 @@ Databricks 定价
 
 ## 领先金融机构如何利用Databricks实现合规自动化、降低成本并构建实时风险智能
 
-![BCBS 239 OG](/images/posts/5fbbf009bdc2.png)
-
-![BCBS 239 OG](/images/posts/5fbbf009bdc2.png)
-
-![BCBS 239 OG](/images/posts/5fbbf009bdc2.png)
-
 发布日期：2026年1月5日
 
 作者：Laurent Léturgez 与 Cyril Cymbler
-
 
 自动化BCBS 239合规：Databricks上的Agent Bricks和AI/BI Genie将人工工作量减少90%——加速审计、报告和整改。降低成本：开放格式和AI驱动的检查每年在存储、ETL和罚款方面节省2000万至1.1亿美元。面向未来的风险：一个平台既能处理当前的BCBS 239，也能扩展支持DORA、FRTB和Basel IV。
 
@@ -466,10 +436,6 @@ Databricks 的统一数据与 AI 平台帮助企业满足 BCBS 239 原则，同�
 
 在下图中，您将看到我们估算的在使用 Databricks 部署 BCBS 239 合规时，每项关键任务所节省的时间。
 
-![Source: Databricks 2025](/images/posts/ce1626526007.png)
-
-![speed comparison](/images/posts/ce1626526007.png)
-
 对于 CFO 和 CRO 而言，这意味着：
 *   节省数百万运营成本（减少用于手动检查的全职员工）。
 *   更快的监管响应（避免因延迟报告而被罚款）。
@@ -482,10 +448,6 @@ Databricks 的统一数据与 AI 平台帮助企业满足 BCBS 239 原则，同�
 ### 成本节约：现代合规的隐性投资回报率
 
 金融机构每年在 BCBS 239 合规上花费 5000 万至 2 亿美元。根据麦肯锡的报告，自动化和统一数据平台的好处主要与降低成本和提高资本效率相关，一流银行能将总合规成本降低 20-55%。使用 Databricks：
-
-![Source: Databricks 2025](/images/posts/417313d05519.png)
-
-![ROI of modern compliance](/images/posts/417313d05519.png)
 
 对于 CEO 和 CFO 而言，这意味着：
 *   直接成本节约（减少云支出，减少罚款）。
@@ -543,41 +505,20 @@ Databricks 和智能体 AI 带来：
 
 这就是为什么与有经验的团队合作至关重要。Databricks 专业服务团队和我们认证的迁移合作伙伴在按时、大规模交付高质量迁移方面拥有深厚经验。请联系我们，开始您的迁移评估。
 
-
 ## 不错过任何 Databricks 文章
-
-![ICE/NYSE: Unlocking Financial Insights with a Custom Text-to-SQL Application](/images/posts/c2d981ec63ef.png)
-
-![ICE/NYSE: Unlocking Financial Insights with a Custom Text-to-SQL Application](/images/posts/c2d981ec63ef.png)
-
-![ICE/NYSE: Unlocking Financial Insights with a Custom Text-to-SQL Application](/images/posts/c2d981ec63ef.png)
 
 2024年10月1日 / 阅读 10 分钟
 
 #### ICE/NYSE：通过定制化 Text-to-SQL 应用解锁金融洞察
 
-![Building a Cost-Optimized Chatbot with Semantic Caching](/images/posts/bc37c2ce679d.png)
-
-![Building a Cost-Optimized Chatbot with Semantic Caching](/images/posts/bc37c2ce679d.png)
-
-![Building a Cost-Optimized Chatbot with Semantic Caching](/images/posts/bc37c2ce679d.png)
-
 2024年10月24日 / 阅读 4 分钟
 
 #### 利用语义缓存构建成本优化的聊天机器人
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 -   面向高管
 -   面向初创公司
 -   Lakehouse 架构
 -   Mosaic 研究
-
--   客户案例
 
 -   云提供商
 -   技术合作伙伴
@@ -592,8 +533,6 @@ Databricks 和智能体 AI 带来：
 -   Lakehouse 架构
 -   Mosaic 研究
 
--   客户案例
-
 -   云提供商
 -   技术合作伙伴
 -   数据合作伙伴
@@ -602,74 +541,6 @@ Databricks 和智能体 AI 带来：
 -   C&SI 合作伙伴计划
 -   合作伙伴解决方案
 
--   平台概览
--   共享
--   治理
--   人工智能
--   商业智能
--   数据库
--   数据管理
--   数据仓库
--   数据工程
--   数据科学
--   应用开发
-
--   定价概览
--   定价计算器
-
--   市场
--   IDE 集成
--   合作伙伴连接
-
--   平台概览
--   共享
--   治理
--   人工智能
--   商业智能
--   数据库
--   数据管理
--   数据仓库
--   数据工程
--   数据科学
--   应用开发
-
--   定价概览
--   定价计算器
-
--   市场
--   IDE 集成
--   合作伙伴连接
-
--   通信
--   金融服务
--   医疗保健与生命科学
--   制造业
--   媒体与娱乐
--   公共部门
--   零售
--   查看全部
-
--   网络安全
--   市场营销
-
--   通信
--   金融服务
--   医疗保健与生命科学
--   制造业
--   媒体与娱乐
--   公共部门
--   零售
--   查看全部
-
--   网络安全
--   市场营销
-
--   培训
--   认证
--   免费版
--   大学联盟
--   Databricks 学院登录
-
 -   Data + AI 峰会
 -   Data + AI 全球巡展
 -   数据智能日
@@ -680,12 +551,6 @@ Databricks 和智能体 AI 带来：
 -   Data Brew 播客
 -   Champions of Data & AI 播客
 
--   培训
--   认证
--   免费版
--   大学联盟
--   Databricks 学院登录
-
 -   Data + AI 峰会
 -   Data + AI 全球巡展
 -   数据智能日
@@ -695,48 +560,10 @@ Databricks 和智能体 AI 带来：
 -   Databricks Mosaic 研究博客
 -   Data Brew 播客
 -   Champions of Data & AI 播客
-
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
--   开放职位
--   在 Databricks 工作
-
--   奖项与认可
--   新闻中心
-
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
--   开放职位
--   在 Databricks 工作
-
--   奖项与认可
--   新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看 Databricks 的职位
 
-
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
-
--   隐私声明
--   |使用条款
--   |现代奴隶制声明
--   |加州隐私
--   |您的隐私选择
 
 ---
 

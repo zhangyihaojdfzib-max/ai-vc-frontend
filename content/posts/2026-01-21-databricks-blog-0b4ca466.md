@@ -178,17 +178,11 @@ translated_at: '2026-01-23T04:45:24.477936'
 
 - 探索加速器加速实现关键成果
 
-
 - 培训发现满足您需求的定制课程
 - Databricks Academy登录Databricks学习平台
 - 认证获得认可与区分
 - 免费版免费学习专业数据与AI工具
 - 大学联盟想教授Databricks？了解详情。
-
-- Data + AI 峰会
-- Data + AI 全球巡演
-- AI 日
-- 活动日历
 
 - Databricks 博客探索新闻、产品公告等
 - Databricks Mosaic 研究博客发现我们生成式AI研究的最新进展
@@ -207,16 +201,8 @@ translated_at: '2026-01-23T04:45:24.477936'
 
 - 安全与信任
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 在Databricks工作
 - 开放职位
-
-- 奖项与认可
-- 新闻中心
 
 - 安全与信任
 
@@ -233,16 +219,9 @@ translated_at: '2026-01-23T04:45:24.477936'
 
 # Arctic Wolf 为 PB 级规模优化的液态集群架构
 
-![Arctic Wolf 的液态集群架构为 PB 级规模优化](/images/posts/0db8afe349bf.png)
-
-![Arctic Wolf 的液态集群架构为 PB 级规模优化](/images/posts/0db8afe349bf.png)
-
-![Arctic Wolf 的液态集群架构为 PB 级规模优化](/images/posts/0db8afe349bf.png)
-
 发布日期：2026年1月21日
 
 作者：Justin Lai, Rajneesh Arora, Krishan Kumar 和 Cindy Jiang
-
 
 -   Arctic Wolf 每天处理超过 1 万亿个安全事件，生成超过 2600 亿条丰富的观测数据，这些数据保存在 PB 级的 Delta Lake 中。我们的架构旨在提供对这些数据的近实时访问。
 -   我们最近迁移到在 Unity Catalog 托管表上使用液态集群，并结合预测性优化（PO），为我们分区的外部表补充了增量、工作负载感知的集群功能，以获得更好的查询性能。
@@ -292,102 +271,25 @@ Arctic Wolf迁移到液态聚类在性能、数据新鲜度和运营效率方面
 
 转向液态聚类和Unity Catalog托管表，消除了遗留的分区方案，减少了技术债务，并解锁了先进的治理和性能特性。凭借能够每日处理和查询**超过2600亿行**数据的架构，我们为来自所有这些来源的关键安全数据提供了更快、更高效的访问。结合我们7x24小时的Concierge Security®团队和实时威胁检测，这实现了更快速、更准确的威胁响应和缓解。这些差异化优势帮助我们的**客户**建立更强大、更敏捷的安全态势，并对Arctic Wolf保护其环境和支持业务持续成功的能力更有信心。
 
-
 ## 不错过任何Databricks文章
-
-![siem-blog-og](/images/posts/5e5f35b12bae.png)
-
-![siem-blog-og](/images/posts/5e5f35b12bae.png)
-
-![siem-blog-og](/images/posts/5e5f35b12bae.png)
 
 2022年2月4日 / 8分钟阅读
 
 #### OMB M-21-31：使用Databricks满足并超越传统SIEM的一种经济高效的替代方案
 
-![Announcing the General Availability of AWS GovCloud with FedRAMP High and Department of Defense IL5 Authorization](/images/posts/8401e3916806.png)
-
-![Announcing the General Availability of AWS GovCloud with FedRAMP High and Department of Defense IL5 Authorization](/images/posts/8401e3916806.png)
-
-![Announcing the General Availability of AWS GovCloud with FedRAMP High and Department of Defense IL5 Authorization](/images/posts/8401e3916806.png)
-
 2024年4月30日 / 4分钟阅读
 
 #### 宣布AWS GovCloud（具有FedRAMP High和美国国防部IL5授权）全面上市
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - 湖仓一体架构
 - Mosaic研究
 
-- 客户案例
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于Databricks构建
-- 咨询与系统集成商
-- C&SI合作伙伴计划
-- 合作伙伴解决方案
-
 - 面向高管
 - 面向初创公司
 - 湖仓一体架构
 - Mosaic研究
-
-- 客户案例
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于Databricks构建
-- 咨询与系统集成商
-- C&SI合作伙伴计划
-- 合作伙伴解决方案
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
 
 - 通信
 - 金融服务
@@ -398,9 +300,6 @@ Arctic Wolf迁移到液态聚类在性能、数据新鲜度和运营效率方面
 - 零售业
 - 查看全部
 
-- 网络安全
-- 市场营销
-
 - 通信
 - 金融服务
 - 医疗保健与生命科学
@@ -409,9 +308,6 @@ Arctic Wolf迁移到液态聚类在性能、数据新鲜度和运营效率方面
 - 公共部门
 - 零售业
 - 查看全部
-
-- 网络安全
-- 市场营销
 
 - 培训
 - 认证
@@ -445,48 +341,11 @@ Arctic Wolf迁移到液态聚类在性能、数据新鲜度和运营效率方面
 - Data Brew播客
 - 数据与AI冠军播客
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 开放职位
 - 在Databricks工作
 
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 开放职位
 - 在Databricks工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.
-160 Spear Street, 15th Floor
-San Francisco, CA 94105
-1-866-330-0121
-
-
-查看 Databricks 的招聘职位
-
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

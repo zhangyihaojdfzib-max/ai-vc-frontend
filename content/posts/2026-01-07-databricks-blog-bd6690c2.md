@@ -85,13 +85,7 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -178,13 +172,6 @@ C&SI 合作伙伴计划
 寻找定制行业与迁移解决方案
 基于 Databricks 构建
 构建、推广和发展您的业务
-
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
 
 - 云服务提供商
 Databricks 在 AWS、Azure、GCP 和 SAP 上的服务
@@ -342,7 +329,6 @@ Databricks 定价
 
 -   探索加速器更快地实现重要成果
 
-
 -   培训发现满足您需求的定制课程
 -   Databricks 学院登录 Databricks 学习平台
 -   认证获得认可与区分
@@ -371,16 +357,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在 Databricks 工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -402,7 +380,6 @@ Databricks 定价
 发布日期：2026年1月7日
 
 作者：Ravi Gawai 和 Phoebe Weiser
-
 
 扩展数据管道会带来开销、逻辑漂移以及团队间逻辑不一致的问题。这些差距会拖慢交付速度、增加维护成本，并使得执行共享标准变得困难。本篇博客展示了元数据驱动的元编程如何消除重复，并大规模构建一致的自动化数据管道。
 
@@ -534,10 +511,6 @@ DLT-META在运行时构建并执行管道逻辑。
 
 输出是生产就绪的青铜层和白银层表，并自动应用了一致的转换、质量规则和血缘关系。
 
-![使用DLT-META启动的Spark声明式管道示例](/images/posts/3c13626574fb.png)
-
-![使用DLT-META启动的Spark声明式管道示例](/images/posts/3c13626574fb.png)
-
 开始使用，我们建议使用您现有的Spark声明式管道和少量数据源进行概念验证，将管道逻辑迁移到元数据，并让DLT-META进行大规模编排。从一个小的概念验证开始，观察元数据驱动的元编程如何将您的数据工程能力扩展到您认为可能的范围之外。
 
 - 入门指南：https://github.com/databrickslabs/DLT-META#getting-started
@@ -547,102 +520,25 @@ DLT-META在运行时构建并执行管道逻辑。
 - 演示：databrickslabs.github.io/DLT-META/demo
 - 最新版本：https://github.com/databrickslabs/DLT-META/releases
 
-
 ## 不错过任何Databricks文章
-
-![为无服务器计算将Databricks虚拟机启动速度提升7倍](/images/posts/6ee6ae17dfac.png)
-
-![为无服务器计算将Databricks虚拟机启动速度提升7倍](/images/posts/6ee6ae17dfac.png)
-
-![为无服务器计算将Databricks虚拟机启动速度提升7倍](/images/posts/6ee6ae17dfac.png)
 
 2024年11月26日 / 9分钟阅读
 
 #### 为无服务器计算将Databricks虚拟机启动速度提升7倍
 
-![用于部署和管理微调LLaMA模型的Mosaic AI模型服务仪表板。](/images/posts/c17c6300ff0c.png)
-
-![用于部署和管理微调LLaMA模型的Mosaic AI模型服务仪表板。](/images/posts/c17c6300ff0c.png)
-
-![用于部署和管理微调LLaMA模型的Mosaic AI模型服务仪表板。](/images/posts/c17c6300ff0c.png)
-
 2024年12月10日 / 7分钟阅读
 
 #### 使用Mosaic AI模型服务对微调的Llama模型进行批量推理
 
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - Lakehouse架构
 - Mosaic研究
 
-- 客户案例
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于Databricks构建
-- 咨询与系统集成商
-- C&SI合作伙伴计划
-- 合作伙伴解决方案
-
 - 面向高管
 - 面向初创公司
 - Lakehouse架构
 - Mosaic研究
-
-- 客户案例
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于Databricks构建
-- 咨询与系统集成商
-- C&SI合作伙伴计划
-- 合作伙伴解决方案
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
 
 - 通信
 - 金融服务
@@ -653,21 +549,6 @@ DLT-META在运行时构建并执行管道逻辑。
 - 零售业
 - 查看全部
 
-- 网络安全
-- 市场营销
-
--   通信
--   金融服务
--   医疗保健与生命科学
--   制造业
--   媒体与娱乐
--   公共部门
--   零售
--   查看全部
-
--   网络安全
--   市场营销
-
 -   培训
 -   认证
 -   免费版
@@ -699,51 +580,10 @@ DLT-META在运行时构建并执行管道逻辑。
 -   Databricks Mosaic 研究博客
 -   Data Brew 播客
 -   Champions of Data & AI 播客
-
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
--   开放职位
--   在 Databricks 工作
-
--   奖项与认可
--   新闻中心
-
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
--   开放职位
--   在 Databricks 工作
-
--   奖项与认可
--   新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.
-160 Spear Street, 15th Floor
-San Francisco, CA 94105
-1-866-330-0121
-
 
 查看 Databricks 的职位
 
-
 © Databricks 2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 以及 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
-
--   隐私声明
--   |使用条款
--   |现代奴隶制声明
--   |加州隐私
--   |您的隐私选择
 
 ---
 

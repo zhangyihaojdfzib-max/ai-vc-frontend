@@ -85,13 +85,7 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -178,13 +172,6 @@ C&SI 合作伙伴计划
 寻找定制行业与迁移解决方案
 基于 Databricks 构建
 构建、营销和发展您的业务
-
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
 
 - 云服务提供商
 Databricks 在 AWS、Azure、GCP 和 SAP 上
@@ -306,7 +293,6 @@ Databricks 定价
 
 -   探索加速器更快实现关键成果
 
-
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录 Databricks 学习平台
 -   认证获得认可与区分
@@ -335,16 +321,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在 Databricks 工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -362,12 +340,6 @@ Databricks 定价
 # 构建您的 AI 技能组合：通过 Databricks 认证加速您的职业生涯
 
 ## 在数据与 AI 时代，从业者如何脱颖而出
-
-![Dais 认证](/images/posts/d6bddae48913.png)
-
-![Dais 认证](/images/posts/d6bddae48913.png)
-
-![Dais 认证](/images/posts/d6bddae48913.png)
 
 发布日期：2026年1月15日
 
@@ -431,44 +403,16 @@ Data Science Lab 的数据工程主管 Claudia Sulsters 指出，这种信任建
 
 立即开始学习，定义您在数据与 AI 领域的职业生涯。
 
-
 ## 不错过任何 Databricks 文章
-
-![db-273-blog-img-og](/images/posts/98edfe6d905e.png)
-
-![db-273-blog-img-og](/images/posts/98edfe6d905e.png)
-
-![db-273-blog-img-og](/images/posts/98edfe6d905e.png)
 
 2022年7月21日 / 5 分钟阅读
 
 #### 湖仓一体架构如何助力 Rogers Communications 实现收入保障现代化
 
-![Mastering Multimodal AI with Twelve Labs and Databricks](/images/posts/6e9482c1bb74.png)
-
-![Mastering Multimodal AI with Twelve Labs and Databricks](/images/posts/6e9482c1bb74.png)
-
-![Mastering Multimodal AI with Twelve Labs and Databricks](/images/posts/6e9482c1bb74.png)
-
-媒体与娱乐
-
 2024年8月29日 / 17 分钟阅读
 
 #### Twelve Labs：掌握多模态 AI 以实现高级视频理解
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
-
 - 云提供商
 - 技术合作伙伴
 - 数据合作伙伴
@@ -477,13 +421,6 @@ Data Science Lab 的数据工程主管 Claudia Sulsters 指出，这种信任建
 - C&SI 合作伙伴计划
 - 合作伙伴解决方案
 
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
-
 - 云提供商
 - 技术合作伙伴
 - 数据合作伙伴
@@ -491,44 +428,6 @@ Data Science Lab 的数据工程主管 Claudia Sulsters 指出，这种信任建
 - 咨询与系统集成商
 - C&SI 合作伙伴计划
 - 合作伙伴解决方案
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
 
 - 通信
 - 金融服务
@@ -539,9 +438,6 @@ Data Science Lab 的数据工程主管 Claudia Sulsters 指出，这种信任建
 - 零售业
 - 查看全部
 
-- 网络安全
-- 市场营销
-
 - 通信
 - 金融服务
 - 医疗保健与生命科学
@@ -550,9 +446,6 @@ Data Science Lab 的数据工程主管 Claudia Sulsters 指出，这种信任建
 - 公共部门
 - 零售业
 - 查看全部
-
-- 网络安全
-- 市场营销
 
 - 培训
 - 认证
@@ -565,11 +458,6 @@ Data Science Lab 的数据工程主管 Claudia Sulsters 指出，这种信任建
 - 数据智能日
 - 活动日历
 
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
 - 培训
 - 认证
 - 免费版
@@ -581,52 +469,15 @@ Data Science Lab 的数据工程主管 Claudia Sulsters 指出，这种信任建
 - 数据智能日
 - 活动日历
 
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 职位空缺
 - 在 Databricks 工作
 
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 职位空缺
 - 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看 Databricks 的职位
 
-
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

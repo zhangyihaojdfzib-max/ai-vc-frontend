@@ -154,7 +154,6 @@ translated_at: '2026-01-23T04:45:01.635432'
     安全与信任
         安全与信任
 
-
 -   通信
 -   媒体与娱乐
 -   金融服务
@@ -172,7 +171,6 @@ translated_at: '2026-01-23T04:45:01.635432'
 -   专业服务
 
 -   探索加速器更快实现重要成果
-
 
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
@@ -202,16 +200,8 @@ translated_at: '2026-01-23T04:45:01.635432'
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在Databricks工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -227,12 +217,6 @@ translated_at: '2026-01-23T04:45:01.635432'
 3.  /文章
 
 # 宣布BlackIce：用于AI安全测试的容器化红队工具包
-
-![Announcing BlackIce: A Containerized Red Teaming Toolkit for AI Security Testing](/images/posts/8457e65b6aa4.png)
-
-![Announcing BlackIce: A Containerized Red Teaming Toolkit for AI Security Testing](/images/posts/8457e65b6aa4.png)
-
-![Announcing BlackIce: A Containerized Red Teaming Toolkit for AI Security Testing](/images/posts/8457e65b6aa4.png)
 
 发布日期：2026年1月21日
 
@@ -274,41 +258,20 @@ BlackIce镜像可在Databricks的Docker Hub上获取，当前版本可以使用�
 
 有关工具选择过程和 Docker 镜像架构的更多详细信息，请参阅我们的 CAMLIS 红皮书。
 
-
 ## 不错过任何 Databricks 动态
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
 
 2024年11月20日 / 阅读 4 分钟
 
 #### 统计预测优化功能发布
 
-![How to present and share your Notebook insights in AI/BI Dashboards](/images/posts/5cc2f5e4940f.png)
-
-![How to present and share your Notebook insights in AI/BI Dashboards](/images/posts/5cc2f5e4940f.png)
-
-![How to present and share your Notebook insights in AI/BI Dashboards](/images/posts/5cc2f5e4940f.png)
-
 2024年11月21日 / 阅读 3 分钟
 
 #### 如何在 AI/BI 仪表板中呈现和共享 Notebook 洞察
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - 湖仓一体架构
 - Mosaic 研究
-
-- 客户案例
 
 - 云提供商
 - 技术合作伙伴
@@ -323,8 +286,6 @@ BlackIce镜像可在Databricks的Docker Hub上获取，当前版本可以使用�
 - 湖仓一体架构
 - Mosaic 研究
 
-- 客户案例
-
 - 云提供商
 - 技术合作伙伴
 - 数据合作伙伴
@@ -333,141 +294,19 @@ BlackIce镜像可在Databricks的Docker Hub上获取，当前版本可以使用�
 - C&SI 合作伙伴计划
 - 合作伙伴解决方案
 
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 培训
-- 认证
-- 免费版
-- 大学联盟
-- Databricks 学院登录
-
 - Data + AI 峰会
 - Data + AI 全球巡展
 - AI 日
 - 活动日历
 
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 培训
-- 认证
-- 免费版
-- 大学联盟
-- Databricks 学院登录
-
 - Data + AI 峰会
 - Data + AI 全球巡展
 - AI 日
 - 活动日历
-
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看 Databricks 的职位
 
-
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache 软件基金会的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

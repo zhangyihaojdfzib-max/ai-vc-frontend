@@ -153,7 +153,6 @@ translated_at: '2026-01-06T18:15:23.225Z'
     安全与信任
         安全与信任
 
-
 -   通信
 -   媒体与娱乐
 -   金融服务
@@ -171,7 +170,6 @@ translated_at: '2026-01-06T18:15:23.225Z'
 -   专业服务
 
 -   探索加速器更快实现重要成果
-
 
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
@@ -201,16 +199,8 @@ translated_at: '2026-01-06T18:15:23.225Z'
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在Databricks工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -228,12 +218,6 @@ translated_at: '2026-01-06T18:15:23.225Z'
 # 2025年Databricks湖仓一体平台上的SQL
 
 ## 更快、更智能、免维护
-
-![DBSQL性能OG](/images/posts/740350e8f357.png)
-
-![DBSQL性能OG](/images/posts/740350e8f357.png)
-
-![DBSQL性能OG](/images/posts/740350e8f357.png)
 
 发布日期：2025年12月17日
 
@@ -392,35 +376,16 @@ Databricks SQL作为AI原生、运维就绪的数据仓库，继续引领市场�
 
 准备好改造您的数据仓库了吗？最好的数据仓库就是湖仓！要了解更多关于Databricks SQL的信息，请参加产品导览。访问databricks.com/sql探索Databricks SQL，了解全球组织如何革新其数据平台。
 
-
 ## 不错过任何Databricks帖子
-
-![统计预测性优化简介](/images/posts/ab77da589535.png)
-
-![统计预测性优化简介](/images/posts/ab77da589535.png)
-
-![统计预测性优化简介](/images/posts/ab77da589535.png)
 
 2024年11月20日 / 阅读4分钟
 
 #### 统计预测性优化简介
 
-![如何在AI/BI仪表板中呈现和分享您的Notebook见解](/images/posts/5cc2f5e4940f.png)
-
-![如何在AI/BI仪表板中呈现和分享您的Notebook见解](/images/posts/5cc2f5e4940f.png)
-
-![如何在AI/BI仪表板中呈现和分享您的Notebook见解](/images/posts/5cc2f5e4940f.png)
-
 2024年11月21日 / 阅读3分钟
 
 #### 如何在AI/BI仪表板中呈现和分享你的Notebook洞察
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 *   面向高管
 *   面向初创公司
 *   Lakehouse架构
@@ -450,18 +415,6 @@ Databricks SQL作为AI原生、运维就绪的数据仓库，继续引领市场�
 *   咨询与系统集成商
 *   C&SI合作伙伴计划
 *   合作伙伴解决方案
-
-*   平台概览
-*   共享
-*   治理
-*   人工智能
-*   商业智能
-*   数据库
-*   数据管理
-*   数据仓库
-*   数据工程
-*   数据科学
-*   应用开发
 
 *   定价概览
 *   定价计算器
@@ -469,18 +422,6 @@ Databricks SQL作为AI原生、运维就绪的数据仓库，继续引领市场�
 *   市场
 *   IDE集成
 *   合作伙伴连接
-
-*   平台概览
-*   共享
-*   治理
-*   人工智能
-*   商业智能
-*   数据库
-*   数据管理
-*   数据仓库
-*   数据工程
-*   数据科学
-*   应用开发
 
 *   定价概览
 *   定价计算器
@@ -513,67 +454,19 @@ Databricks SQL作为AI原生、运维就绪的数据仓库，继续引领市场�
 *   网络安全
 *   市场营销
 
-*   培训
-*   认证
-*   免费版
-*   大学联盟
-*   Databricks学院登录
+*   Data + AI峰会
+*   Data + AI全球巡演
+*   数据智能日
+*   活动日历
+
+*   Champions of Data & AI播客
 
 *   Data + AI峰会
 *   Data + AI全球巡演
 *   数据智能日
 *   活动日历
 
-*   Databricks博客
-*   Databricks Mosaic研究博客
-*   Data Brew播客
 *   Champions of Data & AI播客
-
-*   培训
-*   认证
-*   免费版
-*   大学联盟
-*   Databricks学院登录
-
-*   Data + AI峰会
-*   Data + AI全球巡演
-*   数据智能日
-*   活动日历
-
-*   Databricks博客
-*   Databricks Mosaic研究博客
-*   Data Brew播客
-*   Champions of Data & AI播客
-
-*   关于我们
-*   我们的团队
-*   Databricks Ventures
-*   联系我们
-
-*   开放职位
-*   在Databricks工作
-
-*   奖项与认可
-*   新闻中心
-
-*   关于我们
-*   我们的团队
-*   Databricks Ventures
-*   联系我们
-
-*   开放职位
-*   在Databricks工作
-
-*   奖项与认可
-*   新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
 *   
 *   
@@ -592,13 +485,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 *   
 
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache Software Foundation的商标。
-
-*   隐私声明
-*   |使用条款
-*   |现代奴隶制声明
-*   |加州隐私
-*   |您的隐私选择
-*
 
 ---
 

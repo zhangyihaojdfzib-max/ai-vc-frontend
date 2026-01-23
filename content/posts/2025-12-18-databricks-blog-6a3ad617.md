@@ -84,13 +84,7 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -177,13 +171,6 @@ C&SI 合作伙伴计划
 寻找定制行业与迁移解决方案
 基于 Databricks 构建
 构建、营销和发展您的业务
-
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
 
 - 云服务提供商
 Databricks 在 AWS、Azure、 GCP 和 SAP 上的服务
@@ -280,7 +267,6 @@ Databricks 定价
 - 开源技术
 深入了解平台背后的创新
 
-
 -   通信
 -   媒体与娱乐
 -   金融服务
@@ -298,7 +284,6 @@ Databricks 定价
 -   专业服务
 
 -   探索加速器更快实现重要成果
-
 
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
@@ -328,16 +313,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在Databricks工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -355,12 +332,6 @@ Databricks 定价
 # Databricks空间连接现开箱即用提速17倍
 
 ## 原生空间SQL现无需调优或代码更改即可实现更快的空间连接
-
-![spatial joins on SQL Serverless with 17x improvement](/images/posts/d1be22de38f2.png)
-
-![spatial joins on SQL Serverless with 17x improvement](/images/posts/d1be22de38f2.png)
-
-![spatial joins on SQL Serverless with 17x improvement](/images/posts/d1be22de38f2.png)
 
 发布日期：2025年12月18日
 
@@ -381,10 +352,6 @@ Databricks 定价
 ## 使用Databricks SQL Serverless，空间连接提速高达17倍
 
 我们很高兴地宣布，与安装了Apache Sedona¹的经典集群相比，**每位使用内置空间SQL进行空间连接的客户，都将看到高达17倍的性能提升**。所有使用**Databricks SQL Serverless**和Databricks Runtime (DBR) 17.3的经典集群的客户均可获得此性能改进。如果您已经在使用Databricks内置的空间谓词，如`ST_Intersects`或`ST_Contains`，则无需更改代码。
-
-![Databricks relative performance for large scale data is up to 17x faster than Sedona, out-of-the-box.Apache Sedona 1.7 was not compatible with DBR 17.x at the time of the benchmarks, DBR 16.4 was used.](/images/posts/3b668f7854a9.png)
-
-![spatial joins speed up 17x](/images/posts/3b668f7854a9.png)
 
 运行空间连接面临独特的挑战，其性能受多种因素影响。地理空间数据集通常高度倾斜，例如密集的城市区域和稀疏的农村地区，并且几何复杂度差异很大，例如复杂的挪威海岸线与科罗拉多州简单的边界。即使在高效的文件剪枝之后，剩余的连接候选对象仍然需要计算密集型的几何操作。这正是Databricks的闪光点。
 
@@ -440,41 +407,20 @@ Databricks 持续根据客户需求添加新的空间表达式。以下是自公
 
 立即在 Databricks SQL 上运行您的下一个空间查询——看看您的空间连接能有多快。要了解更多关于空间 SQL 函数的信息，请参阅 SQL 和 Pyspark 文档。有关 Databricks SQL 的更多信息，请查看网站、产品导览和 Databricks 免费版。如果您想将现有数据仓库迁移到具有卓越用户体验和更低总成本的高性能、无服务器数据仓库，那么 Databricks SQL 就是解决方案——免费试用。
 
-
 ## 不错过任何 Databricks 动态
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
 
 2024年11月20日 / 4 分钟阅读
 
 #### 推出用于统计的预测性优化
 
-![How to present and share your Notebook insights in AI/BI Dashboards](/images/posts/5cc2f5e4940f.png)
-
-![How to present and share your Notebook insights in AI/BI Dashboards](/images/posts/5cc2f5e4940f.png)
-
-![How to present and share your Notebook insights in AI/BI Dashboards](/images/posts/5cc2f5e4940f.png)
-
 2024年11月21日 / 3 分钟阅读
 
 #### 如何在 AI/BI 仪表板中呈现和分享您的 Notebook 洞察
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - 湖仓一体架构
 - Mosaic 研究
-
-- 客户案例
 
 - 云提供商
 - 技术合作伙伴
@@ -489,8 +435,6 @@ Databricks 持续根据客户需求添加新的空间表达式。以下是自公
 - 湖仓一体架构
 - Mosaic 研究
 
-- 客户案例
-
 - 云提供商
 - 技术合作伙伴
 - 数据合作伙伴
@@ -499,43 +443,14 @@ Databricks 持续根据客户需求添加新的空间表达式。以下是自公
 - C&SI 合作伙伴计划
 - 合作伙伴解决方案
 
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
+- 通信
+- 金融服务
+- 医疗保健与生命科学
+- 制造业
+- 媒体与娱乐
+- 公共部门
+- 零售业
+- 查看全部
 
 - 通信
 - 金融服务
@@ -546,94 +461,19 @@ Databricks 持续根据客户需求添加新的空间表达式。以下是自公
 - 零售业
 - 查看全部
 
-- 网络安全
-- 市场营销
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售业
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 培训
-- 认证
-- 免费版
-- 大学联盟
-- Databricks 学院登录
-
 - Data + AI 峰会
 - Data + AI 全球巡展
 - 数据智能日
 - 活动日历
 
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 培训
-- 认证
-- 免费版
-- 大学联盟
-- Databricks 学院登录
-
 - Data + AI 峰会
 - Data + AI 全球巡展
 - 数据智能日
 - 活动日历
-
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看 Databricks 的职业生涯
 
-
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

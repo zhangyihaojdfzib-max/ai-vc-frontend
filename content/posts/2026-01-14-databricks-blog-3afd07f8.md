@@ -84,13 +84,7 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -177,13 +171,6 @@ C&SI 合作伙伴计划
 寻找定制行业与迁移解决方案
 基于 Databricks 构建
 构建、营销和发展您的业务
-
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
 
 - 云服务提供商
 Databricks 在 AWS、Azure、GCP 和 SAP 上
@@ -305,7 +292,6 @@ Databricks 定价
 
 -   探索加速器更快实现关键成果
 
-
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
 -   认证获得认可与区分
@@ -334,16 +320,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在Databricks工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -362,14 +340,7 @@ Databricks 定价
 
 ## 零售业AI原生算法解决方案的先驱Algonomy宣布与Databricks建立 "Built On" 合作伙伴关系。
 
-![Algonomy + Databricks Built On Partnership for RetailAI](/images/posts/de582ebf1bde.png)
-
-![Algonomy + Databricks Built On Partnership for RetailAI](/images/posts/de582ebf1bde.png)
-
-![Algonomy + Databricks Built On Partnership for RetailAI](/images/posts/de582ebf1bde.png)
-
 发布日期：2026年1月14日
-
 
 RetailAI引入了智能体驱动的对话式规划体验，彻底改变了预测、补货、定价、分配和物流等领域的传统GUI驱动工作流。该平台原生构建于Databricks数据智能平台之上，在可信的数据基础上提供受治理、可扩展的预测性、规范性和智能体AI。此次合作结合了Algonomy深厚的零售领域专业知识与Databricks的企业级数据、AI和治理能力，加速了价值实现时间。
 
@@ -399,43 +370,20 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 
 “当今的零售商面临着巨大的压力，需要根据快速变化的消费者需求来转型业务。RetailAI 为他们提供了一个强大的平台来推动这一转型，它将 Algonomy 深厚的零售领域专业知识与 Databricks 数据智能平台的智能和规模相结合。”Databricks 消费行业合作伙伴生态系统负责人 Bryan Smith 表示。“这种合作伙伴关系使零售商能够从被动规划转向由 Agent（智能体）AI 驱动的、以结果为导向的预测性战略——提供当今市场所需的速度和精度。”
 
-
 ## 不错过任何一篇 Databricks 文章
-
-![自动化工作流如何革新制造业](/images/posts/40d9e92dd935.png)
-
-![自动化工作流如何革新制造业](/images/posts/40d9e92dd935.png)
-
-![自动化工作流如何革新制造业](/images/posts/40d9e92dd935.png)
 
 2024年11月27日 / 阅读 6 分钟
 
 #### 自动化工作流如何革新制造业
 
-![通过 Databricks 与 The Virtue Foundation 提升全球健康水平](/images/posts/596b5527cd9c.png)
-
-![通过 Databricks 与 The Virtue Foundation 提升全球健康水平](/images/posts/596b5527cd9c.png)
-
-![通过 Databricks 与 The Virtue Foundation 提升全球健康水平](/images/posts/596b5527cd9c.png)
-
-医疗保健与生命科学
-
 2024年12月19日 / 阅读 5 分钟
 
 #### 通过 Databricks 与 The Virtue Foundation 提升全球健康水平
 
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - Lakehouse 架构
 - Mosaic 研究
-
-- 客户案例
 
 - 云提供商
 - 技术合作伙伴
@@ -450,8 +398,6 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 - Lakehouse 架构
 - Mosaic 研究
 
-- 客户案例
-
 - 云提供商
 - 技术合作伙伴
 - 数据合作伙伴
@@ -460,68 +406,6 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 - C&SI 合作伙伴计划
 - 合作伙伴解决方案
 
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
 - 培训
 - 认证
 - 免费版
@@ -533,11 +417,6 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 - 数据智能日
 - 活动日历
 
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
 - 培训
 - 认证
 - 免费版
@@ -548,53 +427,10 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 - Data + AI 全球巡演
 - 数据智能日
 - 活动日历
-
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-![databricks 徽标](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看 Databricks 的职位
 
-
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

@@ -178,7 +178,6 @@ translated_at: '2026-01-21T04:44:02.852577'
 
 - 探索加速器更快实现关键成果
 
-
 - 培训发现满足您需求的定制课程
 - Databricks Academy登录Databricks学习平台
 - 认证获得认可与区分度
@@ -207,16 +206,8 @@ translated_at: '2026-01-21T04:44:02.852577'
 
 - 安全与信任
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 在Databricks工作
 - 开放职位
-
-- 奖项与认可
-- 新闻中心
 
 - 安全与信任
 
@@ -235,16 +226,9 @@ translated_at: '2026-01-21T04:44:02.852577'
 
 ## 自动化您的SAS到Databricks迁移
 
-![Alchemist SAS to Databricks Migrations](/images/posts/8fd9bc88023e.png)
-
-![Alchemist SAS to Databricks Migrations](/images/posts/8fd9bc88023e.png)
-
-![Alchemist SAS to Databricks Migrations](/images/posts/8fd9bc88023e.png)
-
 发布日期：2026年1月21日
 
 作者：Dmitriy Alkhimov 和 Aaron Zavora
-
 
 Alchemist是一个全面的SAS到Databricks迁移加速器，它结合了深厚的传统技术专长与现代AI能力。该解决方案既是一个分析器——提供关于代码复杂性和依赖关系的详细洞察，也是一个转译器，它利用大语言模型（LLMs）实现从SAS EG和.spk等格式到PySpark接近100%的代码转换。Alchemist确保企业不仅能实现代码现代化，还能快速成功地将业务流程和团队过渡到Databricks平台。
 
@@ -433,33 +417,13 @@ Alchemist 的技术先进性与我们成熟的方法论相结合，持续带来�
 
 ## 不错过任何 Databricks 动态
 
-![Providence Health: Scaling ML/AI Projects with Databricks Mosaic AI](/images/posts/88d1810f1d75.png)
-
-![Providence Health: Scaling ML/AI Projects with Databricks Mosaic AI](/images/posts/88d1810f1d75.png)
-
-![Providence Health: Scaling ML/AI Projects with Databricks Mosaic AI](/images/posts/88d1810f1d75.png)
-
-医疗保健与生命科学
-
 2024年11月14日 / 2 分钟阅读
 
 #### Providence Health：使用 Databricks Mosaic AI 扩展 ML/AI 项目
 
-![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
-
-![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
-
-![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
-
 2024年12月19日 / 5 分钟阅读
 
 #### 携手 Databricks 与 The Virtue Foundation 提升全球健康水平
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
 
 *   面向高管
 *   面向初创公司
@@ -510,49 +474,6 @@ Alchemist 的技术先进性与我们成熟的方法论相结合，持续带来�
 *   IDE 集成
 *   合作伙伴连接
 
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
 - 培训
 - 认证
 - 免费版
@@ -585,47 +506,15 @@ Alchemist 的技术先进性与我们成熟的方法论相结合，持续带来�
 - Data Brew播客
 - 数据与AI冠军播客
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 开放职位
 - 在Databricks工作
 
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 开放职位
 - 在Databricks工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看Databricks的招聘职位
 
-
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache软件基金会的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

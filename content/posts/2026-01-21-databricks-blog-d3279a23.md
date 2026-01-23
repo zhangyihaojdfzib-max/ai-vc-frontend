@@ -84,13 +84,7 @@ Databricks 定价
 
 -   解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -177,13 +171,6 @@ C&SI 合作伙伴计划
 寻找定制化行业与迁移解决方案
 基于 Databricks 构建
 构建、推广和发展您的业务
-
--   面向高管
--   面向初创企业
--   湖仓一体架构
--   Mosaic 研究
-
--   客户案例
 
 -   云服务提供商
 Databricks 在 AWS、Azure、 GCP 和 SAP 上的服务
@@ -305,7 +292,6 @@ Databricks 定价
 
 -   探索加速器更快实现关键成果
 
-
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
 -   认证获得认可与区分
@@ -334,16 +320,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在Databricks工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -361,12 +339,6 @@ Databricks 定价
 # Databricks 的高可用性功能开关
 
 ## 我们如何为 Databricks 的全球基础设施构建零停机功能开关系统
-
-![Databricks 的高可用性功能开关](/images/posts/21f3d24e04d2.png)
-
-![Databricks 的高可用性功能开关](/images/posts/21f3d24e04d2.png)
-
-![Databricks 的高可用性功能开关](/images/posts/21f3d24e04d2.png)
 
 发布日期：2026年1月21日
 
@@ -529,200 +501,39 @@ SAFE现已成为Databricks内部一个成熟的平台，并被广泛使用。我
 
 如果您对扩展此类关键任务基础设施感兴趣，请探索Databricks的开放职位！
 
-
 ## 不错过任何Databricks文章
-
-![Booting Databricks VMs 7x Faster for Serverless Compute](/images/posts/6ee6ae17dfac.png)
-
-![Booting Databricks VMs 7x Faster for Serverless Compute](/images/posts/6ee6ae17dfac.png)
-
-![Booting Databricks VMs 7x Faster for Serverless Compute](/images/posts/6ee6ae17dfac.png)
 
 2024年11月26日 / 9分钟阅读
 
 #### 为无服务器计算实现Databricks虚拟机启动速度提升7倍
 
-![Mosaic AI Model Serving dashboard for deploying and managing fine-tuned LLaMA models.](/images/posts/c17c6300ff0c.png)
-
-![Mosaic AI Model Serving dashboard for deploying and managing fine-tuned LLaMA models.](/images/posts/c17c6300ff0c.png)
-
-![Mosaic AI Model Serving dashboard for deploying and managing fine-tuned LLaMA models.](/images/posts/c17c6300ff0c.png)
-
 2024年12月10日 / 7分钟阅读
 
 #### 使用Mosaic AI Model Serving对微调后的Llama模型进行批量推理
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
+-   面向高管
+-   面向初创公司
+-   Lakehouse架构
+-   Mosaic研究
 
 -   面向高管
 -   面向初创公司
 -   Lakehouse架构
 -   Mosaic研究
 
--   客户案例
-
--   云提供商
--   技术合作伙伴
--   数据合作伙伴
--   基于Databricks构建
--   咨询与系统集成商
--   C&SI合作伙伴计划
--   合作伙伴解决方案
-
--   面向高管
--   面向初创公司
--   Lakehouse架构
--   Mosaic研究
-
--   客户案例
-
--   云提供商
--   技术合作伙伴
--   数据合作伙伴
--   基于Databricks构建
--   咨询与系统集成商
--   C&SI合作伙伴计划
--   合作伙伴解决方案
-
--   平台概览
--   共享
--   治理
--   人工智能
--   商业智能
--   数据库
--   数据管理
--   数据仓库
--   数据工程
--   数据科学
--   应用开发
-
--   定价概览
--   定价计算器
-
--   市场
--   IDE集成
--   合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE 集成
-- 合作伙伴连接
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 培训
-- 认证
-- 免费版
-- 大学联盟
-- Databricks 学院登录
-
 - Data + AI 峰会
 - Data + AI 全球巡展
 - 数据智能日
 - 活动日历
 
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 培训
-- 认证
-- 免费版
-- 大学联盟
-- Databricks 学院登录
-
 - Data + AI 峰会
 - Data + AI 全球巡展
 - 数据智能日
 - 活动日历
-
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
-- 开放职位
-- 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看 Databricks 的职位
 
-
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 以及 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

@@ -84,13 +84,7 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -177,13 +171,6 @@ C&SI 合作伙伴计划
 寻找定制化行业与迁移解决方案
 基于 Databricks 构建
 构建、推广和发展您的业务
-
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
 
 - 云服务提供商
 Databricks 在 AWS、Azure、GCP 和 SAP 上的服务
@@ -305,7 +292,6 @@ Databricks 定价
 
 -   探索加速器加速实现关键成果
 
-
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录 Databricks 学习平台
 -   认证获得认可与区分
@@ -334,16 +320,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在 Databricks 工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -361,12 +339,6 @@ Databricks 定价
 # 借助合作伙伴 AI 解决方案，驱动行业成果
 
 ## Databricks 咨询与系统集成合作伙伴提供可立即部署、针对特定行业的 GenAI 解决方案，覆盖金融服务、医疗、零售、制造和通信领域。
-
-![借助合作伙伴 AI 解决方案，驱动行业成果](/images/posts/6c8da461627c.png)
-
-![借助合作伙伴 AI 解决方案，驱动行业成果](/images/posts/6c8da461627c.png)
-
-![借助合作伙伴 AI 解决方案，驱动行业成果](/images/posts/6c8da461627c.png)
 
 发布日期：2026年1月22日
 
@@ -933,35 +905,16 @@ Brickbuilder是Databricks合作伙伴计划的关键组成部分，旨在表彰�
 
 鼓励有兴趣了解更多关于如何创建Brickbuilder解决方案或加速器的合作伙伴通过[email protected]与我们联系。
 
-
 ## 不错过任何Databricks文章
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
-
-![Introducing Predictive Optimization for Statistics](/images/posts/ab77da589535.png)
 
 2024年11月20日 / 4分钟阅读
 
 #### 推出用于统计的预测性优化
 
-![How to present and share your Notebook insights in AI/BI Dashboards](/images/posts/5cc2f5e4940f.png)
-
-![如何在AI/BI仪表板中呈现和分享你的Notebook洞察](/images/posts/5cc2f5e4940f.png)
-
-![如何在AI/BI仪表板中呈现和分享你的Notebook洞察](/images/posts/5cc2f5e4940f.png)
-
 2024年11月21日 / 3分钟阅读
 
 #### 如何在AI/BI仪表板中呈现和分享你的Notebook洞察
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 *   面向高管
 *   面向初创公司
 *   Lakehouse架构
@@ -991,18 +944,6 @@ Brickbuilder是Databricks合作伙伴计划的关键组成部分，旨在表彰�
 *   咨询与系统集成商
 *   C&SI合作伙伴计划
 *   合作伙伴解决方案
-
-*   平台概览
-*   共享
-*   治理
-*   人工智能
-*   商业智能
-*   数据库
-*   数据管理
-*   数据仓库
-*   数据工程
-*   数据科学
-*   应用开发
 
 *   定价概览
 *   定价计算器
@@ -1010,18 +951,6 @@ Brickbuilder是Databricks合作伙伴计划的关键组成部分，旨在表彰�
 *   市场
 *   IDE集成
 *   合作伙伴连接
-
-*   平台概览
-*   共享
-*   治理
-*   人工智能
-*   商业智能
-*   数据库
-*   数据管理
-*   数据仓库
-*   数据工程
-*   数据科学
-*   应用开发
 
 *   定价概览
 *   定价计算器
@@ -1054,67 +983,19 @@ Brickbuilder是Databricks合作伙伴计划的关键组成部分，旨在表彰�
 *   网络安全
 *   市场营销
 
-*   培训
-*   认证
-*   免费版
-*   大学联盟
-*   Databricks学院登录
+*   Data + AI峰会
+*   Data + AI全球巡展
+*   数据智能日
+*   活动日历
+
+*   Champions of Data & AI播客
 
 *   Data + AI峰会
 *   Data + AI全球巡展
 *   数据智能日
 *   活动日历
 
-*   Databricks博客
-*   Databricks Mosaic研究博客
-*   Data Brew播客
 *   Champions of Data & AI播客
-
-*   培训
-*   认证
-*   免费版
-*   大学联盟
-*   Databricks学院登录
-
-*   Data + AI峰会
-*   Data + AI全球巡展
-*   数据智能日
-*   活动日历
-
-*   Databricks博客
-*   Databricks Mosaic研究博客
-*   Data Brew播客
-*   Champions of Data & AI播客
-
-*   关于我们
-*   我们的团队
-*   Databricks Ventures
-*   联系我们
-
-*   开放职位
-*   在Databricks工作
-
-*   奖项与认可
-*   新闻中心
-
-*   关于我们
-*   我们的团队
-*   Databricks Ventures
-*   联系我们
-
-*   开放职位
-*   在Databricks工作
-
-*   奖项与认可
-*   新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
 *   *
 *   *
@@ -1133,13 +1014,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 *   *
 
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache Software Foundation的商标。
-
-*   隐私声明
-*   |使用条款
-*   |现代奴隶制声明
-*   |加州隐私
-*   |您的隐私选择
-*   -
 
 ---
 

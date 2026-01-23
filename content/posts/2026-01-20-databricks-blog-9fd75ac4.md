@@ -84,13 +84,7 @@ Databricks 定价
 
 -   解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -177,13 +171,6 @@ C&SI 合作伙伴计划
 寻找定制行业与迁移解决方案
 基于 Databricks 构建
 构建、推广和发展您的业务
-
--   面向高管
--   面向初创企业
--   湖仓一体架构
--   Mosaic 研究
-
--   客户案例
 
 -   云服务提供商
 Databricks 在 AWS、Azure、GCP 和 SAP 上的服务
@@ -305,7 +292,6 @@ Databricks 定价
 
 -   探索加速器加速实现关键成果
 
-
 -   培训发现满足您需求的定制课程
 -   Databricks 学院登录 Databricks 学习平台
 -   认证获得认可与区分
@@ -334,16 +320,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在 Databricks 工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -361,12 +339,6 @@ Databricks 定价
 # 面向企业的实用 AI 治理框架
 
 ## 负责任且有效实施 AI 治理工具与项目的综合指南
-
-![AI 治理](/images/posts/bab40b75e43a.png)
-
-![AI 治理](/images/posts/bab40b75e43a.png)
-
-![AI 治理](/images/posts/bab40b75e43a.png)
 
 发布日期：2026年1月20日
 
@@ -558,12 +530,6 @@ AI治理还应优先考虑问责措施，以便任何AI系统都明确定义了�
 
 ## 不错过任何Databricks资讯
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 *   面向高管
 *   面向初创公司
 *   Lakehouse架构
@@ -593,18 +559,6 @@ AI治理还应优先考虑问责措施，以便任何AI系统都明确定义了�
 *   咨询与系统集成商
 *   C&SI合作伙伴计划
 *   合作伙伴解决方案
-
-*   平台概览
-*   共享
-*   治理
-*   人工智能
-*   商业智能
-*   数据库
-*   数据管理
-*   数据仓库
-*   数据工程
-*   数据科学
-*   应用开发
 
 *   定价概览
 *   价格计算器
@@ -612,18 +566,6 @@ AI治理还应优先考虑问责措施，以便任何AI系统都明确定义了�
 *   市场
 *   IDE集成
 *   合作伙伴连接
-
-*   平台概览
-*   共享
-*   治理
-*   人工智能
-*   商业智能
-*   数据库
-*   数据管理
-*   数据仓库
-*   数据工程
-*   数据科学
-*   应用开发
 
 *   定价概览
 *   价格计算器
@@ -656,67 +598,19 @@ AI治理还应优先考虑问责措施，以便任何AI系统都明确定义了�
 *   网络安全
 *   市场营销
 
-*   培训
-*   认证
-*   免费版
-*   大学联盟
-*   Databricks学院登录
+*   Data + AI峰会
+*   Data + AI全球巡展
+*   数据智能日
+*   活动日历
+
+*   Champions of Data & AI播客
 
 *   Data + AI峰会
 *   Data + AI全球巡展
 *   数据智能日
 *   活动日历
 
-*   Databricks博客
-*   Databricks Mosaic研究博客
-*   Data Brew播客
 *   Champions of Data & AI播客
-
-*   培训
-*   认证
-*   免费版
-*   大学联盟
-*   Databricks学院登录
-
-*   Data + AI峰会
-*   Data + AI全球巡展
-*   数据智能日
-*   活动日历
-
-*   Databricks博客
-*   Databricks Mosaic研究博客
-*   Data Brew播客
-*   Champions of Data & AI播客
-
-*   关于我们
-*   我们的团队
-*   Databricks Ventures
-*   联系我们
-
-*   开放职位
-*   在Databricks工作
-
-*   奖项与认可
-*   新闻中心
-
-*   关于我们
-*   我们的团队
-*   Databricks Ventures
-*   联系我们
-
-*   开放职位
-*   在Databricks工作
-
-*   奖项与认可
-*   新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
 *   
 *   
@@ -735,13 +629,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 *   
 
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache Software Foundation的商标。
-
-*   隐私声明
-*   |使用条款
-*   |现代奴隶制声明
-*   |加州隐私
-*   |您的隐私选择
-*
 
 ---
 

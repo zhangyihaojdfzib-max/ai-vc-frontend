@@ -85,13 +85,7 @@ Databricks 定价
 
 -   解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI Agent（智能体）
@@ -178,13 +172,6 @@ C&SI 合作伙伴计划
 寻找定制行业与迁移解决方案
 基于 Databricks 构建
 构建、推广和发展您的业务
-
--   面向高管
--   面向初创企业
--   湖仓一体架构
--   Mosaic 研究
-
--   客户案例
 
 -   云服务提供商
 Databricks 在 AWS、Azure、 GCP 和 SAP 上的服务
@@ -281,7 +268,6 @@ Databricks 定价
 -   开源技术
 深入了解平台背后的创新
 
-
 -   通信
 -   媒体与娱乐
 -   金融服务
@@ -299,7 +285,6 @@ Databricks 定价
 -   专业服务
 
 -   探索加速器更快实现重要成果
-
 
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
@@ -329,16 +314,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在Databricks工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -356,12 +333,6 @@ Databricks 定价
 # 使用 Databricks Agent Bricks 构建监管风险 Copilot（第一部分：信息提取）
 
 ## 了解如何使用 Databricks AI 函数和 Agent Bricks 将非结构化的 FDA 拒绝信转化为可操作的见解。
-
-![使用 Databricks Agent Bricks 构建监管风险 Copilot（第一部分：信息提取）](/images/posts/9e395015ecc4.png)
-
-![使用 Databricks Agent Bricks 构建监管风险 Copilot（第一部分：信息提取）](/images/posts/9e395015ecc4.png)
-
-![使用 Databricks Agent Bricks 构建监管风险 Copilot（第一部分：信息提取）](/images/posts/9e395015ecc4.png)
 
 发布日期：2026年1月21日
 
@@ -474,128 +445,25 @@ Agent Bricks正是这一愿景的体现。通过`ai_parse_document()`解析非�
 - **了解更多**：阅读`ai_parse_document()`、Agent Bricks：信息提取和`ai_query()`的官方文档。
 - **开始使用**：立即注册Databricks免费试用，构建您自己的AI驱动解决方案。
 
-
 ## 不错过任何Databricks动态
-
-![自动化工作流如何革新制造业](/images/posts/40d9e92dd935.png)
-
-![自动化工作流如何革新制造业](/images/posts/40d9e92dd935.png)
-
-![自动化工作流如何革新制造业](/images/posts/40d9e92dd935.png)
 
 2024年11月27日 / 阅读6分钟
 
 #### 自动化工作流如何革新制造业
 
-![通过Databricks与The Virtue Foundation提升全球健康水平](/images/posts/596b5527cd9c.png)
-
-![通过Databricks与The Virtue Foundation提升全球健康水平](/images/posts/596b5527cd9c.png)
-
-![通过Databricks与The Virtue Foundation提升全球健康水平](/images/posts/596b5527cd9c.png)
-
-医疗保健与生命科学
-
 2024年12月19日 / 阅读5分钟
 
 #### 通过Databricks与The Virtue Foundation提升全球健康水平
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - Lakehouse架构
 - Mosaic研究
 
-- 客户案例
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于Databricks构建
-- 咨询与系统集成商
-- C&SI合作伙伴计划
-- 合作伙伴解决方案
-
 - 面向高管
 - 面向初创公司
 - Lakehouse架构
 - Mosaic研究
-
-- 客户案例
-
-- 云提供商
-- 技术合作伙伴
-- 数据合作伙伴
-- 基于Databricks构建
-- 咨询与系统集成商
-- C&SI合作伙伴计划
-- 合作伙伴解决方案
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
-
-- 平台概览
-- 共享
-- 治理
-- 人工智能
-- 商业智能
-- 数据库
-- 数据管理
-- 数据仓库
-- 数据工程
-- 数据科学
-- 应用开发
-
-- 定价概览
-- 定价计算器
-
-- 市场
-- IDE集成
-- 合作伙伴连接
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
-
-- 通信
-- 金融服务
-- 医疗保健与生命科学
-- 制造业
-- 媒体与娱乐
-- 公共部门
-- 零售
-- 查看全部
-
-- 网络安全
-- 市场营销
 
 - 培训
 - 认证
@@ -629,47 +497,15 @@ Agent Bricks正是这一愿景的体现。通过`ai_parse_document()`解析非�
 - Data Brew播客
 - 数据与AI冠军播客
 
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 开放职位
 - 在Databricks工作
 
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 开放职位
 - 在Databricks工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
-
 
 查看Databricks的职业生涯
 
-
 © Databricks 2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache Software Foundation的商标。
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 

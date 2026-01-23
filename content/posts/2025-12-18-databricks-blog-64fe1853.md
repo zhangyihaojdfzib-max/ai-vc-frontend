@@ -84,13 +84,7 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗保健与生命科学
-零售
-制造业
+
 查看所有行业
 跨行业解决方案
 AI 智能体
@@ -177,13 +171,6 @@ C&SI 合作伙伴计划
 寻找定制行业与迁移解决方案
 基于 Databricks 构建
 构建、营销和发展您的业务
-
-- 面向高管
-- 面向初创企业
-- 湖仓一体架构
-- Mosaic 研究
-
-- 客户案例
 
 - 云服务提供商
 Databricks 在 AWS、Azure、GCP 和 SAP 上的服务
@@ -341,7 +328,6 @@ Databricks 定价
 
 -   探索加速器更快实现关键成果
 
-
 -   培训发现满足您需求的定制课程
 -   Databricks Academy登录Databricks学习平台
 -   认证获得认可与区分度
@@ -370,16 +356,8 @@ Databricks 定价
 
 -   安全与信任
 
--   关于我们
--   我们的团队
--   Databricks Ventures
--   联系我们
-
 -   在Databricks工作
 -   开放职位
-
--   奖项与认可
--   新闻中心
 
 -   安全与信任
 
@@ -398,16 +376,9 @@ Databricks 定价
 
 ## 通过Databricks Clean Rooms实现以隐私为先的简易数据协作
 
-![关于Databricks Clean Rooms的十大常见问题解答](/images/posts/a83261508b2c.png)
-
-![关于Databricks Clean Rooms的十大常见问题解答](/images/posts/a83261508b2c.png)
-
-![关于Databricks Clean Rooms的十大常见问题解答](/images/posts/a83261508b2c.png)
-
 发布日期：2025年12月18日
 
 作者：Nikhil Gaekwad, Harish Gaur, DJ Sharkey 和 Qihua Wang
-
 
 -   与合作伙伴在敏感数据上协作，无需暴露原始记录。
 -   使用Delta Sharing将外部数据（如Snowflake或BigQuery）引入Clean Room。
@@ -519,126 +490,25 @@ Databricks 定价
 
 观看此视频以了解更多关于洁净室创建和入门的信息。
 
-
 ## 不错过任何Databricks文章
-
-![统计预测优化简介](/images/posts/ab77da589535.png)
-
-![统计预测优化简介](/images/posts/ab77da589535.png)
-
-![统计预测优化简介](/images/posts/ab77da589535.png)
 
 2024年11月20日 / 4分钟阅读
 
 #### 统计预测优化简介
 
-![如何在AI/BI仪表板中呈现和共享您的笔记本洞察](/images/posts/5cc2f5e4940f.png)
-
-![如何在AI/BI仪表板中呈现和共享您的笔记本洞察](/images/posts/5cc2f5e4940f.png)
-
-![如何在AI/BI仪表板中呈现和共享您的笔记本洞察](/images/posts/5cc2f5e4940f.png)
-
 2024年11月21日 / 3分钟阅读
 
 #### 如何在AI/BI仪表板中呈现和共享您的笔记本洞察
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 -   面向高管
 -   面向初创公司
 -   Lakehouse架构
 -   Mosaic研究
 
--   客户案例
-
--   云提供商
--   技术合作伙伴
--   数据合作伙伴
--   基于Databricks构建
--   咨询与系统集成商
--   C&SI合作伙伴计划
--   合作伙伴解决方案
-
 -   面向高管
 -   面向初创公司
 -   Lakehouse架构
 -   Mosaic研究
-
--   客户案例
-
--   云提供商
--   技术合作伙伴
--   数据合作伙伴
--   基于Databricks构建
--   咨询与系统集成商
--   C&SI合作伙伴计划
--   合作伙伴解决方案
-
--   平台概览
--   共享
--   治理
--   人工智能
--   商业智能
--   数据库
--   数据管理
--   数据仓库
--   数据工程
--   数据科学
--   应用开发
-
--   定价概览
--   定价计算器
-
--   市场
--   IDE集成
--   合作伙伴连接
-
--   平台概览
--   共享
--   治理
--   人工智能
--   商业智能
--   数据库
--   数据管理
--   数据仓库
--   数据工程
--   数据科学
--   应用开发
-
--   定价概览
--   定价计算器
-
--   市场
--   IDE集成
--   合作伙伴连接
-
--   通信
--   金融服务
--   医疗保健与生命科学
--   制造业
--   媒体与娱乐
--   公共部门
--   零售
--   查看全部
-
--   网络安全
--   市场营销
-
--   通信
--   金融服务
--   医疗保健与生命科学
--   制造业
--   媒体与娱乐
--   公共部门
--   零售
--   查看全部
-
--   网络安全
--   市场营销
 
 - 培训
 - 认证
@@ -651,11 +521,6 @@ Databricks 定价
 - 数据智能日
 - 活动日历
 
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
 - 培训
 - 认证
 - 免费版
@@ -667,53 +532,11 @@ Databricks 定价
 - 数据智能日
 - 活动日历
 
-- Databricks 博客
-- Databricks Mosaic 研究博客
-- Data Brew 播客
-- 数据与 AI 冠军播客
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 职位空缺
 - 在 Databricks 工作
 
-- 奖项与认可
-- 新闻中心
-
-- 关于我们
-- 我们的团队
-- Databricks Ventures
-- 联系我们
-
 - 职位空缺
 - 在 Databricks 工作
-
-- 奖项与认可
-- 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-Databricks Inc.
-160 Spear Street, 15th Floor
-San Francisco, CA 94105
-1-866-330-0121
-
-
-查看 Databricks 的招聘职位
-
-
-- 隐私声明
-- |使用条款
-- |现代奴隶制声明
-- |加州隐私
-- |您的隐私选择
 
 ---
 
