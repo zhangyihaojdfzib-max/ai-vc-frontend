@@ -85,21 +85,9 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
-医疗与生命科学
-零售
-制造业
-查看所有行业
 跨行业解决方案
 AI Agent（智能体）
-网络安全
-营销
 迁移与部署
-数据迁移
-专业服务
 解决方案加速器
 探索加速器
 更快地实现关键成果
@@ -120,7 +108,6 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
-活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品发布等
@@ -131,28 +118,14 @@ Data Brew 播客
 Champions of Data + AI 播客
 来自推动创新的数据领导者的见解
 获取帮助
-客户支持
-文档
-社区
 深入探索
-资源中心
-演示中心
-架构中心
 
 - 关于
 公司
 我们是谁
-我们的团队
-Databricks Ventures
-联系我们
 招聘
 在 Databricks 工作
-开放职位
 新闻
-奖项与认可
-新闻中心
-安全与信任
-安全与信任
 
 - 探索
 面向高管
@@ -306,8 +279,7 @@ Databricks 定价
 
 -   探索加速器加速实现关键成果
 
--   学习培训发现满足您需求的定制课程Databricks 学院登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的 Data 与 AI 工具大学联盟想要教授 Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们 Gen AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+-   
 -   学习培训发现满足您需求的定制课程Databricks 学院登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的 Data 与 AI 工具大学联盟想要教授 Databricks？了解详情。
 -   活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
 -   博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们 Gen AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见
@@ -338,8 +310,7 @@ Databricks 定价
 -   演示中心
 -   架构中心
 
--   公司关于我们我们的团队Databricks Ventures联系我们职业发展在 Databricks 工作开放职位新闻与媒体奖项与认可新闻中心安全与信任安全与信任
-
+-   
 -   公司关于我们我们的团队Databricks Ventures联系我们
 -   职业发展在 Databricks 工作开放职位
 -   新闻与媒体奖项与认可新闻中心
@@ -379,9 +350,6 @@ Databricks 定价
 
 发布日期：2026年1月20日
 
-- 
-- 
-- 
 
 随着 AI 系统进入高风险的生产环境应用，企业 AI 治理管理着风险、合规性与信任，将决策建立在公平、透明、问责、隐私、安全及内置保障等原则之上。有效的治理框架将监督与业务风险对齐，定义清晰的跨职能角色与政策，在 AI 生命周期中嵌入检查点，并依赖于结构化的风险评估、监控、事件响应和标准化文档。可扩展的项目采用集中化标准与联邦式执行相结合，对高风险决策实施人机协同，主动追踪不断演变的法规，并获得高层管理者的强力支持，从而使治理成为负责任 AI 创新的推动者，而非瓶颈。
 
@@ -624,9 +592,6 @@ AI治理永无止境。法律法规在演变，标准在成熟，AI能力的发�
 
 团队应从务实的基础开始：盘点当前的AI用例，按风险分类并指定责任主体。在一小部分高影响力系统上试点治理控制，以建立标准并完善流程。随着团队经验积累，可将治理扩展到更多用例和领域，在加强监督的同时，保持维持AI创新所需的速度和灵活性。
 
-- 
-- 
-- 
 
 ## 不错过任何Databricks资讯
 
@@ -790,21 +755,9 @@ AI治理永无止境。法律法规在演变，标准在成熟，AI能力的发�
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看Databricks的职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标均为Apache Software Foundation的商标。
 
@@ -813,7 +766,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

@@ -84,21 +84,10 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
 医疗保健与生命科学
-零售
-制造业
-查看所有行业
 跨行业解决方案
 AI Agent（智能体）
-网络安全
-营销
 迁移与部署
-数据迁移
-专业服务
 解决方案加速器
 探索加速器
 更快实现关键成果
@@ -119,7 +108,6 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
-活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品公告等
@@ -130,28 +118,14 @@ Data Brew 播客
 Champions of Data + AI 播客
 来自推动创新的数据领导者的见解
 获取帮助
-客户支持
-文档
-社区
 深入探索
-资源中心
-演示中心
-架构中心
 
 - 关于
 公司
 我们是谁
-我们的团队
-Databricks Ventures
-联系我们
 招聘
 在 Databricks 工作
-开放职位
 新闻
-奖项与认可
-新闻中心
-安全与信任
-安全与信任
 
 - 探索
 面向高管
@@ -305,8 +279,7 @@ Databricks 定价
 
 -   探索加速器更快实现关键成果
 
--   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业数据与AI工具大学联盟想教授Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们生成式AI研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+-   
 -   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业数据与AI工具大学联盟想教授Databricks？了解详情。
 -   活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
 -   博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们生成式AI研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见
@@ -337,8 +310,7 @@ Databricks 定价
 -   演示中心
 -   架构中心
 
--   公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻奖项与认可新闻中心安全与信任安全与信任
-
+-   
 -   公司关于我们我们的团队Databricks Ventures联系我们
 -   职业发展在Databricks工作开放职位
 -   新闻奖项与认可新闻中心
@@ -380,9 +352,6 @@ Databricks 定价
 
 发布日期：2026年1月14日
 
-- 
-- 
-- 
 
 RetailAI引入了智能体驱动的对话式规划体验，彻底改变了预测、补货、定价、分配和物流等领域的传统GUI驱动工作流。该平台原生构建于Databricks数据智能平台之上，在可信的数据基础上提供受治理、可扩展的预测性、规范性和智能体AI。此次合作结合了Algonomy深厚的零售领域专业知识与Databricks的企业级数据、AI和治理能力，加速了价值实现时间。
 
@@ -412,9 +381,6 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 
 “当今的零售商面临着巨大的压力，需要根据快速变化的消费者需求来转型业务。RetailAI 为他们提供了一个强大的平台来推动这一转型，它将 Algonomy 深厚的零售领域专业知识与 Databricks 数据智能平台的智能和规模相结合。”Databricks 消费行业合作伙伴生态系统负责人 Bryan Smith 表示。“这种合作伙伴关系使零售商能够从被动规划转向由 Agent（智能体）AI 驱动的、以结果为导向的预测性战略——提供当今市场所需的速度和精度。”
 
-- 
-- 
-- 
 
 ## 不错过任何一篇 Databricks 文章
 
@@ -600,21 +566,9 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看 Databricks 的职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
 
@@ -623,7 +577,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

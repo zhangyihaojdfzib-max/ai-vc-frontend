@@ -84,21 +84,10 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
 医疗保健与生命科学
-零售
-制造业
-查看所有行业
 跨行业解决方案
 AI Agent（智能体）
-网络安全
-营销
 迁移与部署
-数据迁移
-专业服务
 解决方案加速器
 探索加速器
 更快地实现关键成果
@@ -119,7 +108,6 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
-活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品发布等
@@ -130,28 +118,14 @@ Data Brew 播客
 Champions of Data + AI 播客
 来自推动创新的数据领导者的见解
 获取帮助
-客户支持
-文档
-社区
 深入探索
-资源中心
-演示中心
-架构中心
 
 - 关于
 公司
 我们是谁
-我们的团队
-Databricks Ventures
-联系我们
 招聘
 在 Databricks 工作
-开放职位
 新闻
-奖项与认可
-新闻中心
-安全与信任
-安全与信任
 
 - 探索
 面向高管
@@ -305,8 +279,7 @@ Databricks 定价
 
 -   探索加速器更快实现关键成果
 
--   学习培训发现满足您需求的定制课程Databricks学院登录Databricks学习平台认证获得认可与区分免费版免费学习专业级数据与AI工具大学联盟想要教授Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展数据智能日活动日历博客与播客Databricks博客探索新闻、产品发布等Databricks Mosaic研究博客发现我们生成式AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+-   
 -   学习培训发现满足您需求的定制课程Databricks学院登录Databricks学习平台认证获得认可与区分免费版免费学习专业级数据与AI工具大学联盟想要教授Databricks？了解详情。
 -   活动Data + AI 峰会Data + AI 全球巡展数据智能日活动日历
 -   博客与播客Databricks博客探索新闻、产品发布等Databricks Mosaic研究博客发现我们生成式AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的洞见
@@ -337,8 +310,7 @@ Databricks 定价
 -   演示中心
 -   架构中心
 
--   公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作查看职位新闻与媒体奖项与认可新闻中心安全与信任安全与信任
-
+-   
 -   公司关于我们我们的团队Databricks Ventures联系我们
 -   职业发展在Databricks工作查看职位
 -   新闻与媒体奖项与认可新闻中心
@@ -380,9 +352,6 @@ Databricks 定价
 
 发布日期：2026年1月14日
 
-- 
-- 
-- 
 
 -   Atlassian 全新的 Databricks Query Runner Agent（智能体）由 Databricks AI/BI Genie 对话 API 驱动，使用户能够通过自然语言在 Atlassian 的 Rovo 平台上获取按需洞察。
 -   该集成赋能从营销到产品等非技术团队，使其能够直接在 Atlassian 工作流程中做出数据驱动决策。
@@ -427,9 +396,6 @@ Atlassian的Databricks Query Runner的发布仅仅是一个开始。基于与Atl
 -   阅读AI/BI Genie Conversation API公告博客
 -   查阅我们的产品文档，了解如何使用Genie Conversation API的详细信息
 
-- 
-- 
-- 
 
 ## 不错过任何Databricks文章
 
@@ -613,21 +579,9 @@ Atlassian的Databricks Query Runner的发布仅仅是一个开始。基于与Atl
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看Databricks的职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg和Apache Iceberg徽标是Apache Software Foundation的商标。
 
@@ -636,7 +590,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 -   |现代奴隶制声明
 -   |加州隐私
 -   |您的隐私选择
--
 
 ---
 

@@ -151,7 +151,6 @@ translated_at: '2026-01-14T04:52:26.340980'
     奖项与认可
     新闻中心
     安全与信任
-    安全与信任
 
 -   探索
     面向高管
@@ -304,8 +303,7 @@ translated_at: '2026-01-14T04:52:26.340980'
 
 -   探索加速器更快实现重要成果
 
--   学习培训发现满足您需求的定制课程Databricks Academy登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的数据与 AI 工具大学联盟想要教授 Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们生成式 AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+-   
 -   学习培训发现满足您需求的定制课程Databricks Academy登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的数据与 AI 工具大学联盟想要教授 Databricks？了解详情。
 -   活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
 -   博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们生成式 AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见
@@ -336,8 +334,7 @@ translated_at: '2026-01-14T04:52:26.340980'
 -   演示中心
 -   架构中心
 
--   公司关于我们我们的团队Databricks Ventures联系我们职业发展在 Databricks 工作开放职位新闻与媒体奖项与认可新闻中心安全与信任安全与信任
-
+-   
 -   公司关于我们我们的团队Databricks Ventures联系我们
 -   职业发展在 Databricks 工作开放职位
 -   新闻与媒体奖项与认可新闻中心
@@ -521,9 +518,6 @@ Dicer 是 Databricks 内部广泛使用的关键服务，其使用量正在快�
 
 [6]Atul Adya, Jonathan Ellithorpe. 有状态服务：低延迟、高效率、可扩展性——三者难兼得。高性能事务系统研讨会（HPTS）2024，加利福尼亚州太平洋丛林，2024年9月15–18日。
 
-- 
-- 
-- 
 
 ## 不错过任何Databricks文章
 
@@ -707,21 +701,9 @@ Dicer 是 Databricks 内部广泛使用的关键服务，其使用量正在快�
 
 Databricks Inc. 加利福尼亚州旧金山斯皮尔街160号15楼，邮编94105 1-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看Databricks的职业生涯
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks 2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg和Apache Iceberg徽标是Apache软件基金会的商标。
 
@@ -730,7 +712,6 @@ Databricks Inc. 加利福尼亚州旧金山斯皮尔街160号15楼，邮编94105
 - |现代奴隶制声明
 - |加利福尼亚州隐私
 - |您的隐私选择
--
 
 ---
 

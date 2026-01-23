@@ -1,0 +1,557 @@
+{
+  "generated_at": "2026-01-23T21:27:40.587450",
+  "summary": {
+    "total_articles": 406,
+    "total_issues": 62,
+    "critical": 0,
+    "warning": 62
+  },
+  "by_type": {
+    "excessive_bold": 48,
+    "empty_list_items": 14
+  },
+  "issues": [
+    {
+      "file": "2024-01-23-google-ai-6d72168a.md",
+      "source": "Google AI Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "34个加粗标记"
+    },
+    {
+      "file": "2024-03-04-google-ai-926fb0b4.md",
+      "source": "Google AI Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "60个加粗标记"
+    },
+    {
+      "file": "2024-07-20-berkeley-ai-3d8fa823.md",
+      "source": "Berkeley AI Research (BAIR)",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "36个加粗标记"
+    },
+    {
+      "file": "2024-08-19-greylock-40c6b2ac.md",
+      "source": "Greylock Partners",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "264个加粗标记"
+    },
+    {
+      "file": "2024-08-19-greylock-634ac71d.md",
+      "source": "Greylock Partners",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "54个加粗标记"
+    },
+    {
+      "file": "2025-03-25-berkeley-ai-eb804015.md",
+      "source": "Berkeley AI Research (BAIR)",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "32个加粗标记"
+    },
+    {
+      "file": "2025-06-30-discord-engineering-a223d50b.md",
+      "source": "Discord Engineering",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "42个加粗标记"
+    },
+    {
+      "file": "2025-07-01-berkeley-ai-b860ff1a.md",
+      "source": "Berkeley AI Research (BAIR)",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "46个加粗标记"
+    },
+    {
+      "file": "2025-09-23-spotify-engineering-e7a62977.md",
+      "source": "Spotify Engineering",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "62个加粗标记"
+    },
+    {
+      "file": "2025-10-28-huggingface-c4aeff99.md",
+      "source": "Hugging Face Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "9个空列表项"
+    },
+    {
+      "file": "2025-10-29-huggingface-376820da.md",
+      "source": "Hugging Face Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "10个空列表项"
+    },
+    {
+      "file": "2025-10-29-huggingface-376820da.md",
+      "source": "Hugging Face Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "66个加粗标记"
+    },
+    {
+      "file": "2025-10-29-huggingface-c18db287.md",
+      "source": "Hugging Face Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "14个空列表项"
+    },
+    {
+      "file": "2025-10-30-huggingface-9edc0f9c.md",
+      "source": "Hugging Face Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "9个空列表项"
+    },
+    {
+      "file": "2025-11-05-langchain-35bf5cf8.md",
+      "source": "LangChain Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "123个加粗标记"
+    },
+    {
+      "file": "2025-11-05-microsoft-research-d37feea1.md",
+      "source": "Microsoft Research",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "38个加粗标记"
+    },
+    {
+      "file": "2025-11-12-microsoft-research-4d6c298a.md",
+      "source": "Microsoft Research",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "38个加粗标记"
+    },
+    {
+      "file": "2025-11-17-langchain-b27ae2bc.md",
+      "source": "LangChain Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "44个加粗标记"
+    },
+    {
+      "file": "2025-11-19-huggingface-69b988c9.md",
+      "source": "Hugging Face Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "48个加粗标记"
+    },
+    {
+      "file": "2025-11-20-huggingface-d0e47e1f.md",
+      "source": "Hugging Face Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "48个加粗标记"
+    },
+    {
+      "file": "2025-11-20-langchain-985131f8.md",
+      "source": "LangChain Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "36个加粗标记"
+    },
+    {
+      "file": "2025-11-21-huggingface-7a016f5d.md",
+      "source": "Hugging Face Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "38个加粗标记"
+    },
+    {
+      "file": "2025-11-24-microsoft-research-9f6386d3.md",
+      "source": "Microsoft Research",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "38个加粗标记"
+    },
+    {
+      "file": "2025-11-24-spotify-engineering-a8af5b68.md",
+      "source": "Spotify Engineering",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "32个加粗标记"
+    },
+    {
+      "file": "2025-12-01-microsoft-research-80cdd238.md",
+      "source": "Microsoft Research",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "32个加粗标记"
+    },
+    {
+      "file": "2025-12-02-langchain-a7ae0448.md",
+      "source": "LangChain Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "52个加粗标记"
+    },
+    {
+      "file": "2025-12-02-vercel-blog-62363e1f.md",
+      "source": "Vercel Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "58个加粗标记"
+    },
+    {
+      "file": "2025-12-04-huggingface-ca58b36c.md",
+      "source": "Hugging Face Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "70个加粗标记"
+    },
+    {
+      "file": "2025-12-05-huggingface-b17e8bfe.md",
+      "source": "Hugging Face Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "34个加粗标记"
+    },
+    {
+      "file": "2025-12-08-discord-engineering-7f4946c9.md",
+      "source": "Discord Engineering",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "36个加粗标记"
+    },
+    {
+      "file": "2025-12-09-cloudflare-blog-fa6c3b37.md",
+      "source": "Cloudflare Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "40个加粗标记"
+    },
+    {
+      "file": "2025-12-11-cloudflare-blog-83137368.md",
+      "source": "Cloudflare Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "44个加粗标记"
+    },
+    {
+      "file": "2025-12-11-greylock-55762763.md",
+      "source": "Greylock Partners",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "56个加粗标记"
+    },
+    {
+      "file": "2025-12-15-cloudflare-blog-2719aa16.md",
+      "source": "Cloudflare Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "76个加粗标记"
+    },
+    {
+      "file": "2025-12-15-cloudflare-blog-9ab2d000.md",
+      "source": "Cloudflare Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "74个加粗标记"
+    },
+    {
+      "file": "2025-12-15-huggingface-ff468cdf.md",
+      "source": "Hugging Face Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "46个加粗标记"
+    },
+    {
+      "file": "2025-12-15-nvidia-ai-3ee96ce1.md",
+      "source": "NVIDIA AI Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "38个加粗标记"
+    },
+    {
+      "file": "2025-12-15-stripe-blog-8bdb5a50.md",
+      "source": "Stripe Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "68个加粗标记"
+    },
+    {
+      "file": "2025-12-15-tomasz-tunguz-d9b86655.md",
+      "source": "Tomasz Tunguz",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "15个空列表项"
+    },
+    {
+      "file": "2025-12-15-tomasz-tunguz-d9b86655.md",
+      "source": "Tomasz Tunguz",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "44个加粗标记"
+    },
+    {
+      "file": "2025-12-16-databricks-blog-b86e0091.md",
+      "source": "Databricks Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "11个空列表项"
+    },
+    {
+      "file": "2025-12-18-databricks-blog-64fe1853.md",
+      "source": "Databricks Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "11个空列表项"
+    },
+    {
+      "file": "2025-12-18-databricks-blog-6a3ad617.md",
+      "source": "Databricks Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "9个空列表项"
+    },
+    {
+      "file": "2025-12-18-stripe-blog-49dcf0eb.md",
+      "source": "Stripe Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "72个加粗标记"
+    },
+    {
+      "file": "2025-12-22-databricks-blog-39e8cb69.md",
+      "source": "Databricks Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "11个空列表项"
+    },
+    {
+      "file": "2025-12-22-databricks-blog-39e8cb69.md",
+      "source": "Databricks Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "66个加粗标记"
+    },
+    {
+      "file": "2025-12-22-vercel-blog-30153476.md",
+      "source": "Vercel Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "38个加粗标记"
+    },
+    {
+      "file": "2025-12-23-tomasz-tunguz-317a6f8f.md",
+      "source": "Tomasz Tunguz",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "14个空列表项"
+    },
+    {
+      "file": "2025-12-30-tomasz-tunguz-54496a47.md",
+      "source": "Tomasz Tunguz",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "12个空列表项"
+    },
+    {
+      "file": "2026-01-01-saastr-6f92808a.md",
+      "source": "Jason Lemkin (SaaStr)",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "76个加粗标记"
+    },
+    {
+      "file": "2026-01-02-saastr-d5c8e851.md",
+      "source": "Jason Lemkin (SaaStr)",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "35个加粗标记"
+    },
+    {
+      "file": "2026-01-05-databricks-blog-533cabb6.md",
+      "source": "Databricks Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "11个空列表项"
+    },
+    {
+      "file": "2026-01-05-databricks-blog-533cabb6.md",
+      "source": "Databricks Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "54个加粗标记"
+    },
+    {
+      "file": "2026-01-05-nvidia-ai-7969535a.md",
+      "source": "NVIDIA AI Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "38个加粗标记"
+    },
+    {
+      "file": "2026-01-05-nvidia-ai-85aed004.md",
+      "source": "NVIDIA AI Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "40个加粗标记"
+    },
+    {
+      "file": "2026-01-05-ycombinator-af94b907.md",
+      "source": "Y Combinator",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "32个加粗标记"
+    },
+    {
+      "file": "2026-01-06-a16z-2d9644d2.md",
+      "source": "Andreessen Horowitz (a16z)",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "22个空列表项"
+    },
+    {
+      "file": "2026-01-06-a16z-50f008f9.md",
+      "source": "Andreessen Horowitz (a16z)",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "90个加粗标记"
+    },
+    {
+      "file": "2026-01-06-databricks-blog-1e569f38.md",
+      "source": "Databricks Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "44个加粗标记"
+    },
+    {
+      "file": "2026-01-06-huggingface-6e5e60bf.md",
+      "source": "Hugging Face Blog",
+      "type": "empty_list_items",
+      "severity": "warning",
+      "message": "6个空列表项"
+    },
+    {
+      "file": "2026-01-06-huggingface-6e5e60bf.md",
+      "source": "Hugging Face Blog",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "40个加粗标记"
+    },
+    {
+      "file": "2026-01-06-saastr-30fe1d1f.md",
+      "source": "Jason Lemkin (SaaStr)",
+      "type": "excessive_bold",
+      "severity": "warning",
+      "message": "70个加粗标记"
+    }
+  ],
+  "by_source": {
+    "Hugging Face Blog": {
+      "count": 13,
+      "types": {
+        "empty_list_items": 5,
+        "excessive_bold": 8
+      }
+    },
+    "Databricks Blog": {
+      "count": 8,
+      "types": {
+        "empty_list_items": 5,
+        "excessive_bold": 3
+      }
+    },
+    "LangChain Blog": {
+      "count": 4,
+      "types": {
+        "excessive_bold": 4
+      }
+    },
+    "Microsoft Research": {
+      "count": 4,
+      "types": {
+        "excessive_bold": 4
+      }
+    },
+    "Cloudflare Blog": {
+      "count": 4,
+      "types": {
+        "excessive_bold": 4
+      }
+    },
+    "Tomasz Tunguz": {
+      "count": 4,
+      "types": {
+        "empty_list_items": 3,
+        "excessive_bold": 1
+      }
+    },
+    "Berkeley AI Research (BAIR)": {
+      "count": 3,
+      "types": {
+        "excessive_bold": 3
+      }
+    },
+    "Greylock Partners": {
+      "count": 3,
+      "types": {
+        "excessive_bold": 3
+      }
+    },
+    "NVIDIA AI Blog": {
+      "count": 3,
+      "types": {
+        "excessive_bold": 3
+      }
+    },
+    "Jason Lemkin (SaaStr)": {
+      "count": 3,
+      "types": {
+        "excessive_bold": 3
+      }
+    },
+    "Google AI Blog": {
+      "count": 2,
+      "types": {
+        "excessive_bold": 2
+      }
+    },
+    "Discord Engineering": {
+      "count": 2,
+      "types": {
+        "excessive_bold": 2
+      }
+    },
+    "Spotify Engineering": {
+      "count": 2,
+      "types": {
+        "excessive_bold": 2
+      }
+    },
+    "Vercel Blog": {
+      "count": 2,
+      "types": {
+        "excessive_bold": 2
+      }
+    },
+    "Stripe Blog": {
+      "count": 2,
+      "types": {
+        "excessive_bold": 2
+      }
+    },
+    "Andreessen Horowitz (a16z)": {
+      "count": 2,
+      "types": {
+        "empty_list_items": 1,
+        "excessive_bold": 1
+      }
+    },
+    "Y Combinator": {
+      "count": 1,
+      "types": {
+        "excessive_bold": 1
+      }
+    }
+  }
+}

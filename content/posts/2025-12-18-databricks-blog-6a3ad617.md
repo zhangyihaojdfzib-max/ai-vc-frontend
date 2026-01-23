@@ -84,21 +84,10 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
 医疗保健与生命科学
-零售
-制造业
-查看所有行业
 跨行业解决方案
 AI Agent（智能体）
-网络安全
-营销
 迁移与部署
-数据迁移
-专业服务
 解决方案加速器
 探索加速器
 更快地实现关键成果
@@ -119,7 +108,6 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
-活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品发布等
@@ -130,28 +118,14 @@ Data Brew 播客
 Champions of Data + AI 播客
 来自推动创新的数据领导者的见解
 获取帮助
-客户支持
-文档
-社区
 深入探索
-资源中心
-演示中心
-架构中心
 
 - 关于
 公司
 我们是谁
-我们的团队
-Databricks Ventures
-联系我们
 招聘
 在 Databricks 工作
-开放职位
 新闻
-奖项与认可
-新闻中心
-安全与信任
-安全与信任
 
 - 探索
 面向高管
@@ -280,13 +254,8 @@ Databricks 定价
 - 开源技术
 深入了解平台背后的创新
 
--  面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗与生命科学零售制造业查看所有行业跨行业解决方案AI Agent（智能体）网络安全营销迁移与部署数据迁移专业服务解决方案加速器探索加速器更快实现重要成果
-
--   面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗与生命科学零售制造业查看所有行业
--   跨行业解决方案AI Agent（智能体）网络安全营销
--   迁移与部署数据迁移专业服务
--   解决方案加速器探索加速器更快实现重要成果
-
+-  
+-   
 -   通信
 -   媒体与娱乐
 -   金融服务
@@ -305,8 +274,7 @@ Databricks 定价
 
 -   探索加速器更快实现重要成果
 
--   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的Data和AI工具大学联盟想要教授Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们Gen AI研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的见解获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+-   
 -   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的Data和AI工具大学联盟想要教授Databricks？了解详情。
 -   活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
 -   博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们Gen AI研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的见解
@@ -337,8 +305,7 @@ Databricks 定价
 -   演示中心
 -   架构中心
 
--   公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻奖项与认可新闻中心安全与信任安全与信任
-
+-   
 -   公司关于我们我们的团队Databricks Ventures联系我们
 -   职业发展在Databricks工作开放职位
 -   新闻奖项与认可新闻中心
@@ -456,9 +423,6 @@ Databricks 持续根据客户需求添加新的空间表达式。以下是自公
 
 立即在 Databricks SQL 上运行您的下一个空间查询——看看您的空间连接能有多快。要了解更多关于空间 SQL 函数的信息，请参阅 SQL 和 Pyspark 文档。有关 Databricks SQL 的更多信息，请查看网站、产品导览和 Databricks 免费版。如果您想将现有数据仓库迁移到具有卓越用户体验和更低总成本的高性能、无服务器数据仓库，那么 Databricks SQL 就是解决方案——免费试用。
 
-- 
-- 
-- 
 
 ## 不错过任何 Databricks 动态
 
@@ -642,21 +606,9 @@ Databricks 持续根据客户需求添加新的空间表达式。以下是自公
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看 Databricks 的职业生涯
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
 
@@ -665,7 +617,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

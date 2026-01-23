@@ -154,13 +154,8 @@ translated_at: '2026-01-23T04:45:01.635432'
     安全与信任
         安全与信任
 
--  面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗保健与生命科学零售制造业查看所有行业跨行业解决方案AI Agents（智能体）网络安全营销迁移与部署数据迁移专业服务解决方案加速器探索加速器更快实现重要成果
-
--   面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗保健与生命科学零售制造业查看所有行业
--   跨行业解决方案AI Agents（智能体）网络安全营销
--   迁移与部署数据迁移专业服务
--   解决方案加速器探索加速器更快实现重要成果
-
+-  
+-   
 -   通信
 -   媒体与娱乐
 -   金融服务
@@ -179,8 +174,7 @@ translated_at: '2026-01-23T04:45:01.635432'
 
 -   探索加速器更快实现重要成果
 
--   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。活动Data + AI SummitData + AI World TourAI Days活动日历博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的见解获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+-   
 -   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。
 -   活动Data + AI SummitData + AI World TourAI Days活动日历
 -   博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的见解
@@ -211,8 +205,7 @@ translated_at: '2026-01-23T04:45:01.635432'
 -   演示中心
 -   架构中心
 
--   公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻与媒体奖项与认可新闻中心安全与信任安全与信任
-
+-   
 -   公司关于我们我们的团队Databricks Ventures联系我们
 -   职业发展在Databricks工作开放职位
 -   新闻与媒体奖项与认可新闻中心
@@ -255,8 +248,6 @@ translated_at: '2026-01-23T04:45:01.635432'
 作者：Caelin Kaplan 和 Alex Warnecke
 
 -   -
--   -
--   -
 
 宣布发布BlackIce，这是一个用于AI安全测试的开源容器化工具包，首次在CAMLIS Red 2025上推出解释BlackIce如何整合14个开源工具，并映射到MITRE ATLAS和Databricks AI安全框架（DASF）分享论文、GitHub仓库和Docker镜像的链接，助您快速上手
 
@@ -290,9 +281,6 @@ BlackIce镜像可在Databricks的Docker Hub上获取，当前版本可以使用�
 
 有关工具选择过程和 Docker 镜像架构的更多详细信息，请参阅我们的 CAMLIS 红皮书。
 
-- 
-- 
-- 
 
 ## 不错过任何 Databricks 动态
 
@@ -476,21 +464,9 @@ BlackIce镜像可在Databricks的Docker Hub上获取，当前版本可以使用�
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看 Databricks 的职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache 软件基金会的商标。
 
@@ -499,7 +475,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

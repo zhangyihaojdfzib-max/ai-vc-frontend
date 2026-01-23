@@ -178,8 +178,7 @@ translated_at: '2026-01-21T04:44:02.852577'
 
 - 探索加速器更快实现关键成果
 
-- 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分度免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。活动Data + AI SummitData + AI World TourData Intelligence Days活动日历博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI Podcast来自推动创新的数据领导者的见解获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+- 
 - 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分度免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。
 - 活动Data + AI SummitData + AI World TourData Intelligence Days活动日历
 - 博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI Podcast来自推动创新的数据领导者的见解
@@ -210,8 +209,7 @@ translated_at: '2026-01-21T04:44:02.852577'
 - 演示中心
 - 架构中心
 
-- 公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻奖项与认可新闻中心安全与信任安全与信任
-
+- 
 - 公司关于我们我们的团队Databricks Ventures联系我们
 - 职业发展在Databricks工作开放职位
 - 新闻奖项与认可新闻中心
@@ -255,9 +253,6 @@ translated_at: '2026-01-21T04:44:02.852577'
 
 作者：Dmitriy Alkhimov 和 Aaron Zavora
 
-- 
-- 
-- 
 
 Alchemist是一个全面的SAS到Databricks迁移加速器，它结合了深厚的传统技术专长与现代AI能力。该解决方案既是一个分析器——提供关于代码复杂性和依赖关系的详细洞察，也是一个转译器，它利用大语言模型（LLMs）实现从SAS EG和.spk等格式到PySpark接近100%的代码转换。Alchemist确保企业不仅能实现代码现代化，还能快速成功地将业务流程和团队过渡到Databricks平台。
 
@@ -440,8 +435,6 @@ Alchemist 的技术先进性与我们成熟的方法论相结合，持续带来�
 
 *   **下载迁移准备清单→** 自我评估指南，用于评估您组织的准备水平
 
-*   
-*   
 *   
 
 ## 不错过任何 Databricks 动态
@@ -628,21 +621,9 @@ Alchemist 的技术先进性与我们成熟的方法论相结合，持续带来�
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看Databricks的招聘职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache软件基金会的商标。
 
@@ -651,7 +632,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

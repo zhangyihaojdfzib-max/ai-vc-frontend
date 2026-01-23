@@ -85,21 +85,10 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
 医疗保健与生命科学
-零售
-制造业
-查看所有行业
 跨行业解决方案
 AI Agent（智能体）
-网络安全
-营销
 迁移与部署
-数据迁移
-专业服务
 解决方案加速器
 探索加速器
 更快地实现关键成果
@@ -120,7 +109,6 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
-活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品发布等
@@ -131,28 +119,14 @@ Data Brew 播客
 数据与 AI 先锋播客
 来自推动创新的数据领导者的洞见
 获取帮助
-客户支持
-文档
-社区
 深入探索
-资源中心
-演示中心
-架构中心
 
 - 关于
 公司
 我们是谁
-我们的团队
-Databricks Ventures
-联系我们
 招聘
 在 Databricks 工作
-开放职位
 新闻
-奖项与认可
-新闻中心
-安全与信任
-安全与信任
 
 - 探索
 面向高管
@@ -281,13 +255,7 @@ Databricks 定价
 - 开源技术
 深入了解平台背后的创新
 
-- 面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗与生命科学零售制造业查看所有行业跨行业解决方案AI Agents（智能体）网络安全营销迁移与部署数据迁移专业服务解决方案加速器探索加速器更快实现重要成果
-
-- 面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗与生命科学零售制造业查看所有行业
-- 跨行业解决方案AI Agents（智能体）网络安全营销
-- 迁移与部署数据迁移专业服务
-- 解决方案加速器探索加速器更快实现重要成果
-
+- 
 - 通信
 - 媒体与娱乐
 - 金融服务
@@ -306,8 +274,7 @@ Databricks 定价
 
 - 探索加速器更快实现重要成果
 
-- 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。活动Data + AI SummitData + AI World TourData Intelligence Days活动日历博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新动态Data Brew播客让我们聊聊数据！Champions of Data + AI Podcast来自推动创新的数据领导者的见解获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+- 
 - 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的Data和AI工具大学联盟想教授Databricks？了解详情。
 - 活动Data + AI SummitData + AI World TourData Intelligence Days活动日历
 - 博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们Gen AI研究的最新动态Data Brew播客让我们聊聊数据！Champions of Data + AI Podcast来自推动创新的数据领导者的见解
@@ -338,8 +305,7 @@ Databricks 定价
 - 演示中心
 - 架构中心
 
-- 公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻奖项与认可新闻中心安全与信任安全与信任
-
+- 
 - 公司关于我们我们的团队Databricks Ventures联系我们
 - 职业发展在Databricks工作开放职位
 - 新闻奖项与认可新闻中心
@@ -383,9 +349,6 @@ Databricks 定价
 
 作者：Laurent Léturgez 与 Cyril Cymbler
 
-- 
-- 
-- 
 
 自动化BCBS 239合规：Databricks上的Agent Bricks和AI/BI Genie将人工工作量减少90%——加速审计、报告和整改。降低成本：开放格式和AI驱动的检查每年在存储、ETL和罚款方面节省2000万至1.1亿美元。面向未来的风险：一个平台既能处理当前的BCBS 239，也能扩展支持DORA、FRTB和Basel IV。
 
@@ -562,9 +525,6 @@ Databricks 和智能体 AI 带来：
 
 这就是为什么与有经验的团队合作至关重要。Databricks 专业服务团队和我们认证的迁移合作伙伴在按时、大规模交付高质量迁移方面拥有深厚经验。请联系我们，开始您的迁移评估。
 
-- 
-- 
-- 
 
 ## 不错过任何 Databricks 文章
 
@@ -748,21 +708,9 @@ Databricks 和智能体 AI 带来：
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看 Databricks 的职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
 
@@ -771,7 +719,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 -   |现代奴隶制声明
 -   |加州隐私
 -   |您的隐私选择
--
 
 ---
 

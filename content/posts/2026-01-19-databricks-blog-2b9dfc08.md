@@ -151,7 +151,6 @@ translated_at: '2026-01-20T04:48:41.332250'
     奖项与认可
     新闻中心
     安全与信任
-    安全与信任
 
 -   探索
         面向高管
@@ -215,13 +214,7 @@ translated_at: '2026-01-20T04:48:41.332250'
         开源技术
             深入了解平台背后的创新
 
-- 面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗保健与生命科学零售制造业查看所有行业跨行业解决方案AI Agent（智能体）网络安全营销迁移与部署数据迁移专业服务解决方案加速器探索加速器更快实现重要成果
-
-- 面向行业的Databricks通信媒体与娱乐金融服务公共部门医疗保健与生命科学零售制造业查看所有行业
-- 跨行业解决方案AI Agent（智能体）网络安全营销
-- 迁移与部署数据迁移专业服务
-- 解决方案加速器探索加速器更快实现重要成果
-
+- 
 - 通信
 - 媒体与娱乐
 - 金融服务
@@ -240,8 +233,7 @@ translated_at: '2026-01-20T04:48:41.332250'
 
 - 探索加速器更快实现重要成果
 
-- 学习培训发现满足您需求的定制课程Databricks学院登录Databricks学习平台认证获得认可与区分免费版免费学习专业数据与AI工具大学联盟想教授Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历博客与播客Databricks博客探索新闻、产品发布等Databricks Mosaic研究博客发现我们生成式AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+- 
 - 学习培训发现满足您需求的定制课程Databricks学院登录Databricks学习平台认证获得认可与区分免费版免费学习专业数据与AI工具大学联盟想教授Databricks？了解详情。
 - 活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
 - 博客与播客Databricks博客探索新闻、产品发布等Databricks Mosaic研究博客发现我们生成式AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的洞见
@@ -272,8 +264,7 @@ translated_at: '2026-01-20T04:48:41.332250'
 - 演示中心
 - 架构中心
 
-- 公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻与媒体奖项与认可新闻中心安全与信任安全与信任
-
+- 
 - 公司关于我们我们的团队Databricks Ventures联系我们
 - 职业发展在Databricks工作开放职位
 - 新闻与媒体奖项与认可新闻中心
@@ -313,9 +304,6 @@ translated_at: '2026-01-20T04:48:41.332250'
 
 发布日期：2026年1月19日
 
-- 
-- 
-- 
 
 AI Agent（智能体）正从预测走向执行，通过基于反射、基于模型、基于目标、基于效用和基于学习的方法采取实际行动，这些方法以可预测性换取适应性。合适的Agent取决于任务：简单Agent适合稳定、重复性工作，而动态环境可能需要规划或学习能力，但增加的自主性通常会提高风险和复杂性。最成功的生产级Agent是混合型，它们结合反射以确保安全、规划以提供灵活性、有限学习以实现适应，并通过治理、明确的权衡取舍和渐进式扩展来指导。
 
@@ -502,9 +490,6 @@ Agent Bricks 是 Databricks 数据智能平台的一部分，可用于构建多�
 - **自定义 LLM Agent**：此类 Agent 处理专门的文本生成和转换任务，例如总结客户通话、按主题分类内容、分析情感或生成符合品牌形象的营销内容。
 - **多 Agent 监督器**：此类 Agent 协调多个专门的 Agent（以及其他工具或 API），使其在复杂的多步骤工作流程中协同工作，例如将文档检索与合规性检查相结合。
 
-- 
-- 
-- 
 
 ## 不错过任何 Databricks 内容
 
@@ -668,21 +653,9 @@ Agent Bricks 是 Databricks 数据智能平台的一部分，可用于构建多�
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看 Databricks 的职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026。保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 和 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
 
@@ -691,7 +664,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

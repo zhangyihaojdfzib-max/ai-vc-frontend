@@ -84,21 +84,10 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
 医疗保健与生命科学
-零售
-制造业
-查看所有行业
 跨行业解决方案
 AI Agent（智能体）
-网络安全
-营销
 迁移与部署
-数据迁移
-专业服务
 解决方案加速器
 探索加速器
 更快地实现关键成果
@@ -119,7 +108,6 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
-活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品发布等
@@ -130,28 +118,14 @@ Data Brew 播客
 Champions of Data + AI 播客
 来自推动创新的数据领导者的见解
 获取帮助
-客户支持
-文档
-社区
 深入探索
-资源中心
-演示中心
-架构中心
 
 - 关于
 公司
 我们是谁
-我们的团队
-Databricks Ventures
-联系我们
 招聘
 在 Databricks 工作
-开放职位
 新闻
-奖项与认可
-新闻中心
-安全与信任
-安全与信任
 
 - 探索
 面向高管
@@ -341,8 +315,7 @@ Databricks 定价
 
 - 探索加速器更快实现关键成果
 
-- 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业数据与AI工具大学联盟想教授Databricks？了解详情。活动Data + AI SummitData + AI World TourData Intelligence Days活动日历博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们生成式AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+- 
 - 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业数据与AI工具大学联盟想教授Databricks？了解详情。
 - 活动Data + AI SummitData + AI World TourData Intelligence Days活动日历
 - 博客与播客Databricks博客探索新闻、产品公告等Databricks Mosaic研究博客发现我们生成式AI研究的最新进展Data Brew播客让我们聊聊数据！Champions of Data + AI播客来自推动创新的数据领导者的洞见
@@ -373,8 +346,7 @@ Databricks 定价
 - 演示中心
 - 架构中心
 
-- 公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻与媒体奖项与认可新闻中心安全与信任安全与信任
-
+- 
 - 公司关于我们我们的团队Databricks Ventures联系我们
 - 职业发展在Databricks工作开放职位
 - 新闻与媒体奖项与认可新闻中心
@@ -418,9 +390,6 @@ Databricks 定价
 
 作者：James Broadhead、Bryan Clark、Jasraj Dange、Jonathan Katz、Susan Pierce、Nikita Shamgunov、Anna Stepanyan与Reynold Xin
 
-- 
-- 
-- 
 
 自我们于夏季宣布Lakebase公开预览版以来，已有数千家Databricks客户在Lakebase之上构建数据智能应用，将其用于应用数据服务、特征存储和Agent（智能体）记忆，同时使这些数据与分析和机器学习工作流保持紧密对齐。
 
@@ -503,9 +472,6 @@ Lakebase现在包含一个全新的用户界面，旨在简化日常工作流。
 
 Lakebase团队祝您节日快乐！
 
-- 
-- 
-- 
 
 ## 不错过任何Databricks动态
 
@@ -692,30 +658,15 @@ Databricks Inc.
 San Francisco, CA 94105
 1-866-330-0121
 
--
--
--
--
--
--
 
 查看 Databricks 的招聘职位
 
--
--
--
--
--
--
-
-© Databricks 2026。保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 以及 Apache Iceberg 徽标均为 Apache Software Foundation 的商标。
 
 - 隐私声明
 - |使用条款
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

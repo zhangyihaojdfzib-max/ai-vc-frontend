@@ -84,21 +84,11 @@ Databricks 定价
 
 -   解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
 医疗保健与生命科学
-零售
-制造业
-查看所有行业
 跨行业解决方案
 AI Agent（智能体）
-网络安全
 市场营销
 迁移与部署
-数据迁移
-专业服务
 解决方案加速器
 探索加速器
 更快地实现关键成果
@@ -119,7 +109,6 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
-活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品发布等更多内容
@@ -130,28 +119,14 @@ Data Brew 播客
 Champions of Data + AI 播客
 来自推动创新的数据领导者的见解
 获取帮助
-客户支持
-文档
-社区
 深入探索
-资源中心
-演示中心
-架构中心
 
 -   关于
 公司
 我们是谁
-我们的团队
-Databricks Ventures
-联系我们
 招聘
 在 Databricks 工作
-开放职位
 新闻
-奖项与认可
-新闻中心
-安全与信任
-安全与信任
 
 -   探索
 面向高管
@@ -305,8 +280,7 @@ Databricks 定价
 
 -   探索加速器更快实现关键成果
 
--   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的数据与AI工具大学联盟想教授Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展数据智能日活动日历博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们生成式AI研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+-   
 -   学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业的数据与AI工具大学联盟想教授Databricks？了解详情。
 -   活动Data + AI 峰会Data + AI 全球巡展数据智能日活动日历
 -   博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们生成式AI研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见
@@ -337,8 +311,7 @@ Databricks 定价
 -   演示中心
 -   架构中心
 
--   公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻奖项与认可新闻中心安全与信任安全与信任
-
+-   
 -   公司关于我们我们的团队Databricks Ventures联系我们
 -   职业发展在Databricks工作开放职位
 -   新闻奖项与认可新闻中心
@@ -539,9 +512,6 @@ SAFE现已成为Databricks内部一个成熟的平台，并被广泛使用。我
 
 如果您对扩展此类关键任务基础设施感兴趣，请探索Databricks的开放职位！
 
-- 
-- 
-- 
 
 ## 不错过任何Databricks文章
 
@@ -725,21 +695,9 @@ SAFE现已成为Databricks内部一个成熟的平台，并被广泛使用。我
 
 Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看 Databricks 的职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 以及 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
 
@@ -748,7 +706,6 @@ Databricks Inc.160 Spear Street, 15th FloorSan Francisco, CA 941051-866-330-0121
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

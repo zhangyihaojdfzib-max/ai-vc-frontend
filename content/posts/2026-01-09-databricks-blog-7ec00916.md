@@ -152,7 +152,6 @@ translated_at: '2026-01-10T04:15:34.640062'
     奖项与认可
     新闻中心
     安全与信任
-    安全与信任
 
 -  探索
     面向高管
@@ -327,8 +326,7 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 - 探索加速器更快实现重要成果
 
-- 学习培训发现满足您需求的定制课程Databricks 学院登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的 Data 和 AI 工具大学联盟想教授 Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们 Gen AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+- 
 - 学习培训发现满足您需求的定制课程Databricks 学院登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的 Data 和 AI 工具大学联盟想教授 Databricks？了解详情。
 - 活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
 - 博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们 Gen AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见
@@ -359,8 +357,7 @@ translated_at: '2026-01-10T04:15:34.640062'
 - 演示中心
 - 架构中心
 
-- 公司关于我们我们的团队Databricks Ventures联系我们职业发展在 Databricks 工作开放职位新闻与媒体奖项与认可新闻中心安全与信任安全与信任
-
+- 
 - 公司关于我们我们的团队Databricks Ventures联系我们
 - 职业发展在 Databricks 工作开放职位
 - 新闻与媒体奖项与认可新闻中心
@@ -404,9 +401,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 作者：Sai Sandeep Kantareddy
 
-- 
-- 
-- 
 
 - 7‑Eleven 的技术员使用基于 Databricks 构建的 AI 驱动技术员维护助手，将维护文档搜索时间缩短了高达 60%。
 - 该解决方案通过即时文档访问、视觉部件识别以及与 Microsoft Teams 的集成，将首次修复率提高了 25%。
@@ -500,9 +494,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 探索Databricks AI解决方案
 
--
--
--
 
 ## 不错过任何一篇Databricks文章
 
@@ -684,21 +675,9 @@ Databricks Inc.
 San Francisco, CA 94105
 1-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看Databricks的职业生涯
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks 2026。保留所有权利。Apache、Apache Spark、Spark、Spark徽标、Apache Iceberg、Iceberg以及Apache Iceberg徽标是Apache Software Foundation的商标。
 
@@ -707,7 +686,6 @@ San Francisco, CA 94105
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

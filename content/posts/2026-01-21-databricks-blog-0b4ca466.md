@@ -178,8 +178,7 @@ translated_at: '2026-01-23T04:45:24.477936'
 
 - 探索加速器加速实现关键成果
 
-- 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业数据与AI工具大学联盟想教授Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡演AI 日活动日历博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们生成式AI研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+- 
 - 学习培训发现满足您需求的定制课程Databricks Academy登录Databricks学习平台认证获得认可与区分免费版免费学习专业数据与AI工具大学联盟想教授Databricks？了解详情。
 - 活动Data + AI 峰会Data + AI 全球巡演AI 日活动日历
 - 博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们生成式AI研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的洞见
@@ -210,8 +209,7 @@ translated_at: '2026-01-23T04:45:24.477936'
 - 演示中心
 - 架构中心
 
-- 公司关于我们我们的团队Databricks Ventures联系我们职业发展在Databricks工作开放职位新闻奖项与认可新闻中心安全与信任安全与信任
-
+- 
 - 公司关于我们我们的团队Databricks Ventures联系我们
 - 职业发展在Databricks工作开放职位
 - 新闻奖项与认可新闻中心
@@ -253,9 +251,6 @@ translated_at: '2026-01-23T04:45:24.477936'
 
 作者：Justin Lai, Rajneesh Arora, Krishan Kumar 和 Cindy Jiang
 
-- 
-- 
-- 
 
 -   Arctic Wolf 每天处理超过 1 万亿个安全事件，生成超过 2600 亿条丰富的观测数据，这些数据保存在 PB 级的 Delta Lake 中。我们的架构旨在提供对这些数据的近实时访问。
 -   我们最近迁移到在 Unity Catalog 托管表上使用液态集群，并结合预测性优化（PO），为我们分区的外部表补充了增量、工作负载感知的集群功能，以获得更好的查询性能。
@@ -305,9 +300,6 @@ Arctic Wolf迁移到液态聚类在性能、数据新鲜度和运营效率方面
 
 转向液态聚类和Unity Catalog托管表，消除了遗留的分区方案，减少了技术债务，并解锁了先进的治理和性能特性。凭借能够每日处理和查询**超过2600亿行**数据的架构，我们为来自所有这些来源的关键安全数据提供了更快、更高效的访问。结合我们7x24小时的Concierge Security®团队和实时威胁检测，这实现了更快速、更准确的威胁响应和缓解。这些差异化优势帮助我们的**客户**建立更强大、更敏捷的安全态势，并对Arctic Wolf保护其环境和支持业务持续成功的能力更有信心。
 
-- 
-- 
-- 
 
 ## 不错过任何Databricks文章
 
@@ -494,30 +486,15 @@ Databricks Inc.
 San Francisco, CA 94105
 1-866-330-0121
 
--
--
--
--
--
--
 
 查看 Databricks 的招聘职位
 
--
--
--
--
--
--
-
-© Databricks 2026。保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 以及 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
 
 - 隐私声明
 - |使用条款
 - |现代奴隶制声明
 - |加州隐私
 - |您的隐私选择
--
 
 ---
 

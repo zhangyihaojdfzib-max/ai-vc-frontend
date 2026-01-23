@@ -85,21 +85,10 @@ Databricks 定价
 
 - 解决方案
 面向行业的 Databricks
-通信
-媒体与娱乐
-金融服务
-公共部门
 医疗保健与生命科学
-零售
-制造业
-查看所有行业
 跨行业解决方案
 AI Agent（智能体）
-网络安全
-营销
 迁移与部署
-数据迁移
-专业服务
 解决方案加速器
 探索加速器
 更快地实现关键成果
@@ -120,7 +109,6 @@ Databricks 学院
 Data + AI 峰会
 Data + AI 全球巡演
 数据智能日
-活动日历
 博客与播客
 Databricks 博客
 探索新闻、产品发布等
@@ -131,28 +119,14 @@ Data Brew 播客
 Champions of Data + AI 播客
 来自推动创新的数据领导者的见解
 获取帮助
-客户支持
-文档
-社区
 深入探索
-资源中心
-演示中心
-架构中心
 
 - 关于公司
 公司
 我们是谁
-我们的团队
-Databricks Ventures
-联系我们
 招聘
 在 Databricks 工作
-开放职位
 新闻
-奖项与认可
-新闻中心
-安全与信任
-安全与信任
 
 - 探索
 面向高管
@@ -342,8 +316,7 @@ Databricks 定价
 
 -   探索加速器更快地实现重要成果
 
--   学习培训发现满足您需求的定制课程Databricks 学院登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的 Data 和 AI 工具大学联盟想要教授 Databricks？了解详情。活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们 Gen AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的见解获取帮助客户支持文档社区深入探索资源中心演示中心架构中心
-
+-   
 -   学习培训发现满足您需求的定制课程Databricks 学院登录 Databricks 学习平台认证获得认可与区分免费版免费学习专业的 Data 和 AI 工具大学联盟想要教授 Databricks？了解详情。
 -   活动Data + AI 峰会Data + AI 全球巡展Data Intelligence Days活动日历
 -   博客与播客Databricks 博客探索新闻、产品公告等Databricks Mosaic 研究博客发现我们 Gen AI 研究的最新进展Data Brew 播客让我们聊聊数据！Champions of Data + AI 播客来自推动创新的数据领导者的见解
@@ -374,8 +347,7 @@ Databricks 定价
 -   演示中心
 -   架构中心
 
--   公司关于我们我们的团队Databricks Ventures联系我们职业发展在 Databricks 工作开放职位新闻奖项与认可新闻中心安全与信任安全与信任
-
+-   
 -   公司关于我们我们的团队Databricks Ventures联系我们
 -   职业发展在 Databricks 工作开放职位
 -   新闻奖项与认可新闻中心
@@ -413,9 +385,6 @@ Databricks 定价
 
 作者：Ravi Gawai 和 Phoebe Weiser
 
-- 
-- 
-- 
 
 扩展数据管道会带来开销、逻辑漂移以及团队间逻辑不一致的问题。这些差距会拖慢交付速度、增加维护成本，并使得执行共享标准变得困难。本篇博客展示了元数据驱动的元编程如何消除重复，并大规模构建一致的自动化数据管道。
 
@@ -560,9 +529,6 @@ DLT-META在运行时构建并执行管道逻辑。
 - 演示：databrickslabs.github.io/DLT-META/demo
 - 最新版本：https://github.com/databrickslabs/DLT-META/releases
 
-- 
-- 
-- 
 
 ## 不错过任何Databricks文章
 
@@ -749,21 +715,9 @@ Databricks Inc.
 San Francisco, CA 94105
 1-866-330-0121
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 查看 Databricks 的职位
 
-- 
-- 
-- 
-- 
-- 
-- 
 
 © Databricks 2026. 保留所有权利。Apache、Apache Spark、Spark、Spark 徽标、Apache Iceberg、Iceberg 以及 Apache Iceberg 徽标是 Apache Software Foundation 的商标。
 
@@ -772,7 +726,6 @@ San Francisco, CA 94105
 -   |现代奴隶制声明
 -   |加州隐私
 -   |您的隐私选择
--
 
 ---
 
