@@ -26,15 +26,15 @@ translated_at: '2026-01-22T04:45:59.054118'
 
 今年以来，SaaS股票中位数下跌14-17%。64%的软件公司股价下跌。Adobe下跌32%，HubSpot下跌57%，Atlassian下跌54%。
 
-![Software Stock Performance Ranked : 2026 YTD](/images/posts/002c9ca88d1e.jpg)
+![Software Stock Performance Ranked : 2026 YTD](/images/posts/002c9ca88d1e.webp)
 
 收入增长比利润率、盈利能力或市值更能预测回报。增长率超过20%的公司股价上涨，低于20%的公司则下跌。Palantir增长47%，MongoDB增长21%，Adobe和Salesforce增长不足10%。
 
-![Software Stock Performance vs Revenue Growth : 2026 YTD](/images/posts/785006f4b5f9.jpg)
+![Software Stock Performance vs Revenue Growth : 2026 YTD](/images/posts/785006f4b5f9.webp)
 
 这不是广泛的市场调整。大盘股保持稳定，小盘股正在崩盘。
 
-![Software Stock Performance by Market Cap : 2026 YTD](/images/posts/c312c6806250.jpg)
+![Software Stock Performance by Market Cap : 2026 YTD](/images/posts/c312c6806250.webp)
 
 十年前，软件行业也曾暴跌。2016年2月5日，LinkedIn单日暴跌43%，Tableau重挫49%。Salesforce下跌13%，纳斯达克指数大跌3.25%。投资者在一个下午集体抛售软件股。
 

@@ -30,21 +30,21 @@ translated_at: '2026-01-08T04:43:30.972960'
 -
 +115
 
-![](/images/posts/9bc3346835fd.jpg)
+![](/images/posts/9bc3346835fd.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/0b27d2d98618.jpg)
+![](/images/posts/0b27d2d98618.webp)
 
-![](/images/posts/ed23d04248c4.jpg)
+![](/images/posts/ed23d04248c4.webp)
 
-![](/images/posts/5a2e0b6d591e.jpg)
+![](/images/posts/5a2e0b6d591e.webp)
 
-![IBM Granite's avatar](/images/posts/bbefac54ad5a.png)
+![IBM Granite's avatar](/images/posts/bbefac54ad5a.webp)
 
-![Rameswar Panda's avatar](/images/posts/b29f707ce5ec.jpg)
+![Rameswar Panda's avatar](/images/posts/b29f707ce5ec.webp)
 
-![IBM Granite's avatar](/images/posts/bbefac54ad5a.png)
+![IBM Granite's avatar](/images/posts/bbefac54ad5a.webp)
 
 今天我们很高兴地分享 Granite 4.0 Nano，这是我们迄今为止最小的模型，作为 IBM Granite 4.0 模型家族的一部分发布。这些模型专为边缘和设备端应用设计，在其尺寸级别上展现出卓越的性能，体现了 IBM 持续致力于开发强大、实用且无需数千亿参数即可完成任务的模型。
 
@@ -74,15 +74,15 @@ Granite 4.0 Nano 的完整细节可在 Hugging Face 模型卡片上找到。展�
 
 ![granite-4-nano-chart3](/images/posts/f400053b4a58.png)
 
-![](/images/posts/96ede6a1ba57.png)
+![](/images/posts/96ede6a1ba57.webp)
 
-![](/images/posts/42e89a375726.jpg)
+![](/images/posts/42e89a375726.webp)
 
-![](/images/posts/d0ac0931dbea.jpg)
+![](/images/posts/d0ac0931dbea.webp)
 
-![](/images/posts/9bc3346835fd.jpg)
+![](/images/posts/9bc3346835fd.webp)
 
-![](/images/posts/3df41d9e86ff.png)
+![](/images/posts/3df41d9e86ff.webp)
 
 我们刚刚在 Word 中测试了本地 granite-4-h-tiny 模型进行合同分析：https://youtu.be/acX1CqF8TDA
 
@@ -108,25 +108,25 @@ Granite 4.0 Nano 的完整细节可在 Hugging Face 模型卡片上找到。展�
 -
 +109
 
-![](/images/posts/9bc3346835fd.jpg)
+![](/images/posts/9bc3346835fd.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/0b27d2d98618.jpg)
+![](/images/posts/0b27d2d98618.webp)
 
-![](/images/posts/ed23d04248c4.jpg)
+![](/images/posts/ed23d04248c4.webp)
 
-![](/images/posts/5a2e0b6d591e.jpg)
+![](/images/posts/5a2e0b6d591e.webp)
 
-![](/images/posts/287c63ff9896.jpg)
+![](/images/posts/287c63ff9896.webp)
 
-![](/images/posts/31b82c1d66b3.jpg)
+![](/images/posts/31b82c1d66b3.webp)
 
-![](/images/posts/71bf66847b57.jpg)
+![](/images/posts/71bf66847b57.webp)
 
-![](/images/posts/78bab46e000b.jpg)
+![](/images/posts/78bab46e000b.webp)
 
-![](/images/posts/8b621b556332.jpg)
+![](/images/posts/8b621b556332.webp)
 
 ---
 

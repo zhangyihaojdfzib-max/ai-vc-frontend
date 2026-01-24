@@ -28,7 +28,7 @@ translated_at: '2026-01-16T04:36:35.061974'
 
 每一波浪潮都推动营收增长超过50%，随之而来的是市盈率飙升。市盈率的上涨先于营收增长的实际显现。
 
-![nvidia_pe_chart](/images/posts/a812747b9fc5.jpg)
+![nvidia_pe_chart](/images/posts/a812747b9fc5.webp)
 
 市盈率与过去十二个月营收增长之间存在四个季度的偏移。当你将营收增长数据前移一年时，其与市盈率的相关性跃升至0.80。
 
@@ -36,7 +36,7 @@ translated_at: '2026-01-16T04:36:35.061974'
 
 但请注意峰值时发生的情况。
 
-![nvidia_rolling_correlation](/images/posts/38ff841f7916.jpg)
+![nvidia_rolling_correlation](/images/posts/38ff841f7916.webp)
 
 在每次繁荣期的末尾，相关性崩溃，降至零甚至转为负值。市盈率保持高位，而营收增长急剧下降。市场重新定价的速度缓慢。
 

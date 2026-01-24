@@ -18,9 +18,9 @@ draft: false
 translated_at: '2026-01-17T04:16:08.368124'
 ---
 
-![](/images/posts/fd84b2370eb8.png)
+![](/images/posts/fd84b2370eb8.avif)
 
-![](/images/posts/121f91cb713a.png)
+![](/images/posts/121f91cb713a.avif)
 
 环境变量管理界面现已优化，可更便捷地管理共享环境变量与项目环境变量。
 

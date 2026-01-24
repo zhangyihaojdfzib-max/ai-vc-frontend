@@ -29,19 +29,19 @@ translated_at: '2026-01-07T03:12:32.186Z'
 - 
 - +13
 
-![](/images/posts/fb71dc93d9af.jpg)
+![](/images/posts/fb71dc93d9af.webp)
 
-![](/images/posts/9bc3346835fd.jpg)
+![](/images/posts/9bc3346835fd.webp)
 
-![](/images/posts/95d1650d88ea.jpg)
+![](/images/posts/95d1650d88ea.webp)
 
-![](/images/posts/78bab46e000b.jpg)
+![](/images/posts/78bab46e000b.webp)
 
-![](/images/posts/708f2069f03c.png)
+![](/images/posts/708f2069f03c.webp)
 
-![](/images/posts/147442e2c1c8.png)
+![](/images/posts/147442e2c1c8.webp)
 
-![NVIDIA's avatar](/images/posts/ef2e4339456d.png)
+![NVIDIA's avatar](/images/posts/ef2e4339456d.webp)
 
 ## 一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南SO-ARM入门工作流程；构建具身化手术助手技术实现仿真到现实的混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT入门指南资源一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南
 
@@ -227,23 +227,23 @@ Isaac for Healthcare SO-ARM入门工作流现已可用。开始使用：
 - 
 - +7
 
-![](/images/posts/fb71dc93d9af.jpg)
+![](/images/posts/fb71dc93d9af.webp)
 
-![](/images/posts/9bc3346835fd.jpg)
+![](/images/posts/9bc3346835fd.webp)
 
-![](/images/posts/95d1650d88ea.jpg)
+![](/images/posts/95d1650d88ea.webp)
 
-![](/images/posts/78bab46e000b.jpg)
+![](/images/posts/78bab46e000b.webp)
 
-![](/images/posts/708f2069f03c.png)
+![](/images/posts/708f2069f03c.webp)
 
-![](/images/posts/147442e2c1c8.png)
+![](/images/posts/147442e2c1c8.webp)
 
-![](/images/posts/b39222448f25.png)
+![](/images/posts/b39222448f25.webp)
 
-![](/images/posts/a45a2269c6af.jpg)
+![](/images/posts/a45a2269c6af.webp)
 
-![](/images/posts/21b6b30b32c9.jpg)
+![](/images/posts/21b6b30b32c9.webp)
 
 ---
 

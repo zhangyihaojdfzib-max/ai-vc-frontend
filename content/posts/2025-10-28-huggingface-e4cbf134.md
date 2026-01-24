@@ -28,21 +28,21 @@ translated_at: '2026-01-08T04:44:14.966330'
 - 
 - +28
 
-![](/images/posts/311db97fa420.jpg)
+![](/images/posts/311db97fa420.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/5b36678ab3e8.jpg)
+![](/images/posts/5b36678ab3e8.webp)
 
-![](/images/posts/a29bc25d8b31.png)
+![](/images/posts/a29bc25d8b31.webp)
 
-![](/images/posts/cfd9088d8f1a.jpg)
+![](/images/posts/cfd9088d8f1a.webp)
 
-![](/images/posts/27a550474bb3.jpg)
+![](/images/posts/27a550474bb3.webp)
 
-![Margaret Mitchell的头像](/images/posts/a29bc25d8b31.png)
+![Margaret Mitchell的头像](/images/posts/a29bc25d8b31.webp)
 
-![Lucie-Aimée Kaffee的头像](/images/posts/9ad02ca76d79.png)
+![Lucie-Aimée Kaffee的头像](/images/posts/9ad02ca76d79.webp)
 
 实践中的伦理：将授权作为系统基础设施技术细节方法解锁语音授权门在这篇博客文章中，我们提出了“语音授权门”的概念，以支持基于授权的语音克隆。我们提供了一个示例空间和配套代码来启动这个想法。
 
@@ -118,13 +118,13 @@ translated_at: '2026-01-08T04:44:14.966330'
 - 
 - 
 
-![](/images/posts/3a2fba626253.jpg)
+![](/images/posts/3a2fba626253.webp)
 
-![](/images/posts/e3e320829a38.jpg)
+![](/images/posts/e3e320829a38.webp)
 
-![](/images/posts/9835080f1da2.jpg)
+![](/images/posts/9835080f1da2.webp)
 
-![](/images/posts/4402b0abc4cd.jpg)
+![](/images/posts/4402b0abc4cd.webp)
 
 ![](/images/posts/e9b870f9016d.png)
 
@@ -133,9 +133,9 @@ translated_at: '2026-01-08T04:44:14.966330'
 - 
 - 
 
-![](/images/posts/a29bc25d8b31.png)
+![](/images/posts/a29bc25d8b31.webp)
 
-![](/images/posts/044b38b78f10.jpg)
+![](/images/posts/044b38b78f10.webp)
 
 我并不热衷于试图通过立法解决所有问题，但如果恶意的深度伪造在大多数司法管辖区已经属于非法，那么恶意的语音克隆似乎也应该如此。
 
@@ -147,28 +147,28 @@ translated_at: '2026-01-08T04:44:14.966330'
 
 真是活在一个有趣的时代。
 
-![](/images/posts/e07ea73774f1.png)
+![](/images/posts/e07ea73774f1.webp)
 
 我在本地测试过了……太棒了……我们必须将其扩展到所有语言
 
 @ZennyKenny 关于可疑语音录音请求的观点一针见血。我们生活在一个“你能为我的铃声说点什么吗？”已经变成了新的“我能借用一下你的社保号码吗？”的时代。同意网关的方式至少让请求变得更加明确：“嘿，你能明确同意我克隆你的声音，同时朗读这个关于咖啡的、包含丰富音素的句子吗？”这样更难蒙混过关了！
 
-![](/images/posts/770e62731bf0.png)
+![](/images/posts/770e62731bf0.webp)
 
-![](/images/posts/770e62731bf0.png)
+![](/images/posts/770e62731bf0.webp)
 
 - 
 - 1 条回复
 
-![](/images/posts/770e62731bf0.png)
+![](/images/posts/770e62731bf0.webp)
 
-![](/images/posts/770e62731bf0.png)
+![](/images/posts/770e62731bf0.webp)
 
 我看到了您的项目，觉得非常有趣。我尝试为其做出贡献，增加了多语言支持和本地句子生成（使用 ollama 和 llama3:8b），以及使用 XTTS v2 进行语音克隆。我已将代码上传到 GitHub，您可以在这里找到：https://github.com/faridgnank02/voice-cloning
 
 请告诉我您的看法。
 
-![](/images/posts/fbc271017605.png)
+![](/images/posts/fbc271017605.webp)
 
 非常有趣！但是，同意机制是否可能被另一个不需要验证的语音克隆模型绕过？例如，用那个模型来生成验证音频。
 
@@ -188,29 +188,29 @@ translated_at: '2026-01-08T04:44:14.966330'
 - 
 - +22
 
-![](/images/posts/311db97fa420.jpg)
+![](/images/posts/311db97fa420.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/5b36678ab3e8.jpg)
+![](/images/posts/5b36678ab3e8.webp)
 
-![](/images/posts/a29bc25d8b31.png)
+![](/images/posts/a29bc25d8b31.webp)
 
-![](/images/posts/cfd9088d8f1a.jpg)
+![](/images/posts/cfd9088d8f1a.webp)
 
-![](/images/posts/27a550474bb3.jpg)
+![](/images/posts/27a550474bb3.webp)
 
-![](/images/posts/57a181fb720e.png)
+![](/images/posts/57a181fb720e.webp)
 
-![](/images/posts/6fd3dce20fa4.jpg)
+![](/images/posts/6fd3dce20fa4.webp)
 
-![](/images/posts/fbc271017605.png)
+![](/images/posts/fbc271017605.webp)
 
-![](/images/posts/aedb1bac9e09.jpg)
+![](/images/posts/aedb1bac9e09.webp)
 
-![](/images/posts/4625637daf54.png)
+![](/images/posts/4625637daf54.webp)
 
-![](/images/posts/23bfa5264cbc.jpg)
+![](/images/posts/23bfa5264cbc.webp)
 
 ---
 

@@ -19,9 +19,9 @@ draft: false
 translated_at: '2026-01-20T04:44:02.288284'
 ---
 
-![How Remote uses LangChain and LangGraph to onboard thousands of customers with AI](/images/posts/5207977ffeb6.png)
+![How Remote uses LangChain and LangGraph to onboard thousands of customers with AI](/images/posts/5207977ffeb6.webp)
 
-![How Remote uses LangChain and LangGraph to onboard thousands of customers with AI](/images/posts/5207977ffeb6.png)
+![How Remote uses LangChain and LangGraph to onboard thousands of customers with AI](/images/posts/5207977ffeb6.webp)
 
 # Remote 如何利用 LangChain 和 LangGraph 通过 AI 为数千家客户完成入驻
 
@@ -86,27 +86,27 @@ Remote 选择 LangChain 是因为其生态系统为提示词处理和工具调�
 
 抱歉，出错了。请重试。
 
-![Fastweb + Vodafone: Transforming Customer Experience with AI Agents using LangGraph and LangSmith](/images/posts/7d701cbfd763.png)
+![Fastweb + Vodafone: Transforming Customer Experience with AI Agents using LangGraph and LangSmith](/images/posts/7d701cbfd763.webp)
 
 ## Fastweb + Vodafone：使用 LangGraph 和 LangSmith 通过 AI Agent（智能体）变革客户体验
 
-![How Jimdo empower solopreneurs with AI-powered business assistance](/images/posts/7e6643c5bf29.png)
+![How Jimdo empower solopreneurs with AI-powered business assistance](/images/posts/7e6643c5bf29.webp)
 
 ## Jimdo 如何通过 AI 驱动的业务助手赋能个体创业者
 
-![How ServiceNow uses LangSmith to get visibility into its customer success agents](/images/posts/8fd47451bedf.png)
+![How ServiceNow uses LangSmith to get visibility into its customer success agents](/images/posts/8fd47451bedf.webp)
 
 ## ServiceNow 如何使用 LangSmith 获取其客户成功 Agent（智能体）的可观测性
 
-![Monte Carlo: Building Data + AI Observability Agents with LangGraph and LangSmith](/images/posts/cc9b83b0771d.png)
+![Monte Carlo: Building Data + AI Observability Agents with LangGraph and LangSmith](/images/posts/cc9b83b0771d.webp)
 
 ## Monte Carlo：使用 LangGraph 和 LangSmith 构建数据与 AI 可观测性 Agent（智能体）
 
-![How Bertelsmann Built a Multi-Agent System to Empower Creatives](/images/posts/64b86b3206b1.png)
+![How Bertelsmann Built a Multi-Agent System to Empower Creatives](/images/posts/64b86b3206b1.webp)
 
 ## 贝塔斯曼如何构建多 Agent（智能体）系统赋能创意工作者
 
-![How Exa built a Web Research Multi-Agent System with LangGraph and LangSmith](/images/posts/a29355ef524b.png)
+![How Exa built a Web Research Multi-Agent System with LangGraph and LangSmith](/images/posts/a29355ef524b.webp)
 
 ## Exa 如何利用 LangGraph 和 LangSmith 构建网络研究多 Agent（智能体）系统
 

@@ -28,17 +28,17 @@ translated_at: '2026-01-07T03:12:32.187Z'
 - 
 - +35
 
-![](/images/posts/377bb8640be1.png)
+![](/images/posts/377bb8640be1.webp)
 
-![](/images/posts/0936a580b0bb.jpg)
+![](/images/posts/0936a580b0bb.webp)
 
-![](/images/posts/d9ecfddda63e.jpg)
+![](/images/posts/d9ecfddda63e.webp)
 
-![](/images/posts/fe891c2376f7.jpg)
+![](/images/posts/fe891c2376f7.webp)
 
-![](/images/posts/ed23d04248c4.jpg)
+![](/images/posts/ed23d04248c4.webp)
 
-![MiniMax's avatar](/images/posts/0a31aa79a1a7.jpg)
+![MiniMax's avatar](/images/posts/0a31aa79a1a7.webp)
 
 真正的智能体对齐问题：基准测试还是现实？交错思维的必要性真正的泛化在于应对扰动下一步是什么？参与进来看到社区深入探讨我们新的 MiniMax M2 模型，许多人强调其在复杂智能体任务中令人印象深刻的技能，这真是太棒了。这尤其让我感到兴奋，因为我的工作重点是其训练后阶段的智能体对齐部分。在这篇文章中，我想分享我们在这个过程中获得的一些关键见解和经验教训。
 
@@ -123,25 +123,25 @@ translated_at: '2026-01-07T03:12:32.187Z'
 - 
 - +29
 
-![](/images/posts/377bb8640be1.png)
+![](/images/posts/377bb8640be1.webp)
 
-![](/images/posts/0936a580b0bb.jpg)
+![](/images/posts/0936a580b0bb.webp)
 
-![](/images/posts/d9ecfddda63e.jpg)
+![](/images/posts/d9ecfddda63e.webp)
 
-![](/images/posts/fe891c2376f7.jpg)
+![](/images/posts/fe891c2376f7.webp)
 
-![](/images/posts/ed23d04248c4.jpg)
+![](/images/posts/ed23d04248c4.webp)
 
-![](/images/posts/e92f7a1e8d97.jpg)
+![](/images/posts/e92f7a1e8d97.webp)
 
-![](/images/posts/61848414a8cc.png)
+![](/images/posts/61848414a8cc.webp)
 
-![](/images/posts/13e0aca0c3c0.jpg)
+![](/images/posts/13e0aca0c3c0.webp)
 
-![](/images/posts/c8cccc88e68e.jpg)
+![](/images/posts/c8cccc88e68e.webp)
 
-![](/images/posts/21895c34544a.jpg)
+![](/images/posts/21895c34544a.webp)
 
 ---
 

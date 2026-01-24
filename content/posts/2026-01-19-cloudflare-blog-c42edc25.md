@@ -26,13 +26,13 @@ translated_at: '2026-01-20T04:44:36.770774'
 - Andrew Mitchell
 - Leland Garofalo
 
-![Hrushikesh Deshpande](/images/posts/57832e22b418.png)
+![Hrushikesh Deshpande](/images/posts/57832e22b418.avif)
 
-![Andrew Mitchell](/images/posts/c55333608da3.png)
+![Andrew Mitchell](/images/posts/c55333608da3.avif)
 
-![Leland Garofalo](/images/posts/f3cfc21c2dd0.png)
+![Leland Garofalo](/images/posts/f3cfc21c2dd0.avif)
 
-![](/images/posts/e7538621b3b6.png)
+![](/images/posts/e7538621b3b6.webp)
 
 2025年10月13日，来自FearsOff的安全研究人员发现并报告了Cloudflare ACME（自动证书管理环境）验证逻辑中的一个漏洞，该漏洞导致特定ACME相关路径上的部分WAF功能失效。该漏洞通过Cloudflare的漏洞赏金计划被报告并验证。
 

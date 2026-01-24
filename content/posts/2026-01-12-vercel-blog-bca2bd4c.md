@@ -70,7 +70,7 @@ Workflow DevKit 满足了所有这些要求。`"use workflow"` 和 `"use step"` 
 
 当一个步骤首次运行失败，然后在 2 秒后重试并成功时，在可观测性仪表板中看起来是这样的：
 
-![](/images/posts/3bca513824eb.png)
+![](/images/posts/3bca513824eb.avif)
 
 每个 `"use step"` 函数都是独立运行的。如果在生成摘要和标签后，审核 API 失败了，工作流会从上次中断的地方恢复。你不会丢失已经付费完成的工作。执行分布在多个无服务器函数调用中，因此长时间运行的 AI 操作永远不会触及超时限制。
 
@@ -80,7 +80,7 @@ Workflow DevKit 满足了所有这些要求。`"use workflow"` 和 `"use step"` 
 
 Workflow DevKit 通过“世界”的概念设计时考虑了可移植性。一个“世界”是存储工作流状态的地方。在本地，它是磁盘上的 JSON 文件。在 Vercel 上，它会为你管理。或者你可以**使用 Postgres、Redis 自托管，或构建你自己的**。最简单的路径是使用本地世界在本地开发和测试，然后部署到 Vercel，在那里所有资源（包括可观测性仪表板）都会自动配置。这是默认的零配置体验。
 
-![](/images/posts/cecbc92c9808.jpg)
+![](/images/posts/cecbc92c9808.avif)
 
 对于部署到 Vercel 的团队来说，这意味着：
 

@@ -24,9 +24,9 @@ translated_at: '2026-01-08T04:38:28.368783'
 
 要读的内容太多，今年却只剩408小时… 真是压力山大
 
-![新年将至，Krampus提醒你关闭浏览器标签页](/images/posts/b4f879ee34a6.jpg)
+![新年将至，Krampus提醒你关闭浏览器标签页](/images/posts/b4f879ee34a6.webp)
 
-![](/images/posts/b4f879ee34a6.jpg)
+![](/images/posts/b4f879ee34a6.webp)
 
 **埃隆·马斯克有他的愿景，Waymo负责人Tekedra Mawakana说她有更好的方案** [Noah Shachtman/《名利场》] – Waymo充满魔力。阅读这篇人物特写让我意识到，相比另一位高调人物，我们很少听到Waymo高管的发声。仅2025年他们就完成了**超过1400万次出行**，是技术改变日常物理世界的绝佳范例。我们在旧金山很幸运——愿你的城市成为Waymo的下一个落脚点！
 
@@ -38,15 +38,15 @@ translated_at: '2026-01-08T04:38:28.368783'
 
 **人人都在赌博却无人快乐** [Kyla Scanlon/Kyla通讯] – Kyla借一项研究展开论述，该研究将二十多岁年轻人的不满归因于经济不稳定（众多得出相同结论的研究之一）。与此同时——或许正因如此——群体间信任正在瓦解，AI焦虑日益加剧，而投机/YOLO/赌博活动激增（尤其在年轻男性中）。
 
-![](/images/posts/3ccd5735d921.png)
+![](/images/posts/3ccd5735d921.webp)
 
-![](/images/posts/3ccd5735d921.png)
+![](/images/posts/3ccd5735d921.webp)
 
 **2025年度股东大会思考——万亿美元私营公司、AI融资与外部采购** [Charles Hudson/风险投资思考] – Charles运营一家名为Precursor的风险投资机构，始终秉持真知灼见参与讨论。我参加了这次会议，他确实提炼出了最核心的议题进行分享。观察他每年持续深化的认知总是很有趣，**万亿美元私营公司**正是这样一个领域。
 
-![](/images/posts/45e286ad6d12.png)
+![](/images/posts/45e286ad6d12.webp)
 
-![](/images/posts/45e286ad6d12.png)
+![](/images/posts/45e286ad6d12.webp)
 
 **我最近在用的一个产品** Blackbird，这款本地餐厅/酒吧应用融合了忠诚度计划、加密货币支付等功能——它很有趣，我正在尝试理解其逻辑。试用还能获得免费福利。推荐给你：
 

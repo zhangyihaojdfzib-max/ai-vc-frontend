@@ -20,9 +20,9 @@ translated_at: '2026-01-11T04:40:45.978256'
 
 # 对种子轮VC而言，估值和股权哪个更重要？答案是股权。
 
-![AI bird in hand vs two in bush](/images/posts/6c0b556a6033.jpg)
+![AI bird in hand vs two in bush](/images/posts/6c0b556a6033.webp)
 
-![](/images/posts/6c0b556a6033.jpg)
+![](/images/posts/6c0b556a6033.webp)
 
 在任何特定交易中，应优先考虑股权而非估值，但价格决定了你的投资组合构建策略。这基本上是我们管理Homebrew前十年（期间我们运作三支规模均低于1亿美元的机构基金）的方式。鉴于我们于2022年转为常青个人资本模式（详见《为何我不再关注初创企业估值（除这四个原因外）》），指导原则已发生变化，但该策略在我们以更典型的基金生命周期进行投资时效果显著。
 

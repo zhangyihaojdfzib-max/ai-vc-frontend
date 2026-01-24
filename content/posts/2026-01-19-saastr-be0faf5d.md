@@ -41,7 +41,7 @@ SaaS股票从峰值到低谷的回撤幅度：$SNOW Snowflake -26% $INTU Intuit 
 
 以下是当前攻击传统B2B软件的六大威胁向量：
 
-![](/images/posts/4e938c6526e7.jpg)
+![](/images/posts/4e938c6526e7.webp)
 
 ## #1. 席位增长放缓
 
@@ -178,7 +178,7 @@ Iconiq 2025年软件行业状况报告：前置部署工程师增长12倍；55%�
 
 窗口正在关闭。
 
-![](/images/posts/3f7557c27a96.jpg)
+![](/images/posts/3f7557c27a96.webp)
 
 资料来源：Gartner IT支出预测（2025年10月）、Vertice 2025年SaaS通胀指数、Zylo 2025年SaaS管理指数、HubSpot 2025年第三季度财报、Zoom 2025财年第三季度财报、Iconiq 2025年软件行业状况报告、Andreessen Horowitz企业CIO调查、Menlo Ventures 2024年生成式AI状况报告、Jeremiah Owyang AI初创公司分析、Lean AI排行榜、公司财报。
 

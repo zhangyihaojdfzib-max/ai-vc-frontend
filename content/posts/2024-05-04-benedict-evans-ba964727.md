@@ -20,9 +20,9 @@ translated_at: '2026-01-08T04:30:12.329343'
 
 # 关于AGI的思考方式
 
-![《逻辑乔伊》手稿](/images/posts/7121d9f0b1cf.jpg)
+![《逻辑乔伊》手稿](/images/posts/7121d9f0b1cf.webp)
 
-![](/images/posts/7121d9f0b1cf.jpg)
+![](/images/posts/7121d9f0b1cf.webp)
 
 《逻辑乔伊》手稿
 
