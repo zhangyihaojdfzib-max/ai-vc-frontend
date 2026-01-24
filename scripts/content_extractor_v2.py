@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 content_extractor_v2.py - 带图片位置保留的内容提取器
 """
@@ -10,7 +10,7 @@ import requests
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
-from typing import List, Dict, Optional
+from typing import List, Dict, Optional, Tuple
 
 class ContentExtractorV2:
     """带图片的内容提取器"""
@@ -19,6 +19,8 @@ class ContentExtractorV2:
         self.images_dir = images_dir
         self.images_dir.mkdir(parents=True, exist_ok=True)
         self.user_agent = user_agent or 'Mozilla/5.0 (compatible; AI-VC-Bot/2.0)'
+        # 支持的图片类型（用于缓存命中 & 本地探测）
+        self._allowed_exts = ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.avif']
         
     def extract(self, html: str, base_url: str) -> Dict:
         """从 HTML 提取内容，保留图片位置"""
@@ -94,11 +96,12 @@ class ContentExtractorV2:
         return soup.find('body')
     
     def _process_image(self, img_tag, base_url: str) -> Optional[Dict]:
-        src = img_tag.get('src') or img_tag.get('data-src') or img_tag.get('data-lazy-src')
+        src = self._select_best_image_src(img_tag)
         if not src:
             return None
         
-        if src.startswith('data:') or '.svg' in src.lower() or 'icon' in src.lower() or 'logo' in src.lower():
+        src_l = src.lower()
+        if src_l.startswith('data:') or '.svg' in src_l or 'icon' in src_l:
             return None
         
         img_url = urljoin(base_url, src)
@@ -111,31 +114,231 @@ class ContentExtractorV2:
             'local_path': local_path
         }
     
+    def _select_best_image_src(self, img_tag) -> Optional[str]:
+        """
+        选择最合适的图片 src：
+        - 优先使用 srcset/data-srcset 的“最大”项（很多站点 src 是占位符）
+        - 再回退到 src / data-src / data-lazy-src / data-original 等
+        """
+        candidates: List[Tuple[str, float]] = []
+
+        def add_srcset(value: Optional[str]):
+            if not value:
+                return
+            best = self._pick_best_from_srcset(value)
+            if best:
+                candidates.append((best, 1000.0))
+
+        add_srcset(img_tag.get('srcset') or img_tag.get('data-srcset'))
+
+        # 常见 lazy-load 字段
+        for key in ['src', 'data-src', 'data-lazy-src', 'data-original', 'data-url']:
+            v = img_tag.get(key)
+            if v:
+                candidates.append((v, 1.0))
+
+        if not candidates:
+            return None
+
+        # srcset 赋予更高权重
+        candidates.sort(key=lambda x: x[1], reverse=True)
+        return candidates[0][0]
+
+    def _pick_best_from_srcset(self, srcset: str) -> Optional[str]:
+        """
+        srcset 示例：
+        - "a.jpg 320w, b.jpg 640w"
+        - "a.webp 1x, b.webp 2x"
+        这里选 “最大” 的候选项。
+        """
+        best_url = None
+        best_score = -1.0
+
+        for part in srcset.split(','):
+            item = part.strip()
+            if not item:
+                continue
+            pieces = item.split()
+            url = pieces[0]
+            score = 0.0
+            if len(pieces) >= 2:
+                d = pieces[1].strip()
+                try:
+                    if d.endswith('w'):
+                        score = float(d[:-1])
+                    elif d.endswith('x'):
+                        score = float(d[:-1]) * 10000.0
+                except Exception:
+                    score = 0.0
+            if score >= best_score:
+                best_score = score
+                best_url = url
+
+        return best_url
+
+    def _detect_kind_from_bytes(self, data: bytes) -> str:
+        # JPEG
+        if data.startswith(b'\xff\xd8\xff'):
+            return 'jpeg'
+        # PNG
+        if data.startswith(b'\x89PNG\r\n\x1a\n'):
+            return 'png'
+        # GIF
+        if data.startswith(b'GIF87a') or data.startswith(b'GIF89a'):
+            return 'gif'
+        # WebP
+        if len(data) >= 12 and data[0:4] == b'RIFF' and data[8:12] == b'WEBP':
+            return 'webp'
+        # AVIF (ISO BMFF) - 兼容 ftypavif/avis
+        if len(data) >= 12 and data[4:8] == b'ftyp' and (b'avif' in data[8:24] or b'avis' in data[8:24]):
+            return 'avif'
+
+        s = data.lstrip()
+        if s.startswith(b'<!DOCTYPE html') or s.startswith(b'<html') or s.startswith(b'<head'):
+            return 'html'
+        if s.startswith(b'{') or s.startswith(b'['):
+            return 'json'
+        return 'unknown'
+
+    def _ext_for_kind(self, kind: str) -> Optional[str]:
+        return {
+            'jpeg': '.jpg',
+            'png': '.png',
+            'gif': '.gif',
+            'webp': '.webp',
+            'avif': '.avif',
+        }.get(kind)
+
+    def _kind_from_ext(self, ext: str) -> Optional[str]:
+        e = (ext or '').lower()
+        if e == '.jpg' or e == '.jpeg':
+            return 'jpeg'
+        if e == '.png':
+            return 'png'
+        if e == '.gif':
+            return 'gif'
+        if e == '.webp':
+            return 'webp'
+        if e == '.avif':
+            return 'avif'
+        return None
+
+    def _is_valid_image_bytes(self, kind: str, data: bytes) -> bool:
+        # 基础校验：避免“半截/被截断/错误页”等进入仓库
+        if not data or len(data) < 64:
+            return False
+        if kind == 'jpeg':
+            return data.startswith(b'\xff\xd8') and data.rstrip().endswith(b'\xff\xd9')
+        if kind == 'png':
+            return data.startswith(b'\x89PNG\r\n\x1a\n') and b'IEND' in data[-64:]
+        if kind == 'gif':
+            return (data.startswith(b'GIF87a') or data.startswith(b'GIF89a')) and data.rstrip().endswith(b'\x3b')
+        if kind == 'webp':
+            if len(data) < 12 or data[0:4] != b'RIFF' or data[8:12] != b'WEBP':
+                return False
+            # RIFF chunk size（小端）+ 8 ~= 文件长度
+            try:
+                riff_size = int.from_bytes(data[4:8], 'little')
+                return (riff_size + 8) <= (len(data) + 16)
+            except Exception:
+                return True
+        if kind == 'avif':
+            return len(data) >= 12 and data[4:8] == b'ftyp'
+        return False
+
+    def _is_valid_image_file(self, path: Path, kind: str) -> bool:
+        """避免读全文件的轻量校验（用头尾判断截断/格式）。"""
+        try:
+            size = path.stat().st_size
+            if size < 64:
+                return False
+            with open(path, 'rb') as f:
+                head = f.read(64)
+                if size <= 128:
+                    data = head
+                else:
+                    f.seek(max(0, size - 64))
+                    tail = f.read(64)
+                    data = head + tail
+            probe_kind = self._detect_kind_from_bytes(data)
+            if probe_kind != kind:
+                return False
+            # 对截断判断仍需全文件末尾特征；这里用头尾信息 + size 粗判
+            if kind == 'jpeg':
+                return data.startswith(b'\xff\xd8') and data.endswith(b'\xff\xd9')
+            if kind == 'png':
+                return data.startswith(b'\x89PNG\r\n\x1a\n') and (b'IEND' in data)
+            if kind == 'gif':
+                return (data.startswith(b'GIF87a') or data.startswith(b'GIF89a')) and data.endswith(b'\x3b')
+            if kind == 'webp':
+                if len(data) < 12 or data[0:4] != b'RIFF' or data[8:12] != b'WEBP':
+                    return False
+                try:
+                    riff_size = int.from_bytes(data[4:8], 'little')
+                    return (riff_size + 8) <= (size + 16)
+                except Exception:
+                    return True
+            if kind == 'avif':
+                return len(data) >= 12 and data[4:8] == b'ftyp'
+            return False
+        except Exception:
+            return False
+
     def _download_image(self, url: str) -> Optional[str]:
         try:
             url_hash = hashlib.md5(url.encode()).hexdigest()[:12]
-            ext = '.jpg'
-            if '.png' in url.lower(): ext = '.png'
-            elif '.gif' in url.lower(): ext = '.gif'
-            elif '.webp' in url.lower(): ext = '.webp'
-            
-            filename = f"{url_hash}{ext}"
-            local_path = self.images_dir / filename
-            
-            if local_path.exists():
-                return str(local_path)
-            
-            headers = {'User-Agent': self.user_agent}
+            # 1) 本地缓存命中：同一个 hash 可能对应不同扩展名（历史遗留）
+            for ext in self._allowed_exts:
+                candidate = self.images_dir / f"{url_hash}{ext}"
+                if candidate.exists():
+                    try:
+                        expected = self._kind_from_ext(candidate.suffix)
+                        if expected and self._is_valid_image_file(candidate, expected):
+                            return str(candidate)
+                    except Exception:
+                        pass
+
+            headers = {
+                'User-Agent': self.user_agent,
+                'Accept': 'image/avif,image/webp,image/*,*/*;q=0.8',
+            }
             response = requests.get(url, headers=headers, timeout=30)
             response.raise_for_status()
-            
-            content_type = response.headers.get('Content-Type', '')
-            if 'image' not in content_type and len(response.content) < 1000:
+
+            data = response.content
+            if not data or len(data) < 256:
                 return None
-            
+
+            # 2) 探测真实类型（不要用 URL 猜扩展名）
+            kind = self._detect_kind_from_bytes(data[:64] + data[-64:])
+            ext = self._ext_for_kind(kind)
+            if not ext:
+                # 兜底：看 Content-Type
+                ct = (response.headers.get('Content-Type') or '').lower()
+                if 'image/jpeg' in ct:
+                    kind, ext = 'jpeg', '.jpg'
+                elif 'image/png' in ct:
+                    kind, ext = 'png', '.png'
+                elif 'image/gif' in ct:
+                    kind, ext = 'gif', '.gif'
+                elif 'image/webp' in ct:
+                    kind, ext = 'webp', '.webp'
+                elif 'image/avif' in ct:
+                    kind, ext = 'avif', '.avif'
+
+            if not ext or kind in {'html', 'json', 'unknown'}:
+                return None
+            if not self._is_valid_image_bytes(kind, data):
+                return None
+
+            filename = f"{url_hash}{ext}"
+            local_path = self.images_dir / filename
+            if local_path.exists():
+                return str(local_path)
+
             with open(local_path, 'wb') as f:
-                f.write(response.content)
-            
+                f.write(data)
+
             print(f"    ✓ 下载图片: {filename}")
             return str(local_path)
             

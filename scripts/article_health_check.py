@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
 文章健康检查脚本
 """
@@ -11,6 +11,76 @@ from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
 from typing import Dict, List, Tuple, Optional
+
+
+IMG_MD_RE = re.compile(r'!\[[^\]]*\]\(([^)]+)\)')
+
+
+def detect_image_kind(data: bytes) -> str:
+    # JPEG
+    if data.startswith(b'\xff\xd8\xff'):
+        return 'jpeg'
+    # PNG
+    if data.startswith(b'\x89PNG\r\n\x1a\n'):
+        return 'png'
+    # GIF
+    if data.startswith(b'GIF87a') or data.startswith(b'GIF89a'):
+        return 'gif'
+    # WebP
+    if len(data) >= 12 and data[0:4] == b'RIFF' and data[8:12] == b'WEBP':
+        return 'webp'
+    # AVIF
+    if len(data) >= 12 and data[4:8] == b'ftyp' and (b'avif' in data[8:24] or b'avis' in data[8:24]):
+        return 'avif'
+
+    s = data.lstrip()
+    if s.startswith(b'<!DOCTYPE html') or s.startswith(b'<html') or s.startswith(b'<head'):
+        return 'html'
+    if s.startswith(b'{') or s.startswith(b'['):
+        return 'json'
+    return 'unknown'
+
+
+def kind_from_ext(ext: str) -> Optional[str]:
+    e = (ext or '').lower()
+    if e in ('.jpg', '.jpeg'):
+        return 'jpeg'
+    if e == '.png':
+        return 'png'
+    if e == '.gif':
+        return 'gif'
+    if e == '.webp':
+        return 'webp'
+    if e == '.avif':
+        return 'avif'
+    if e == '.svg':
+        return 'svg'
+    return None
+
+
+def is_valid_image_bytes(kind: str, data: bytes) -> bool:
+    if not data or len(data) < 64:
+        return False
+    if kind == 'jpeg':
+        return data.startswith(b'\xff\xd8') and data.rstrip().endswith(b'\xff\xd9')
+    if kind == 'png':
+        return data.startswith(b'\x89PNG\r\n\x1a\n') and b'IEND' in data[-64:]
+    if kind == 'gif':
+        return (data.startswith(b'GIF87a') or data.startswith(b'GIF89a')) and data.rstrip().endswith(b'\x3b')
+    if kind == 'webp':
+        if len(data) < 12 or data[0:4] != b'RIFF' or data[8:12] != b'WEBP':
+            return False
+        try:
+            riff_size = int.from_bytes(data[4:8], 'little')
+            return (riff_size + 8) <= (len(data) + 16)
+        except Exception:
+            return True
+    if kind == 'avif':
+        return len(data) >= 12 and data[4:8] == b'ftyp'
+    # svg 在本站通常被跳过；这里不做严格校验
+    if kind == 'svg':
+        return True
+    return False
 
 
 class ArticleHealthChecker:
@@ -91,12 +161,51 @@ class ArticleHealthChecker:
             self.issues.append({'file': filename, 'source': source, 'type': 'image_placeholder', 'severity': 'warning', 'message': '图片占位符未处理'})
             self.stats['image_placeholder'] += 1
         
-        # 检查缺失图片
-        for match in re.finditer(r'!\[[^\]]*\]\((/images/[^)]+)\)', body):
-            img_path = Path("public") / match.group(1).lstrip('/')
+        # 检查图片：缺失/过小/非图片/格式不匹配/疑似截断
+        for match in IMG_MD_RE.finditer(body):
+            src = match.group(1).strip()
+            if not src.startswith('/images/'):
+                continue
+
+            img_path = Path("public") / src.lstrip('/')
             if not img_path.exists():
-                self.issues.append({'file': filename, 'source': source, 'type': 'missing_image', 'severity': 'warning', 'message': f'图片不存在: {match.group(1)}'})
+                self.issues.append({'file': filename, 'source': source, 'type': 'missing_image', 'severity': 'warning', 'message': f'图片不存在: {src}'})
                 self.stats['missing_image'] += 1
+                continue
+
+            try:
+                data = img_path.read_bytes()
+            except Exception as e:
+                self.issues.append({'file': filename, 'source': source, 'type': 'image_read_error', 'severity': 'warning', 'message': f'图片读取失败: {src} ({e})'})
+                self.stats['image_read_error'] += 1
+                continue
+
+            if len(data) < 1024:
+                self.issues.append({'file': filename, 'source': source, 'type': 'image_too_small', 'severity': 'warning', 'message': f'图片过小({len(data)} bytes): {src}'})
+                self.stats['image_too_small'] += 1
+
+            # 用头尾拼接做类型探测（既能识别 magic bytes，也能识别截断特征）
+            probe = data[:64] + data[-64:]
+            kind = detect_image_kind(probe)
+            ext_kind = kind_from_ext(img_path.suffix)
+
+            if kind in ('html', 'json'):
+                self.issues.append({'file': filename, 'source': source, 'type': 'image_not_image', 'severity': 'warning', 'message': f'图片文件疑似为 {kind}: {src}'})
+                self.stats['image_not_image'] += 1
+                continue
+
+            if kind == 'unknown':
+                self.issues.append({'file': filename, 'source': source, 'type': 'image_unknown_type', 'severity': 'warning', 'message': f'图片类型未知: {src}'})
+                self.stats['image_unknown_type'] += 1
+                continue
+
+            if ext_kind and ext_kind != kind and not (ext_kind == 'jpeg' and kind == 'jpeg'):
+                self.issues.append({'file': filename, 'source': source, 'type': 'image_type_mismatch', 'severity': 'warning', 'message': f'图片格式与扩展名不匹配({img_path.suffix} vs {kind}): {src}'})
+                self.stats['image_type_mismatch'] += 1
+
+            if not is_valid_image_bytes(kind, data):
+                self.issues.append({'file': filename, 'source': source, 'type': 'image_possibly_truncated', 'severity': 'warning', 'message': f'图片疑似损坏/截断: {src}'})
+                self.stats['image_possibly_truncated'] += 1
     
     def _check_format(self, body: str, filename: str, source: str):
         # 空列表项
