@@ -495,14 +495,14 @@
     "timestamp": "2026-01-24T04:21:53.318470"
   },
   "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-24T04:28:00.838253"
+    "timestamp": "2026-01-25T05:00:16.787500"
   },
   "https://engineering.atspotify.com/2026/1/congratulations-to-the-recipients-of-the-2025-spotify-foss-fund/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-24T04:35:46.282520"
+    "timestamp": "2026-01-25T05:01:11.755703"
   },
   "https://a16z.simplecast.com/episodes/how-mintlify-is-rebuilding-documentation-for-coding-agents-5mrEd7Xm": {
     "count": 1,
@@ -510,13 +510,28 @@
     "timestamp": "2026-01-24T04:21:53.341040"
   },
   "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-24T04:28:00.527544"
+    "timestamp": "2026-01-25T05:00:15.856028"
   },
   "https://deepmind.google/blog/introducing-veo-31-and-advanced-creative-capabilities/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-25T05:00:15.838235"
+  },
+  "https://greylock.com/reid-hoffman/safely-scaling-artificial-general-intelligence/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-24T04:28:00.566481"
+    "timestamp": "2026-01-25T04:58:06.196917"
+  },
+  "https://greylock.com/greymatter/the-meaning-revolution-in-leadership/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-25T04:58:06.198827"
+  },
+  "https://greylock.com/press/a-primer-on-all-things-growth/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-25T04:58:06.264257"
   }
 }
