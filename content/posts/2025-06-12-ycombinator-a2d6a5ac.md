@@ -38,7 +38,6 @@ Dalton 于2011年加入 YC，多年来担任过多个职位，最近担任的是
 2021年11月24日 作者：Catheryn Li
 Garry 是 Y Combinator 的总裁兼首席执行官。此前，他是 Initialized Capital 的联合创始人兼管理合伙人。在那之前，他联合创立了 Posterous（YC S08），该公司后被 Twitter 收购。
 
----
 
 > 本文由AI自动翻译，原文链接：[Dalton Caldwell’s Move to Partner Emeritus | Y Combinator](https://www.ycombinator.com/blog/dalton-caldwell-partner-emeritus/)
 > 

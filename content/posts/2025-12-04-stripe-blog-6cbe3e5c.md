@@ -62,7 +62,6 @@ SaaS平台告诉我们，采用的原因是规模带来的复杂性。随着业�
 
 如需查看完整的嵌入式组件列表，请查阅我们的文档，探索此交互式演示，或与我们联系。
 
----
 
 > 本文由AI自动翻译，原文链接：[Analyzing how SaaS platforms are shipping payments and finance products in days](https://stripe.com/blog/analyzing-how-saas-platforms-are-shipping-payments-and-finance-products-in-days)
 > 

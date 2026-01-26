@@ -22,7 +22,6 @@ translated_at: '2026-01-12T04:57:11.902912'
 
 请务必让你的第一印象发挥作用，通过设置个人资料来展示你希望被他人看到的样子。继续阅读，了解如何编辑和自定义你的个人资料，让它以正确的方式代表你。
 
----
 
 > 本文由AI自动翻译，原文链接：[How to Customize Your Discord Profile](https://discord.com/blog/how-to-customize-your-discord-profile)
 > 

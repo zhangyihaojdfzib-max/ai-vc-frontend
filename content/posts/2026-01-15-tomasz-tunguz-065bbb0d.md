@@ -51,7 +51,6 @@ P/E : 市盈率↩︎
 
 TTM : 过去十二个月↩︎
 
----
 
 > 本文由AI自动翻译，原文链接：[A Third Time Up the Roller Coaster](https://www.tomtunguz.com/nvidia-pe-predicts-growth/)
 > 

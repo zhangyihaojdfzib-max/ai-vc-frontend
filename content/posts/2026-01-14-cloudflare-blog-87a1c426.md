@@ -78,8 +78,6 @@ impl PartialChain {
 
 ```
 impl PartialChain {
-    /// Merges records to the cache entry to make the cached records complete.
-    pub fn fill_cache(&self, entry: &mut CacheEntry) {
         entry.answer.extend(self.records); // CNAMEs last
     }
 }
@@ -122,12 +120,9 @@ cdn.example.com.    300    IN    A      198.51.100.1
 ;; www.example.com.	       IN    A
 
 ;; ANSWER SECTION:
-cdn.example.com.    300    IN    A      198.51.100.1
-www.example.com.    3600   IN    CNAME  cdn.example.com.
 
 ```
 
-1. 查找`www.example.com`的记录
 2. 忽略`cdn.example.com. A 198.51.100.1`，因为它与预期名称不匹配
 3. 遇到`www.example.com. CNAME cdn.example.com`
 4. 查找`cdn.example.com`的记录
@@ -270,7 +265,6 @@ RFC中关于解析器行为的章节主要是针对完整解析器编写的，�
 
 为防止未来发生任何事件或混淆，我们以互联网草案的形式撰写了一份提案，将在IETF进行讨论。如果就澄清后的行为达成共识，这将形成一份RFC，明确定义如何在DNS响应中正确处理CNAME，帮助我们和更广泛的DNS社区遵循协议。该提案可在https://datatracker.ietf.org/doc/draft-jabley-dnsop-ordered-answer-section找到。如果您有任何建议或反馈，我们非常乐意听取您的意见，最好通过IETF的DNSOP工作组提出。
 
----
 
 > 本文由AI自动翻译，原文链接：[What came first- the CNAME or the A record](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 > 

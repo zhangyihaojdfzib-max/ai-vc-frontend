@@ -20,12 +20,6 @@ translated_at: '2026-01-08T04:44:18.214613'
 
 # 流式数据集：效率提升100倍
 
-- 
-- 
-- 
-- 
-- 
-- 
 - +72
 
 ![](/images/posts/311db97fa420.jpg)
@@ -40,15 +34,6 @@ translated_at: '2026-01-08T04:44:18.214613'
 
 ![](/images/posts/ac0e506ba48d.jpg)
 
-![Andres Marafioti 的头像](/images/posts/e8e9ef3ca440.jpg)
-
-![Quentin Lhoest 的头像](/images/posts/873cedd5987b.png)
-
-![ben burtenshaw 的头像](/images/posts/a81239c48d0a.png)
-
-![Pedro Cuenca 的头像](/images/posts/5b36678ab3e8.jpg)
-
-![merve 的头像](/images/posts/78bab46e000b.jpg)
 
 ## 太长不看版流式处理：同样简单的 API挑战：大规模流式处理技术内幕：我们改进了什么我们如何比普通 S3 更快：Xet需要自定义流式处理管道？将流式处理推向极限开始使用并见证差异
 
@@ -177,25 +162,15 @@ pip install --upgrade datasets huggingface_hub
 为此，我们已将 FineVision 中的所有数据源预拼接并打乱，整合为 FineVisionMax。您可以使用这个单一的合并数据集来训练您的 VLM（视觉语言模型）——无需再手动处理多个数据集！
 
 ```
-from datasets import load_dataset
 
 # 以流式传输方式加载数据集，而非下载
-dataset = load_dataset("HuggingFaceM4/FineVisionMax", split="train", streaming=True)
 # 获取第一个样本
-print(next(iter(dataset)))
 
 ```
 
 您可以在 nanoVLM 中了解我们是如何大规模实现这一点的！
 
-更多博客文章
-
-![](/images/posts/1d688356f6c4.png)
-
 ## Parquet 内容定义分块
-
-- 
-- 
 
 ![](/images/posts/24951cefc36b.jpg)
 
@@ -203,9 +178,6 @@ print(next(iter(dataset)))
 
 ## 改进 Hugging Face Hub 上的 Parquet 去重
 
-- 
-- 
-- 
 
 ![](/images/posts/abf50b75cd8b.jpg)
 
@@ -217,7 +189,6 @@ print(next(iter(dataset)))
 
 流式传输始终是正确选择，因为神经网络的训练通常都是有状态的🚀
 
-![](/images/posts/8c2942a398c6.jpg)
 
 大家好，有个小问题：
 
@@ -225,59 +196,29 @@ print(next(iter(dataset)))
 
 已经“流式传输”的数据集会存储在磁盘上，还是在一个分块/parquet 文件完成训练步骤后被删除？我想避免在训练过程中本地磁盘被填满的情况，因为我本地空间有限。
 
-- 
 - 1 条回复
 
-![](/images/posts/1234e43cabb1.png)
-
-![](/images/posts/1234e43cabb1.png)
 
 是的，直接用流式传输，在你的情况下这根本无需犹豫，完全不会填满你的磁盘。只需确保你的网络基础设施足够快。
 
 为了明确理解，你是将 Parquet 数据集（我确实需要把它存储在某个地方，而 Parquet 在 Hub 上已优化）上传到这里的 Hub，然后在保持稳定网络连接的情况下使用流式传输功能，对吗？
 
-- 
 - 1 条回复
 
 ![](/images/posts/ed23d04248c4.jpg)
 
-![](/images/posts/ed23d04248c4.jpg)
 
 是的！要获取已为流式传输优化好的 Parquet 文件，最简单的方法可能是使用 `datasets.Dataset` 的 `push_to_hub` 方法 (https://huggingface.co/docs/datasets/main/en/package_reference/main_classes#datasets.DatasetDict.push_to_hub)。
 
 · 注册或登录以发表评论
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 - +66
 
-![](/images/posts/311db97fa420.jpg)
-
-![](/images/posts/c09474ce9b79.jpg)
-
-![](/images/posts/9bc3346835fd.jpg)
-
-![](/images/posts/8c2942a398c6.jpg)
-
-![](/images/posts/873cedd5987b.png)
-
-![](/images/posts/ac0e506ba48d.jpg)
 
 ![](/images/posts/0936a580b0bb.jpg)
 
 ![](/images/posts/77fca4f86e60.jpg)
 
-![](/images/posts/ed23d04248c4.jpg)
 
 ![](/images/posts/5b36678ab3e8.jpg)
 
@@ -285,7 +226,6 @@ print(next(iter(dataset)))
 
 ![](/images/posts/6143f375a98f.jpg)
 
----
 
 > 本文由AI自动翻译，原文链接：[Streaming datasets: 100x More Efficient](https://huggingface.co/blog/streaming-datasets)
 > 

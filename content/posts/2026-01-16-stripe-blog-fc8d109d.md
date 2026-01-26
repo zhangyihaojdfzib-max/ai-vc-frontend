@@ -23,15 +23,12 @@ translated_at: '2026-01-17T04:14:50.965913'
 
 ![Maia Josebachvili，人工智能首席营收官](/images/posts/fb5295a24797.png)
 
-![](/images/posts/fb5295a24797.png)
 
 ![Barbara O’Beirne，全球企业业务发展负责人](/images/posts/dff7a45baa56.png)
 
-![](/images/posts/dff7a45baa56.png)
 
 ![URBN 首席信息官 Rob Frieman 与 Stripe 人工智能首席营收官 Maia Josebachvili 在 NRF 会议上，探讨 URBN 如何触达消费者所在之处。](https://images.stripeassets.com/fzn2n1nzq965/ZPeu1YDDojQpvmMr1kxqO/7dcc2d6fd71da92d3210dbdc0b138a94/Maia__1_.jpg?w=1616&q=80              )
 
-![博客 > NRF 2026 的智能体商业趋势](https://images.stripeassets.com/fzn2n1nzq965/ZPeu1YDDojQpvmMr1kxqO/7dcc2d6fd71da92d3210dbdc0b138a94/Maia__1_.jpg?w=1616&q=80              )
 
 URBN 首席信息官 Rob Frieman 与 Stripe 人工智能首席营收官 Maia Josebachvili 在 NRF 会议上，探讨 URBN 如何触达消费者所在之处。
 
@@ -81,7 +78,6 @@ URBN 首席信息官 Rob Frieman 与 Stripe 人工智能首席营收官 Maia Jos
 
 要了解更多关于智能体商业套件的信息，请**注册等待列表**并**阅读我们的集成指南**。
 
----
 
 > 本文由AI自动翻译，原文链接：[The three biggest agentic commerce trends from NRF 2026](https://stripe.com/blog/three-agentic-commerce-trends-nrf-2026)
 > 

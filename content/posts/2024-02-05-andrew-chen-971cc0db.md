@@ -64,7 +64,6 @@ translated_at: '2026-01-08T04:37:23.328445'
 
 安德鲁·陈是安德森·霍洛维茨基金（Andreessen Horowitz）的合伙人，专注于投资游戏、AR/VR、元宇宙及消费科技领域的初创企业。他是《冷启动问题》一书的作者，该书探讨了如何借助网络效应启动并发展新创公司。他现居加利福尼亚州威尼斯市（更多）
 
----
 
 > 本文由AI自动翻译，原文链接：[Every time you ask the user to click you lose half at andrewchen](https://andrewchen.com/every-time-you-ask-the-user-click-you-lose-half/)
 > 

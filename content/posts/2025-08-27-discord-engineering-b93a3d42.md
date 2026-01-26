@@ -118,7 +118,6 @@ translated_at: '2026-01-06T14:49:02.038Z'
 既然您的 Discord 服务器已全部设置完毕，那就去享受乐趣吧！在语音频道里闲聊，分享您的游戏设备照片，或者在通宵游戏前通过视频通话互相打个招呼！您的服务器，由您来定义。
 如果您觉得本指南有帮助（或者您正试图向朋友解释服务器的特别之处），请分享它！如果您有更深入的问题，我们的帮助中心随时为您服务。
 
----
 
 > 本文由AI自动翻译，原文链接：[Starting Your First Discord Server](https://discord.com/blog/starting-your-first-discord-server)
 > 

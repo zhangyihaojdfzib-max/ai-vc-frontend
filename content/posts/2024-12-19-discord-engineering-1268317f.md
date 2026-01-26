@@ -22,11 +22,9 @@ translated_at: '2026-01-21T04:44:46.013564'
 
 ![](/images/posts/46782259c263.png)
 
-![](/images/posts/46782259c263.png)
 
 ![一个动画：在飘雪的冬夜，Wumpus坐在壁炉前。](/images/posts/c99a47b2b2a4.gif)
 
-![一个动画：在飘雪的冬夜，Wumpus坐在壁炉前。](/images/posts/c99a47b2b2a4.gif)
 
 我们即将迎来一年的尾声！在 Discord 总部，我们回顾了 2024 年修复的所有虽小但重要的问题，以帮助您在这个季节与朋友进行语音通话时尽可能顺畅。
 
@@ -64,7 +62,6 @@ GIF 选择器的速度几乎是以前的两倍。[7]
 如果您在这个节日场合**赠送某人 Nitro**，
 您也将获得自己的头像装饰！
 
----
 
 > 本文由AI自动翻译，原文链接：[Discord Update: December 19, 2024 Changelog](https://discord.com/blog/discord-update-december-19-2024-changelog)
 > 

@@ -44,7 +44,6 @@ translated_at: '2026-01-22T04:45:59.054118'
 
 2016年，投资者质疑的是估值。2026年，他们质疑的是相关性。
 
----
 
 > 本文由AI自动翻译，原文链接：[When the Market Questions Relevance](https://www.tomtunguz.com/2016-vs-2026-saas-crash/)
 > 

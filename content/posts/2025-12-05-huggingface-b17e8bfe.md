@@ -215,12 +215,8 @@ let modelDir = try await hub.snapshot(
 而使用 swift-huggingface 的相同操作：
 ```swift
 // 之后：swift-huggingface
-let client = HubClient.default
-let modelDir = try await client.downloadSnapshot(
-    of: "mlx-community/Llama-3.2-1B-Instruct-4bit",
     to: cacheDirectory,
     matching: ["*.safetensors", "*.json"],
-    progressHandler: { progress in
         // 每个文件的准确进度
         print("\(progress.completedUnitCount)/\(progress.totalUnitCount) files")
     }
@@ -285,7 +281,6 @@ dependencies: [
 **资源**
 感谢 swift-transformers 社区的反馈，这些反馈塑造了这个项目，也感谢所有提交问题并分享经验的人。这是为你们而做的。❤️
 
----
 
 > 本文由AI自动翻译，原文链接：[Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface)
 > 

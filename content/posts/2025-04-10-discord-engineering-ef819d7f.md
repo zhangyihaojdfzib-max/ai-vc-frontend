@@ -25,7 +25,6 @@ Discord 的 Windows 版游戏内叠加层让你无需通过 Alt+Tab 切换出当
 
 在本篇博客中，我们将介绍如何呼出叠加层、它的工作原理，以及如何根据你的喜好进行自定义！
 
----
 
 > 本文由AI自动翻译，原文链接：[How to Use Discordâs In-Game Overlay to Talk While Playing on PC](https://discord.com/blog/how-to-use-discords-in-game-overlay-to-talk-while-playing-on-pc)
 > 

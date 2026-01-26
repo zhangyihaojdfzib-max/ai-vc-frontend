@@ -27,7 +27,6 @@ translated_at: '2026-01-06T14:49:02.041Z'
 
 如果没有数百万 Nitro 会员的支持，帮助我们保持 Discord 核心消息功能对所有人免费开放，这一切都不可能实现。我们想花点时间感谢**你们**，我们的 Nitro 会员，是你们让世界在游戏时得以连接……而且我们认为，你们搭配我们新的 Nitro 外观会非常棒。
 
----
 
 > 本文由AI自动翻译，原文链接：[New Looks for Nitro, New Looks for You. Get Yourself a Nitro-exclusive Profile Bundle!](https://discord.com/blog/new-looks-for-nitro-new-looks-for-you-get-yourself-a-nitro-exclusive-profile-bundle)
 > 

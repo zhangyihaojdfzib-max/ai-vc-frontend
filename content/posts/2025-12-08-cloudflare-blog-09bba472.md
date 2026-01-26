@@ -176,7 +176,6 @@ from js import fetch
 
 要了解更多关于Python Workers的信息，请查看[此处](https://developers.cloudflare.com/workers/languages/python/)的文档。如需帮助，请务必加入我们的[Discord](https://discord.cloudflare.com/)。
 
----
 
 > 本文由AI自动翻译，原文链接：[Python Workers redux: fast cold starts, packages, and a uv-first workflow](https://blog.cloudflare.com/python-workers-advancements/)
 > 

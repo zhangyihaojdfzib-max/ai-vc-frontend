@@ -92,7 +92,6 @@ Pfoglista的视频真切展现了GeForce NOW Ultimate如何"感觉就像在本�
 今年到目前为止，你最喜欢的游戏是什么？🎮
 — 🌩️ NVIDIA GeForce NOW (@NVIDIAGFN) 2025年12月30日
 
----
 
 > 本文由AI自动翻译，原文链接：[GeForce NOW Rings In 2026 With 14 New Games in January](https://blogs.nvidia.com/blog/geforce-now-thursday-january-2026/)
 > 

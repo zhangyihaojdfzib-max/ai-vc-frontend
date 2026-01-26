@@ -66,7 +66,6 @@ translated_at: '2026-01-14T04:47:45.191546'
 
 我们将持续监测伊朗互联网连接状况，并通过社交媒体账号发布最新动态。您可通过Cloudflare Radar的流量与路由页面查看伊朗及该国主要网络的实时数据指标。
 
----
 
 > 本文由AI自动翻译，原文链接：[What we know about Iranâs Internet shutdown](https://blog.cloudflare.com/iran-protests-internet-shutdown/)
 > 

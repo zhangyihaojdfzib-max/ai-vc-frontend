@@ -150,7 +150,6 @@ AI领域变化太快，无法做出“设置后就忘记”的决策。最佳方
 -   我们与SaaStr.com 1,000,000读者的第一年！！
 -   从ARR达4.25亿美元的SEMRush学到的5个有趣经验
 
----
 
 > 本文由AI自动翻译，原文链接：[When the Most Expensive LLM Isn’t Worth It: What We Learned Analyzing 3,000+ VC Pitch Decks and 850,000+ Startup Valuations](https://www.saastr.com/when-the-most-expensive-llm-isnt-worth-it-in-b2b-what-we-learned-analyzing-2700-vc-pitch-decks-and-800000-startup-valuations/)
 > 

@@ -93,7 +93,6 @@ gemm/
 │ └── checker.h
 ├── flake.nix
 └── torch-ext
-├── torch_binding.cpp
 ├── torch_binding.h
 └── gemm
 └── __init__.py
@@ -275,7 +274,6 @@ REGISTER_EXTENSION(TORCH_EXTENSION_NAME)
 #pragma once
 #include <torch/torch.h>
 
-void gemm(torch::Tensor &out, torch::Tensor const &a, torch::Tensor const &b,
           torch::Tensor const &as, torch::Tensor const &bs);
 ```
 
@@ -348,7 +346,6 @@ $ cmake --build build-ext
 如果你想将核函数作为 Python 包进行测试，也可以这样做。`nix develop` 会自动在 `.venv` 中创建并激活一个虚拟环境：
 ```bash
 $ nix develop
-$ build2cmake generate-torch build.toml
 $ pip install --no-build-isolation -e .
 ```
 每个构建配置都有对应的开发环境。例如，你可以使用以下命令获得一个带有 ROCm 6.3 的 Torch 2.7 开发环境：
@@ -455,7 +452,6 @@ result = gemm.gemm(A_fp8, B_fp8, A_scale, B_scale, C)
 - kernels – 用于从 Hub 管理和加载内核的库。
 - Kernels Community Hub – 分享和发现社区的内核。
 
----
 
 > 本文由AI自动翻译，原文链接：[Easily Build and Share ROCm Kernels with Hugging Face](https://huggingface.co/blog/build-rocm-kernels)
 > 

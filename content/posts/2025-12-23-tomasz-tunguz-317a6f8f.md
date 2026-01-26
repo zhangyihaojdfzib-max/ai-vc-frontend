@@ -90,36 +90,21 @@ AI原生的团队实现了前所未有的效率。Cursor在2025年1月仅用12�
 得分：0分。
 尽管在安全和可观测性领域使用OpenTelemetry（OTel）方面出现了一些融合趋势 27，但为BI、SIEM和可观测性构建单一数据湖的更广泛愿景尚未实现。出于性能和合规性原因，企业继续维持着孤立的架构，而混合湖仓模式带来的成本节约尚不足以推动全面整合。28 29
 
--
 StockTitan, “CoreWeave, Circle, and Figma IPO Performance 2025.” ↩︎
--
 Artificial Analysis, “Gemini 3 Flash Latency Benchmarks,” Jan 2026. ↩︎
--
 SQ Magazine, “OpenAI Advanced Voice Mode Engagement Statistics.” ↩︎
--
 Juniper Square, “Q1 2025 VC Deal Count Trends,” Apr 2025. ↩︎
--
 Orrick, “CoreWeave Completes Acquisition of Weights & Biases,” May 2025. ↩︎
--
 Sacra, “Cursor: The AI Code Editor Scaling to $100M ARR,” Jan 2025. ↩︎
--
 Quantumrun, “Midjourney ARR and Employee Count 2025,” Oct 2025. ↩︎
--
 SaaStr, “How Cursor Scaled to $1B ARR in 11 Months,” Nov 2025. ↩︎
--
 Network World, “Microsoft’s $80B AI Data Center Investment,” July 2025. ↩︎
--
 Investopedia, “Alphabet’s $75B Infrastructure Plan,” Apr 2025. ↩︎
--
 Seeking Alpha, “Broadcom vs NVIDIA: The AI Networking Race,” Dec 2025. ↩︎
--
 NerdWallet, “Best Performing Semiconductor Stocks 2025,” Dec 2025. ↩︎
--
 Elastic, “OpenTelemetry: The Convergence of Observability and Security,” 2025. ↩︎
--
 Market.us, “Data Lake Market Size and Lakehouse Adoption 2025.” ↩︎
 
----
 
 > 本文由AI自动翻译，原文链接：[Scoring 2025's Predictions](https://www.tomtunguz.com/scoring-2025-predictions/)
 > 

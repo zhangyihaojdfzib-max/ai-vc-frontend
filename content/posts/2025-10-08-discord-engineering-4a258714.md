@@ -63,7 +63,6 @@ Wumpus
 Wumpus
 总有一个朋友在等着你。Wumpus是任何人使用Discord时看到的第一个人，标志着在这个平台上建立长久友谊和伟大社区的开始。是的，那片叶子可以拿掉。
 
----
 
 > 本文由AI自动翻译，原文链接：[During October, Treat a Friend to Nitro and Trick Out Your Profile for Halloween ð](https://discord.com/blog/during-october-treat-a-friend-to-nitro-and-trick-out-your-profile-for-halloween)
 > 

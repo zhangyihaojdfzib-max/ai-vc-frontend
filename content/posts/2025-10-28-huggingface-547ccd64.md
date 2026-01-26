@@ -22,13 +22,6 @@ translated_at: '2026-01-08T04:43:30.972960'
 
 # Granite 4.0 Nano：模型究竟可以做到多小？
 
--
--
--
--
--
--
-+115
 
 ![](/images/posts/9bc3346835fd.jpg)
 
@@ -40,11 +33,6 @@ translated_at: '2026-01-08T04:43:30.972960'
 
 ![](/images/posts/5a2e0b6d591e.jpg)
 
-![IBM Granite's avatar](/images/posts/bbefac54ad5a.png)
-
-![Rameswar Panda's avatar](/images/posts/b29f707ce5ec.jpg)
-
-![IBM Granite's avatar](/images/posts/bbefac54ad5a.png)
 
 今天我们很高兴地分享 Granite 4.0 Nano，这是我们迄今为止最小的模型，作为 IBM Granite 4.0 模型家族的一部分发布。这些模型专为边缘和设备端应用设计，在其尺寸级别上展现出卓越的性能，体现了 IBM 持续致力于开发强大、实用且无需数千亿参数即可完成任务的模型。
 
@@ -80,7 +68,6 @@ Granite 4.0 Nano 的完整细节可在 Hugging Face 模型卡片上找到。展�
 
 ![](/images/posts/d0ac0931dbea.jpg)
 
-![](/images/posts/9bc3346835fd.jpg)
 
 ![](/images/posts/3df41d9e86ff.png)
 
@@ -94,29 +81,6 @@ Granite 4.0 Nano 的完整细节可在 Hugging Face 模型卡片上找到。展�
 
 · 注册或登录以评论
 
--
--
--
--
--
--
--
--
--
--
--
--
-+109
-
-![](/images/posts/9bc3346835fd.jpg)
-
-![](/images/posts/ac0e506ba48d.jpg)
-
-![](/images/posts/0b27d2d98618.jpg)
-
-![](/images/posts/ed23d04248c4.jpg)
-
-![](/images/posts/5a2e0b6d591e.jpg)
 
 ![](/images/posts/287c63ff9896.jpg)
 
@@ -128,7 +92,6 @@ Granite 4.0 Nano 的完整细节可在 Hugging Face 模型卡片上找到。展�
 
 ![](/images/posts/8b621b556332.jpg)
 
----
 
 > 本文由AI自动翻译，原文链接：[Granite 4.0 Nano: Just how small can you go?](https://huggingface.co/blog/ibm-granite/granite-4-nano)
 > 

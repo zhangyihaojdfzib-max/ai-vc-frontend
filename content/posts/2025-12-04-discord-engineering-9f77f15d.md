@@ -41,7 +41,6 @@ translated_at: '2026-01-05T17:29:10.871Z'
 
 有问题或需要一些指"点"？何不"查"看帮助中心呢！
 
----
 
 > 本文由AI自动翻译，原文链接：[Your Discord Checkpoint is Rolling Out! Celebrate What You Did in 2025](https://discord.com/blog/checkpoint-2025-discord-year-in-review)
 > 

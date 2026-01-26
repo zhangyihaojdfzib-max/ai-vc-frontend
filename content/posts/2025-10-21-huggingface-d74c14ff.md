@@ -20,12 +20,6 @@ translated_at: '2026-01-22T04:50:14.581492'
 
 # 用开源模型为你的OCR流程注入强劲动力
 
-- 
-- 
-- 
-- 
-- 
-- 
 - +292
 
 ![](/images/posts/785d7e16df1c.jpg)
@@ -40,19 +34,6 @@ translated_at: '2026-01-22T04:50:14.581492'
 
 ![](/images/posts/31012e332645.jpg)
 
-![merve的头像](/images/posts/78bab46e000b.jpg)
-
-![Aritra Roy Gosthipaty的头像](/images/posts/287c63ff9896.jpg)
-
-![Daniel van Strien的头像](/images/posts/ed23d04248c4.jpg)
-
-![Hynek Kydlicek的头像](/images/posts/13e0aca0c3c0.jpg)
-
-![Andres Marafioti的头像](/images/posts/e8e9ef3ca440.jpg)
-
-![Vaibhav Srivastav的头像](/images/posts/4402b0abc4cd.jpg)
-
-![Pedro Cuenca的头像](/images/posts/5b36678ab3e8.jpg)
 
 目录简介现代OCR简介模型能力顶尖开源OCR模型最新模型对比模型评估运行模型的工具本地运行远程运行超越OCR总结我们已将Chandra和OlmOCR-2添加至本篇博客，并附上了模型的OlmOCR分数 🫡
 
@@ -364,16 +345,8 @@ hf jobs uv run --flavor l4x1 \
 -   教程：在 DocVQA 上微调 Florence-2
 -   使用 Core ML 和 dots.ocr 在设备端实现 SOTA OCR
 
-更多博客文章
-
-![](/images/posts/57c18bf76f3f.png)
-
 ## Smol2Operator：用于计算机使用的训练后 GUI Agent（智能体）
 
--
--
--
--
 -   +1
 
 ![](/images/posts/a69384612bd4.png)
@@ -388,32 +361,19 @@ hf jobs uv run --flavor l4x1 \
 
 ## Gemma 3n 现已完全融入开源生态系统！
 
--
--
--
--
 -   +4
 
 ![](/images/posts/287c63ff9896.jpg)
 
 ![](/images/posts/5b36678ab3e8.jpg)
 
-![](/images/posts/dc8511e60da5.jpg)
-
-![](/images/posts/4402b0abc4cd.jpg)
 
 要是上周就有这个就好了！我上周花时间学习并测试了所有这些模型以及额外的模型，我想指出一个更正。OlmOCR 并非仅支持英语的模型，事实上，在我的阿拉伯语语料库上，它在所有 VLM 和非 VLM 框架中都取得了最佳结果。
 
--
--
--
 -   6 条回复
 
 ![](/images/posts/2b67df64c3a7.png)
 
-![](/images/posts/78bab46e000b.jpg)
-
-![](/images/posts/2b67df64c3a7.png)
 
 你测试了哪些 VLM？
 
@@ -448,31 +408,8 @@ LightOnOCR-1B 非常适合加入本次比较，作为一个表现出色、超越
 
 · 注册或登录以发表评论
 
--
--
--
--
--
--
--
--
--
--
--
--
 -   +286
 
-![](/images/posts/785d7e16df1c.jpg)
-
-![](/images/posts/377bb8640be1.png)
-
-![](/images/posts/8c2942a398c6.jpg)
-
-![](/images/posts/ac0e506ba48d.jpg)
-
-![](/images/posts/0b27d2d98618.jpg)
-
-![](/images/posts/31012e332645.jpg)
 
 ![](/images/posts/7440861c1fd8.jpg)
 
@@ -484,7 +421,6 @@ LightOnOCR-1B 非常适合加入本次比较，作为一个表现出色、超越
 
 ![](/images/posts/c93e8dc76332.jpg)
 
----
 
 > 本文由AI自动翻译，原文链接：[Supercharge your OCR Pipelines with Open Models](https://huggingface.co/blog/ocr-open-models)
 > 

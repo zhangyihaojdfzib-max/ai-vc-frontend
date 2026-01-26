@@ -65,7 +65,6 @@ Atlassian的Databricks Query Runner的发布仅仅是一个开始。基于与Atl
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[Databricks Genie Powers Conversational Insights in Atlassian Rovo](https://www.databricks.com/blog/databricks-genie-powers-conversational-insights-atlassian-rovo)
 > 

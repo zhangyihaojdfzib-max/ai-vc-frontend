@@ -48,7 +48,6 @@ Dex的训练数据融合了来自真实世界和由Isaac Sim生成的合成数�
 
 了解更多关于Jetson Thor的信息以及Jetson平台节日促销价格。
 
----
 
 > 本文由AI自动翻译，原文链接：[Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game](https://blogs.nvidia.com/blog/adam-robot-vegas-golden-knights-thor/)
 > 

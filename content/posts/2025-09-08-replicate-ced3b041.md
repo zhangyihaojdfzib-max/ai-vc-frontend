@@ -61,7 +61,6 @@ translated_at: '2026-01-15T04:41:08.268813'
 
 要了解更多关于如何使用 `torch.compile` 的信息，请查看我们自己的文档和官方的 PyTorch torch.compile 教程。
 
----
 
 > 本文由AI自动翻译，原文链接：[Torch compile caching for inference speed – Replicate blog](https://replicate.com/blog/torch-compile-caching)
 > 

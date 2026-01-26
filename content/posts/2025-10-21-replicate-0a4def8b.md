@@ -59,7 +59,6 @@ print(output["markdown"][:400])
 ```
 import replicate
 
-output = replicate.run(
     "datalab-to/ocr",
     input={
         "file": open("receipt.jpg", "rb"),
@@ -92,7 +91,6 @@ schema = {
     }
 }
 
-output = replicate.run(
     "datalab-to/marker",
     input={
         "file": "https://multimedia-example-files.replicate.dev/replicator-invoice.1page.pdf",
@@ -113,7 +111,6 @@ Marker 的表现优于所有测试模型，包括 GPT-4o、Deepseek OCR、Mistra
 
 OCR 每 1000 页收费 2 美元。
 
----
 
 > 本文由AI自动翻译，原文链接：[Extract text from documents and images with Datalab Marker and OCR – Replicate blog](https://replicate.com/blog/datalab-marker-and-ocr-fast-parsing)
 > 

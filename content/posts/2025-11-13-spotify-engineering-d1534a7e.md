@@ -61,7 +61,6 @@ Shuffle（随机播放）一直是Spotify最受欢迎的功能之一，也是最
 
 真正的随机性总会有些奇特之处，但通过结合一点上下文信息，我们可以让Shuffle听起来更符合人们的期望：不可预测、丰富多彩且充满乐趣。
 
----
 
 > 本文由AI自动翻译，原文链接：[Shuffle: Making Random Feel More Human | Spotify Engineering](https://engineering.atspotify.com/2025/11/shuffle-making-random-feel-more-human/)
 > 

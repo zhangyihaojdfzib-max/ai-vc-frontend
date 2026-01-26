@@ -36,7 +36,6 @@ translated_at: '2026-01-06T00:47:38.463Z'
 
 对于2025秋季Unusual Academy的成员公司来说，这仅仅是个开始！
 
----
 
 > 本文由AI自动翻译，原文链接：[Fall Academy 2025: A Week of Tactical PMF Training](https://www.unusual.vc/fall-academy-2025-a-week-of-tactical-pmf-training/)
 > 

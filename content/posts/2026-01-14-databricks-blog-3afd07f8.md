@@ -52,7 +52,6 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[Algonomy + Databricks Built On Partnership for RetailAI](https://www.databricks.com/blog/algonomy-databricks-built-partnership-retailai)
 > 

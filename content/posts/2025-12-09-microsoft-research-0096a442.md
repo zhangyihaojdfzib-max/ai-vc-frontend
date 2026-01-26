@@ -63,7 +63,6 @@ GigaTIME是微软与普罗维登斯及华盛顿大学保罗·艾伦计算机科�
 
 论文共同作者：Jeya Maria Jose Valanarasu, Hanwen Xu, Naoto Usuyama, Chanwoo Kim, Cliff Wong, Peniel Argaw, Racheli Ben Shimol, Angela Crabtree, Kevin Matlock, Alexandra Q. Bartlett, Jaspreet Bagga, Yu Gu, Sheng Zhang, Tristan Naumann, Bernard A. Fox, Bill Wright, Ari Robicsek, Brian Piening, Carlo Bifulco, Sheng Wang, Hoifung Poon.
 
----
 
 > 本文由AI自动翻译，原文链接：[AI-generated population-scale is changing how we study cancer](https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/)
 > 

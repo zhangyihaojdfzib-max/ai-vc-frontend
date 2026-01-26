@@ -123,7 +123,6 @@ v0使得这类错误完全不可能发生。应用程序不会被意外暴露在
 
 尝试**AI广告创建模板**来生成视频营销素材
 
----
 
 > 本文由AI自动翻译，原文链接：[Stopping the slow death of internal tools - Vercel](https://vercel.com/blog/stopping-the-slow-death-of-internal-tools)
 > 

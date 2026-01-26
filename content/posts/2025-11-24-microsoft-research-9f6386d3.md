@@ -102,7 +102,6 @@ Fara-7B已在（在新标签页中打开）Microsoft Foundry（在新标签页�
 
 我们也感谢Pashmina Cameron、Karthik Vijayan、Vicente Rivera、Chris Dern、Sayan Shaw、Sunghoon Choi、Andrey Rybalchenko和Vivek Pradeep通过AI工具包使模型在Copilot+ PC上可用所付出的努力。
 
----
 
 > 本文由AI自动翻译，原文链接：[Fara-7B: An efficient agentic small language model for computer use](https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/)
 > 

@@ -23,7 +23,6 @@ translated_at: '2026-01-11T04:45:19.002173'
 
 我们成立至今已有些时日，我们想花点时间回顾一下最初是如何与Discord结缘的。这个月，我们邀请了一位新朋友Christina，连同Emi、Jeremy和Armando（也就是我）一起，分享多年前是哪些游戏将我们带入了Discord的世界。此外，你还会听到我们最近还在玩些什么——如果你想用一款新的游戏推荐来庆祝（游戏需单独购买），不妨参考一下。
 
----
 
 > 本文由AI自动翻译，原文链接：[Staff Picks, May 2025: The Games That Brought Us to Discord](https://discord.com/blog/staff-picks-may-2025-the-games-that-brought-us-to-discord)
 > 

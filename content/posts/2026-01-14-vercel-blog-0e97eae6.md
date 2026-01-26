@@ -31,7 +31,6 @@ Vercel Sandbox for Node.js 现已默认使用 Node.js 24。这使 Node.js 运行
 
 阅读Sandbox文档以了解更多信息。
 
----
 
 > 本文由AI自动翻译，原文链接：[Node.js runtime now defaults to version 24 for Vercel Sandbox - Vercel](https://vercel.com/changelog/node-js-runtime-now-defaults-to-version-24-for-vercel-sandbox)
 > 

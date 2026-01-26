@@ -22,7 +22,6 @@ translated_at: '2026-01-09T04:34:45.082312'
 
 â尚未了解我们的Social SDK？我们的首席技术官Stanislav Vishnevskiy发布的公告博客提供了关于Discord Social SDK及其工作原理的全面概述！
 
----
 
 > 本文由AI自动翻译，原文链接：[Discord Social SDK Updates & Integrations](https://discord.com/blog/discord-social-sdk-updates-integrations)
 > 

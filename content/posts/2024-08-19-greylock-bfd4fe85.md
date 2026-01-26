@@ -30,21 +30,6 @@ translated_at: '2026-01-16T04:29:22.508439'
 
 独家视频作者：Mark Albertson
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 
 本周在拉斯维加斯举行的 AWS re:Invent 大会，众多引人关注的支线情节之一便是亚马逊网络服务公司的“第二幕”问题。
 
@@ -113,31 +98,24 @@ Strava 在订阅和收入增长之际提交保密 IPO 申请
 - CrowdStrike 以 7.4 亿美元收购即时访问初创公司 SGNL | 安全 - 作者：MARIA DEUTSCHER，8 小时前
 - Strava 在订阅和收入增长之际提交保密 IPO 申请 | 应用 - 作者：DUNCAN RILEY，9 小时前
 
-![](/images/posts/3657fdde5cb8.png)
 
 新兴科技 - 作者：MIKE WHEATLEY，5 小时前
 
-![](/images/posts/848aa7256b77.jpg)
 
 安全 - 作者：MARIA DEUTSCHER，7 小时前
 
-![](/images/posts/cd343686c78d.png)
 
 AI - 作者：MIKE WHEATLEY，8 小时前
 
-![](/images/posts/6c06c8d35bdd.png)
 
 AI - 作者：DUNCAN RILEY，8 小时前
 
-![](/images/posts/721b832c6f90.png)
 
 安全 - 作者：MARIA DEUTSCHER，8 小时前
 
-![](/images/posts/b9656e3d666d.png)
 
 应用 - 作者：DUNCAN RILEY，9 小时前
 
----
 
 > 本文由AI自动翻译，原文链接：[Greylock investor Jerry Chen assesses the second act for AWS and the cloud industry - SiliconANGLE](https://greylock.com/press/greylock-investor-jerry-chen-assesses-the-second-act-for-aws-and-the-cloud-industry/)
 > 

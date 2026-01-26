@@ -70,7 +70,6 @@ ACME是一种用于自动化SSL/TLS证书颁发、续期和吊销的协议。当
 
 我们也认识到，您对我们的信任对于您在Cloudflare上基础设施的成功至关重要。我们以最高度的关注对待这些漏洞，并将继续尽我们所能减轻影响。我们深深感谢您对我们平台的持续信任，并致力于不仅在我们所做的一切工作中优先考虑安全，而且在问题出现时迅速、透明地采取行动。
 
----
 
 > 本文由AI自动翻译，原文链接：[How we mitigated a vulnerability in Cloudflareâs ACME validation logic](https://blog.cloudflare.com/acme-path-vulnerability/)
 > 

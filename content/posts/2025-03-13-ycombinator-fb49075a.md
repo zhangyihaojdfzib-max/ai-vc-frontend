@@ -38,7 +38,6 @@ YC即将开启高校巡讲！我们将走访哈佛、耶鲁、麻省理工、哥
 联合创始人匹配有效吗？这些YC公司的成功就是证明。
 2021年11月24日 作者：Catheryn Li
 
----
 
 > 本文由AI自动翻译，原文链接：[East Coast College Tour 2025 | Y Combinator](https://www.ycombinator.com/blog/east-coast-college-tour-2025/)
 > 

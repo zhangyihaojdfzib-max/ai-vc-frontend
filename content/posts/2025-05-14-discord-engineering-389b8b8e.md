@@ -24,9 +24,6 @@ translated_at: '2026-01-11T04:45:16.333809'
 
 ![](/images/posts/6c35d2677b66.png)
 
-![](/images/posts/6c35d2677b66.png)
-
----
 
 > 本文由AI自动翻译，原文链接：[Introducing the Discord for Business Newsletter, Vol. 1](https://discord.com/blog/discord-for-business-newsletter-vol-1)
 > 

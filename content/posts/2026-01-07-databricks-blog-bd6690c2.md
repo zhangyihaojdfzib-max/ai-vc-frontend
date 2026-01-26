@@ -158,7 +158,6 @@ DLT-META在运行时构建并执行管道逻辑。
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[From Chaos to Scale: Templatizing Spark Declarative Pipelines with DLT-META](https://www.databricks.com/blog/chaos-scale-templatizing-spark-declarative-pipelines-dlt-meta)
 > 

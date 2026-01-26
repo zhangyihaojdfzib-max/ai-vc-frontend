@@ -21,12 +21,6 @@ translated_at: '2026-01-16T04:39:01.486745'
 
 # 开放响应：你需要了解的内容
 
-- 
-- 
-- 
-- 
-- 
-- 
 - +14
 
 ![](/images/posts/785d7e16df1c.jpg)
@@ -41,11 +35,6 @@ translated_at: '2026-01-16T04:39:01.486745'
 
 ![](/images/posts/78bab46e000b.jpg)
 
-![ben burtenshaw的头像](/images/posts/a81239c48d0a.png)
-
-![merve的头像](/images/posts/78bab46e000b.jpg)
-
-![Pedro Cuenca的头像](/images/posts/5b36678ab3e8.jpg)
 
 什么是开放响应？使用开放响应进行构建需要了解什么？向开放响应发起的客户端请求推理客户端与提供商的变更用于路由的开放响应工具子智能体循环后续步骤开放响应是一种全新且开放的推理标准。它由 OpenAI 发起，由开源 AI 社区构建，并得到 Hugging Face 生态系统的支持。开放响应基于 Responses API，专为智能体的未来而设计。在这篇博客文章中，我们将探讨开放响应的工作原理以及开源社区为何应该使用开放响应。
 
@@ -191,15 +180,7 @@ Open Responses 扩展并改进了 Responses API，提供了更丰富、更详细
 
 您现在就可以通过 Hugging Face 推理提供商 试用 Open Responses。我们在 Hugging Face Spaces 上提供了早期访问版本，今天就使用您的客户端和 Open Responses 合规工具来试试吧！
 
-更多博客文章
-
-![](/images/posts/c3c61444660d.png)
-
 ## ScreenEnv：部署您的全栈桌面智能体
-
-- 
-- 
-- 
 
 ![](/images/posts/a69384612bd4.png)
 
@@ -209,9 +190,6 @@ Open Responses 扩展并改进了 Responses API，提供了更丰富、更详细
 
 ## Codex 正在开源 AI 模型
 
-- 
-- 
-- 
 
 ![](/images/posts/a81239c48d0a.png)
 
@@ -221,41 +199,16 @@ Open Responses 扩展并改进了 Responses API，提供了更丰富、更详细
 
 · 注册 或 登录 以评论
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 - +8
 
-![](/images/posts/785d7e16df1c.jpg)
-
-![](/images/posts/ac0e506ba48d.jpg)
-
-![](/images/posts/95d1650d88ea.jpg)
-
-![](/images/posts/5b36678ab3e8.jpg)
-
-![](/images/posts/8157d098ccae.png)
-
-![](/images/posts/78bab46e000b.jpg)
 
 ![](/images/posts/4402b0abc4cd.jpg)
 
-![](/images/posts/a81239c48d0a.png)
 
 ![](/images/posts/6efbe784086d.png)
 
 ![](/images/posts/3a2fba626253.jpg)
 
----
 
 > 本文由AI自动翻译，原文链接：[Open Responses: What you need to know](https://huggingface.co/blog/open-responses)
 > 

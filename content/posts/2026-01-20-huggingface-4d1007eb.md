@@ -22,11 +22,6 @@ translated_at: '2026-01-21T04:38:30.053221'
 
 # Waypoint-1：来自 Overworld 的实时交互式视频扩散模型
 
-- 
-- 
-- 
-- 
-- 
 
 ![](/images/posts/4241b99076dc.jpg)
 
@@ -34,9 +29,6 @@ translated_at: '2026-01-21T04:38:30.053221'
 
 ![](/images/posts/cf46f3f2bac8.jpg)
 
-![Louis Castricato 的头像](/images/posts/4241b99076dc.jpg)
-
-![Scott Fox 的头像](/images/posts/438a901d01fb.png)
 
 ![waypoint 启动网格](/images/posts/57356a747284.gif)
 
@@ -115,11 +107,6 @@ for controller_input in [
 
 ## Transformers v5：为 AI 生态系统提供动力的简单模型定义
 
-- 
-- 
-- 
-- 
-- 
 
 ![](/images/posts/fb71dc93d9af.jpg)
 
@@ -133,9 +120,6 @@ for controller_input in [
 
 ## 为开放未来而构建——我们与 Google Cloud 的新合作伙伴关系
 
-- 
-- 
-- 
 
 ![](/images/posts/95d1650d88ea.jpg)
 
@@ -143,19 +127,6 @@ for controller_input in [
 
 · 注册或登录以发表评论
 
-- 
-- 
-- 
-- 
-- 
-
-![](/images/posts/4241b99076dc.jpg)
-
-![](/images/posts/f20fa9eebbef.jpg)
-
-![](/images/posts/cf46f3f2bac8.jpg)
-
----
 
 > 本文由AI自动翻译，原文链接：[Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](https://huggingface.co/blog/waypoint-1)
 > 

@@ -58,7 +58,6 @@ translated_at: '2026-01-07T03:12:32.192Z'
 
 # 获取红杉社区的最佳故事
 
----
 
 > 本文由AI自动翻译，原文链接：[AI in 2026: A Tale of Two AIs | by David Cahn](https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/)
 > 

@@ -24,7 +24,6 @@ Discord最初是为小群朋友之间的私密对话而构建的，这使其成�
 
 虽然在游戏开发的任何阶段都有可能建立社区，但尽早开始这段旅程是最佳选择。
 
----
 
 > 本文由AI自动翻译，原文链接：[The Game Developer Playbook, Part One: Getting Started on Discord](https://discord.com/blog/the-game-developer-playbook-part-one-getting-started-on-discord)
 > 

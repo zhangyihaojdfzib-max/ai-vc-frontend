@@ -124,19 +124,14 @@ NeMo Evaluator是一个开源库，旨在对生成模型进行稳健、可复现
 4.  **运行完整评估套件**
     使用 `--dry-run` 预览运行而不实际执行：
     ```bash
-    nemo-evaluator-launcher run \
-      --config local_nvidia_nemotron_3_nano_30b_a3b.yaml \
       --dry-run
     ```
     从示例目录中，使用提供的 YAML 配置运行评估：
     ```bash
-    nemo-evaluator-launcher run \
       --config /path/to/examples/nemotron/local_nvidia_nemotron_3_nano_30b_a3b.yaml
     ```
     注意，为了快速测试，您可以通过设置 `limit_samples` 来限制样本数量：
     ```bash
-    nemo-evaluator-launcher run \
-      --config local_nvidia_nemotron_3_nano_30b_a3b.yaml \
       -o evaluation.nemo_evaluator_config.config.params.limit_samples=10
     ```
 
@@ -192,7 +187,6 @@ NeMo Evaluator 通过提供跨模型、跨版本和跨推理环境的一致基�
 **加入社区！**
 NeMo Evaluator 是完全开源的，社区的参与对于塑造开放评估的未来至关重要。如果您希望我们支持某个基准测试，或有改进建议，请提交问题，或直接在 GitHub 上贡献代码。您的贡献有助于加强生态系统，并推进评估生成式模型的共享、透明标准。
 
----
 
 > 本文由AI自动翻译，原文链接：[The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe)
 > 

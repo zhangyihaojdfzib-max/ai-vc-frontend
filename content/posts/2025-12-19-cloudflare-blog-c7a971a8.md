@@ -83,7 +83,6 @@ Cloudflare 也开始执行英国法院命令，这些命令指示其他服务提
 
 Cloudflare 将继续寻找与版权方和监管机构合作的方法，以找到有效且相称的方式来处理在线滥用行为。作为一家重视透明度的公司，我们通过半年度的透明度报告来描述我们在开展这项工作以及更广泛地响应滥用报告或客户信息请求时所遵循的原则。我们邀请您深入查看数据并在此了解更多信息。
 
----
 
 > 本文由AI自动翻译，原文链接：[Innovating to address streaming abuse â and our latest transparency report](https://blog.cloudflare.com/h1-2025-transparency-report/)
 > 

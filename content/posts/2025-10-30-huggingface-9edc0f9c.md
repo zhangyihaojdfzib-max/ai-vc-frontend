@@ -20,12 +20,6 @@ translated_at: '2026-01-07T03:12:32.187Z'
 
 # 对齐什么？重新思考 MiniMax M2 中智能体的泛化问题
 
-- 
-- 
-- 
-- 
-- 
-- 
 - +35
 
 ![](/images/posts/377bb8640be1.png)
@@ -38,7 +32,6 @@ translated_at: '2026-01-07T03:12:32.187Z'
 
 ![](/images/posts/ed23d04248c4.jpg)
 
-![MiniMax's avatar](/images/posts/0a31aa79a1a7.jpg)
 
 真正的智能体对齐问题：基准测试还是现实？交错思维的必要性真正的泛化在于应对扰动下一步是什么？参与进来看到社区深入探讨我们新的 MiniMax M2 模型，许多人强调其在复杂智能体任务中令人印象深刻的技能，这真是太棒了。这尤其让我感到兴奋，因为我的工作重点是其训练后阶段的智能体对齐部分。在这篇文章中，我想分享我们在这个过程中获得的一些关键见解和经验教训。
 
@@ -109,29 +102,8 @@ translated_at: '2026-01-07T03:12:32.187Z'
 
 · 注册或登录以评论
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 - +29
 
-![](/images/posts/377bb8640be1.png)
-
-![](/images/posts/0936a580b0bb.jpg)
-
-![](/images/posts/d9ecfddda63e.jpg)
-
-![](/images/posts/fe891c2376f7.jpg)
-
-![](/images/posts/ed23d04248c4.jpg)
 
 ![](/images/posts/e92f7a1e8d97.jpg)
 
@@ -143,7 +115,6 @@ translated_at: '2026-01-07T03:12:32.187Z'
 
 ![](/images/posts/21895c34544a.jpg)
 
----
 
 > 本文由AI自动翻译，原文链接：[Aligning to What? Rethinking Agent Generalization in MiniMax M2](https://huggingface.co/blog/MiniMax-AI/aligning-to-what)
 > 

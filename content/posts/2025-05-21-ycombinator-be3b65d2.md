@@ -41,7 +41,6 @@ Andrew是PagerDuty（YC S10，纽交所代码：PD）的联合创始人，该公
 2021年11月24日 作者：Catheryn Li
 Garry是Y Combinator的总裁兼首席执行官。此前，他是Initialized Capital的联合创始人兼管理合伙人。在那之前，他联合创立了Posterous（YC S08），该公司后被Twitter收购。
 
----
 
 > 本文由AI自动翻译，原文链接：[Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners | Y Combinator](https://www.ycombinator.com/blog/welcome-jon-and-andrew/)
 > 

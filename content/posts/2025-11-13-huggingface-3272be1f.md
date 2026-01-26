@@ -44,7 +44,6 @@ translated_at: '2026-01-06T01:06:42.509Z'
 
 **巴黎条款与条件：** 无需购买。主办方：Advanced Micro Devices, Inc. 比赛对18岁或以上的参与者开放。比赛注册于2025年11月12日欧洲中部时间中午12:00开始，于2025年12月11日欧洲中部时间晚上10:00结束。比赛于2025年12月14日欧洲中部时间晚上8:00结束。要参与并查看官方规则和条款（包括奖品描述和评审标准），请访问 https://amdroboticshackathon.datamonsters.com/。在法律禁止的情况下无效。
 
----
 
 > 本文由AI自动翻译，原文链接：[Join the AMD Open Robotics Hackathon](https://huggingface.co/blog/amd/openroboticshackathon)
 > 

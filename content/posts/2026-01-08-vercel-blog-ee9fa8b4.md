@@ -33,7 +33,6 @@ translated_at: '2026-01-09T04:33:33.060513'
 
 立即在 vercel.com/domains 上尝试此功能。
 
----
 
 > 本文由AI自动翻译，原文链接：[Bookmark domains on Vercel Domains - Vercel](https://vercel.com/changelog/bookmark-domains-on-vercel-domains)
 > 

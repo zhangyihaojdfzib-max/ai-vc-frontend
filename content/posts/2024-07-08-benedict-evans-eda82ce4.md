@@ -31,7 +31,6 @@ VR寒冬仍在持续
 
 某项技术可以惊艳绝伦且属于未来，却未必成为未来的主流。我无法预知xR的最终形态，也不认为当下能有定论，但我们可以确定的是：这项技术尚未实现任何形式的大众市场产品契合，且似乎仍相距甚远。
 
----
 
 > 本文由AI自动翻译，原文链接：[The VR winter continues — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/7/8/the-vr-winter-continues)
 > 

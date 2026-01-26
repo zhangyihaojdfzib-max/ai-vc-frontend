@@ -202,7 +202,6 @@ AI治理还应优先考虑问责措施，以便任何AI系统都明确定义了�
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[A Practical AI Governance Framework for Enterprises](https://www.databricks.com/blog/practical-ai-governance-framework-enterprises)
 > 

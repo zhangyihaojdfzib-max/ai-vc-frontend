@@ -28,7 +28,6 @@ translated_at: '2026-01-05T16:35:07.394Z'
 
 祝贺Goldcast！点击此处阅读关于他们新篇章的更多信息。
 
----
 
 > 本文由AI自动翻译，原文链接：[Goldcast Joins Cvent: Building the Future of AI-Powered Marketing](https://www.unusual.vc/goldcast-joins-cvent-building-the-future-of-ai-powered-marketing/)
 > 

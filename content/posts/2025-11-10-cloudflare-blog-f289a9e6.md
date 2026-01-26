@@ -148,7 +148,6 @@ class MyWorkflow(WorkflowEntrypoint):
 from workers import Response, WorkflowEntrypoint
 
 class PythonWorkflowDAG(WorkflowEntrypoint):
-    async def run(self, event, step):
         @step.do('dependency 1')
         async def dep_1():
             # does stuff
@@ -171,7 +170,6 @@ class PythonWorkflowDAG(WorkflowEntrypoint):
 
 立即查看如何用 Python 编写 Workers 并创建您的第一个 Python 工作流！如果您有任何功能请求或发现任何错误，请通过加入 Discord 上的 Cloudflare 开发者社区，直接向 Cloudflare 团队分享您的反馈。
 
----
 
 > 本文由AI自动翻译，原文链接：[A closer look at Python Workflows, now in beta](https://blog.cloudflare.com/python-workflows/)
 > 

@@ -113,7 +113,6 @@ Codex 分析您的请求并准备训练配置。对于演示数据集上的 0.6B
 # Base Model & Dataset
 [Base Model](https://huggingface.co/Qwen/Qwen3-0.6B)
 [Dataset](https://huggingface.co/datasets/open-r1/codeforces-cots)
----
 # `sft-a10g` - `TBD` - `In Progress`
 ## Training Parameters
 | Parameter | Value |
@@ -146,7 +145,6 @@ Pending submission (job link will be added)
 Pending (will link after job starts)
 ## Run Evaluations
 Pending (lighteval `openai_humaneval` for base + checkpoints)
----
 # Experiment Evaluations
 | Run Title | Benchmark | Score | Evaluation Job Link | Model Link |
 |-----------|-----------|-------|---------------------|------------|
@@ -169,7 +167,6 @@ Pending (lighteval `openai_humaneval` for base + checkpoints)
 并且它会在一个合并的表格中更新评估结果。
 # 实验评估
 | 运行标题 | 基准测试 | 分数 | 评估任务链接 | 模型链接 |
-|-----------|-----------|-------|---------------------|------------|
 | `base-humaneval-a10g` - `2025-12-09 13:47:47 UTC` - `已完成` | HumanEval pass@1 | 0.304 | [日志](https://huggingface.co/jobs/burtenshaw/69382863c67c9f186cfe1ae7) | [Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B) |
 | `qwen3-0.6b-lora-v1` - `2025-12-09 13:47:47 UTC` - `进行中` | HumanEval pass@1 | TBD | TBD | [burtenshaw/qwen3-codeforces-cots-sft](https://huggingface.co/burtenshaw/qwen3-codeforces-cots-sft)
 数据集验证
@@ -214,7 +211,6 @@ RESULTS_ORG=burtenshaw -d /tmp/lighteval_humaneval.py
 Trackio 将通过运行评估任务并选择最佳检查点来为您监控训练和评估分数。如果您想知道训练任务的状态，可以要求 Codex 获取日志并在表格中总结进度。
 模型是否优于基础模型？
 | 模型 | 基准测试 | 分数 | 评估任务链接 | 模型链接 |
-|-----------|-----------|-------|---------------------|------------|
 | `qwen3-0.6b-lora-v1` - `2025-12-09 13:47:47 UTC` - `已完成` | HumanEval pass@1 | 0.342 | [日志](<训练任务链接>) | [burtenshaw/qwen3-codeforces-cots-sft](https://huggingface.co/burtenshaw/qwen3-codeforces-cots-sft)
 | `base-humaneval-a10g` - `2025-12-09 13:47:47 UTC` - `已完成` | HumanEval pass@1 | 0.306 | [日志](<评估任务链接>) | [Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)
 您还可以实时监控训练损失。
@@ -268,7 +264,6 @@ Hugging Face Skills
 - Hugging Face Jobs — 云端训练基础设施
 - Trackio — 实时训练监控。
 
----
 
 > 本文由AI自动翻译，原文链接：[Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex)
 > 

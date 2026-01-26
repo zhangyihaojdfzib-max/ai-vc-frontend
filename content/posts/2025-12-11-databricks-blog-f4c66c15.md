@@ -55,7 +55,6 @@ Agent（智能体）需要访问内部数据和服务，但以受控和可审计
 产品
 2024年11月21日 / 3分钟阅读
 
----
 
 > 本文由AI自动翻译，原文链接：[OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems](https://www.databricks.com/blog/openai-gpt-52-and-responses-api-databricks-build-trusted-data-aware-agentic-systems)
 > 

@@ -76,7 +76,6 @@ BlueCodeAgent引入了一个端到端的蓝队框架，旨在应对代码生成�
 
 最后，除了代码生成，将BlueCodeAgent扩展到其他模态以降低风险也很重要，包括文本、图像、视频和音频，以及多模态应用。
 
----
 
 > 本文由AI自动翻译，原文链接：[BlueCodeAgent uses red teaming protocols to strengthen code security](https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/)
 > 

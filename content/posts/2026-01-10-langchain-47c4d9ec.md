@@ -20,7 +20,6 @@ translated_at: '2026-01-11T04:44:39.489012'
 
 ![In software, the code documents the app. In AI, the traces do.](/images/posts/a8083a77f8e4.png)
 
-![In software, the code documents the app. In AI, the traces do.](/images/posts/a8083a77f8e4.png)
 
 # 在软件中，代码记录应用。在AI中，痕迹记录应用。
 
@@ -160,7 +159,6 @@ result = agent.run(user_query)
 
 ## 如何以及何时构建多Agent系统
 
----
 
 > 本文由AI自动翻译，原文链接：[In software, the code documents the app. In AI, the traces do.](https://blog.langchain.com/in-software-the-code-documents-the-app-in-ai-the-traces-do/)
 > 

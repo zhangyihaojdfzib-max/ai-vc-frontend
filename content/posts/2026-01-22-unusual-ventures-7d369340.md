@@ -41,7 +41,6 @@ Unusual Ventures：我们的 2025 年度回顾
 
 Goldcast 加入 Cvent：共同构建 AI 驱动营销的未来
 
----
 
 > 本文由AI自动翻译，原文链接：[Railway Raises $100M Series B to Build the Developer Cloud for the AI Era](https://www.unusual.vc/railway-raises-100m-series-b-to-build-the-developer-cloud-for-the-ai-era/)
 > 

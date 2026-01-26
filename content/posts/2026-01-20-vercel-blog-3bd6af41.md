@@ -31,7 +31,6 @@ translated_at: '2026-01-21T04:40:31.263900'
 
 了解更多关于**Vercel 区域**和**蒙特利尔区域定价**的信息
 
----
 
 > 本文由AI自动翻译，原文链接：[Introducing the Montréal, Canada region (yul1) - Vercel](https://vercel.com/changelog/introducing-the-montreal-canada-vercel-region-yul1)
 > 

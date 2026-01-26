@@ -20,7 +20,6 @@ translated_at: '2026-01-15T04:40:27.497207'
 
 ![Debugging Deep Agents with LangSmith](/images/posts/f482dea708f9.png)
 
-![Debugging Deep Agents with LangSmith](/images/posts/f482dea708f9.png)
 
 # 使用 LangSmith 调试深度智能体
 
@@ -38,7 +37,6 @@ translated_at: '2026-01-15T04:40:27.497207'
 
 ![](/images/posts/f4ca4dd9043c.png)
 
-![](/images/posts/f4ca4dd9043c.png)
 
 因此，一次深度智能体执行所产生的追踪记录可能包含海量信息，远超出人类能够轻松扫描或理解的范围。当出现问题时，可能很难确定是哪个决策、提示词指令或工具调用导致了您所看到的行为。
 
@@ -56,7 +54,6 @@ translated_at: '2026-01-15T04:40:27.497207'
 
 ![](/images/posts/e8637c1f5175.png)
 
-![](/images/posts/e8637c1f5175.png)
 
 - **运行**：您的智能体执行的一个步骤。例如包括 LLM 模型调用和工具调用。运行以树形结构嵌套。
 - **追踪**：您的智能体的一次执行。一个追踪由一棵运行树构成。
@@ -74,7 +71,6 @@ Polly 是一项**新的应用内功能**，允许您通过与一个智能体聊�
 
 ![](/images/posts/f3351767664c.png)
 
-![](/images/posts/f3351767664c.png)
 
 您可以使用 Polly 来调试、分析和理解追踪记录中发生的事情。无需手动扫描数十或数百个步骤，您可以向 Polly 提出诸如以下问题：
 
@@ -85,7 +81,6 @@ Polly 是一项**新的应用内功能**，允许您通过与一个智能体聊�
 
 ![](/images/posts/120a861b27b2.png)
 
-![](/images/posts/120a861b27b2.png)
 
 这与单个追踪类似，但在这里，Polly 可以访问整个线程的信息。线程跨越多次对话轮次，并且通常也可能跨越数小时或数天。一个人很难掌握所有这些上下文。
 
@@ -93,7 +88,6 @@ Polly 是一项**新的应用内功能**，允许您通过与一个智能体聊�
 
 ![](/images/posts/800f0138befc.png)
 
-![](/images/posts/800f0138befc.png)
 
 深度智能体最重要的部分之一是系统提示词。Polly 经过调优，成为了一名出色的提示词工程师！只需用自然语言描述您想要的行为，Polly 就会相应地更新您的提示词。Polly 还可以帮助您定义结构化输出或在模型调用上模拟工具。
 
@@ -118,7 +112,6 @@ langsmith-fetch traces --project-uuid <your-uuid> --limit 5
 
 ```
 # 或者从特定项目获取最后 5 条追踪记录
-langsmith-fetch traces --project-uuid <your-uuid> --limit 5
 
 ```
 
@@ -140,7 +133,6 @@ langsmith-fetch traces --project-uuid <your-uuid> --limit 5
 
 抱歉，出错了。请重试。
 
----
 
 > 本文由AI自动翻译，原文链接：[Debugging Deep Agents with LangSmith](https://www.blog.langchain.com/debugging-deep-agents-with-langsmith/)
 > 

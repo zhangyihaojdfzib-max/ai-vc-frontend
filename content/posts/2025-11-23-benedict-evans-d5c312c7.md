@@ -39,7 +39,6 @@ translated_at: '2026-01-04T23:29:53.244Z'
 
 但我确实认为，这是对我过去多次探讨过的问题的一个新转折：互联网移除了所有旧的过滤器、策展和编辑机制，以至于现在我们实际上拥有无限的产品、无限的媒体和无限的零售，却无法找到或看到我们不知道的东西。我们从互联网获得的过滤器非常不完美，而现在我们拥有了一种全新且不同类型的过滤器。这似乎是一个比取代谷歌更大的问题。
 
----
 
 > 本文由AI自动翻译，原文链接：[AI, networks and Mechanical Turks — Benedict Evans](https://www.ben-evans.com/benedictevans/2025/11/23/ai-networks-and-mechanical-turks)
 > 

@@ -61,7 +61,6 @@ Cline 转向 AI 网关是一个更大趋势的一部分：开源 AI 工具正在
 此次集成使 Cline 获得了所需的一致性，包括更低的延迟波动、更少的故障以及更清晰的定价，同时无需改变其开放、可扩展的模式。它改善了当今个体开发者的体验，并支持团队更大规模地采用 Cline。
 这里的故事并非为了基础设施本身。而是关于帮助一个开源工具在开发者使用的任何地方，都能按照他们的期望运行。
 
----
 
 > 本文由AI自动翻译，原文链接：[Cline now runs on Vercel AI Gateway - Vercel](https://vercel.com/blog/cline-on-ai-gateway)
 > 

@@ -35,7 +35,6 @@ AI Gateway：按使用量追踪顶级 AI 模型
 AI Gateway 模型排行榜根据通过网关的所有流量的总 Token 量，对一段时间内使用最多的模型进行排名。定期更新。
 查看排行榜
 
----
 
 > 本文由AI自动翻译，原文链接：[Gemini 3 Flash is now available on the Vercel AI Gateway - Vercel](https://vercel.com/changelog/gemini-3-flash-is-now-available-on-the-vercel-ai-gateway)
 > 

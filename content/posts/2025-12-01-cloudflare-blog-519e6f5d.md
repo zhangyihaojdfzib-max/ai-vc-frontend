@@ -41,7 +41,6 @@ AI 技术栈完全存在于网络上。模型在数据中心 GPU 上运行，并
 
 我们为在 Replicate 所构建的一切感到自豪。我们是首个生成式 AI 服务平台，并定义了大多数同行所采用的抽象和设计模式。我们围绕产品培育了一个由构建者和研究人员组成的优秀社区。
 
----
 
 > 本文由AI自动翻译，原文链接：[Why Replicate is joining Cloudflare](https://blog.cloudflare.com/why-replicate-joining-cloudflare/)
 > 

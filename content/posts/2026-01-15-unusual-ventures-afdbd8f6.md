@@ -80,7 +80,6 @@ Goldcast 加入 Cvent：构建 AI 驱动营销的未来
 
 Harness 获得 2.4 亿美元 E 轮融资，助力 AI 驱动软件交付的未来
 
----
 
 > 本文由AI自动翻译，原文链接：[The Hidden Benefits of Fundraising: Why the Process Matters as Much as the Capital](https://www.unusual.vc/the-hidden-benefits-of-fundraising-why-the-process-matters-as-much-as-the-capital/)
 > 

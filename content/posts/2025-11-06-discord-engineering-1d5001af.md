@@ -39,7 +39,6 @@ translated_at: '2026-01-05T17:29:36.770Z'
 
 您也可以在 dis.gd/Changelog 轻松找到我们过去所有的主要更新，在 dis.gd/PatchNotes 找到更多技术性修复说明。
 
----
 
 > 本文由AI自动翻译，原文链接：[Discord Update: November 6, 2025 Changelog](https://discord.com/blog/discord-update-november-6-2025-changelog)
 > 

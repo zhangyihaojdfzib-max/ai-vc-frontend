@@ -577,7 +577,6 @@ Brickbuilder是Databricks合作伙伴计划的关键组成部分，旨在表彰�
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[Driving Industry Outcomes with Partner AI Solutions](https://www.databricks.com/blog/driving-industry-outcomes-partner-ai-solutions)
 > 

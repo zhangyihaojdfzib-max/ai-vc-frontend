@@ -23,7 +23,6 @@ translated_at: '2026-01-21T04:37:35.049516'
 
 ### Agent Lightning：无需重写代码，为AI Agent（智能体）添加强化学习
 
----
 
 > 本文由AI自动翻译，原文链接：[Multimodal RL with agentic verifier for AI agents](https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/)
 > 

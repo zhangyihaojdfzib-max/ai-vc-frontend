@@ -29,7 +29,6 @@ translated_at: '2026-01-10T04:12:05.267135'
 
 了解更多关于[运行时日志](https://vercel.com/docs/observability/runtime-logs)的信息。
 
----
 
 > 本文由AI自动翻译，原文链接：[Runtime logs now appear in the dashboard 6x faster - Vercel](https://vercel.com/changelog/runtime-logs-now-appear-in-the-dashboard-6x-faster)
 > 

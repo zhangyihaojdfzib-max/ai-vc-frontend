@@ -31,7 +31,6 @@ translated_at: '2026-01-08T04:49:34.927329'
 
 注：服务器标签和增强角色样式各需3次服务器助力方可启用——若想同时解锁两者共需6次助力。启用后，只要服务器持续为这些福利分配所需助力次数，它们将保持激活状态。
 
----
 
 > 本文由AI自动翻译，原文链接：[Get More From Your Boosts With New Server Perks](https://discord.com/blog/get-more-from-your-boosts-with-new-server-perks)
 > 

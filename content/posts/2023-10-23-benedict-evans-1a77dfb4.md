@@ -20,7 +20,6 @@ translated_at: '2026-01-12T04:47:07.005817'
 
 ![Unbundling Craigslist, byAndrew Parker](/images/posts/5a3fa6c0fbce.jpg)
 
-![](/images/posts/5a3fa6c0fbce.jpg)
 
 **拆解Craigslist，作者：Andrew Parker**
 
@@ -54,7 +53,6 @@ Twitter过去看起来总是很像Craigslist。它偶然发现了一些对很多
 
 如果你看到一个男人声称他将在“明年”实现“完全自动驾驶”，并且持续了五年，而你对此连一点玩笑都开不得，那你可能也在蒙蔽自己，但这不太要紧。也许你不太在乎这个，或者决定视而不见。但我从2007年就在Twitter上了，并在上面建立了职业生涯中有意义的一部分，在可预见的未来，我将完全不再发帖，因为我认为这确实很重要。
 
----
 
 > 本文由AI自动翻译，原文链接：[Leaving Twitter — Benedict Evans](https://www.ben-evans.com/benedictevans/2023/10/23/leaving-twitter)
 > 

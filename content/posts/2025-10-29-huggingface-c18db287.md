@@ -22,12 +22,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 
 # 基于NVIDIA Isaac从仿真到部署构建医疗机器人
 
-- 
-- 
-- 
-- 
-- 
-- 
 - +23
 
 ![](/images/posts/fb71dc93d9af.jpg)
@@ -40,9 +34,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 
 ![](/images/posts/aedb1bac9e09.jpg)
 
-![Steven Palma的头像](/images/posts/2e2cd8615b77.png)
-
-![Andres Diaz-Pinto的头像](/images/posts/37cff791e157.jpg)
 
 ## 摘要目录引言SO-ARM入门工作流：构建具身手术助手技术实现Sim2Real混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT开始使用资源摘要
 
@@ -73,8 +64,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 - 摘要
 - 目录
 - 引言
-- SO-ARM入门工作流：构建具身手术助手技术实现Sim2Real混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程
-- 端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT
 - 开始使用资源
 
 - 技术实现
@@ -163,7 +152,6 @@ python -m simulation.environments.teleoperation_record \
   --teleop_device=keyboard
 
 # 使用SO-ARM101主动臂 
-python -m simulation.environments.teleoperation_record \ 
   --port=<your_leader_arm_port_id> \ 
   --enable_cameras \ 
   --record \ 
@@ -244,16 +232,11 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 - 硬件指南：SO-ARM101 设置说明
 - LeRobot 仓库：端到端机器人学习
 
-更多来自我们博客的文章
 
 ![](/images/posts/042f39fe1bb1.png)
 
 ## LeRobot v0.4.0：为开源机器人学习注入强大动力
 
-- 
-- 
-- 
-- 
 - +5
 
 ![](/images/posts/2e2cd8615b77.png)
@@ -268,19 +251,13 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 
 ## `LeRobotDataset:v3.0`：将大规模数据集引入 `lerobot`
 
-- 
-- 
-- 
-- 
 - +7
 
 ![](/images/posts/631a87ba5df5.jpg)
 
-![](/images/posts/2ba4287c3a99.jpg)
 
 ![](/images/posts/873cedd5987b.png)
 
-![](/images/posts/3cf6605df4a5.png)
 
 这是一篇关于 Isaac 的仿真到现实流程如何革新医疗机器人的精彩深度分析，SO-ARM 入门工作流在如此高风险的领域中加速迭代尤其令人印象深刻。
 
@@ -288,12 +265,10 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 
 鉴于机器人工作流越来越多地处理关键手术，当这些 AI 驱动的系统从手术室仿真转移到真实手术环境时，您如何看待设计伦理和合规性考量会如何演变？
 
-- 
 - 1 条回复
 
 ![](/images/posts/8b83a519d2ca.png)
 
-![](/images/posts/8b83a519d2ca.png)
 
 这很棒，但作为一名曾在许多手术室工作过的医生，真正的挑战在于，人类助手如何通过多年并肩工作建立的直觉，确切知道外科医生下一步想要什么。外科医生对他们的工具以及期望手术团队工作的节奏非常讲究。尽管他们以脾气不好著称，但正是因为这个原因，他们非常重视团队中的人类成员。
 
@@ -303,29 +278,8 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 
 · 注册或登录以发表评论
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 - +17
 
-![](/images/posts/fb71dc93d9af.jpg)
-
-![](/images/posts/9bc3346835fd.jpg)
-
-![](/images/posts/287c63ff9896.jpg)
-
-![](/images/posts/467464d6ada8.jpg)
-
-![](/images/posts/aedb1bac9e09.jpg)
 
 ![](/images/posts/e5e036d5d070.webp)
 
@@ -335,7 +289,6 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 
 ![](/images/posts/21b6b30b32c9.jpg)
 
----
 
 > 本文由AI自动翻译，原文链接：[Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](https://huggingface.co/blog/lerobotxnvidia-healthcare)
 > 

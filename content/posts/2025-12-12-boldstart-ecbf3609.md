@@ -43,7 +43,6 @@ translated_at: '2026-01-05T16:35:07.392Z'
 
 题图由William Warby在Unsplash发布。
 
----
 
 > 本文由AI自动翻译，原文链接：[See you further on up the road - FastForward](https://fastforward.boldstart.vc/see-you-further-on-up-the-road/)
 > 

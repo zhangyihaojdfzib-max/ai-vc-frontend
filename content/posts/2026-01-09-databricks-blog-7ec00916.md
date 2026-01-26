@@ -116,7 +116,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[How 7‑Eleven Transformed Maintenance Technician Knowledge Access with Databricks Agent Bricks](https://www.databricks.com/blog/how-7-eleven-transformed-maintenance-technician-knowledge-access-databricks-agent-bricks)
 > 

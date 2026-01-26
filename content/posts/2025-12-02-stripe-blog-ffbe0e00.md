@@ -52,7 +52,6 @@ Verified 平台还可以获得根据其独特商业模式或行业定制的权�
 
 如果您想了解更多关于我们的风险与合规解决方案的信息，请联系我们。
 
----
 
 > 本文由AI自动翻译，原文链接：[New features to help SaaS platforms manage risk and stay compliant](https://stripe.com/blog/new-features-to-help-saas-platforms-manage-risk-and-stay-compliant)
 > 

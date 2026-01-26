@@ -22,7 +22,6 @@ translated_at: '2026-01-06T18:15:23.222Z'
 
 今年在GDC期间推出的Discord社交SDK，使您能够将Discord驱动的社交功能直接集成到游戏中，通过更有意义的多人互动来最大化玩家连接并延长游戏时间。即使没有Discord账户，玩家也能轻松与朋友联系、结识新朋友，并快速进入您的游戏。
 
----
 
 > 本文由AI自动翻译，原文链接：[Discordâs Powerful Cross-Platform Chat: Ready for Your Game](https://discord.com/blog/discords-powerful-cross-platform-chat-ready-for-your-game)
 > 

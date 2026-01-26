@@ -28,7 +28,6 @@ translated_at: '2026-01-17T04:16:08.368124'
 
 了解更多信息，请查阅环境变量文档。
 
----
 
 > 本文由AI自动翻译，原文链接：[Improved environment variables UI - Vercel](https://vercel.com/changelog/improved-environment-variables-ui)
 > 

@@ -32,7 +32,6 @@ translated_at: '2026-01-05T16:35:07.391Z'
 
 我们对公司未来的征程充满无限期待！
 
----
 
 > 本文由AI自动翻译，原文链接：[Harness Secures $240M Series E to Power the Future of AI-Driven Software Delivery](https://www.unusual.vc/harness-secures-240m-series-e-to-power-the-future-of-ai-driven-software-delivery/)
 > 

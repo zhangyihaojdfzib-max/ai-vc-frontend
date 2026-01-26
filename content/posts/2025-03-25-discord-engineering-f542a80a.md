@@ -23,7 +23,6 @@ translated_at: '2026-01-16T04:46:40.777931'
 
 ![](/images/posts/6c35d2677b66.png)
 
-![](/images/posts/6c35d2677b66.png)
 
 我们为那些喜欢在桌面端聊天和玩游戏的用户带来了两项重大更新。（要知道，这正是Discord最初诞生的原因！）
 
@@ -51,7 +50,6 @@ translated_at: '2026-01-16T04:46:40.777931'
 
 通过这些更改，我们预计影响Discord核心功能的事件或中断将会减少。毕竟，与朋友保持联系比什么都重要。
 
----
 
 > 本文由AI自动翻译，原文链接：[Discord Update: March 25, 2025 Changelog](https://discord.com/blog/discord-update-march-25-2025-changelog)
 > 

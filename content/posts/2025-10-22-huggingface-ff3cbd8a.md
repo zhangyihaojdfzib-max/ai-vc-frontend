@@ -22,12 +22,6 @@ translated_at: '2026-01-21T04:38:35.768857'
 
 # Sentence Transformers 正式加入 Hugging Face！
 
-- 
-- 
-- 
-- 
-- 
-- 
 - +80
 
 ![](/images/posts/311db97fa420.jpg)
@@ -40,7 +34,6 @@ translated_at: '2026-01-21T04:38:35.768857'
 
 ![](/images/posts/90707208af6c.jpg)
 
-![Tom Aarsen's avatar](/images/posts/58c5a304b677.png)
 
 项目历史致谢快速开始今天，我们宣布 Sentence Transformers 将从达姆施塔特工业大学 Iryna Gurevych 教授领导的普适知识处理实验室正式迁移至 Hugging Face。Hugging Face 的 Tom Aarsen 自 2023 年底起已开始维护该库，并将继续领导该项目。在新家，Sentence Transformers 将受益于 Hugging Face 强大的基础设施，包括持续集成和测试，确保其紧跟信息检索和自然语言处理领域的最新进展。
 
@@ -77,17 +70,7 @@ Hugging Face 感谢 UKP 实验室以及所有过去和现在的贡献者，特�
 - Hugging Face Hub 上的模型：https://huggingface.co/models?library=sentence-transformers
 - 快速入门教程：https://sbert.net/docs/quickstart.html
 
-更多博客文章
-
-![](/images/posts/7e9901eeab7a.png)
-
 ## Transformers v5：为 AI 生态系统提供动力的简单模型定义
-
-- 
-- 
-- 
-- 
-- 
 
 ![](/images/posts/fb71dc93d9af.jpg)
 
@@ -101,10 +84,6 @@ Hugging Face 感谢 UKP 实验室以及所有过去和现在的贡献者，特�
 
 ## 共同构建开放的 Agent 生态系统：介绍 OpenEnv
 
-- 
-- 
-- 
-- 
 - +6
 
 ![](/images/posts/4bc561b5b8eb.jpg)
@@ -115,40 +94,17 @@ Hugging Face 感谢 UKP 实验室以及所有过去和现在的贡献者，特�
 
 ![](/images/posts/c99c7cbdf7fa.jpg)
 
-- 
 - 1 条回复
 
 ![](/images/posts/58c5a304b677.png)
 
-![](/images/posts/58c5a304b677.png)
 
 谢谢 David！非常感谢 🤗
 
 · 注册或登录以发表评论
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 - +74
 
-![](/images/posts/311db97fa420.jpg)
-
-![](/images/posts/fe6cc7bcc486.jpg)
-
-![](/images/posts/8c2942a398c6.jpg)
-
-![](/images/posts/ac0e506ba48d.jpg)
-
-![](/images/posts/90707208af6c.jpg)
 
 ![](/images/posts/d9ecfddda63e.jpg)
 
@@ -160,7 +116,6 @@ Hugging Face 感谢 UKP 实验室以及所有过去和现在的贡献者，特�
 
 ![](/images/posts/be0a16f0e320.jpg)
 
----
 
 > 本文由AI自动翻译，原文链接：[Sentence Transformers is joining Hugging Face!](https://huggingface.co/blog/sentence-transformers-joins-hf)
 > 

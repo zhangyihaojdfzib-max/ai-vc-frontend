@@ -92,7 +92,6 @@ Greylock合伙人David Thacker与Greymatter对谈，分享了他对当前环境�
 
 David投资于那些以卓越产品体验解决重大问题的使命驱动型创业者。
 
----
 
 > 本文由AI自动翻译，原文链接：[Retooling for Reality | Greylock](https://greylock.com/greymatter/retooling-for-reality/)
 > 

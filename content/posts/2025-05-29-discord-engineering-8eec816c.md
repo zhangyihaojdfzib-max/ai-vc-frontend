@@ -24,7 +24,6 @@ Discord 的 Soundboard 功能让你能通过即时播放简短音效，对通话
 
 那么 Soundboard 怎么用呢？在哪里找到它，如何添加更多 Soundboard 音效，以及能否调整音效的音量？竖起耳朵，让我们一探究竟：
 
----
 
 > 本文由AI自动翻译，原文链接：[How to Use the Discord Soundboard & Add More Sounds](https://discord.com/blog/how-to-use-the-discord-soundboard-add-more-sounds)
 > 

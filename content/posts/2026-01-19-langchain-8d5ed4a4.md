@@ -21,7 +21,6 @@ translated_at: '2026-01-20T04:44:02.288284'
 
 ![How Remote uses LangChain and LangGraph to onboard thousands of customers with AI](/images/posts/5207977ffeb6.png)
 
-![How Remote uses LangChain and LangGraph to onboard thousands of customers with AI](/images/posts/5207977ffeb6.png)
 
 # Remote 如何利用 LangChain 和 LangGraph 通过 AI 为数千家客户完成入驻
 
@@ -110,7 +109,6 @@ Remote 选择 LangChain 是因为其生态系统为提示词处理和工具调�
 
 ## Exa 如何利用 LangGraph 和 LangSmith 构建网络研究多 Agent（智能体）系统
 
----
 
 > 本文由AI自动翻译，原文链接：[How Remote uses LangChain and LangGraph to onboard thousands of customers with AI](https://www.blog.langchain.com/customers-remote/)
 > 

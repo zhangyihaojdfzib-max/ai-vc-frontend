@@ -25,7 +25,6 @@ translated_at: '2026-01-13T04:36:15.221930'
 
 ![Discord桌面应用中的任务标签页。](/images/posts/e7ff47bf384f.png)
 
-![Discord桌面应用中的任务标签页。](/images/posts/e7ff47bf384f.png)
 
 任何领取了任务头像装饰的用户都将能享受至少两个月的奖励使用期。此后，**有效的Nitro会员可以继续享用许多装饰奖励更长时间**，具体延长时间因装饰而异。
 
@@ -37,11 +36,9 @@ translated_at: '2026-01-13T04:36:15.221930'
 
 ![](/images/posts/c7a6a23f2f26.png)
 
-![](/images/posts/c7a6a23f2f26.png)
 
 这项针对任务奖励的新Nitro特权**即刻生效**，快去确保你的个人资料设置称心如意，并能恰当地展现你的个性。如果你对这项新Nitro特权如何运作有任何疑问，不妨查阅我们的帮助中心。
 
----
 
 > 本文由AI自动翻译，原文链接：[Make More Closet Space! Nitro Members Can Now Keep Avatar Decoration Quest Rewards for Longer](https://discord.com/blog/nitro-members-keep-quest-rewards-longer)
 > 

@@ -26,7 +26,6 @@ translated_at: '2026-01-13T04:36:06.185591'
 
 如何设置它们？它们在哪里显示？它们到底**长什么样**？走上前来，一探究竟吧！
 
----
 
 > 本文由AI自动翻译，原文链接：[Worthy of a Plaque: Nameplates Land in the Shop](https://discord.com/blog/nameplates-land-in-the-shop)
 > 

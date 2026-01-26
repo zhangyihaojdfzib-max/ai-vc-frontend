@@ -39,7 +39,6 @@ YC的座右铭是“创造人们想要的东西”，而很少有公司能比Gro
 其他文章
 Jon是Y Combinator的合作伙伴董事总经理。他此前曾作为Wilson Sonsini Goodrich and Rosati律师事务所的律师，为上市和私营科技公司提供咨询。
 
----
 
 > 本文由AI自动翻译，原文链接：[Congratulations to Groww | Y Combinator](https://www.ycombinator.com/blog/groww/)
 > 

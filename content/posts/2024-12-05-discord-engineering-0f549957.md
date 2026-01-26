@@ -26,7 +26,6 @@ translated_at: '2026-01-22T05:04:18.390646'
 
 以下列出的所有修复均已提交并合并，但在本文发布时，可能仍在向各个平台逐步推送中。
 
----
 
 > 本文由AI自动翻译，原文链接：[Discord Patch Notes: December 5, 2024](https://discord.com/blog/discord-patch-notes-december-5-2024)
 > 

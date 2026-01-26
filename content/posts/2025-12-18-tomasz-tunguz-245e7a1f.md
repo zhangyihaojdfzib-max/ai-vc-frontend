@@ -38,7 +38,6 @@ translated_at: '2026-01-05T17:08:42.131Z'
 
 随着MCP这类技术的发展，此类分析正变得越来越简单。
 
----
 
 > 本文由AI自动翻译，原文链接：[Thursday is Podcast Day](https://www.tomtunguz.com/thursday-is-podcast-day/)
 > 

@@ -58,7 +58,6 @@ AI Gateway 支持 OpenResponses 的以下功能：
 
 阅读 [OpenResponses API 文档](https://sdk.vercel.ai/docs/ai-gateway/providers/openresponses) 或 [查看规范](https://github.com/openai/openresponses)。
 
----
 
 > 本文由AI自动翻译，原文链接：[OpenResponses API now supported on Vercel AI Gateway - Vercel](https://vercel.com/changelog/openresponses-api-now-supported-on-vercel-ai-gateway)
 > 

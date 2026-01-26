@@ -24,13 +24,11 @@ translated_at: '2026-01-06T18:15:23.220Z'
 
 ![](/images/posts/6c35d2677b66.png)
 
-![](/images/posts/6c35d2677b66.png)
 
 ## 戛纳狮子国际创意节归来，欢迎关注
 
 ![Discord在戛纳狮子节上的亮相](/images/posts/f8d8afe02423.png)
 
-![Discord在戛纳狮子节上的亮相](/images/posts/f8d8afe02423.png)
 
 我们刚刚首次亮相戛纳狮子国际创意节，这是我们不断扩展的广告业务的一个重要里程碑。我们与来自Xbox、凯度（Kantar）和联合利华（Unilever）的领导者们举行了专题讨论，探讨Discord基于用户选择、社区优先的模式如何重塑品牌与现代游戏玩家的连接方式。
 
@@ -38,7 +36,6 @@ translated_at: '2026-01-06T18:15:23.220Z'
 
 感谢所有让我们的戛纳首年如此难忘的朋友和合作伙伴。
 
----
 
 > 本文由AI自动翻译，原文链接：[Discord for Business Vol. 2: Cannes-worthy ad product updates](https://discord.com/blog/discord-for-business-cannes-worthy-ad-product-updates)
 > 

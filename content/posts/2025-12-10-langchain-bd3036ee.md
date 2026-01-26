@@ -95,7 +95,6 @@ Polly已经能够分析轨迹、调试对话和设计提示词。但随着时间
 
 LangChain是数千个交付生产级Agent的团队信赖的Agent工程平台。现在，有了Polly，你将拥有一位AI专家，在你前进的每一步提供帮助。
 
----
 
 > 本文由AI自动翻译，原文链接：[Introducing Polly: Your AI Agent Engineer](https://blog.langchain.com/introducing-polly-your-ai-agent-engineer/)
 > 

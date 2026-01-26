@@ -127,7 +127,6 @@ HackerOne动员其团队，在不到六小时内启动了我们的漏洞赏金�
 Latacora IntrusionOps提供了关键的事件响应支持，帮助对提交的报告进行分类、验证和复现。
 特别感谢Vercel首席财务官Marten Abrahamsen批准了100万美元的赏金支付。
 
----
 
 > 本文由AI自动翻译，原文链接：[Our $1 million hacker challenge for React2Shell - Vercel](https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell)
 > 

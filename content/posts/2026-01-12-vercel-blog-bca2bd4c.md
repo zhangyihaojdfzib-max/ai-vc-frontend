@@ -130,7 +130,6 @@ Next.js模板（含代码示例）
 
 本文由Dylan Jhaveri与Mux团队共同撰写。Mux致力于为开发者构建视频基础设施，@mux/ai通过与Workflow DevKit集成，使AI视频工作流无需额外基础设施即可投入生产环境。
 
----
 
 > 本文由AI自动翻译，原文链接：[How Mux shipped durable video workflows with their @mux/ai SDK - Vercel](https://vercel.com/blog/how-mux-shipped-durable-video-workflows-with-their-mux-ai-sdk)
 > 

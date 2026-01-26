@@ -22,7 +22,6 @@ translated_at: '2026-01-16T04:36:50.823847'
 
 ### MindJourney 让AI探索模拟3D世界以提升空间理解能力
 
----
 
 > 本文由AI自动翻译，原文链接：[OptiMind: A small language model with optimization expertise](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)
 > 

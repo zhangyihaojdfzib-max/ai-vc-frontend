@@ -31,7 +31,6 @@ In this work, we introduce AprielGuard, an 8B parameter safety–security safegu
 AprielGuard is available in both reasoning and non-reasoning modes, enabling explainable classification when needed and low-latency classification for production pipelines.
 - Model: https://huggingface.co/ServiceNow-AI/AprielGuard
 - Technical Paper: https://arxiv.org/abs/2512.20293
-Table of Contents
 - Motivation
 - AprielGuard Overview
 - Taxonomy
@@ -136,8 +135,6 @@ AprielGuard performance on the public safety benchmarks.
 A comparative assessment of model performance using aggregated results from safety benchmarks.
 Adversarial Detection Results
 AprielGuard performance on the public adversarial benchmarks.
-| Source | Precision | Recall | F1-score | FPR |
-|---|---|---|---|---|
 | gandalf_ignore_instructions | 1.00 | 0.91 | 0.95 | NA |
 | Salad-Data | 1.00 | 0.96 | 0.98 | NA |
 | in-the-wild-jailbreak-prompts | 1.00 | 0.87 | 0.93 | NA |
@@ -162,8 +159,6 @@ Safety Risks performance
 | AprielGuard-8B | Without | 0.99 | 0.96 | 0.97 | 0.01 |
 | AprielGuard-8B | With | 0.92 | 0.98 | 0.95 | 0.11 |
 Adversarial Attacks performance
-| Model | Reasoning | Precision ↑ | Recall ↑ | F1 ↑ | FPR ↓ |
-|---|---|---|---|---|---|
 | AprielGuard-8B | Without | 1.00 | 0.78 | 0.88 | 0.00 |
 | AprielGuard-8B | With | 0.93 | 0.94 | 0.94 | 0.10 |
 Multilingual evaluation
@@ -191,7 +186,6 @@ Latency–Interpretability Trade-off: Enabling reasoning traces enhances explain
 Reasoning Mode Sensitivity: The model exhibits occasional inconsistencies in classification outcomes between reasoning-enabled and non-reasoning inference modes.
 Intended use: AprielGuard is intended strictly for use as a safeguard and risk assessment model. It classifies potential safety risks and adversarial threats according to the AprielGuard unified taxonomy. Any deviation from the prescribed inference may lead to unintended, unsafe, or unreliable behavior..
 
----
 
 > 本文由AI自动翻译，原文链接：[AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard)
 > 

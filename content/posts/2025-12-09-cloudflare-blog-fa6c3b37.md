@@ -75,14 +75,9 @@ email_address := include.email[_]
 not endswith(email_address, "@cloudflare.com")
 reason := sprintf("%-40s :: only @cloudflare.com emails are allowed", [r.address])
 }
-warn contains reason if {
-r := tfplan.resource_changes[_]
 r.mode == "managed"
-r.type == "cloudflare_access_policy"
 require := r.change.after.require[_]
 email_address := require.email[_]
-not endswith(email_address, "@cloudflare.com")
-reason := sprintf("%-40s :: only @cloudflare.com emails are allowed", [r.address])
 }
 ```
 
@@ -159,7 +154,6 @@ Cloudflare创新速度很快，因此我们的产品集和API也在不断增长�
 
 对基础设施即代码有想法？欢迎继续讨论，并在 community.cloudflare.com 上分享您的经验。
 
----
 
 > 本文由AI自动翻译，原文链接：[Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code](https://blog.cloudflare.com/shift-left-enterprise-scale/)
 > 

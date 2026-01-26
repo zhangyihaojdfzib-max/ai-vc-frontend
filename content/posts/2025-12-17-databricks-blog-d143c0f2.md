@@ -173,7 +173,6 @@ Databricks SQL作为AI原生、运维就绪的数据仓库，继续引领市场�
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[SQL on the Databricks Lakehouse in 2025](https://www.databricks.com/blog/sql-databricks-lakehouse-2025)
 > 

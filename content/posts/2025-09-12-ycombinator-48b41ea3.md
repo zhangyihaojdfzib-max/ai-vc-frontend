@@ -35,7 +35,6 @@ Ankit 的 YC 之旅始于 2018 年冬季项目，当时他联合创立了 Reveri
 其他文章
 Garry 是 Y Combinator 的总裁兼首席执行官。此前，他是 Initialized Capital 的联合创始人兼管理合伙人。在那之前，他联合创立了 Posterous（YC S08），该公司后被 Twitter 收购。
 
----
 
 > 本文由AI自动翻译，原文链接：[Ankit Gupta Joins YC as General Partner, Bringing Deep ML Expertise | Y Combinator](https://www.ycombinator.com/blog/welcome-ankit/)
 > 

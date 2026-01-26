@@ -48,7 +48,6 @@ Nick 还以培养与职业成长紧密相连的强健文化而闻名。"我们�
 
 如果你有兴趣加入一个正在重新思考企业市场进入应如何运作的销售组织，[我们正在招聘](https://vercel.com/careers)。
 
----
 
 > 本文由AI自动翻译，原文链接：[Nick Bogaty joins Vercel as Chief Revenue Officer - Vercel](https://vercel.com/blog/nick-bogaty-joins-vercel-as-chief-revenue-officer)
 > 

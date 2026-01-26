@@ -65,7 +65,6 @@ LangSmith 现已登陆 AWS Marketplace。您可以在自己的 AWS 基础设施�
 
 **#524 展位 | 2025年12月1日至5日 | 威尼斯人会展中心**
 
----
 
 > 本文由AI自动翻译，原文链接：[Join LangChain at AWS re:Invent 2025](https://blog.langchain.com/join-langchain-at-aws-re-invent-2025/)
 > 

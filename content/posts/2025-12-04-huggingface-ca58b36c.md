@@ -106,7 +106,6 @@ url = {https://github.com/IntelLabs/DeepMath}
 [2] Liu, Mingjie, Shizhe Diao, Ximing Lu, et al. 2025. “ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models.” arXiv:2505.24864. Preprint, arXiv, May 30. https://doi.org/10.48550/arXiv.2505.24864
 [3] Moshkov, Ivan, Darragh Hanley, Ivan Sorokin, et al. 2025. “AIMO-2 Winning Solution: Building State-of-the-Art Mathematical Reasoning Models with OpenMathReasoning Dataset.” arXiv:2504.16891. Preprint, arXiv, April 23. https://doi.org/10.48550/arXiv.2504.16891
 
----
 
 > 本文由AI自动翻译，原文链接：[DeepMath: A lightweight math reasoning Agent with smolagents](https://huggingface.co/blog/intel-deepmath)
 > 

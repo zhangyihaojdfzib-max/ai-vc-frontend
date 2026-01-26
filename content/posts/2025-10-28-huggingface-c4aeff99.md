@@ -21,12 +21,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 
 # 如何利用NVIDIA Isaac for Healthcare从仿真到部署构建医疗机器人
 
-- 
-- 
-- 
-- 
-- 
-- 
 - +13
 
 ![](/images/posts/fb71dc93d9af.jpg)
@@ -41,7 +35,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 
 ![](/images/posts/147442e2c1c8.png)
 
-![NVIDIA's avatar](/images/posts/ef2e4339456d.png)
 
 ## 一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南SO-ARM入门工作流程；构建具身化手术助手技术实现仿真到现实的混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT入门指南资源一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南
 
@@ -131,7 +124,6 @@ python -m simulation.environments.teleoperation_record \
   --teleop_device=keyboard 
 
 # 使用SO-ARM101主动臂 
-python -m simulation.environments.teleoperation_record \ 
   --port=<your_leader_arm_port_id> \ 
   --enable_cameras \ 
   --record \ 
@@ -213,31 +205,8 @@ Isaac for Healthcare SO-ARM入门工作流现已可用。开始使用：
 
 · 注册或登录以评论
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 - +7
 
-![](/images/posts/fb71dc93d9af.jpg)
-
-![](/images/posts/9bc3346835fd.jpg)
-
-![](/images/posts/95d1650d88ea.jpg)
-
-![](/images/posts/78bab46e000b.jpg)
-
-![](/images/posts/708f2069f03c.png)
-
-![](/images/posts/147442e2c1c8.png)
 
 ![](/images/posts/b39222448f25.png)
 
@@ -245,7 +214,6 @@ Isaac for Healthcare SO-ARM入门工作流现已可用。开始使用：
 
 ![](/images/posts/21b6b30b32c9.jpg)
 
----
 
 > 本文由AI自动翻译，原文链接：[How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare)
 > 

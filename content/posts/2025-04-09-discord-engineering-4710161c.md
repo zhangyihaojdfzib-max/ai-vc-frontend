@@ -40,7 +40,6 @@ dbt的几个关键特性恰好契合我们的数据转换需求：
 
 虽然我们使用Google BigQuery作为云服务提供商，但该解决方案基本与云平台无关，也可应用于其他云平台。
 
----
 
 > 本文由AI自动翻译，原文链接：[Overclocking dbt: Discord's Custom Solution in Processing Petabytes of Data](https://discord.com/blog/overclocking-dbt-discords-custom-solution-in-processing-petabytes-of-data)
 > 

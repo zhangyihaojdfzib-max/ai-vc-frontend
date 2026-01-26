@@ -107,7 +107,6 @@ Teams就是人们工作的地方。财务与控制部门的同事每天大部分
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[BASF FOX: From Simple Idea to Global GenAI Impact and Digital Award 2025 Winner](https://www.databricks.com/blog/basf-fox-simple-idea-global-genai-impact-and-digital-award-2025-winner)
 > 

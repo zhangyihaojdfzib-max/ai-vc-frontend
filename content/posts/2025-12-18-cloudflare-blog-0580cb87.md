@@ -46,7 +46,6 @@ GROUP BY department
 对于某些报告，我们可能只对销售量最大的部门感兴趣。这时“ORDER BY”语句就派上用场了：
 
 ```sql
-SELECT department, sum(value)
 FROM sales
 GROUP BY department
 ORDER BY sum(value) DESC
@@ -62,7 +61,6 @@ SELECT department, sum(value), count(*)
 FROM sales
 GROUP BY department
 HAVING count(*) > 5
-ORDER BY sum(value) DESC
 LIMIT 10
 ```
 
@@ -152,7 +150,6 @@ R2 SQL现已支持聚合功能。我们期待看到你如何在R2数据目录中
 
 **加入讨论**：如果你有任何问题、反馈或想分享你正在构建的内容，请加入Cloudflare开发者Discord。
 
----
 
 > 本文由AI自动翻译，原文链接：[Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](https://blog.cloudflare.com/r2-sql-aggregations/)
 > 

@@ -20,7 +20,6 @@ translated_at: '2026-01-22T04:51:39.249391'
 
 ![Agent Builder 现已开放公测](/images/posts/c3195ff5edc9.png)
 
-![Agent Builder 现已开放公测](/images/posts/c3195ff5edc9.png)
 
 # LangSmith Agent Builder 现已开放公测
 
@@ -70,7 +69,6 @@ Agent Builder 解决了这两个挑战。它为每位员工提供了一种直观
 
 ![Agent Builder 提示词](/images/posts/b8cb1e9b5704.png)
 
-![Agent Builder 提示词](/images/posts/b8cb1e9b5704.png)
 
 ### 用自然语言更新智能体
 
@@ -78,7 +76,6 @@ Agent Builder 解决了这两个挑战。它为每位员工提供了一种直观
 
 ![更新智能体系统提示词](/images/posts/363de0999f23.png)
 
-![更新智能体系统提示词](/images/posts/363de0999f23.png)
 
 ### 跨团队安全地复用和扩展智能体
 
@@ -86,7 +83,6 @@ Agent Builder 解决了这两个挑战。它为每位员工提供了一种直观
 
 ![工作区智能体](/images/posts/86ca3cb301fd.png)
 
-![工作区智能体](/images/posts/86ca3cb301fd.png)
 
 ## 人们正在构建什么
 
@@ -158,7 +154,6 @@ Agent Builder 尚处于早期阶段，但我们已经看到一些有趣的模式
 
 ## LangSmith访问控制更新
 
----
 
 > 本文由AI自动翻译，原文链接：[LangSmith Agent Builder now in Public Beta](https://www.blog.langchain.com/langsmith-agent-builder-now-in-public-beta/)
 > 

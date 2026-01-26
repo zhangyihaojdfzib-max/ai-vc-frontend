@@ -20,7 +20,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 ![选择正确的多智能体架构](/images/posts/9b5bc636a524.png)
 
-![选择正确的多智能体架构](/images/posts/9b5bc636a524.png)
 
 # 选择正确的多智能体架构
 
@@ -52,7 +51,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 ![](/images/posts/504abd7379c1.png)
 
-![](/images/posts/504abd7379c1.png)
 
 对于希望以最少设置实现此模式的开发者，**Deep Agents** 提供了一个开箱即用的实现，只需几行代码即可添加子智能体。
 
@@ -72,7 +70,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 ![](/images/posts/b779889608ce.png)
 
-![](/images/posts/b779889608ce.png)
 
 **了解更多**：[技能文档](https://python.langchain.com/docs/how_to/multi_agent_skills/) | [教程：使用按需技能构建 SQL 助手](https://python.langchain.com/docs/tutorials/multi_agent_skills/)
 
@@ -88,7 +85,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 ![](/images/posts/0d4c10672414.png)
 
-![](/images/posts/0d4c10672414.png)
 
 **了解更多**：[交接文档](https://python.langchain.com/docs/how_to/multi_agent_handoffs/) | [教程：使用交接构建客户支持](https://python.langchain.com/docs/tutorials/multi_agent_handoffs/)
 
@@ -104,7 +100,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 ![](/images/posts/1e95f033ff1b.png)
 
-![](/images/posts/1e95f033ff1b.png)
 
 **了解更多**：[路由器文档](https://python.langchain.com/docs/how_to/multi_agent_router/) | [教程：使用路由构建多源知识库](https://python.langchain.com/docs/tutorials/multi_agent_router/)
 
@@ -133,7 +128,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 ![](/images/posts/3bf553f80718.png)
 
-![](/images/posts/3bf553f80718.png)
 
 ### 场景二：重复请求
 
@@ -145,7 +139,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 ![](/images/posts/a82055d6098a.png)
 
-![](/images/posts/a82055d6098a.png)
 
 ### 场景三：多领域查询
 
@@ -157,7 +150,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 ![](/images/posts/ef01de9fbf67.png)
 
-![](/images/posts/ef01de9fbf67.png)
 
 最佳模式取决于您的工作负载特征：
 
@@ -173,7 +165,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 抱歉，出现错误。请重试。
 
----
 
 > 本文由AI自动翻译，原文链接：[Choosing the Right Multi-Agent Architecture](https://www.blog.langchain.com/choosing-the-right-multi-agent-architecture/)
 > 

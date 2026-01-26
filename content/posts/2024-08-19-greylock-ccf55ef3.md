@@ -216,7 +216,6 @@ RH：是的，我认为这体现了之前提到的微观悲观、宏观乐观的
 
 里德通过构建网络来培育标志性全球企业，他既是创业者，也是投资者。
 
----
 
 > 本文由AI自动翻译，原文链接：[Micro Pessimism, Macro Optimism | Greylock](https://greylock.com/reid-hoffman/micro-pessimism-macro-optimism/)
 > 

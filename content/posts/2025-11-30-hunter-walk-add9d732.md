@@ -25,7 +25,6 @@ translated_at: '2026-01-16T04:34:03.405026'
 
 ![潲水浣熊](/images/posts/d2e203a20f87.jpg)
 
-![](/images/posts/d2e203a20f87.jpg)
 
 **为何纽约社区杂货店将长存**[安娜·科德/纽约时报] – GoPuff取代不了我们！Doordash取代不了我们！社区杂货店提供社区纽带、地域特色的商品与服务，以及移民融入本地经济的途径。它们永远有其价值。再说了，如果它们消失了，所有的**杂货店猫咪**该去哪儿？
 
@@ -33,7 +32,6 @@ translated_at: '2026-01-16T04:34:03.405026'
 
 ![](/images/posts/a33d541c7062.png)
 
-![](/images/posts/a33d541c7062.png)
 
 **（ARR）世界末日到了，我感觉良好**[布雷特·奎纳/篝火故事] – 布雷特开篇就掷地有声[“ARR在SaaS时代很棒，但对AI软件时代来说，它可能就像Commodore 64电脑一样过时了。”]并由此展开。他谈到了对创始人和高管、风险投资家以及私募股权模式的影响。如果AI世界关乎“雇佣”软件而非“购买”软件，还有什么会改变？
 
@@ -45,13 +43,11 @@ translated_at: '2026-01-16T04:34:03.405026'
 
 ![](/images/posts/9dfb869fd0bd.png)
 
-![](/images/posts/9dfb869fd0bd.png)
 
 **为何每个国家都需要掌握电力技术栈**[诺亚·史密斯/诺亚观点] – 大多数框架在创造者试图让一切符合其世界观时都会变得负担过重。“电力技术栈”是否会沦为这种引力作用的牺牲品，尚待观察，但目前我喜欢它如何将一系列可能定义未来几十年的工业、经济和技术能力整合在一起。电池、电机和电力电子。
 
 ![](/images/posts/e6c260e0a4bc.png)
 
-![](/images/posts/e6c260e0a4bc.png)
 
 - 点击在X上分享（在新窗口中打开）X
 - 点击在Facebook上分享（在新窗口中打开）Facebook
@@ -60,7 +56,6 @@ translated_at: '2026-01-16T04:34:03.405026'
 - 点击通过电子邮件发送给朋友（在新窗口中打开）Email
 - 点击在Reddit上分享（在新窗口中打开）Reddit
 
----
 
 > 本文由AI自动翻译，原文链接：[Bodegas Aren’t Going Anywhere; Degen Economics is Hollowing Out Society; the New Electric Tech Stack; and more++ [link blog]](https://hunterwalk.com/2025/11/30/bodegas-arent-going-anywhere-degen-economics-is-hollowing-out-society-the-new-electric-tech-stack-and-more-link-blog/)
 > 

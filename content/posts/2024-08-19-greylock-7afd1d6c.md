@@ -148,7 +148,6 @@ GPU短缺确实是障碍，但每个障碍也可能催生新的ML初创机遇。
 
 除此之外，请确保以直白的方式传达您的商业价值主张，让所有利益相关者都能切实把握其与自身业务的相关性。最有效的沟通不仅能令潜在合作伙伴对您的愿景感到鼓舞，更能让他们迫切希望尽快部署您的机器学习创新，从而为其组织释放增量价值。
 
----
 
 > 本文由AI自动翻译，原文链接：[4 VCs illustrate why there's good reason to be optimistic about the machine learning startup market | TechCrunch](https://greylock.com/press/4-vcs-illustrate-why-theres-good-reason-to-be-optimistic-about-the-machine-learning-startup-market/)
 > 

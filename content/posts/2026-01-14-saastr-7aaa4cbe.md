@@ -40,7 +40,6 @@ AI领域的领导者们已经证明了免费增值模式的经济模型是可行
 
 这些AI巨头以前所未有的规模验证了免费增值模式。但他们也证明了我多年来一直在谈论的那个数学逻辑。
 
-"要让免费增值和产品驱动增长模式大规模奏效，你可能需要数百万用户使用你的产品。
 
 如果只有几千用户……那就直接去销售吧。"pic.twitter.com/2DI6meGWE2
 
@@ -161,7 +160,6 @@ AI免费增值巨头们已经证明，这种模式在规模效应下是可行的
 - 从ARR达7亿美元的Asana中获得的5点有趣启示
 - 从ARR达4.25亿美元的SEMRush中获得的5点有趣启示
 
----
 
 > 本文由AI自动翻译，原文链接：[Freemium is Back — The AI Edition! But You’ll Still Probably Need 50 Million Active Users for Freemium to Actually Work as a Business Model.](https://www.saastr.com/freemium-is-back-the-ai-edition-but-youll-still-probably-need-50-million-active-users-for-freemium-to-actually-work-as-a-business-model/)
 > 

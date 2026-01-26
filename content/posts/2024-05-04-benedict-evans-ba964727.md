@@ -22,7 +22,6 @@ translated_at: '2026-01-08T04:30:12.329343'
 
 ![《逻辑乔伊》手稿](/images/posts/7121d9f0b1cf.jpg)
 
-![](/images/posts/7121d9f0b1cf.jpg)
 
 《逻辑乔伊》手稿
 
@@ -76,7 +75,6 @@ translated_at: '2026-01-08T04:30:12.329343'
 
 不过，默认情况下，这将遵循AI的所有其他浪潮，变成"仅仅"是更多的软件和更多的自动化。自动化总是带来摩擦性的痛苦，可以追溯到卢德分子，而英国邮政局丑闻提醒我们，即使没有AGI，软件也能毁掉人们的生活。LLM（大语言模型）将带来更多的痛苦和更多的丑闻，但生活仍将继续。至少，这是我自己更倾向的答案。
 
----
 
 > 本文由AI自动翻译，原文链接：[Ways to think about AGI — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/5/4/ways-to-think-about-agi)
 > 

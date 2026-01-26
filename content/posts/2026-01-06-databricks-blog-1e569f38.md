@@ -25,7 +25,6 @@ translated_at: '2026-01-07T03:12:32.193Z'
 
 ![Figure 1. Example of the instructed retrieval workflow for query [What is the battery life expectancy for FooBrand products]. User instructions are translated into (a) two structured retrieval queries, retrieving both recent reviews, as well as an official product description (b) a short response, grounded in search results.](/images/posts/22dd9113804e.png)
 
-![Figure 1. Example of the instructed retrieval workflow for query [What is the battery life expectancy for FooBrand products]. User instructions are translated into (a) two structured retrieval queries, retrieving both recent reviews, as well as an official product description (b) a short response, grounded in search results.](/images/posts/22dd9113804e.png)
 
 传统的RAG流程仅依赖用户查询进行单步检索，不包含任何额外的系统规范，如特定指令、示例或知识源模式。然而，如图1所示，这些规范对于智能体搜索系统中成功遵循指令至关重要。为了解决这些局限性，并成功完成如图1所述的任务，我们的指令化检索器架构使得系统规范能够流入系统的每个组件。
 
@@ -111,7 +110,6 @@ StaRK-Instruct的结果如图4(a)所示。与原始查询基线相比，指令�
 
 #### 通过自动化提示词优化以90倍低成本构建最先进的企业智能体
 
----
 
 > 本文由AI自动翻译，原文链接：[Instructed Retriever: Unlocking System-Level Reasoning in Search Agents](https://www.databricks.com/blog/instructed-retriever-unlocking-system-level-reasoning-search-agents)
 > 

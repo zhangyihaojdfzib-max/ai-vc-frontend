@@ -73,7 +73,6 @@ NVIDIA GR00T N1.6是一个开源推理视觉语言行动模型，专为人形机
 💻 加入Cosmos社区 → https://discord.gg/u23rXTHSC9
 🗳️ 为Cosmos Cookbook做贡献 → https://nvda.ws/4aQcBkk
 
----
 
 > 本文由AI自动翻译，原文链接：[NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning)
 > 

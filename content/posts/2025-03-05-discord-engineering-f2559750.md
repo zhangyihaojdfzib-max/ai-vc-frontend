@@ -29,7 +29,6 @@ Discord 的桌面端和移动客户端分别使用 React 和 React Native 构建
 
 最近，我们将注意力转向优化用户最常使用的功能，特别关注那些将 Discord 功能用到极致（有时甚至超出极限）的高级用户。如果你正在阅读本文，你很可能就是其中之一！
 
----
 
 > 本文由AI自动翻译，原文链接：[Supercharging Discord Mobile: Our Journey to a Faster App](https://discord.com/blog/supercharging-discord-mobile-our-journey-to-a-faster-app)
 > 

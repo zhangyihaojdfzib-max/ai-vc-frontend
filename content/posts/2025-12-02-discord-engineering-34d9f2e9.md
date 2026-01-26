@@ -29,7 +29,6 @@ translated_at: '2026-01-05T17:29:06.440Z'
 
 添加愿望单很简单；只要你能点开这篇博客，你就能把东西加入愿望单！想知道具体该**点击哪里**来添加物品到愿望单，请继续往下读……
 
----
 
 > 本文由AI自动翻译，原文链接：[Save and Display Your Faves: Add Discord Shop & Marvel Rivals Items to Your Profileâs Wishlist](https://discord.com/blog/save-and-display-your-faves-add-discord-shop-marvel-rivals-items-to-your-profiles-wishlist)
 > 

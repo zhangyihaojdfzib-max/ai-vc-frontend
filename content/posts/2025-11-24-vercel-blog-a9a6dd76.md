@@ -28,7 +28,6 @@ Vercel 现已支持提交验证，通过要求从 GitHub 部署的提交必须�
 
 在 GitHub 上了解更多关于提交签名与验证的信息，或查阅我们的文档以获取关于此设置的更多说明。
 
----
 
 > 本文由AI自动翻译，原文链接：[Deployments can now require cryptographically-verified commits - Vercel](https://vercel.com/changelog/deployments-can-now-require-cryptographically-verified-commits)
 > 

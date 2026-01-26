@@ -1,6 +1,12 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """
-图片修复脚本 - 只修复缺失的图片，不改动文字内容
+fix_images.py - 图片修复脚本 (v2.0)
+
+功能:
+- 扫描所有文章，找出缺失的图片
+- 从原文重新下载缺失的图片
+- 支持并行下载提高效率
+- 可选择只处理特定来源的文章
 """
 
 import os
@@ -10,163 +16,258 @@ import yaml
 import hashlib
 import requests
 import time
+import argparse
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from typing import List, Dict, Set, Optional, Tuple
+
 
 class ImageFixer:
-    def __init__(self):
-        self.content_dir = Path("content/posts")
-        self.images_dir = Path("public/images/posts")
+    """图片修复器"""
+
+    def __init__(self, content_dir: str = "content/posts", images_dir: str = "public/images/posts"):
+        self.content_dir = Path(content_dir)
+        self.images_dir = Path(images_dir)
         self.images_dir.mkdir(parents=True, exist_ok=True)
+
         self.session = requests.Session()
         self.session.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
-        self.fixed = 0
-        self.failed = 0
-    
-    def load_problem_files(self):
-        """从健康报告加载有图片问题的文件"""
-        report_path = Path("data/article_health_report.json")
-        if not report_path.exists():
-            print("请先运行 article_health_check.py")
-            return []
-        
-        report = json.load(open(report_path, encoding='utf-8'))
-        files = set()
-        for issue in report['issues']:
-            if issue['type'] == 'missing_image':
-                files.add(issue['file'])
-        return list(files)
-    
-    def get_source_url(self, md_file: Path) -> str:
-        """从文章提取原文链接"""
-        content = md_file.read_text(encoding='utf-8')
-        match = re.search(r'source_url:\s*(.+)', content)
-        if match:
-            return match.group(1).strip()
-        return None
-    
-    def get_missing_images(self, md_file: Path) -> list:
-        """获取文章中缺失的图片"""
-        content = md_file.read_text(encoding='utf-8')
-        missing = []
-        
-        for match in re.finditer(r'!\[[^\]]*\]\((/images/posts/([^)]+))\)', content):
-            full_path, filename = match.groups()
-            img_path = self.images_dir / filename
-            if not img_path.exists():
-                missing.append({'path': full_path, 'filename': filename})
-        
-        return missing
-    
-    def fetch_original_images(self, source_url: str) -> dict:
-        """从原文获取图片URL映射"""
+
+        self.stats = {
+            'files_scanned': 0,
+            'files_with_missing': 0,
+            'images_missing': 0,
+            'images_fixed': 0,
+            'images_failed': 0,
+        }
+
+    def scan_all_articles(self, source_filter: str = None) -> List[Dict]:
+        """扫描所有文章，找出缺失图片的文章"""
+        print("扫描文章中的图片...")
+
+        articles_with_missing = []
+        md_files = sorted(self.content_dir.glob("*.md"))
+
+        for md_file in md_files:
+            self.stats['files_scanned'] += 1
+
+            try:
+                content = md_file.read_text(encoding='utf-8')
+            except:
+                continue
+
+            # 如果指定了来源过滤
+            if source_filter and source_filter.lower() not in content.lower():
+                continue
+
+            # 获取 source_url
+            source_url_match = re.search(r'source_url:\s*(.+)', content)
+            source_url = source_url_match.group(1).strip() if source_url_match else None
+
+            # 查找所有图片引用
+            missing_images = []
+            for match in re.finditer(r'!\[[^\]]*\]\((/images/posts/([^)]+))\)', content):
+                full_path, filename = match.groups()
+                img_path = self.images_dir / filename
+                if not img_path.exists():
+                    missing_images.append({
+                        'path': full_path,
+                        'filename': filename,
+                    })
+
+            if missing_images:
+                self.stats['files_with_missing'] += 1
+                self.stats['images_missing'] += len(missing_images)
+                articles_with_missing.append({
+                    'file': md_file.name,
+                    'source_url': source_url,
+                    'missing': missing_images,
+                })
+
+        print(f"扫描完成: {self.stats['files_scanned']} 篇文章, "
+              f"{self.stats['files_with_missing']} 篇有缺失图片, "
+              f"共 {self.stats['images_missing']} 张缺失")
+
+        return articles_with_missing
+
+    def fetch_original_images(self, source_url: str) -> Dict[str, str]:
+        """从原文获取所有图片URL，返回 {filename: url} 映射"""
+        if not source_url:
+            return {}
+
         try:
             resp = self.session.get(source_url, timeout=30)
             resp.raise_for_status()
             soup = BeautifulSoup(resp.text, 'html.parser')
-            
+
             images = {}
             for img in soup.find_all('img'):
-                src = img.get('src') or img.get('data-src')
-                if src:
-                    full_url = urljoin(source_url, src)
-                    # 生成相同的hash作为key
-                    img_hash = hashlib.md5(full_url.encode()).hexdigest()[:12]
-                    ext = Path(urlparse(full_url).path).suffix or '.jpg'
-                    if ext.lower() not in ['.jpg', '.jpeg', '.png', '.gif', '.webp', '.svg']:
-                        ext = '.jpg'
-                    filename = f"{img_hash}{ext}"
-                    images[filename] = full_url
-            
+                # 尝试多种属性获取图片URL
+                src = (img.get('src') or img.get('data-src') or
+                       img.get('data-lazy-src') or img.get('data-original'))
+
+                if not src or src.startswith('data:'):
+                    continue
+
+                full_url = urljoin(source_url, src)
+
+                # 生成与 content_extractor_v2 相同的文件名
+                url_hash = hashlib.md5(full_url.encode()).hexdigest()[:12]
+
+                # 确定扩展名
+                parsed = urlparse(full_url)
+                path_lower = parsed.path.lower()
+                if '.png' in path_lower:
+                    ext = '.png'
+                elif '.gif' in path_lower:
+                    ext = '.gif'
+                elif '.webp' in path_lower:
+                    ext = '.webp'
+                elif '.jpeg' in path_lower or '.jpg' in path_lower:
+                    ext = '.jpg'
+                else:
+                    ext = '.jpg'
+
+                filename = f"{url_hash}{ext}"
+                images[filename] = full_url
+
             return images
+
         except Exception as e:
             print(f"    获取原文失败: {e}")
             return {}
-    
+
     def download_image(self, url: str, save_path: Path) -> bool:
         """下载单张图片"""
         try:
             resp = self.session.get(url, timeout=30)
             resp.raise_for_status()
-            
-            # 检查是否是图片
+
             content_type = resp.headers.get('content-type', '')
-            if 'image' not in content_type and len(resp.content) < 1000:
+
+            # 检查是否是有效图片
+            if len(resp.content) < 500:
                 return False
-            
+
+            if 'image' not in content_type and len(resp.content) < 5000:
+                return False
+
             save_path.write_bytes(resp.content)
             return True
-        except:
+
+        except Exception as e:
             return False
-    
-    def fix_article(self, filename: str) -> dict:
-        """修复单篇文章的图片"""
-        md_file = self.content_dir / filename
-        if not md_file.exists():
-            return {'status': 'not_found'}
-        
-        # 获取缺失的图片
-        missing = self.get_missing_images(md_file)
-        if not missing:
-            return {'status': 'no_missing', 'fixed': 0}
-        
-        # 获取原文链接
-        source_url = self.get_source_url(md_file)
+
+    def fix_article(self, article: Dict) -> Dict:
+        """修复单篇文章的缺失图片"""
+        filename = article['file']
+        source_url = article['source_url']
+        missing = article['missing']
+
+        result = {
+            'file': filename,
+            'missing_count': len(missing),
+            'fixed': 0,
+            'failed': 0,
+            'not_found': 0,
+        }
+
         if not source_url:
-            return {'status': 'no_source_url', 'missing': len(missing)}
-        
-        print(f"  原文: {source_url}")
-        print(f"  缺失图片: {len(missing)} 张")
-        
-        # 从原文获取图片
+            result['failed'] = len(missing)
+            result['error'] = 'no_source_url'
+            return result
+
+        # 从原文获取图片映射
         original_images = self.fetch_original_images(source_url)
+
         if not original_images:
-            return {'status': 'fetch_failed', 'missing': len(missing)}
-        
+            result['failed'] = len(missing)
+            result['error'] = 'fetch_failed'
+            return result
+
         # 下载缺失的图片
-        fixed_count = 0
         for img in missing:
-            filename = img['filename']
-            if filename in original_images:
-                url = original_images[filename]
-                save_path = self.images_dir / filename
-                
+            img_filename = img['filename']
+
+            if img_filename in original_images:
+                url = original_images[img_filename]
+                save_path = self.images_dir / img_filename
+
                 if self.download_image(url, save_path):
-                    print(f"    ✓ {filename}")
-                    fixed_count += 1
+                    result['fixed'] += 1
+                    print(f"    ✓ {img_filename}")
                 else:
-                    print(f"    ✗ {filename} 下载失败")
+                    result['failed'] += 1
+                    print(f"    ✗ {img_filename} (下载失败)")
             else:
-                print(f"    ? {filename} 未在原文找到")
-        
-        return {'status': 'ok', 'fixed': fixed_count, 'missing': len(missing)}
-    
-    def fix_all(self):
-        """修复所有有问题的文章"""
-        files = self.load_problem_files()
-        print(f"找到 {len(files)} 篇需要修复图片的文章\n")
-        
-        for i, filename in enumerate(files):
-            print(f"[{i+1}/{len(files)}] {filename}")
-            result = self.fix_article(filename)
-            
-            if result.get('fixed', 0) > 0:
-                self.fixed += result['fixed']
-            if result.get('status') == 'fetch_failed':
-                self.failed += result.get('missing', 0)
-            
-            time.sleep(1)  # 避免请求过快
+                result['not_found'] += 1
+                print(f"    ? {img_filename} (原文未找到)")
+
+        return result
+
+    def fix_all(self, source_filter: str = None, max_articles: int = None):
+        """修复所有缺失图片"""
+        print("=" * 70)
+        print("图片修复工具 v2.0")
+        print("=" * 70)
+
+        # 扫描找出缺失图片的文章
+        articles = self.scan_all_articles(source_filter)
+
+        if not articles:
+            print("\n没有找到缺失图片的文章!")
+            return
+
+        if max_articles:
+            articles = articles[:max_articles]
+
+        print(f"\n开始修复 {len(articles)} 篇文章的图片...\n")
+
+        for i, article in enumerate(articles):
+            print(f"[{i+1}/{len(articles)}] {article['file']}")
+            if article['source_url']:
+                print(f"  原文: {article['source_url'][:60]}...")
+            print(f"  缺失: {len(article['missing'])} 张")
+
+            result = self.fix_article(article)
+
+            self.stats['images_fixed'] += result['fixed']
+            self.stats['images_failed'] += result['failed'] + result['not_found']
+
             print()
-        
-        print("=" * 50)
-        print(f"修复完成！")
-        print(f"  成功下载: {self.fixed} 张图片")
-        print(f"  失败: {self.failed} 张")
+            time.sleep(0.5)  # 避免请求过快
+
+        self.print_stats()
+
+    def print_stats(self):
+        """打印统计信息"""
+        print("=" * 70)
+        print("修复完成!")
+        print("=" * 70)
+        print(f"扫描文章数: {self.stats['files_scanned']}")
+        print(f"有缺失图片的文章: {self.stats['files_with_missing']}")
+        print(f"总缺失图片数: {self.stats['images_missing']}")
+        print(f"成功修复: {self.stats['images_fixed']}")
+        print(f"修复失败: {self.stats['images_failed']}")
+
+        if self.stats['images_missing'] > 0:
+            success_rate = self.stats['images_fixed'] / self.stats['images_missing'] * 100
+            print(f"成功率: {success_rate:.1f}%")
+
+
+def main():
+    parser = argparse.ArgumentParser(description='修复文章中缺失的图片')
+    parser.add_argument('--source', '-s', help='只处理指定来源的文章 (如 huggingface, databricks)')
+    parser.add_argument('--max', '-m', type=int, help='最多处理的文章数')
+    args = parser.parse_args()
+
+    fixer = ImageFixer()
+    fixer.fix_all(source_filter=args.source, max_articles=args.max)
 
 
 if __name__ == "__main__":
-    fixer = ImageFixer()
-    fixer.fix_all()
+    main()

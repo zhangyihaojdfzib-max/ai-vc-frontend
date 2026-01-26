@@ -125,7 +125,6 @@ ASPA基于RPKI，正是能帮助预防类似我们在委内瑞拉观测到的路
 
 除了ASPA，我们作为运营商都可以实施更简单的机制，例如Peerlock和Peerlock-lite，它们会对接收到的路径进行合理性检查以发现明显泄露。一项特别有前景的举措是采用RFC9234，它应与ASPA结合使用，通过建立BGP角色和新的仅对客户（OTC）属性来预防路由泄露。如果您尚未要求您的路由厂商将RFC9234的实现纳入其路线图：请务必提出。您可以帮助带来重大改变。
 
----
 
 > 本文由AI自动翻译，原文链接：[A closer look at a BGP anomaly in Venezuela](https://blog.cloudflare.com/bgp-route-leak-venezuela/)
 > 

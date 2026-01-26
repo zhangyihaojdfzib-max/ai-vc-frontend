@@ -90,7 +90,6 @@ translated_at: '2026-01-08T04:37:49.451180'
 
 安德鲁·陈是 Andreessen Horowitz 的合伙人，专注于游戏、AR/VR、元宇宙和消费科技初创公司的投资。他是《冷启动问题》一书的作者，该书讲述了如何通过网络效应启动和发展新初创公司。他居住在加利福尼亚州威尼斯市。（更多信息）
 
----
 
 > 本文由AI自动翻译，原文链接：[Startups need dual theories on distribution and product/market fit. One is not enough at andrewchen](https://andrewchen.com/startups-need-dual-theories-on-distribution-and-product-market-fit-one-is-not-enough/)
 > 

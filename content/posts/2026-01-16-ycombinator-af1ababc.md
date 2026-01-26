@@ -27,7 +27,6 @@ translated_at: '2026-01-17T04:08:43.451372'
 
 ![](/images/posts/26d9bf950c69.png)
 
-![](/images/posts/26d9bf950c69.png)
 
 今年，YC与近二十家公司合作，为参加YC活动的学生提供一套AI开发工具的免费额度。
 
@@ -35,7 +34,6 @@ translated_at: '2026-01-17T04:08:43.451372'
 
 ![](/images/posts/2ada57aa36af.png)
 
-![](/images/posts/2ada57aa36af.png)
 
 ![](/images/posts/f2f5dc0faed6.png)
 
@@ -88,7 +86,6 @@ Ankit是YC的普通合伙人，也是Reverie Labs的创始人。该公司在2024
 
 ### 创造人们想要的东西。
 
----
 
 > 本文由AI自动翻译，原文链接：[Announcing the YC AI Student Starter Pack | Y Combinator](https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/)
 > 

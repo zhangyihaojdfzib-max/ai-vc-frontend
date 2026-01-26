@@ -57,7 +57,6 @@ TPU作为谷歌定制的AI加速器芯片，现已发展到第七代，其性能
 
 您希望我们通过与谷歌的合作创造或改进什么？请在评论中告诉我们！
 
----
 
 > 本文由AI自动翻译，原文链接：[Building for an Open Future - our new partnership with Google Cloud](https://huggingface.co/blog/google-cloud)
 > 

@@ -160,7 +160,6 @@ TL;DR：在这篇博客文章中，我们从注意力机制和KV缓存出发，�
 
 致谢：感谢Arthur Zucker为本文图表制作了初始概念。同时感谢Arthur Zucker、Luc Georges、Lysandre Debut、Merve Noyan和Pedro Cuenca提供的所有有益审阅。
 
----
 
 > 本文由AI自动翻译，原文链接：[Continuous batching from first principles](https://huggingface.co/blog/continuous_batching)
 > 

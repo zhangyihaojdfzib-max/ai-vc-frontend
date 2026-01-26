@@ -28,7 +28,6 @@ translated_at: '2026-01-08T04:28:40.049480'
 
 ![AWS CEO Matt Garman在re:Invent 2025上发表主题演讲。照片由亚马逊提供。](/images/posts/4c5d3f6f1f73.jpg)
 
-![AWS CEO Matt Garman在拉斯维加斯举行的AWS re:Invent 2025上发表主题演讲。](/images/posts/4c5d3f6f1f73.jpg)
 
 但本周真正的故事并非关于我运营《FastForward》一年来的小插曲。而是关于re:Invent的主题，以及亚马逊在持续的AI竞赛中所处的位置。两年前，Adam Selipsky仍是AWS的CEO，当时业界普遍认为亚马逊已经落后。微软当时与OpenAI的紧密关系似乎让雷德蒙德（微软总部）占了上风。尽管大家都说为时尚早，但亚马逊内部似乎已弥漫着某种程度的恐慌。
 
@@ -59,7 +58,6 @@ translated_at: '2026-01-08T04:28:40.049480'
 
 AI原生者与AI跟风者
 
----
 
 > 本文由AI自动翻译，原文链接：[AWS takes an AI step forward - FastForward](https://fastforward.boldstart.vc/aws-takes-an-ai-step-forward/)
 > 

@@ -58,9 +58,6 @@ print(response.content)
 
 ```
 let model = MLXLanguageModel(modelId: "mlx-community/Qwen3-4B-4bit")
-let session = LanguageModelSession(model: model)
-let response = try await session.respond(to: "Explain quantum computing in one sentence")
-print(response.content)
 ```
 
 AnyLanguageModel 支持一系列提供商：
@@ -118,7 +115,6 @@ let model = AnthropicLanguageModel(
     apiKey: ProcessInfo.processInfo.environment["ANTHROPIC_API_KEY"]!,
     model: "claude-sonnet-4-5-20250929"
 )
-let session = LanguageModelSession(model: model)
 let response = try await session.respond(
     to: "What's in this image?",
     image: .init(url: URL(fileURLWithPath: "/path/to/image.png"))
@@ -157,7 +153,6 @@ AnyLanguageModel 目前处于 1.0 版之前。核心 API 是稳定的，但我�
 **链接**
 我们期待看到你的作品 🦾
 
----
 
 > 本文由AI自动翻译，原文链接：[Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](https://huggingface.co/blog/anylanguagemodel)
 > 

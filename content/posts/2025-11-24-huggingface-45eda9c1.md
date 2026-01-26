@@ -104,7 +104,6 @@ console.log(chatCompletion.choices[0].message);
 **反馈与后续步骤**
 我们非常希望得到您的反馈！请在此处分享您的想法和/或评论：https://huggingface.co/spaces/huggingface/HuggingDiscussions/discussions/49
 
----
 
 > 本文由AI自动翻译，原文链接：[OVHcloud on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud)
 > 

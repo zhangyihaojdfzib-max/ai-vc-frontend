@@ -123,7 +123,6 @@ Genie 3 可以在更长的时间范围内生成一致且可交互的世界
 
 ![建筑物左侧的树木在整个交互过程中保持一致，即使它们时隐时现。](/images/posts/284129b92d82.jpg)
 
-![一个生成的古希腊神庙和废墟在0:00、0:20和0:40的三个视频帧，展示了模型的视觉记忆和随时间推移的环境一致性。](/images/posts/284129b92d82.jpg)
 
 建筑物左侧的树木在整个交互过程中保持一致，即使它们时隐时现。
 
@@ -181,7 +180,6 @@ Genie 3的实现得益于以下人员在研究和工程方面的关键贡献：P
 
 最后，我们向以下人员表示感谢，感谢他们的见解和支持：Mohammad Babaeizadeh, Gabe Barth-Maron, Parker Beak, Jenny Brennan, Tim Brooks, Max Cant, Harris Chan, Jeff Clune, Kaspar Daugaard, Dumitru Erhan, Ashley Feden, Simon Green, Nik Hemmings, Michael Huber, Jony Hudson, Dirichi Ike-Njoku, Hernan Moraldo, Bonnie Li, Simon Osindero, Georg Ostrovski, Ryan Poplin, Alex Rizkowsky, Giles Ruscoe, Ana Salazar, Guy Simmons, Jeff Stanway, Metin Toksoz-Exley, Xinchen Yan, Petko Yotov, Mingda Zhang 和 Martin Zlocha。
 
----
 
 > 本文由AI自动翻译，原文链接：[Genie 3: A new frontier for world models](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)
 > 

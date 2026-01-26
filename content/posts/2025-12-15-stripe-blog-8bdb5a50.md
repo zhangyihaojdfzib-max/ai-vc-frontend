@@ -285,7 +285,6 @@ Click to Pay
 Google Pay
 PayPal
 
-英国是欧洲最以卡为中心的市场，人均拥有超过两张卡。
 
 **热门支付方式**
 Visa
@@ -322,7 +321,6 @@ Amazon Pay
 **托管支付页面**
 通过集成Stripe Checkout（我们为转化优化的预构建支付页面）在您的网站上接受付款。
 
----
 
 > 本文由AI自动翻译，原文链接：[Accept PayTo Payments | Stripe](https://stripe.com/payment-method/payto)
 > 

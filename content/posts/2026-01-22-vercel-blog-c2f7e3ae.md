@@ -121,7 +121,6 @@ Bash Agent检查自身工作的倾向被证明是有价值的——不仅是为�
 
 本文由Ankur Goyal和Braintrust团队撰写，他们为AI应用构建评估基础设施。该评估工具是开源的，并与Vercel的just-bash集成。
 
----
 
 > 本文由AI自动翻译，原文链接：[Testing if "bash is all you need" - Vercel](https://vercel.com/blog/testing-if-bash-is-all-you-need)
 > 

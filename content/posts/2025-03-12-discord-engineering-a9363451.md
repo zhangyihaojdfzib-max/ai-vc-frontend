@@ -22,9 +22,6 @@ translated_at: '2026-01-19T05:03:35.783304'
 
 ![](/images/posts/d1ee6bdd3ec5.webp)
 
-![](/images/posts/d1ee6bdd3ec5.webp)
-
----
 
 > 本文由AI自动翻译，原文链接：[Modern Image Formats at Discord: Supporting WebP and AVIF](https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif)
 > 

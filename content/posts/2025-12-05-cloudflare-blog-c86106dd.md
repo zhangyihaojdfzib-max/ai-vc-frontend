@@ -92,7 +92,6 @@ end
 | 09:11 | 变更回滚 | 配置变更开始回滚并传播 |
 | 09:12 | 事件结束 | 回滚完成全网传播，所有流量恢复 |
 
----
 
 > 本文由AI自动翻译，原文链接：[Cloudflare outage on December 5, 2025](https://blog.cloudflare.com/5-december-2025-outage/)
 > 

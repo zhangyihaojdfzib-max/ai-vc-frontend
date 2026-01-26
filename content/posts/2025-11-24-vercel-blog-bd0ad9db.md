@@ -75,7 +75,6 @@ Webhook 触发器将您的工作流连接到外部应用程序和 API。外部�
 *   **集成平台**：为您的产品添加拖放式工作流功能
 *   **数据管道**：设计具有可视化监控和执行跟踪功能的 ETL 或数据处理管道
 
----
 
 > 本文由AI自动翻译，原文链接：[Workflow Builder: Build your own workflow automation platform - Vercel](https://vercel.com/blog/workflow-builder-build-your-own-workflow-automation-platform)
 > 

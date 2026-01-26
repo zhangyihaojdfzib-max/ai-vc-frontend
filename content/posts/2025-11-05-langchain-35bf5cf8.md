@@ -200,7 +200,6 @@ def search_public_code(pattern: str, path: Optional[str] = None) -> str:
 def list_public_directory(path: str, max_depth: int = 2) -> str:
     """步骤2：理解文件结构"""
     cmd = ["tree", "-L", str(max_depth), str(path)]
-    return subprocess.run(cmd, capture_output=True, text=True).stdout
 
 @tool
 def read_public_file(file_path: str, start_line: int = 1, num_lines: int = 100) -> str:
@@ -339,7 +338,6 @@ Chat LangChain已在 chat.langchain.com 上线。使用 Claude Haiku 4.5 可获�
 请在我们的论坛上加入LangChain社区或在Twitter上关注我们。
 订阅我们的新闻通讯，获取团队和社区的最新动态。
 
----
 
 > 本文由AI自动翻译，原文链接：[Why We Rebuilt LangChain’s Chatbot and What We Learned](https://blog.langchain.com/rebuilding-chat-langchain/)
 > 

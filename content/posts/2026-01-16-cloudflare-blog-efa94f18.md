@@ -112,7 +112,6 @@ Astro 6 还有更多内容，包括 Astro 获得最多投票的功能请求—�
 
 请关注[Astro博客](https://astro.build/blog)并加入[Astro Discord](https://astro.build/chat)，以获取最新动态。告诉我们您正在构建什么吧！
 
----
 
 > 本文由AI自动翻译，原文链接：[Astro is joining Cloudflare](https://blog.cloudflare.com/astro-joins-cloudflare/)
 > 

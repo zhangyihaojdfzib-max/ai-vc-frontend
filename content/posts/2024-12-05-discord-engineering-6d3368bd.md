@@ -27,7 +27,6 @@ translated_at: '2026-01-22T05:04:23.198608'
 
 呃，怎么说呢……Wumpus在跨维度旅行中**可能**发生了增殖。也许是来自不同时间线的分身？无论如何，**你获取Discord Nitro作为调查答谢的时间有限**：本次活动时间为**2024年12月4日至2024年12月25日**。
 
----
 
 > 本文由AI自动翻译，原文链接：[Find Wumpus in the WEBTOON Universes & Be Rewarded with a Nitro Trial](https://discord.com/blog/find-wumpus-in-the-webtoon-universes-be-rewarded-with-a-nitro-trial)
 > 

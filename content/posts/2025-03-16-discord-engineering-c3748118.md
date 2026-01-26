@@ -35,7 +35,6 @@ translated_at: '2026-01-18T04:39:31.048111'
 
 如果你的社区始于抢先体验阶段，可以查看我们创建的这份服务器模板来快速启动你的社区：Early Access/Pre-Launch Server
 
----
 
 > 本文由AI自动翻译，原文链接：[The Game Developer Playbook, Part Two: Early Access and Pre-Launch](https://discord.com/blog/the-game-developer-playbook-part-two-early-access-and-pre-launch)
 > 

@@ -138,7 +138,6 @@ JavaScript 性能
 
 请查看 `react-best-practices` 知识库。
 
----
 
 > 本文由AI自动翻译，原文链接：[Introducing: React Best Practices - Vercel](https://vercel.com/blog/introducing-react-best-practices)
 > 

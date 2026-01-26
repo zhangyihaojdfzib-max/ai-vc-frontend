@@ -85,7 +85,6 @@ Salt通过多种方式报告错误。默认情况下，当任何状态失败时�
 
 ```
 web1:
-----------
 ID: nginx
 Function: pkg.installed
 Result: True
@@ -93,7 +92,6 @@ Comment: Package nginx is already installed
 Started: 15:32:41.157235
 Duration: 256.138 ms
 Changes:
-----------
 ID: /etc/nginx/nginx.conf
 Function: file.managed
 Result: False
@@ -102,10 +100,8 @@ Started: 15:32:41.415128
 Duration: 14.581 ms
 Changes:
 Summary for web1
-------------
 Succeeded: 1 (changed=0)
 Failed: 1
-------------
 Total states run: 2
 Total run time: 270.719 ms
 ```
@@ -170,7 +166,6 @@ Blame 模块负责整合三件事：
 minion~$ salt-call -l info blame.last_failed_states
 local:
 |_
-----------
 __id__:
 /etc/nginx/nginx.conf
 __run_num__:
@@ -178,7 +173,6 @@ __run_num__:
 __sls__:
 foo
 changes:
-----------
 comment:
 Source file salt://webserver/files/nginx.conf not found in saltenv 'base'
 duration:
@@ -188,7 +182,6 @@ finish_time_stamp:
 fun:
 file.managed
 name:
-/etc/nginx/nginx.conf
 result:
 False
 start_time:
@@ -198,10 +191,8 @@ start_time_stamp:
 # 列出与失败状态相关的所有提交
 minion~$ salt-call -l info blame.last_highstate_failure
 local:
-----------
 commits:
 |_
-----------
 author_email:
 [email protected]
 author_name:
@@ -220,7 +211,6 @@ True
 minion~$ salt-call -l info blame.last_compile_errors
 local:
 |_
-----------
 error_types:
 job_timestamp:
 2025-10-24T21:55:54.595412+00:00
@@ -263,7 +253,6 @@ urls: http://url-matching-external-service-if-found
 
 如果您对这类工作感兴趣，我们鼓励您查看我们的招聘页面。
 
----
 
 > 本文由AI自动翻译，原文链接：[Finding the grain of sand in a heap of Salt](https://blog.cloudflare.com/finding-the-grain-of-sand-in-a-heap-of-salt/)
 > 

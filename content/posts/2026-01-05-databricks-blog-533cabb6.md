@@ -189,7 +189,6 @@ Databricks 和智能体 AI 带来：
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[BCBS 239 Compliance in the Age of AI: Turning Regulatory Burden into Strategic Advantage](https://www.databricks.com/blog/bcbs-239-compliance-age-ai-turning-regulatory-burden-strategic-advantage)
 > 

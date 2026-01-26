@@ -25,7 +25,6 @@ translated_at: '2026-01-05T17:29:04.312Z'
 
 从今天起，《漫威争锋》官方Discord服务器中的玩家，可以在他们与朋友日常交流的平台上直接浏览、购买和赠送游戏内物品。
 
----
 
 > 本文由AI自动翻译，原文链接：[Bringing In-Game Commerce to Discord Communities](https://discord.com/blog/bringing-in-game-commerce-to-discord-communities)
 > 

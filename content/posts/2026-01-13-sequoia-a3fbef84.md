@@ -56,7 +56,6 @@ WithCoverage的联合创始人JD Ross和Max Brenner通过将行业专家与技�
 
 # 获取红杉社区的最佳故事。
 
----
 
 > 本文由AI自动翻译，原文链接：[Partnering with WithCoverage: Insurance As It Should Be](https://sequoiacap.com/article/partnering-with-withcoverage-insurance-as-it-should-be/)
 > 

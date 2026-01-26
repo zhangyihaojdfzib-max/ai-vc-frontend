@@ -52,7 +52,6 @@ Snowflake Announces Intent to Acquire Observe↩︎
 
 Langfuse is Joining ClickHouse↩︎
 
----
 
 > 本文由AI自动翻译，原文链接：[The Postmodern Data Stack is AI](https://www.tomtunguz.com/the-postmodern-data-stack-is-ai/)
 > 

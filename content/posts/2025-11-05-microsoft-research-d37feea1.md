@@ -112,7 +112,6 @@ Magentic Marketplace 作为一个开源环境提供，用于探索 Agent 市场�
 
 文档（在新标签页中打开）提供了重现上述实验的说明，以及将环境扩展到新市场配置的指导。
 
----
 
 > 本文由AI自动翻译，原文链接：[Magentic Marketplace: Open-source platform to study agentic markets](https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/)
 > 

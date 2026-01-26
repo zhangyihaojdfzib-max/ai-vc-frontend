@@ -21,12 +21,6 @@ translated_at: '2026-01-22T04:48:17.147669'
 
 # AssetOpsBench：弥合AI Agent基准测试与工业现实之间的鸿沟
 
-- 
-- 
-- 
-- 
-- 
-- 
 - +3
 
 ![](/images/posts/95d1650d88ea.jpg)
@@ -39,21 +33,6 @@ translated_at: '2026-01-22T04:48:17.147669'
 
 ![](/images/posts/cbdbf795c824.png)
 
-![Dhaval Patel的头像](/images/posts/cbdbf795c824.png)
-
-![IBM Research的头像](/images/posts/2e05106a8de4.png)
-
-![James Rayfield的头像](/images/posts/49941d52bcec.png)
-
-![IBM Research的头像](/images/posts/2e05106a8de4.png)
-
-![IBM Research的头像](/images/posts/2e05106a8de4.png)
-
-![IBM Research的头像](/images/posts/2e05106a8de4.png)
-
-![IBM Research的头像](/images/posts/2e05106a8de4.png)
-
-![IBM Research的头像](/images/posts/2e05106a8de4.png)
 
 从哪里开始？AssetOpsBench是一个全面的基准测试与评估系统，包含六个定性维度，旨在弥合特定领域（从工业资产生命周期管理开始）中智能体AI的差距。
 
@@ -161,32 +140,11 @@ AssetOpsBench-Live被设计为一个开放的、**适合竞赛的基准测试**�
 
 · 注册或登录以评论
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-
-![](/images/posts/95d1650d88ea.jpg)
-
-![](/images/posts/5b36678ab3e8.jpg)
-
-![](/images/posts/78bab46e000b.jpg)
-
-![](/images/posts/ba72711a3673.png)
-
-![](/images/posts/cbdbf795c824.png)
 
 ![](/images/posts/3ee14a6dad2d.png)
 
 ![](/images/posts/b40fd822017a.png)
 
----
 
 > 本文由AI自动翻译，原文链接：[AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face)
 > 

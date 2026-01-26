@@ -73,7 +73,6 @@ PIKE-RAG的泛化能力不仅在昕诺飞的知识管理平台得到验证，还
 "作为照明行业的领导者，昕诺飞拥有复杂的工业知识体系，为PIKE-RAG提供了极具挑战性的现实场景。通过这次合作，我们验证了PIKE-RAG的通用方法能够大幅提升专业知识问答的准确性，并加速场景定制化。我们的研究人员也获得了处理领域特定数据的宝贵经验。"微软亚洲研究院合伙人研究经理边江解释道。
 "我们的目标不是构建通用聊天机器人，而是创建符合领域特定逻辑、能进行严谨知识推理的专业助手。这才是工业知识管理智能化转型的真正驱动力。"
 
----
 
 > 本文由AI自动翻译，原文链接：[When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost](https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/)
 > 

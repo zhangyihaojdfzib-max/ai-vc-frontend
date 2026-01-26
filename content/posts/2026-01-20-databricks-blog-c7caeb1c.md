@@ -256,7 +256,6 @@ AI治理永无止境。法律法规在演变，标准在成熟，AI能力的发�
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[AI Governance Best Practices: How to Build Responsible and Effective AI Programs](https://www.databricks.com/blog/ai-governance-best-practices-how-build-responsible-and-effective-ai-programs)
 > 

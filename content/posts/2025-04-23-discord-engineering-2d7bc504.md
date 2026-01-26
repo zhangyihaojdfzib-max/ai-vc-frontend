@@ -35,7 +35,6 @@ Discord是全球游戏生态系统的基石，目前为全球超过2亿月活跃
 
 ##### Discord是一个通信平台，通过语音、视频和文本实现围绕游戏的有意义的连接。作为唯一专为多人游戏社区构建的平台，Discord在全球拥有超过2亿月活跃用户，每月在数千款游戏上花费19亿小时进行游戏。Discord总部位于旧金山，可在Discord.com免费下载，并提供可选的Nitro订阅服务，以提供增强的性能和个性化体验。
 
----
 
 > 本文由AI自动翻译，原文链接：[Discord Appoints Humam Sakhnini as Chief Executive Officer](https://discord.com/blog/discord-appoints-new-ceo-humam-sakhnini)
 > 

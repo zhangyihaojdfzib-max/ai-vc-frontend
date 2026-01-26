@@ -30,7 +30,6 @@ translated_at: '2026-01-08T04:49:28.878165'
 
 所列出的所有权限均截至2025年6月6日已在应用内提供。
 
----
 
 > 本文由AI自动翻译，原文链接：[How to Set Up Your Serverâs Roles for Members, Mods & Admins](https://discord.com/blog/how-to-set-up-your-servers-roles-for-members-mods-admins)
 > 

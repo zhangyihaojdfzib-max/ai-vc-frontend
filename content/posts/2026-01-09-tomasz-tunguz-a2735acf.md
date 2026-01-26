@@ -44,7 +44,6 @@ translated_at: '2026-01-10T04:10:58.584624'
 
 掌握这些轨迹的公司将定义工作的未来。
 
----
 
 > 本文由AI自动翻译，原文链接：[Trajectory](https://www.tomtunguz.com/ai-trajectories/)
 > 

@@ -209,7 +209,6 @@ Alchemist 的技术先进性与我们成熟的方法论相结合，持续带来�
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[Alchemist: from Brickbuilder to a Databricks Marketplace App](https://www.databricks.com/blog/alchemist-brickbuilder-databricks-marketplace-app)
 > 

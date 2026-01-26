@@ -33,7 +33,6 @@ translated_at: '2026-01-19T05:00:01.269826'
 
 Concrete Rose Capital
 
----
 
 > 本文由AI自动翻译，原文链接：[Spiderman Ethics | Greylock](https://greylock.com/greymatter/spiderman-ethics/)
 > 

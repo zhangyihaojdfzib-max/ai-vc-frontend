@@ -203,7 +203,6 @@ Agent Bricks 是 Databricks 数据智能平台的一部分，可用于构建多�
 
 ##
 
----
 
 > 本文由AI自动翻译，原文链接：[Types of AI Agents: Definitions, Roles, and Examples](https://www.databricks.com/blog/types-ai-agents-definitions-roles-and-examples)
 > 

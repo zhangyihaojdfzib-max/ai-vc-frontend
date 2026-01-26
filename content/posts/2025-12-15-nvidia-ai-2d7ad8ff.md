@@ -38,7 +38,6 @@ Slurm支持最新的英伟达硬件，同时也是生成式AI所需关键基础�
 
 通过与SchedMD的合作，英伟达正在加强开源软件生态系统，以推动各行业、各规模的HPC和AI创新。
 
----
 
 > 本文由AI自动翻译，原文链接：[NVIDIA Acquires Open-Source Workload Management Provider SchedMD](https://blogs.nvidia.com/blog/nvidia-acquires-schedmd/)
 > 

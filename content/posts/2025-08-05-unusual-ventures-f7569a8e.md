@@ -34,7 +34,6 @@ FluidCloud正在基础设施层面解决这一问题。他们的云克隆平台�
 
 我们很荣幸领投FluidCloud的种子轮融资。如果他们的判断正确——我们坚信如此——他们将重新定义AI时代基础设施应有的形态。
 
----
 
 > 本文由AI自动翻译，原文链接：[Why we backed FluidCloud: infrastructure freedom for the AI era](https://www.unusual.vc/why-we-backed-fluidcloud-infrastructure-freedom-for-the-ai-era/)
 > 

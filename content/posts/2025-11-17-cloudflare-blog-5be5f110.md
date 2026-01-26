@@ -81,7 +81,6 @@ AI云：不仅仅是推理
 
 我们无比激动地欢迎 Replicate 团队加入 Cloudflare。他们对开发者社区的热情以及在 AI 生态系统中的专业知识是无与伦比的。我们迫不及待地想共同构建 AI 的未来。
 
----
 
 > 本文由AI自动翻译，原文链接：[Replicate is joining Cloudflare](https://blog.cloudflare.com/replicate-joins-cloudflare/)
 > 

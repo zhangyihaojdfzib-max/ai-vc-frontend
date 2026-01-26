@@ -23,10 +23,6 @@ translated_at: '2026-01-06T18:15:23.228Z'
 
 ![](/images/posts/acbf331534c8.jpg)
 
-- 
-- 
-- 
-- 
 - Email0
 
 2025年是PC端AI发展的突破之年。
@@ -142,7 +138,6 @@ Spark非常适合那些希望测试LLM（大语言模型）或构建Agent（智�
 
 英伟达DGX SuperPOD为基于Rubin架构的系统奠定基础
 
----
 
 > 本文由AI自动翻译，原文链接：[NVIDIA RTX Accelerates 4K AI Video Generation on PC With LTX-2 and ComfyUI Upgrades](https://blogs.nvidia.com/blog/rtx-ai-garage-ces-2026-open-models-video-generation/)
 > 

@@ -35,7 +35,6 @@ translated_at: '2026-01-04T22:10:02.859Z'
 
 其他文章
 
----
 
 > 本文由AI自动翻译，原文链接：[2026 Demo Day Dates | Y Combinator](https://www.ycombinator.com/blog/2026-demo-days/)
 > 

@@ -48,7 +48,6 @@ translated_at: '2026-01-08T04:41:11.446729'
 
 文本框很强大。建立在它之上的桌面将更加强大。
 
----
 
 > 本文由AI自动翻译，原文链接：[The Text Box Isn't Enough](https://www.tomtunguz.com/if-dos-spoke-english/)
 > 

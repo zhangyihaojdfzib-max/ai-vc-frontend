@@ -80,7 +80,6 @@ Promptions为未来研究提出了重要问题。关键可用性挑战包括阐�
 
 在Microsoft Foundry Labs（在新标签页中打开）探索Promptions。
 
----
 
 > 本文由AI自动翻译，原文链接：[Promptions: Dynamic prompting UI that improves gen AI interaction](https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/)
 > 

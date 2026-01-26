@@ -21,11 +21,6 @@ translated_at: '2026-01-07T03:12:32.195Z'
 
 # 小而强大：利用 Llama Nemotron RAG 模型提升多模态搜索与视觉文档检索的准确性
 
-- 
-- 
-- 
-- 
-- 
 
 ![](/images/posts/811b17370977.jpg)
 
@@ -33,13 +28,6 @@ translated_at: '2026-01-07T03:12:32.195Z'
 
 ![](/images/posts/3ee14a6dad2d.png)
 
-![NVIDIA's avatar](/images/posts/ef2e4339456d.png)
-
-![Gabriel de Souza Pereira Moreira's avatar](/images/posts/8c772fb90843.jpg)
-
-![NVIDIA's avatar](/images/posts/ef2e4339456d.png)
-
-![NVIDIA's avatar](/images/posts/ef2e4339456d.png)
 
 ### 如何利用小巧的 Llama Nemotron 模型构建准确、低延迟的视觉文档检索系统，并能与标准向量数据库开箱即用
 
@@ -126,19 +114,6 @@ ServiceNow 使用多模态嵌入来索引组织内部 PDF 的页面，然后在�
 
 · 注册或登录以发表评论
 
-- 
-- 
-- 
-- 
-- 
-
-![](/images/posts/811b17370977.jpg)
-
-![](/images/posts/ae67c6ab504e.jpg)
-
-![](/images/posts/3ee14a6dad2d.png)
-
----
 
 > 本文由AI自动翻译，原文链接：[Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models](https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b)
 > 

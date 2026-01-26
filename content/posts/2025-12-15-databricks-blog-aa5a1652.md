@@ -85,7 +85,6 @@ Databricks 湖仓代表了数据仓库的下一代演进——将传统方法的
 产品
 2024年11月21日/阅读时间3分钟。
 
----
 
 > 本文由AI自动翻译，原文链接：[Databricks Lakehouse Data Modeling: Myths, Truths, and Best Practices](https://www.databricks.com/blog/databricks-lakehouse-data-modeling-myths-truths-and-best-practices)
 > 

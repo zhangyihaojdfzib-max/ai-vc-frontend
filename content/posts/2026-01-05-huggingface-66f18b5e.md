@@ -165,7 +165,6 @@ uv run --env-file ../.env python main.py
 cd nat
 uv venv
 uv sync
-uv run --env-file ../.env nat serve --config_file src/ces_tutorial/config.yml --port 8001
 
 所有终端设置完成后，有两个主要窗口需要关注：
 Reachy 模拟器 – 当您在终端 1 启动模拟器守护进程时，此窗口会自动出现。如果您正在运行 Reachy mini 模拟器来代替物理设备，则适用此情况。
@@ -196,7 +195,6 @@ Pipecat Playground – 这是客户端 UI，您可以在此连接到 Agent、启
 
 想立即尝试吗？在此处部署完整环境。一键点击，即可运行。
 
----
 
 > 本文由AI自动翻译，原文链接：[NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini)
 > 

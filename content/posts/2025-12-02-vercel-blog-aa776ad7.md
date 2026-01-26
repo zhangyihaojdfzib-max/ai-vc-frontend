@@ -24,7 +24,6 @@ translated_at: '2026-01-07T03:12:32.191Z'
 
 查看[文档](https://vercel.com/docs)以了解更多关于构建的信息。
 
----
 
 > 本文由AI自动翻译，原文链接：[Deploy steps are now up to 21% faster - Vercel](https://vercel.com/changelog/deploy-steps-are-now-up-to-21-faster)
 > 

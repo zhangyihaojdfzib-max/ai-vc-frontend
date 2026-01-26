@@ -24,7 +24,6 @@ translated_at: '2026-01-05T16:56:34.342Z'
 
 **THE SOCIAL RADARS**
 
-**Bill Clerico，WePay 联合创始人兼首席执行官**
 
 **来自 The Social Radars**
 
@@ -32,7 +31,6 @@ The Social Radars（Jessica Livingston 和 Carolynn Levy）与 WePay 的联合�
 
 **Brian Chesky，Airbnb 联合创始人兼首席执行官（第二部分）**
 
-**Brian Chesky，Airbnb 联合创始人兼首席执行官（第二部分）**
 
 **Brian Chesky，Airbnb 联合创始人兼首席执行官**
 
@@ -50,6 +48,5 @@ The Social Radars（Jessica Livingston 和 Carolynn Levy）与 WePay 的联合�
 
 **收集声明**
 
----
 
 > 本文由AI自动翻译，原文链接：[Bill Clerico, Co-Founder & CEO of WePay](https://www.ycombinator.com/library/KH-bill-clerico-co-founder-ceo-of-wepay)
