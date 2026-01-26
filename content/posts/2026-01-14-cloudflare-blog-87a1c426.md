@@ -22,9 +22,9 @@ translated_at: '2026-01-15T04:43:27.212426'
 
 - Sebastiaan Neuteboom
 
-![Sebastiaan Neuteboom](/images/posts/8a7ba73d0c2a.png)
+![Sebastiaan Neuteboom](/images/posts/8a7ba73d0c2a.avif)
 
-![](/images/posts/8899b0f7fed2.png)
+![](/images/posts/8899b0f7fed2.webp)
 
 2026年1月8日，一次旨在降低内存使用的1.1.1.1常规更新，意外引发了全球互联网用户的DNS解析故障浪潮。根本原因并非攻击或服务中断，而是我们DNS响应中记录顺序的微妙变化。
 

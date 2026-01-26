@@ -24,11 +24,11 @@ translated_at: '2026-01-17T04:15:56.041240'
 - Fred Schott
 - Brendan Irvine-Broque
 
-![Fred Schott](/images/posts/7def320d3603.jpg)
+![Fred Schott](/images/posts/7def320d3603.avif)
 
-![Brendan Irvine-Broque](/images/posts/54fb95dc051a.jpg)
+![Brendan Irvine-Broque](/images/posts/54fb95dc051a.avif)
 
-![](/images/posts/31a536cb911a.png)
+![](/images/posts/31a536cb911a.webp)
 
 Astro 网络框架的创建者 Astro Technology Company 正式加入 Cloudflare。
 

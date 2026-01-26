@@ -22,9 +22,9 @@ translated_at: '2026-01-14T04:47:45.191546'
 
 - David Belson
 
-![David Belson](/images/posts/36fd8a522291.jpg)
+![David Belson](/images/posts/36fd8a522291.avif)
 
-![](/images/posts/d4f7e068a357.png)
+![](/images/posts/d4f7e068a357.webp)
 
 2025年12月下旬，伊朗多个城市爆发大规模抗议活动。虽然这些抗议最初是由通货膨胀、食品价格和货币贬值引发的民众不满所推动，但已逐渐演变为要求改变国家领导体制的示威活动。
 

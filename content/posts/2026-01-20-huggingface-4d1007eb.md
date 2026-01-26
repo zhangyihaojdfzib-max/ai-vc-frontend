@@ -28,15 +28,15 @@ translated_at: '2026-01-21T04:38:30.053221'
 - 
 - 
 
-![](/images/posts/4241b99076dc.jpg)
+![](/images/posts/4241b99076dc.webp)
 
-![](/images/posts/f20fa9eebbef.jpg)
+![](/images/posts/f20fa9eebbef.webp)
 
-![](/images/posts/cf46f3f2bac8.jpg)
+![](/images/posts/cf46f3f2bac8.webp)
 
-![Louis Castricato 的头像](/images/posts/4241b99076dc.jpg)
+![Louis Castricato 的头像](/images/posts/4241b99076dc.webp)
 
-![Scott Fox 的头像](/images/posts/438a901d01fb.png)
+![Scott Fox 的头像](/images/posts/438a901d01fb.webp)
 
 ![waypoint 启动网格](/images/posts/57356a747284.gif)
 
@@ -121,13 +121,13 @@ for controller_input in [
 - 
 - 
 
-![](/images/posts/fb71dc93d9af.jpg)
+![](/images/posts/fb71dc93d9af.webp)
 
-![](/images/posts/ee041adb72f8.jpg)
+![](/images/posts/ee041adb72f8.webp)
 
-![](/images/posts/f80373445ed0.jpg)
+![](/images/posts/f80373445ed0.webp)
 
-![](/images/posts/4402b0abc4cd.jpg)
+![](/images/posts/4402b0abc4cd.webp)
 
 ![](/images/posts/32eca1742f7d.png)
 
@@ -137,9 +137,9 @@ for controller_input in [
 - 
 - 
 
-![](/images/posts/95d1650d88ea.jpg)
+![](/images/posts/95d1650d88ea.webp)
 
-![](/images/posts/e449c92fe2b3.jpg)
+![](/images/posts/e449c92fe2b3.webp)
 
 · 注册或登录以发表评论
 
@@ -149,11 +149,11 @@ for controller_input in [
 - 
 - 
 
-![](/images/posts/4241b99076dc.jpg)
+![](/images/posts/4241b99076dc.webp)
 
-![](/images/posts/f20fa9eebbef.jpg)
+![](/images/posts/f20fa9eebbef.webp)
 
-![](/images/posts/cf46f3f2bac8.jpg)
+![](/images/posts/cf46f3f2bac8.webp)
 
 ---
 

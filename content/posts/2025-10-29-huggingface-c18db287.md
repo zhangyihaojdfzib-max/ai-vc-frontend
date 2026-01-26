@@ -30,19 +30,19 @@ translated_at: '2026-01-07T03:12:32.186Z'
 - 
 - +23
 
-![](/images/posts/fb71dc93d9af.jpg)
+![](/images/posts/fb71dc93d9af.webp)
 
-![](/images/posts/9bc3346835fd.jpg)
+![](/images/posts/9bc3346835fd.webp)
 
-![](/images/posts/287c63ff9896.jpg)
+![](/images/posts/287c63ff9896.webp)
 
-![](/images/posts/467464d6ada8.jpg)
+![](/images/posts/467464d6ada8.webp)
 
-![](/images/posts/aedb1bac9e09.jpg)
+![](/images/posts/aedb1bac9e09.webp)
 
-![Steven Palma的头像](/images/posts/2e2cd8615b77.png)
+![Steven Palma的头像](/images/posts/2e2cd8615b77.webp)
 
-![Andres Diaz-Pinto的头像](/images/posts/37cff791e157.jpg)
+![Andres Diaz-Pinto的头像](/images/posts/37cff791e157.webp)
 
 ## 摘要目录引言SO-ARM入门工作流：构建具身手术助手技术实现Sim2Real混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT开始使用资源摘要
 
@@ -256,13 +256,13 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 - 
 - +5
 
-![](/images/posts/2e2cd8615b77.png)
+![](/images/posts/2e2cd8615b77.webp)
 
-![](/images/posts/2ba4287c3a99.jpg)
+![](/images/posts/2ba4287c3a99.webp)
 
-![](/images/posts/749bde0be6e8.jpg)
+![](/images/posts/749bde0be6e8.webp)
 
-![](/images/posts/3cf6605df4a5.png)
+![](/images/posts/3cf6605df4a5.webp)
 
 ![](/images/posts/0782e8dc9f08.png)
 
@@ -274,13 +274,13 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 - 
 - +7
 
-![](/images/posts/631a87ba5df5.jpg)
+![](/images/posts/631a87ba5df5.webp)
 
-![](/images/posts/2ba4287c3a99.jpg)
+![](/images/posts/2ba4287c3a99.webp)
 
-![](/images/posts/873cedd5987b.png)
+![](/images/posts/873cedd5987b.webp)
 
-![](/images/posts/3cf6605df4a5.png)
+![](/images/posts/3cf6605df4a5.webp)
 
 这是一篇关于 Isaac 的仿真到现实流程如何革新医疗机器人的精彩深度分析，SO-ARM 入门工作流在如此高风险的领域中加速迭代尤其令人印象深刻。
 
@@ -291,9 +291,9 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 - 
 - 1 条回复
 
-![](/images/posts/8b83a519d2ca.png)
+![](/images/posts/8b83a519d2ca.webp)
 
-![](/images/posts/8b83a519d2ca.png)
+![](/images/posts/8b83a519d2ca.webp)
 
 这很棒，但作为一名曾在许多手术室工作过的医生，真正的挑战在于，人类助手如何通过多年并肩工作建立的直觉，确切知道外科医生下一步想要什么。外科医生对他们的工具以及期望手术团队工作的节奏非常讲究。尽管他们以脾气不好著称，但正是因为这个原因，他们非常重视团队中的人类成员。
 
@@ -317,23 +317,23 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 - 
 - +17
 
-![](/images/posts/fb71dc93d9af.jpg)
+![](/images/posts/fb71dc93d9af.webp)
 
-![](/images/posts/9bc3346835fd.jpg)
+![](/images/posts/9bc3346835fd.webp)
 
-![](/images/posts/287c63ff9896.jpg)
+![](/images/posts/287c63ff9896.webp)
 
-![](/images/posts/467464d6ada8.jpg)
+![](/images/posts/467464d6ada8.webp)
 
-![](/images/posts/aedb1bac9e09.jpg)
+![](/images/posts/aedb1bac9e09.webp)
 
 ![](/images/posts/e5e036d5d070.webp)
 
-![](/images/posts/e15eebf7f347.jpg)
+![](/images/posts/e15eebf7f347.webp)
 
-![](/images/posts/df50a9c3dc80.jpg)
+![](/images/posts/df50a9c3dc80.webp)
 
-![](/images/posts/21b6b30b32c9.jpg)
+![](/images/posts/21b6b30b32c9.webp)
 
 ---
 

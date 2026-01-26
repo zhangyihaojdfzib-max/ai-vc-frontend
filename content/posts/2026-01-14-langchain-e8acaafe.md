@@ -18,9 +18,9 @@ draft: false
 translated_at: '2026-01-15T04:40:44.228283'
 ---
 
-![选择正确的多智能体架构](/images/posts/9b5bc636a524.png)
+![选择正确的多智能体架构](/images/posts/9b5bc636a524.webp)
 
-![选择正确的多智能体架构](/images/posts/9b5bc636a524.png)
+![选择正确的多智能体架构](/images/posts/9b5bc636a524.webp)
 
 # 选择正确的多智能体架构
 

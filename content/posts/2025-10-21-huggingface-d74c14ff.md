@@ -28,31 +28,31 @@ translated_at: '2026-01-22T04:50:14.581492'
 - 
 - +292
 
-![](/images/posts/785d7e16df1c.jpg)
+![](/images/posts/785d7e16df1c.webp)
 
-![](/images/posts/377bb8640be1.png)
+![](/images/posts/377bb8640be1.webp)
 
-![](/images/posts/8c2942a398c6.jpg)
+![](/images/posts/8c2942a398c6.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/0b27d2d98618.jpg)
+![](/images/posts/0b27d2d98618.webp)
 
-![](/images/posts/31012e332645.jpg)
+![](/images/posts/31012e332645.webp)
 
-![merve的头像](/images/posts/78bab46e000b.jpg)
+![merve的头像](/images/posts/78bab46e000b.webp)
 
-![Aritra Roy Gosthipaty的头像](/images/posts/287c63ff9896.jpg)
+![Aritra Roy Gosthipaty的头像](/images/posts/287c63ff9896.webp)
 
-![Daniel van Strien的头像](/images/posts/ed23d04248c4.jpg)
+![Daniel van Strien的头像](/images/posts/ed23d04248c4.webp)
 
-![Hynek Kydlicek的头像](/images/posts/13e0aca0c3c0.jpg)
+![Hynek Kydlicek的头像](/images/posts/13e0aca0c3c0.webp)
 
-![Andres Marafioti的头像](/images/posts/e8e9ef3ca440.jpg)
+![Andres Marafioti的头像](/images/posts/e8e9ef3ca440.webp)
 
-![Vaibhav Srivastav的头像](/images/posts/4402b0abc4cd.jpg)
+![Vaibhav Srivastav的头像](/images/posts/4402b0abc4cd.webp)
 
-![Pedro Cuenca的头像](/images/posts/5b36678ab3e8.jpg)
+![Pedro Cuenca的头像](/images/posts/5b36678ab3e8.webp)
 
 目录简介现代OCR简介模型能力顶尖开源OCR模型最新模型对比模型评估运行模型的工具本地运行远程运行超越OCR总结我们已将Chandra和OlmOCR-2添加至本篇博客，并附上了模型的OlmOCR分数 🫡
 
@@ -376,13 +376,13 @@ hf jobs uv run --flavor l4x1 \
 -
 -   +1
 
-![](/images/posts/a69384612bd4.png)
+![](/images/posts/a69384612bd4.webp)
 
-![](/images/posts/78bab46e000b.jpg)
+![](/images/posts/78bab46e000b.webp)
 
-![](/images/posts/dc8511e60da5.jpg)
+![](/images/posts/dc8511e60da5.webp)
 
-![](/images/posts/4402b0abc4cd.jpg)
+![](/images/posts/4402b0abc4cd.webp)
 
 ![](/images/posts/57c02494e0b8.png)
 
@@ -394,13 +394,13 @@ hf jobs uv run --flavor l4x1 \
 -
 -   +4
 
-![](/images/posts/287c63ff9896.jpg)
+![](/images/posts/287c63ff9896.webp)
 
-![](/images/posts/5b36678ab3e8.jpg)
+![](/images/posts/5b36678ab3e8.webp)
 
-![](/images/posts/dc8511e60da5.jpg)
+![](/images/posts/dc8511e60da5.webp)
 
-![](/images/posts/4402b0abc4cd.jpg)
+![](/images/posts/4402b0abc4cd.webp)
 
 要是上周就有这个就好了！我上周花时间学习并测试了所有这些模型以及额外的模型，我想指出一个更正。OlmOCR 并非仅支持英语的模型，事实上，在我的阿拉伯语语料库上，它在所有 VLM 和非 VLM 框架中都取得了最佳结果。
 
@@ -409,31 +409,31 @@ hf jobs uv run --flavor l4x1 \
 -
 -   6 条回复
 
-![](/images/posts/2b67df64c3a7.png)
+![](/images/posts/2b67df64c3a7.webp)
 
-![](/images/posts/78bab46e000b.jpg)
+![](/images/posts/78bab46e000b.webp)
 
-![](/images/posts/2b67df64c3a7.png)
+![](/images/posts/2b67df64c3a7.webp)
 
 你测试了哪些 VLM？
 
-![](/images/posts/b3ef056e6ca0.jpg)
+![](/images/posts/b3ef056e6ca0.webp)
 
 总结得很棒！别忘了，DeepSeek OCR 也支持 Grounded OCR！
 
-![](/images/posts/61190997e9b3.png)
+![](/images/posts/61190997e9b3.webp)
 
 想知道为什么比较中没有包含 minerU 2.5 模型？MinerU2.5-2509-1.2B
 
-![](/images/posts/1ffd57c1b408.jpg)
+![](/images/posts/1ffd57c1b408.webp)
 
 非常有帮助的分析。布局感知能力和成本优势确实突出。感谢分享！
 
-![](/images/posts/f4f352087b1c.jpg)
+![](/images/posts/f4f352087b1c.webp)
 
 卓越的见解和基准测试分析。我将使用这里的数据集进行评估。
 
-![](/images/posts/106861fcab87.png)
+![](/images/posts/106861fcab87.webp)
 
 LightOnOCR-1B 非常适合加入本次比较，作为一个表现出色、超越其体量的强者：
 
@@ -462,27 +462,27 @@ LightOnOCR-1B 非常适合加入本次比较，作为一个表现出色、超越
 -
 -   +286
 
-![](/images/posts/785d7e16df1c.jpg)
+![](/images/posts/785d7e16df1c.webp)
 
-![](/images/posts/377bb8640be1.png)
+![](/images/posts/377bb8640be1.webp)
 
-![](/images/posts/8c2942a398c6.jpg)
+![](/images/posts/8c2942a398c6.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/0b27d2d98618.jpg)
+![](/images/posts/0b27d2d98618.webp)
 
-![](/images/posts/31012e332645.jpg)
+![](/images/posts/31012e332645.webp)
 
-![](/images/posts/7440861c1fd8.jpg)
+![](/images/posts/7440861c1fd8.webp)
 
-![](/images/posts/4e1cfa4fde04.png)
+![](/images/posts/4e1cfa4fde04.webp)
 
-![](/images/posts/5fccaeadb224.jpg)
+![](/images/posts/5fccaeadb224.webp)
 
-![](/images/posts/25b209f83d7f.png)
+![](/images/posts/25b209f83d7f.webp)
 
-![](/images/posts/c93e8dc76332.jpg)
+![](/images/posts/c93e8dc76332.webp)
 
 ---
 

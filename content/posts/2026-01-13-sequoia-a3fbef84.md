@@ -38,19 +38,19 @@ WithCoverage的联合创始人JD Ross和Max Brenner通过将行业专家与技�
 
 已有数百家跨行业公司转投WithCoverage，口碑正在迅速传播。JD、Max和团队正在快速扩展到新的垂直领域，从建筑业到航空航天业——并且应客户需求，计划将业务扩展到保险之外。我们红杉资本很自豪能在他们努力全面实现风险管理现代化、为企业带来保险保障的征程中，与他们并肩同行。
 
-![](/images/posts/f37761fb0b27.jpg)
+![](/images/posts/f37761fb0b27.webp)
 
 ## 携手Aspora：侨民金融服务走向全球
 
-![](/images/posts/6a138d2f2ee1.png)
+![](/images/posts/6a138d2f2ee1.webp)
 
 ## 携手Sunflower Labs：您空中的自主之眼
 
-![](/images/posts/3ce90359be4f.jpg)
+![](/images/posts/3ce90359be4f.webp)
 
 ## 携手Tola：小企业现金流管理
 
-![](/images/posts/d044a313b45f.jpg)
+![](/images/posts/d044a313b45f.webp)
 
 ## 携手Flow：敏捷硬件的未来
 

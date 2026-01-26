@@ -18,9 +18,9 @@ draft: false
 translated_at: '2026-01-12T04:47:07.005817'
 ---
 
-![Unbundling Craigslist, byAndrew Parker](/images/posts/5a3fa6c0fbce.jpg)
+![Unbundling Craigslist, byAndrew Parker](/images/posts/5a3fa6c0fbce.webp)
 
-![](/images/posts/5a3fa6c0fbce.jpg)
+![](/images/posts/5a3fa6c0fbce.webp)
 
 **拆解Craigslist，作者：Andrew Parker**
 

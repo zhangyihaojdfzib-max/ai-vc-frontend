@@ -19,9 +19,9 @@ draft: false
 translated_at: '2026-01-21T04:40:31.263900'
 ---
 
-![](/images/posts/d8e63ad54e21.png)
+![](/images/posts/d8e63ad54e21.avif)
 
-![](/images/posts/dad613a25fc3.png)
+![](/images/posts/dad613a25fc3.avif)
 
 加拿大蒙特利尔（yul1）现已加入 Vercel 的全球交付网络，扩大了我们的覆盖范围，为加拿大中部的用户带来更低的延迟和更优的性能。
 

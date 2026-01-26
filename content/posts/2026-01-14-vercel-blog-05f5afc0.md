@@ -20,13 +20,13 @@ translated_at: '2026-01-15T04:44:14.022679'
 
 我们将十余年积累的 React 与 Next.js 优化经验，系统性地封装进了 `react-best-practices` 这个专为 AI Agent（智能体）和 LLM（大语言模型）优化的结构化知识库中。
 
-![](/images/posts/581d5b898e27.png)
+![](/images/posts/581d5b898e27.avif)
 
-![](/images/posts/9e39ec7aa671.png)
+![](/images/posts/9e39ec7aa671.avif)
 
-![](/images/posts/77c522fd3e66.png)
+![](/images/posts/77c522fd3e66.avif)
 
-![](/images/posts/a19717c6e897.png)
+![](/images/posts/a19717c6e897.avif)
 
 React 性能优化工作通常是“被动响应式”的。版本发布后，应用感觉变慢了，团队才开始追查各种表象。这种方式成本高昂，且很容易优化错方向。
 
@@ -114,9 +114,9 @@ JavaScript 性能
 
 这些并非理论空谈。它们来源于对生产代码库进行的真实性能优化工作。
 
-![](/images/posts/090b60de13f4.png)
+![](/images/posts/090b60de13f4.avif)
 
-![](/images/posts/6af5f90a8a87.png)
+![](/images/posts/6af5f90a8a87.avif)
 
 **合并循环迭代**
 

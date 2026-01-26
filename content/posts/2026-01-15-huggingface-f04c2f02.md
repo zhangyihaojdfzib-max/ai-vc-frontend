@@ -29,23 +29,23 @@ translated_at: '2026-01-16T04:39:01.486745'
 - 
 - +14
 
-![](/images/posts/785d7e16df1c.jpg)
+![](/images/posts/785d7e16df1c.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/95d1650d88ea.jpg)
+![](/images/posts/95d1650d88ea.webp)
 
-![](/images/posts/5b36678ab3e8.jpg)
+![](/images/posts/5b36678ab3e8.webp)
 
 ![](/images/posts/8157d098ccae.png)
 
-![](/images/posts/78bab46e000b.jpg)
+![](/images/posts/78bab46e000b.webp)
 
-![ben burtenshaw的头像](/images/posts/a81239c48d0a.png)
+![ben burtenshaw的头像](/images/posts/a81239c48d0a.webp)
 
-![merve的头像](/images/posts/78bab46e000b.jpg)
+![merve的头像](/images/posts/78bab46e000b.webp)
 
-![Pedro Cuenca的头像](/images/posts/5b36678ab3e8.jpg)
+![Pedro Cuenca的头像](/images/posts/5b36678ab3e8.webp)
 
 什么是开放响应？使用开放响应进行构建需要了解什么？向开放响应发起的客户端请求推理客户端与提供商的变更用于路由的开放响应工具子智能体循环后续步骤开放响应是一种全新且开放的推理标准。它由 OpenAI 发起，由开源 AI 社区构建，并得到 Hugging Face 生态系统的支持。开放响应基于 Responses API，专为智能体的未来而设计。在这篇博客文章中，我们将探讨开放响应的工作原理以及开源社区为何应该使用开放响应。
 
@@ -201,9 +201,9 @@ Open Responses 扩展并改进了 Responses API，提供了更丰富、更详细
 - 
 - 
 
-![](/images/posts/a69384612bd4.png)
+![](/images/posts/a69384612bd4.webp)
 
-![](/images/posts/907fac44062b.jpg)
+![](/images/posts/907fac44062b.webp)
 
 ![](/images/posts/257498e9a28e.png)
 
@@ -213,7 +213,7 @@ Open Responses 扩展并改进了 Responses API，提供了更丰富、更详细
 - 
 - 
 
-![](/images/posts/a81239c48d0a.png)
+![](/images/posts/a81239c48d0a.webp)
 
 这是否意味着本地 LLM 端点提供商（如 vLLM）的下一步是支持托管工具？
 
@@ -235,21 +235,21 @@ Open Responses 扩展并改进了 Responses API，提供了更丰富、更详细
 - 
 - +8
 
-![](/images/posts/785d7e16df1c.jpg)
+![](/images/posts/785d7e16df1c.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/95d1650d88ea.jpg)
+![](/images/posts/95d1650d88ea.webp)
 
-![](/images/posts/5b36678ab3e8.jpg)
+![](/images/posts/5b36678ab3e8.webp)
 
 ![](/images/posts/8157d098ccae.png)
 
-![](/images/posts/78bab46e000b.jpg)
+![](/images/posts/78bab46e000b.webp)
 
 ![](/images/posts/4402b0abc4cd.jpg)
 
-![](/images/posts/a81239c48d0a.png)
+![](/images/posts/a81239c48d0a.webp)
 
 ![](/images/posts/6efbe784086d.png)
 

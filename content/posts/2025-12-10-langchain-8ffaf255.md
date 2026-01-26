@@ -18,9 +18,9 @@ draft: false
 translated_at: '2026-01-15T04:40:27.497207'
 ---
 
-![Debugging Deep Agents with LangSmith](/images/posts/f482dea708f9.png)
+![Debugging Deep Agents with LangSmith](/images/posts/f482dea708f9.webp)
 
-![Debugging Deep Agents with LangSmith](/images/posts/f482dea708f9.png)
+![Debugging Deep Agents with LangSmith](/images/posts/f482dea708f9.webp)
 
 # 使用 LangSmith 调试深度智能体
 

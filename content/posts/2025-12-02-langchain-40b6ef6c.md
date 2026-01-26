@@ -18,9 +18,9 @@ draft: false
 translated_at: '2026-01-22T04:51:39.249391'
 ---
 
-![Agent Builder 现已开放公测](/images/posts/c3195ff5edc9.png)
+![Agent Builder 现已开放公测](/images/posts/c3195ff5edc9.webp)
 
-![Agent Builder 现已开放公测](/images/posts/c3195ff5edc9.png)
+![Agent Builder 现已开放公测](/images/posts/c3195ff5edc9.webp)
 
 # LangSmith Agent Builder 现已开放公测
 
@@ -134,27 +134,27 @@ Agent Builder 尚处于早期阶段，但我们已经看到一些有趣的模式
 
 抱歉，出错了。请重试。
 
-![Introducing Agent Builder templates](/images/posts/3a612c8385be.png)
+![Introducing Agent Builder templates](/images/posts/3a612c8385be.webp)
 
 ## 使用Agent Builder模板即时部署Agent（智能体）
 
-![LangSmith Agent Builder Now Generally Available](/images/posts/0c37946eb9e8.png)
+![LangSmith Agent Builder Now Generally Available](/images/posts/0c37946eb9e8.webp)
 
 ## 现已全面上市：LangSmith Agent Builder
 
-![Introducing Align Evals: Streamlining LLM Application Evaluation](/images/posts/652b47416aa7.png)
+![Introducing Align Evals: Streamlining LLM Application Evaluation](/images/posts/652b47416aa7.webp)
 
 ## 推出Align Evals：简化LLM应用评估
 
-![Catch production failures early with LangSmith Alerts](/images/posts/9cb09f574cea.png)
+![Catch production failures early with LangSmith Alerts](/images/posts/9cb09f574cea.webp)
 
 ## 通过LangSmith警报及早发现生产故障
 
-![Pairwise Evaluations with LangSmith](/images/posts/efd9d10c94b5.png)
+![Pairwise Evaluations with LangSmith](/images/posts/efd9d10c94b5.webp)
 
 ## 使用LangSmith进行成对评估
 
-![Access Control Updates for LangSmith](/images/posts/a44af992bf51.png)
+![Access Control Updates for LangSmith](/images/posts/a44af992bf51.webp)
 
 ## LangSmith访问控制更新
 

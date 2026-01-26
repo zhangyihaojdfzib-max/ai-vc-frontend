@@ -26,17 +26,17 @@ translated_at: '2026-01-16T04:38:14.102234'
 - 
 - 
 
-![](/images/posts/95d1650d88ea.jpg)
+![](/images/posts/95d1650d88ea.webp)
 
-![](/images/posts/3ee14a6dad2d.png)
+![](/images/posts/3ee14a6dad2d.webp)
 
-![Anson Ho's avatar](/images/posts/33564f096bbe.jpg)
+![Anson Ho's avatar](/images/posts/33564f096bbe.webp)
 
-![Microsoft's avatar](/images/posts/53e58d9cf63d.png)
+![Microsoft's avatar](/images/posts/53e58d9cf63d.webp)
 
-![Microsoft's avatar](/images/posts/53e58d9cf63d.png)
+![Microsoft's avatar](/images/posts/53e58d9cf63d.webp)
 
-![Microsoft's avatar](/images/posts/53e58d9cf63d.png)
+![Microsoft's avatar](/images/posts/53e58d9cf63d.webp)
 
 专为在 Hugging Face 上进行开源探索而设计OptiMind 最能提供帮助的领域快速开始大多数优化工作流程都以相同的方式开始：一个书面问题描述。在任何求解器介入之前很久，笔记、需求和约束条件就已经用简单的语言记录下来了。将该描述转化为正式的数学模型——目标、变量和约束——通常是整个过程中最耗时且最需要专业知识的步骤。
 
@@ -82,9 +82,9 @@ OptiMind 有助于更快地将书面想法转化为可供求解器使用的模�
 - 
 - 
 
-![](/images/posts/95d1650d88ea.jpg)
+![](/images/posts/95d1650d88ea.webp)
 
-![](/images/posts/3ee14a6dad2d.png)
+![](/images/posts/3ee14a6dad2d.webp)
 
 ---
 

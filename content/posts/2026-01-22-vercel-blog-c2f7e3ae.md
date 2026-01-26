@@ -53,7 +53,7 @@ SQL占据主导地位。它达到了100%的准确率，而bash仅达到53%。Bas
 
 一个令人惊讶的发现是，bash Agent生成了高度复杂的shell命令，以在典型Agent工作流中很少出现的方式链式使用find、grep、jq、awk和xargs。模型显然对shell脚本有深入的了解，但这种知识并未转化为更好的任务性能。
 
-![未转化为准确性的复杂shell脚本](/images/posts/028a586db147.png)
+![未转化为准确性的复杂shell脚本](/images/posts/028a586db147.avif)
 
 ## 调试结果
 
@@ -90,7 +90,7 @@ Vercel团队提交了一个包含修正的PR。
 
 在对just-bash、评估数据集和数据加载问题进行所有修复之后，bash-sqlite组合成为最可靠的方法。“赢家”不是单次运行的原始准确率，而是通过自我验证实现的一致准确率。
 
-![混合方法在准确率上与SQL相当，同时增加了自我验证](/images/posts/dbaa8b3e4b75.png)
+![混合方法在准确率上与SQL相当，同时增加了自我验证](/images/posts/dbaa8b3e4b75.avif)
 
 经过200多条消息和数百次追踪后，我们：
 

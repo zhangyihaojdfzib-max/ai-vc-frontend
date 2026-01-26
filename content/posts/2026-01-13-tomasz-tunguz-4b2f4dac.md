@@ -22,7 +22,7 @@ translated_at: '2026-01-14T04:44:26.288518'
 
 我让Claude Cowork读取了我的工具文件夹。十一步之后，它理解了我的工作方式。
 
-![Claude Cowork从code_mode_tools文件夹读取自定义工具](/images/posts/a6aff9b14e24.jpg)
+![Claude Cowork从code_mode_tools文件夹读取自定义工具](/images/posts/a6aff9b14e24.webp)
 
 过去一年里，我在Claude Code中构建了一个个人操作系统：用于发送邮件、更新CRM、研究初创公司、起草回复的脚本。数十个小工具连接在一起。所有这些都存储在我笔记本电脑的一个文件夹里，只能通过终端访问。
 

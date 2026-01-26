@@ -18,9 +18,9 @@ draft: false
 translated_at: '2026-01-13T04:33:52.282079'
 ---
 
-![](/images/posts/fca1c66f5cff.png)
+![](/images/posts/fca1c66f5cff.avif)
 
-![](/images/posts/d3e8c8b1c00e.png)
+![](/images/posts/d3e8c8b1c00e.avif)
 
 Vercel 现已支持提交验证，通过要求从 GitHub 部署的提交必须经过密码学验证，从而保护您的部署。
 

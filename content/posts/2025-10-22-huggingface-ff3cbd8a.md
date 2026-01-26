@@ -30,17 +30,17 @@ translated_at: '2026-01-21T04:38:35.768857'
 - 
 - +80
 
-![](/images/posts/311db97fa420.jpg)
+![](/images/posts/311db97fa420.webp)
 
-![](/images/posts/fe6cc7bcc486.jpg)
+![](/images/posts/fe6cc7bcc486.webp)
 
-![](/images/posts/8c2942a398c6.jpg)
+![](/images/posts/8c2942a398c6.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/90707208af6c.jpg)
+![](/images/posts/90707208af6c.webp)
 
-![Tom Aarsen's avatar](/images/posts/58c5a304b677.png)
+![Tom Aarsen's avatar](/images/posts/58c5a304b677.webp)
 
 项目历史致谢快速开始今天，我们宣布 Sentence Transformers 将从达姆施塔特工业大学 Iryna Gurevych 教授领导的普适知识处理实验室正式迁移至 Hugging Face。Hugging Face 的 Tom Aarsen 自 2023 年底起已开始维护该库，并将继续领导该项目。在新家，Sentence Transformers 将受益于 Hugging Face 强大的基础设施，包括持续集成和测试，确保其紧跟信息检索和自然语言处理领域的最新进展。
 
@@ -89,13 +89,13 @@ Hugging Face 感谢 UKP 实验室以及所有过去和现在的贡献者，特�
 - 
 - 
 
-![](/images/posts/fb71dc93d9af.jpg)
+![](/images/posts/fb71dc93d9af.webp)
 
-![](/images/posts/ee041adb72f8.jpg)
+![](/images/posts/ee041adb72f8.webp)
 
-![](/images/posts/f80373445ed0.jpg)
+![](/images/posts/f80373445ed0.webp)
 
-![](/images/posts/4402b0abc4cd.jpg)
+![](/images/posts/4402b0abc4cd.webp)
 
 ![](/images/posts/ff16471348cd.png)
 
@@ -107,20 +107,20 @@ Hugging Face 感谢 UKP 实验室以及所有过去和现在的贡献者，特�
 - 
 - +6
 
-![](/images/posts/4bc561b5b8eb.jpg)
+![](/images/posts/4bc561b5b8eb.webp)
 
-![](/images/posts/3b86f9871ff6.jpg)
+![](/images/posts/3b86f9871ff6.webp)
 
-![](/images/posts/dbbe3ad5abd9.png)
+![](/images/posts/dbbe3ad5abd9.webp)
 
-![](/images/posts/c99c7cbdf7fa.jpg)
+![](/images/posts/c99c7cbdf7fa.webp)
 
 - 
 - 1 条回复
 
-![](/images/posts/58c5a304b677.png)
+![](/images/posts/58c5a304b677.webp)
 
-![](/images/posts/58c5a304b677.png)
+![](/images/posts/58c5a304b677.webp)
 
 谢谢 David！非常感谢 🤗
 
@@ -140,25 +140,25 @@ Hugging Face 感谢 UKP 实验室以及所有过去和现在的贡献者，特�
 - 
 - +74
 
-![](/images/posts/311db97fa420.jpg)
+![](/images/posts/311db97fa420.webp)
 
-![](/images/posts/fe6cc7bcc486.jpg)
+![](/images/posts/fe6cc7bcc486.webp)
 
-![](/images/posts/8c2942a398c6.jpg)
+![](/images/posts/8c2942a398c6.webp)
 
-![](/images/posts/ac0e506ba48d.jpg)
+![](/images/posts/ac0e506ba48d.webp)
 
-![](/images/posts/90707208af6c.jpg)
+![](/images/posts/90707208af6c.webp)
 
-![](/images/posts/d9ecfddda63e.jpg)
+![](/images/posts/d9ecfddda63e.webp)
 
-![](/images/posts/80b74beab1c4.jpg)
+![](/images/posts/80b74beab1c4.webp)
 
-![](/images/posts/5fccaeadb224.jpg)
+![](/images/posts/5fccaeadb224.webp)
 
-![](/images/posts/95d1650d88ea.jpg)
+![](/images/posts/95d1650d88ea.webp)
 
-![](/images/posts/be0a16f0e320.jpg)
+![](/images/posts/be0a16f0e320.webp)
 
 ---
 
