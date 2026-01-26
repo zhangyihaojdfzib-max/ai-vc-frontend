@@ -510,28 +510,33 @@
     "timestamp": "2026-01-24T04:21:53.341040"
   },
   "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-25T05:00:15.856028"
+    "timestamp": "2026-01-26T05:04:03.756399"
   },
   "https://deepmind.google/blog/introducing-veo-31-and-advanced-creative-capabilities/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-25T05:00:15.838235"
+    "timestamp": "2026-01-26T05:04:03.745098"
   },
   "https://greylock.com/reid-hoffman/safely-scaling-artificial-general-intelligence/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-25T04:58:06.196917"
+    "timestamp": "2026-01-26T05:02:51.550212"
   },
   "https://greylock.com/greymatter/the-meaning-revolution-in-leadership/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-25T04:58:06.198827"
+    "timestamp": "2026-01-26T05:02:51.545931"
   },
   "https://greylock.com/press/a-primer-on-all-things-growth/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-26T05:02:51.584210"
+  },
+  "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-25T04:58:06.264257"
+    "timestamp": "2026-01-26T05:04:03.760714"
   }
 }
