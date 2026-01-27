@@ -521,36 +521,42 @@ class ContentFetcher:
             self.logger.error(f"[{source['name']}] RSS获取失败: {e}")
             return []
         
-        articles = []
+        # 收集所有未处理的文章（不限制数量）
+        all_articles = []
         for entry in feed.entries:
             url = entry.get('link', '')
-            
+
             if self.state.is_processed(url):
                 continue
             if self.state.is_failed(url):
                 continue
-            
+
             pub_date = None
             if 'published_parsed' in entry and entry.published_parsed:
                 pub_date = datetime(*entry.published_parsed[:6])
             elif 'updated_parsed' in entry and entry.updated_parsed:
                 pub_date = datetime(*entry.updated_parsed[:6])
-            
+
             if since_date and pub_date and pub_date < since_date:
                 continue
-            
-            articles.append({
+
+            all_articles.append({
                 'title': entry.get('title', ''),
                 'url': url,
                 'published': pub_date,
                 'author': entry.get('author', ''),
                 'summary': entry.get('summary', ''),
             })
-            
-            if len(articles) >= max_items:
-                break
-        
-        self.logger.info(f"[{source['name']}] 从RSS获取 {len(articles)} 篇待处理文章")
+
+        # 按发布日期排序（最新的在前），确保优先翻译新文章
+        all_articles.sort(
+            key=lambda x: x['published'] if x['published'] else datetime.min,
+            reverse=True
+        )
+
+        # 返回前 max_items 篇
+        articles = all_articles[:max_items]
+        self.logger.info(f"[{source['name']}] 从RSS获取 {len(articles)} 篇待处理文章（共 {len(all_articles)} 篇未处理）")
         return articles
     
     def _fetch_sitemap(
@@ -580,21 +586,22 @@ class ContentFetcher:
                             break
                 return articles
             
-            articles = []
+            # 收集所有未处理的文章
+            all_articles = []
             for url_elem in root.findall('.//sm:url', ns):
                 loc = url_elem.find('sm:loc', ns)
                 lastmod = url_elem.find('sm:lastmod', ns)
-                
+
                 if loc is None:
                     continue
-                
+
                 url = loc.text
-                
+
                 if self.state.is_processed(url):
                     continue
                 if self.state.is_failed(url):
                     continue
-                
+
                 pub_date = None
                 if lastmod is not None and lastmod.text:
                     try:
@@ -602,22 +609,27 @@ class ContentFetcher:
                         pub_date = pub_date.replace(tzinfo=None)
                     except:
                         pass
-                
+
                 if since_date and pub_date and pub_date < since_date:
                     continue
-                
-                articles.append({
+
+                all_articles.append({
                     'title': '',
                     'url': url,
                     'published': pub_date,
                     'author': '',
                     'summary': '',
                 })
-                
-                if len(articles) >= max_items:
-                    break
-            
-            self.logger.info(f"[{source['name']}] 从Sitemap获取 {len(articles)} 篇待处理文章")
+
+            # 按发布日期排序（最新的在前）
+            all_articles.sort(
+                key=lambda x: x['published'] if x['published'] else datetime.min,
+                reverse=True
+            )
+
+            # 返回前 max_items 篇
+            articles = all_articles[:max_items]
+            self.logger.info(f"[{source['name']}] 从Sitemap获取 {len(articles)} 篇待处理文章（共 {len(all_articles)} 篇未处理）")
             return articles
             
         except Exception as e:

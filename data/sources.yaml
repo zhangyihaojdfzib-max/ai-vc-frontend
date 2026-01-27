@@ -381,9 +381,10 @@ tech_blogs:
     display_name: Netflix Tech Blog
     type: rss
     url: https://netflixtechblog.com/
-    feed_url: https://netflixtechblog.com/feed  # ✅ 修复：SSL问题已解决
+    feed_url: https://netflixtechblog.com/feed
     category: tech_blogs
-    enabled: true
+    enabled: false  # ❌ SSL证书错误，暂时禁用
+    note: "SSL证书验证失败，需要修复"
 
   - name: uber-engineering
     display_name: Uber Engineering
@@ -391,7 +392,8 @@ tech_blogs:
     url: https://www.uber.com/blog/engineering/
     feed_url: https://www.uber.com/blog/engineering/feed/
     category: tech_blogs
-    enabled: true
+    enabled: false  # ❌ 406错误，暂时禁用
+    note: "RSS返回406 Not Acceptable"
 
   - name: airbnb-engineering
     display_name: Airbnb Engineering
@@ -464,7 +466,8 @@ tech_blogs:
     url: https://www.figma.com/blog/
     feed_url: https://www.figma.com/blog/feed/
     category: tech_blogs
-    enabled: true
+    enabled: false  # ❌ 404错误，RSS地址已变
+    note: "RSS返回404，需要查找新地址"
 
   - name: notion-blog
     display_name: Notion Blog
@@ -472,7 +475,8 @@ tech_blogs:
     url: https://www.notion.so/blog
     feed_url: https://www.notion.so/blog/rss
     category: tech_blogs
-    enabled: true
+    enabled: false  # ❌ 404错误，RSS地址已变
+    note: "RSS返回404，官网可能已改为notion.com"
 
   - name: linear-blog
     display_name: Linear Blog
@@ -480,7 +484,8 @@ tech_blogs:
     url: https://linear.app/blog
     feed_url: https://linear.app/blog/rss
     category: tech_blogs
-    enabled: true
+    enabled: false  # ❌ 404错误，RSS地址已变
+    note: "RSS返回404，URL应为/now/rss但也失败"
 
   - name: supabase-blog
     display_name: Supabase Blog
