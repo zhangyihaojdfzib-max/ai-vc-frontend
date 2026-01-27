@@ -64,7 +64,6 @@ AWS数据库将于12月15日登陆Vercel应用市场。上线后：
 
 如果您使用v0，只需描述您的应用需求。v0将自动生成前端、后端和AWS数据库。
 
-
 > 本文由AI自动翻译，原文链接：[AWS Databases coming to the Vercel Marketplace - Vercel](https://vercel.com/blog/aws-databases-coming-to-the-vercel-marketplace)
 > 
 > 翻译时间：2026-01-07 02:46

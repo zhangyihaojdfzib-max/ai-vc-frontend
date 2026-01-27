@@ -22,7 +22,6 @@ translated_at: '2026-01-21T04:44:32.812982'
 
 你可以使用桌面端或移动端应用程序，以比读完这句话（或许还有这句话）更快的速度，直播你正在进行的任何活动。继续阅读，了解如何向Discord进行直播、设置直播时看到的选项含义，以及可以从哪些PC和移动平台进行直播。
 
-
 > 本文由AI自动翻译，原文链接：[How to Stream Games and Applications to Discord from Desktop or Mobile](https://discord.com/blog/how-to-stream-to-discord-from-desktop-or-mobile)
 > 
 > 翻译时间：2026-01-21 04:44

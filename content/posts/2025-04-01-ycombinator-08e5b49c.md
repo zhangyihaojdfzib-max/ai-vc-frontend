@@ -37,7 +37,6 @@ translated_at: '2026-01-05T01:28:49.249Z'
 其他文章
 Garry是Y Combinator的总裁兼首席执行官。此前，他是Initialized Capital的联合创始人兼管理合伙人。在那之前，他联合创立了Posterous（YC S08），该公司后被Twitter收购。
 
-
 > 本文由AI自动翻译，原文链接：[Tyler Bosmeny built Clever into a $500M company–now he’s helping YC founders do the same as General Partner | Y Combinator](https://www.ycombinator.com/blog/welcome-tyler/)
 > 
 > 翻译时间：2026-01-05 01:28

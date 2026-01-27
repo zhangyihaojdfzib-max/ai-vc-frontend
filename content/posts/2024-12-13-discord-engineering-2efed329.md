@@ -28,7 +28,6 @@ translated_at: '2026-01-22T05:04:28.780086'
 
 Discord 是使用众多库构建的，例如 Electron 和 WebRTC，它们共同帮助我们为您提供理想的桌面 Discord 体验。这些工具支持 64 位构建已有多年，事实上，它们现在默认采用 64 位架构。随着 64 位在越来越多的机器上成为标准，我们预计 64 位架构将获得比 32 位架构多得多的优化和错误修复。如果 Discord 在可预见的未来继续停留在 32 位架构，我们可能会让自己——进而让我们的用户——暴露于新的错误和低效问题之中，这些问题仅仅因为维护 32 位库的人员不足而无法被发现和解决。
 
-
 > 本文由AI自动翻译，原文链接：[How Discord Seamlessly Upgraded Millions of Users to 64-Bit Architecture](https://discord.com/blog/how-discord-seamlessly-upgraded-millions-of-users-to-64-bit-architecture)
 > 
 > 翻译时间：2026-01-22 05:04

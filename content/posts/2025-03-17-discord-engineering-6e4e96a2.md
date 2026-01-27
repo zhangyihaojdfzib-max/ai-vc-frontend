@@ -27,7 +27,6 @@ translated_at: '2026-01-18T04:39:28.709302'
 
 Discord上的玩家可以与游戏内的好友及队友聊天，协同合作并分享游戏体验；而游戏内的玩家也能与Discord用户交流——即使他们自己并未拥有Discord账户。
 
-
 > 本文由AI自动翻译，原文链接：[Announcing Discordâs Social SDK, Helping Power Your Gameâs Social Experiences](https://discord.com/blog/announcing-discords-social-sdk-helping-power-your-games-social-experiences)
 > 
 > 翻译时间：2026-01-18 04:39

@@ -9,7 +9,6 @@ source_url: https://huggingface.co/blog/ServiceNow-AI/aprielguard
 author: null
 summary: '[翻译失败，原文如下]
 
-
   AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
 
   Large Language Models (LLMs) have rapidly evolved fr...'
@@ -182,7 +181,6 @@ Domain Sensitivity: AprielGuard may underperform on highly specialized or techni
 Latency–Interpretability Trade-off: Enabling reasoning traces enhances explainability but increases latency and compute cost. For low-latency or large-scale use cases, non-reasoning mode is recommended.
 Reasoning Mode Sensitivity: The model exhibits occasional inconsistencies in classification outcomes between reasoning-enabled and non-reasoning inference modes.
 Intended use: AprielGuard is intended strictly for use as a safeguard and risk assessment model. It classifies potential safety risks and adversarial threats according to the AprielGuard unified taxonomy. Any deviation from the prescribed inference may lead to unintended, unsafe, or unreliable behavior..
-
 
 > 本文由AI自动翻译，原文链接：[AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](https://huggingface.co/blog/ServiceNow-AI/aprielguard)
 > 

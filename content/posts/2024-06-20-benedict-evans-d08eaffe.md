@@ -64,7 +64,6 @@ translated_at: '2026-01-05T17:05:19.595Z'
 
 正如开头所说，这确实是关于生成式 AI 未来的唯一核心问题——这是一种新的通用工具，由一家公司的一款产品完成数百家公司数百款软件的工作，还是一种通用技术，将为数百或数千家公司的产品内部赋能功能？
 
-
 > 本文由AI自动翻译，原文链接：[Apple intelligence and AI maximalism — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/06/20/apple-intelligence)
 > 
 > 翻译时间：2026-01-05 17:05

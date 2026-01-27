@@ -52,7 +52,6 @@ Ströer的Databricks实践证明了现代数据智能平台的巨大价值。通
 数据仓库
 2024年7月24日/阅读时间7分钟
 
-
 > 本文由AI自动翻译，原文链接：[From Zero to Millions in Savings: Ströer Transforms Advertising Success with Databricks](https://www.databricks.com/blog/zero-millions-savings-stroer-transforms-advertising-success-databricks)
 > 
 > 翻译时间：2026-01-04 23:56

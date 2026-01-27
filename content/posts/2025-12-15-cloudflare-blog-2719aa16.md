@@ -200,7 +200,6 @@ Perplexity在主要AI平台中拥有最低的爬取-推荐比，年初低于100:
 
 **2025年全球AI及搜索平台爬取-推荐比**
 
-
 robots.txt文件，在RFC 9309中被正式定义为“机器人排除协议”，是一个文本文件，内容所有者可以通过它向网络爬虫指示允许访问网站的哪些部分，使用指令明确允许或禁止搜索和AI爬虫访问整个网站或其中特定部分。文件中的指令实际上是一个“禁止入内”的标志，并不提供任何正式的访问控制。尽管如此，Cloudflare的托管robots.txt功能会自动更新网站现有的robots.txt文件，或在网站上创建robots.txt文件，其中包含要求流行的AI机器人运营商不要将内容用于AI模型训练的指令。此外，我们的AI爬取控制功能可以追踪违反网站robots.txt指令的行为，并让网站所有者能够阻止来自违规用户代理的请求。
 
 在Cloudflare Radar上，我们提供了关于在我们排名前10,000的域名中发现的robots.txt文件数量，以及针对选定爬虫用户代理，这些文件中允许和禁止指令的完全/部分配置情况的洞察。（在此上下文中，“完全”指适用于整个网站的指令，“部分”指适用于指定路径或文件类型的指令。）在“年度回顾”微型网站中，我们展示了这些指令的配置情况在2025年期间是如何变化的。
@@ -446,7 +445,6 @@ Cloudflare Email Security 保护客户免受基于电子邮件的攻击，包括
 我们鼓励您访问 Cloudflare Radar 2025 年度回顾微网站，探索您所在国家/地区的趋势，并在规划 2026 年时考虑它们对您组织的影响。您还可以在 Cloudflare Radar 上近乎实时地了解这些指标和趋势中的许多信息。如上所述，为了深入了解多个行业类别和国家/地区的顶级互联网服务，我们鼓励您阅读配套的年度回顾博客文章。
 如果您有任何问题，可以通过 [email protected] 或社交媒体 @CloudflareRadar (X)、https://noc.social/@cloudflareradar (Mastodon) 和 radar.cloudflare.com (Bluesky) 联系 Cloudflare Radar 团队。
 俗话说，众人拾柴火焰高，我们的年度回顾从数据汇总分析、到创建微网站、再到开发相关内容，离不开团队成员的共同努力。我要感谢为今年的工作做出贡献的团队成员，他们是：Jorge Pacheco, Sabina Zejnilovic, Carlos Azevedo, Mingwei Zhang, Sofia Cardita（数据分析）；André Páscoa, Nuno Pereira（前端开发）；João Tomé（最受欢迎的互联网服务）；David Fidalgo, Janet Villarreal 以及国际化团队（翻译）；Jackie Dutton, Kari Linder, Guille Lasarte（传播）；Laurel Wamsley（博客编辑）；以及 Paula Tavares（工程管理），还有 Cloudflare 其他同事的支持和帮助。
-
 
 > 本文由AI自动翻译，原文链接：[The 2025 Cloudflare Radar Year in Review- the rise of AI, post-quantum, and record-breaking DDoS attacks](https://blog.cloudflare.com/radar-2025-year-in-review/)
 > 

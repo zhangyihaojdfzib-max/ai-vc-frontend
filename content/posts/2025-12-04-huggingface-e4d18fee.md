@@ -243,7 +243,6 @@ llama-server -hf unsloth/Qwen3-1.7B-GGUF:Q4_K_M
 - Hugging Face Jobs —— 云端训练基础设施
 - Trackio —— 实时训练监控
 
-
 > 本文由AI自动翻译，原文链接：[We Got Claude to Fine-Tune an Open Source LLM](https://huggingface.co/blog/hf-skills-training)
 > 
 > 翻译时间：2026-01-06 01:01

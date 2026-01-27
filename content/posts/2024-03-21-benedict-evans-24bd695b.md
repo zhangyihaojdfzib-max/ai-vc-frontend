@@ -36,7 +36,6 @@ translated_at: '2026-01-09T04:29:26.920128'
 
 当然，直到它们不再在底特律制造，也不再燃烧汽油。科技领域正涌现出新的根本性、结构性变革浪潮，如今这主要意味着AI，而这些才是真正改变一切的事物。此外还有量子计算、低地球轨道卫星、芯片产业的彻底重构，以及电子邮件、Excel和Salesforce大规模解绑并融入新的生产力软件。所有这些都可能改变科技公司实际做什么，以及科技从业者如何度过他们的每一天。这才是能引发关注的内容。
 
-
 > 本文由AI自动翻译，原文链接：[Who cares about tech regulation? — Benedict Evans](https://www.ben-evans.com/benedictevans/2024/3/21/who-cares-about-tech-regulation)
 > 
 > 翻译时间：2026-01-09 04:29

@@ -103,7 +103,6 @@ AI 也正在向非风险投资支持的初创公司扩散。这在有限责任�
 
 了解更多关于Stripe Atlas的信息。
 
-
 > 本文由AI自动翻译，原文链接：[Stripe Atlas startups in 2025: Year in review](https://stripe.com/blog/stripe-atlas-startups-in-2025-year-in-review)
 > 
 > 翻译时间：2026-01-05 13:20

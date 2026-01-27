@@ -281,7 +281,6 @@ dependencies: [
 **资源**
 感谢 swift-transformers 社区的反馈，这些反馈塑造了这个项目，也感谢所有提交问题并分享经验的人。这是为你们而做的。❤️
 
-
 > 本文由AI自动翻译，原文链接：[Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface)
 > 
 > 翻译时间：2026-01-06 01:00

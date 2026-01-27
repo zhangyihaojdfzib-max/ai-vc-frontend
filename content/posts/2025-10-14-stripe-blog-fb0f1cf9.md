@@ -34,7 +34,6 @@ translated_at: '2026-01-05T17:21:45.037Z'
 
 要启用稳定币支付，请前往Stripe仪表盘的支付方式版块。如需开通基于稳定币的订阅功能，请申请访问权限。
 
-
 > 本文由AI自动翻译，原文链接：[Introducing stablecoin payments for subscriptions](https://stripe.com/blog/introducing-stablecoin-payments-for-subscriptions)
 > 
 > 翻译时间：2026-01-05 17:21

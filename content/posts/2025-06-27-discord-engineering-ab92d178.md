@@ -22,7 +22,6 @@ translated_at: '2026-01-07T03:12:32.182Z'
 
 在Discord，我们坚信：真实的你本就属于这里，而构建归属感正是我们工作的核心。作为Discord九个向全体员工开放的员工资源小组之一，我们同样相信：当团队成员带着完整的自我投入工作时，我们不仅是在贡献才华，更是在证明——我们独特的集体视角将创造更大的影响。
 
-
 > 本文由AI自动翻译，原文链接：[Authenticity Matters: Discord's Pride Month 2025](https://discord.com/blog/authenticity-matters-pride-month-2025)
 > 
 > 翻译时间：2026-01-07 02:50

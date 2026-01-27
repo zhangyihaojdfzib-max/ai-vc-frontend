@@ -51,7 +51,6 @@ BillionToOne 展示了当原创的科学理念、技术精湛的创始团队和�
 其他文章
 Jared 是 YC 的董事总经理、软件组合伙人。他是 Scribd 的联合创始人，该公司于 2006 年获得 Y Combinator 投资，并发展成为全球前 100 名的网站之一。
 
-
 > 本文由AI自动翻译，原文链接：[BillionToOne Goes Public — The Startup That Made Genetic Testing Universal | Y Combinator](https://www.ycombinator.com/blog/billiontoone/)
 > 
 > 翻译时间：2026-01-04 22:11

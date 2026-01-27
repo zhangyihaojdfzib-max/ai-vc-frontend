@@ -169,7 +169,6 @@ async hotUpdate({ file, read }) {
 
 [开始使用](https://example.com)。
 
-
 > 本文由AI自动翻译，原文链接：[Inside Workflow DevKit: How framework integrations work - Vercel](https://vercel.com/blog/inside-workflow-devkit-how-framework-integrations-work)
 > 
 > 翻译时间：2026-01-06 01:21

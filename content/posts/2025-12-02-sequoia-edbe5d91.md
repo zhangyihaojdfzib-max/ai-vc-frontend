@@ -66,7 +66,6 @@ Nevis正在迅速增加员工人数，因为它专注于扩大规模和开发新
 
 # 获取红杉社区的最佳故事。
 
-
 > 本文由AI自动翻译，原文链接：[Nevis: Bringing AI to Wealth Management](https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/)
 > 
 > 翻译时间：2026-01-07 02:38

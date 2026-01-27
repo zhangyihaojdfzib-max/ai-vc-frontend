@@ -73,7 +73,6 @@ translated_at: '2026-01-06T14:49:02.040Z'
 
 欢迎通过我们的Twitter账号告诉我们！（"Twitter"这个词大概也该进博物馆了）。
 
-
 > 本文由AI自动翻译，原文链接：[Staff Picks, September 2025: Welcome to Our Video Game Museum](https://discord.com/blog/staff-picks-september-2025-welcome-to-our-video-game-museum)
 > 
 > 翻译时间：2026-01-06 02:11

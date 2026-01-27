@@ -105,7 +105,6 @@ NerdWallet, “Best Performing Semiconductor Stocks 2025,” Dec 2025. ↩︎
 Elastic, “OpenTelemetry: The Convergence of Observability and Security,” 2025. ↩︎
 Market.us, “Data Lake Market Size and Lakehouse Adoption 2025.” ↩︎
 
-
 > 本文由AI自动翻译，原文链接：[Scoring 2025's Predictions](https://www.tomtunguz.com/scoring-2025-predictions/)
 > 
 > 翻译时间：2026-01-05 17:08

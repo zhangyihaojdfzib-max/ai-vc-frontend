@@ -608,12 +608,6 @@ tool_call_judge = make_judge(
 
 #### 通过Databricks与Virtue Foundation提升全球健康水平
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 - 面向高管
 - 面向初创公司
 - Lakehouse架构
@@ -759,12 +753,6 @@ tool_call_judge = make_judge(
 
 - 奖项与认可
 - 新闻中心
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
 
 Databricks Inc. 美国加利福尼亚州旧金山 Spear街160号15楼，邮编94105 电话：1-866-330-0121
 

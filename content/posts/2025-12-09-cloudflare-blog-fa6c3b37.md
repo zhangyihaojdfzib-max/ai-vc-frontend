@@ -154,7 +154,6 @@ Cloudflare创新速度很快，因此我们的产品集和API也在不断增长�
 
 对基础设施即代码有想法？欢迎继续讨论，并在 community.cloudflare.com 上分享您的经验。
 
-
 > 本文由AI自动翻译，原文链接：[Shifting left at enterprise scale: how we manage Cloudflare with Infrastructure as Code](https://blog.cloudflare.com/shift-left-enterprise-scale/)
 > 
 > 翻译时间：2026-01-05 17:23

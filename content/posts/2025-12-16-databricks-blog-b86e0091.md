@@ -109,7 +109,6 @@ Lakebase团队祝您节日快乐！
 
 ##
 
-
 > 本文由AI自动翻译，原文链接：[Lakebase Holiday Update](https://www.databricks.com/blog/lakebase-holiday-update)
 > 
 > 翻译时间：2026-01-06 18:02

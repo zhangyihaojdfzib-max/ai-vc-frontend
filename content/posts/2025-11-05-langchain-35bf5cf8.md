@@ -338,7 +338,6 @@ Chat LangChain已在 chat.langchain.com 上线。使用 Claude Haiku 4.5 可获�
 请在我们的论坛上加入LangChain社区或在Twitter上关注我们。
 订阅我们的新闻通讯，获取团队和社区的最新动态。
 
-
 > 本文由AI自动翻译，原文链接：[Why We Rebuilt LangChain’s Chatbot and What We Learned](https://blog.langchain.com/rebuilding-chat-langchain/)
 > 
 > 翻译时间：2026-01-06 01:14

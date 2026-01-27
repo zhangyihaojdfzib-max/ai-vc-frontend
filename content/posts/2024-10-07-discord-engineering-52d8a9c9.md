@@ -24,7 +24,6 @@ translated_at: '2026-01-26T05:04:46.502524'
 
 这份神秘的赠礼机会仅限时存在……请继续阅读这份诡谲卷轴，了解如何参与这些惊悚庆典。
 
-
 > 本文由AI自动翻译，原文链接：[This Halloween, Treat a Friend to Nitro & Get a Haunting Avatar Decoration!](https://discord.com/blog/this-halloween-treat-a-friend-to-nitro-get-an-avatar-decoration)
 > 
 > 翻译时间：2026-01-26 05:04

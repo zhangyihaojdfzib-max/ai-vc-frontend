@@ -22,7 +22,6 @@ translated_at: '2026-01-23T04:45:52.221183'
 
 我们请来了熟悉的朋友Emi和Tyler，同时也欢迎新朋友Veronica和Carlos登上主舞台，聊聊他们最近在玩什么，并为那些你可能很快会遇到的"1级"玩家们提供一些建议。
 
-
 > 本文由AI自动翻译，原文链接：[November Staff Picks: When One Door Closesâ¦](https://discord.com/blog/november-staff-picks-when-one-door-closes)
 > 
 > 翻译时间：2026-01-23 04:45

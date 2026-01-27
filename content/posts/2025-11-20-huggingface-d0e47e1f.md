@@ -153,7 +153,6 @@ AnyLanguageModel 目前处于 1.0 版之前。核心 API 是稳定的，但我�
 **链接**
 我们期待看到你的作品 🦾
 
-
 > 本文由AI自动翻译，原文链接：[Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](https://huggingface.co/blog/anylanguagemodel)
 > 
 > 翻译时间：2026-01-06 01:05

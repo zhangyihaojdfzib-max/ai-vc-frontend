@@ -52,7 +52,6 @@ console.log(output)
 //=> {"text":"No, it is not safe to cross the street at this t...
 运行 Isaac 0.1
 
-
 > 本文由AI自动翻译，原文链接：[Run Isaac 0.1 on Replicate – Replicate blog](https://replicate.com/blog/isaac-01)
 > 
 > 翻译时间：2026-01-05 13:17

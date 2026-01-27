@@ -97,7 +97,6 @@ Databricks 持续根据客户需求添加新的空间表达式。以下是自公
 
 ##
 
-
 > 本文由AI自动翻译，原文链接：[Databricks Spatial Joins Now 17x Faster Out-of-the-Box](https://www.databricks.com/blog/databricks-spatial-joins-now-17x-faster-out-box)
 > 
 > 翻译时间：2026-01-06 18:00

@@ -24,7 +24,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 
 - +23
 
-
 ## 摘要目录引言SO-ARM入门工作流：构建具身手术助手技术实现Sim2Real混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT开始使用资源摘要
 
 - 摘要
@@ -222,7 +221,6 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 - 硬件指南：SO-ARM101 设置说明
 - LeRobot 仓库：端到端机器人学习
 
-
 ![](/images/posts/042f39fe1bb1.png)
 
 ## LeRobot v0.4.0：为开源机器人学习注入强大动力
@@ -245,9 +243,7 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 
 ![](/images/posts/631a87ba5df5.jpg)
 
-
 ![](/images/posts/873cedd5987b.png)
-
 
 这是一篇关于 Isaac 的仿真到现实流程如何革新医疗机器人的精彩深度分析，SO-ARM 入门工作流在如此高风险的领域中加速迭代尤其令人印象深刻。
 

@@ -40,7 +40,6 @@ translated_at: '2026-01-11T04:44:56.825509'
 
 请查看我们的示例应用以开始使用。
 
-
 > 本文由AI自动翻译，原文链接：[Sign in with Vercel now generally available - Vercel](https://vercel.com/changelog/sign-in-with-vercel)
 > 
 > 翻译时间：2026-01-11 04:44

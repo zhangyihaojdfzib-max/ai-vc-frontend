@@ -58,7 +58,6 @@ James 是 Command AI（YC S20）的联合创始人兼首席执行官。Command�
 
 Harj Taggar 是YC的管理合伙人。他此前是Triplebyte（YC S15）和Auctomatic（YC W07）的创始人兼首席执行官，后者于2008年被Live Current Media收购。
 
-
 > 本文由AI自动翻译，原文链接：[Meet YC's Newest Visiting Partners | Y Combinator](https://www.ycombinator.com/blog/ycs-newest-visiting-partners/)
 > 
 > 翻译时间：2026-01-04 22:12

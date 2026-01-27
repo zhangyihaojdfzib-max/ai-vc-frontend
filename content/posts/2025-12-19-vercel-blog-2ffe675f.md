@@ -38,7 +38,6 @@ rewrites: [ routes.rewrite('/(.*)', 'https://external-api.com', { requestHeaders
 尝试使用演练场来探索 vercel.ts
 ，了解如何从现有的 vercel.json 迁移，或阅读文档和 @vercel/config 包。
 
-
 > 本文由AI自动翻译，原文链接：[Introducing vercel.ts: Programmatic project configuration - Vercel](https://vercel.com/changelog/vercel-ts)
 > 
 > 翻译时间：2026-01-05 17:27

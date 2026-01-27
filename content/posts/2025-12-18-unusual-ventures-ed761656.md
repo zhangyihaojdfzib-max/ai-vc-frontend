@@ -34,7 +34,6 @@ translated_at: '2026-01-05T16:35:07.397Z'
 
 这是非凡的一年。我们已经迫不及待迎接2026年的到来——让我们继续前进！
 
-
 > 本文由AI自动翻译，原文链接：[Unusual Ventures: Our 2025 Year in Review](https://www.unusual.vc/unusual-ventures-our-2025-year-in-review/)
 > 
 > 翻译时间：2026-01-05 13:02

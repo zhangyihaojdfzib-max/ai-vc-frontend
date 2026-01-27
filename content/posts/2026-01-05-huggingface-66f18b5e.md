@@ -195,7 +195,6 @@ Pipecat Playground – 这是客户端 UI，您可以在此连接到 Agent、启
 
 想立即尝试吗？在此处部署完整环境。一键点击，即可运行。
 
-
 > 本文由AI自动翻译，原文链接：[NVIDIA brings agents to life with DGX Spark and Reachy Mini](https://huggingface.co/blog/nvidia-reachy-mini)
 > 
 > 翻译时间：2026-01-06 00:59

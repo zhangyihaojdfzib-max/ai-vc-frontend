@@ -27,7 +27,6 @@ Discord已成为全球众多D&D冒险者的核心平台。有人完全通过Roll
 
 Discord团队同样深爱D&D！为纪念《龙与地下城》50周年，我们准备了两种时尚的庆祝方式：在Discord平台为你和你的队伍带来全新的桌面冒险体验，并提供更多装扮选项，让你在下一次文字战役中完美融入角色。
 
-
 > 本文由AI自动翻译，原文链接：[Set Out for a Discord Adventure! Check Out Our Roll20 Adventure & D&D Shop Collection](https://discord.com/blog/discord-roll20-adventure-and-dnd-shop-collection)
 > 
 > 翻译时间：2026-01-26 05:04

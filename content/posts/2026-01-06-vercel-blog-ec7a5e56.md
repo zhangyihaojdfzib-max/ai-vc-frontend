@@ -30,7 +30,6 @@ Agent 会自动检测并应用这些规范，为您的代码库提供有针对�
 
 无需配置。了解更多关于[代码规范](https://vercel.com/guides/how-do-vercel-agents-work)的信息。
 
-
 > 本文由AI自动翻译，原文链接：[Vercel Agent code reviews now follow your code guidelines - Vercel](https://vercel.com/changelog/vercel-agent-code-reviews-now-follow-your-code-guidelines)
 > 
 > 翻译时间：2026-01-06 17:57

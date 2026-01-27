@@ -46,7 +46,6 @@ translated_at: '2026-01-05T17:11:03.306Z'
 
 我们希望与AISI扩大的合作伙伴关系将使我们能够为AI安全构建更稳健的方法，这不仅有利于我们各自的组织，也有利于更广泛的行业以及所有与AI系统交互的人。
 
-
 > 本文由AI自动翻译，原文链接：[Deepening AI Safety Research with UK AI Security Institute (AISI)](https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/)
 > 
 > 翻译时间：2026-01-05 17:11

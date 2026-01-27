@@ -22,7 +22,6 @@ translated_at: '2026-01-16T04:46:17.612933'
 
 Discord 上的贴纸就像是**超大号**的表情符号：它们巨大的尺寸有助于表达你的情绪，并为你的帖子增添一些**冲击力**。在这篇博客文章中，我们将向你展示如何使用贴纸，在哪里可以找到数百个现成可用的贴纸，以及如何上传和使用你自己的贴纸！
 
-
 > 本文由AI自动翻译，原文链接：[How to Create & Upload Your Own Stickers on Discord](https://discord.com/blog/how-to-create-upload-your-own-stickers-on-discord)
 > 
 > 翻译时间：2026-01-16 04:46

@@ -22,7 +22,6 @@ translated_at: '2026-01-12T04:57:25.886763'
 
 但随着Discord的快速发展，我们的搜索基础设施开始显现出一些裂痕……
 
-
 > 本文由AI自动翻译，原文链接：[How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
 > 
 > 翻译时间：2026-01-12 04:57

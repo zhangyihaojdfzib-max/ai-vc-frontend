@@ -24,7 +24,6 @@ translated_at: '2026-01-17T04:20:15.262154'
 
 以下是我们更新的详细内容：
 
-
 > 本文由AI自动翻译，原文链接：[Revamped Overlay & Refreshed Desktop Give Game Time a Boost](https://discord.com/blog/player-release-q12025)
 > 
 > 翻译时间：2026-01-17 04:20

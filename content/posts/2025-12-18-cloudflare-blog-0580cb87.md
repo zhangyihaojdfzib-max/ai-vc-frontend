@@ -150,7 +150,6 @@ R2 SQL现已支持聚合功能。我们期待看到你如何在R2数据目录中
 
 **加入讨论**：如果你有任何问题、反馈或想分享你正在构建的内容，请加入Cloudflare开发者Discord。
 
-
 > 本文由AI自动翻译，原文链接：[Announcing support for GROUP BY, SUM, and other aggregation queries in R2 SQL](https://blog.cloudflare.com/r2-sql-aggregations/)
 > 
 > 翻译时间：2026-01-05 13:22

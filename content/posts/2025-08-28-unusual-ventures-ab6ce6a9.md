@@ -49,7 +49,6 @@ translated_at: '2026-01-06T00:48:05.588Z'
 
 如果你是一位认真的技术型B2B创始人，不仅想打造一个产品，更想为一家持久的公司奠定基础，我们鼓励你申请。以下是需要了解的关键日期：
 
-
 > 本文由AI自动翻译，原文链接：[Apply to Unusual Academy: Five Days of PMF expertise. Up to $1M in an uncapped SAFE. Lasting relationships.](https://www.unusual.vc/apply-to-unusual-academy-five-days-of-pmf-expertise-up-to-1m-in-an-uncapped-safe-lasting-relationships/)
 > 
 > 翻译时间：2026-01-06 00:48

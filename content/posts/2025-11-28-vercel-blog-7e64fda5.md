@@ -51,7 +51,6 @@ AI Gateway 提供了一个统一的 API 来调用模型、跟踪使用情况和�
 
 AI Gateway 模型排行榜根据通过网关的所有流量的总 Token 量，对一段时间内使用最多的模型进行排名。榜单定期更新。
 
-
 > 本文由AI自动翻译，原文链接：[Image-only models available in Vercel AI Gateway - Vercel](https://vercel.com/changelog/image-only-models-available-in-vercel-ai-gateway)
 > 
 > 翻译时间：2026-01-11 04:45

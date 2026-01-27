@@ -102,7 +102,6 @@ Quicksilver也用于我们自身团队所需的任何配置更改。速度是其
 
 在这两次事件中，我们辜负了用户和整个互联网社区的信任。我们将全力改进以弥补过失。我们计划在工作推进过程中持续分享进展，并衷心感谢客户与合作伙伴提出的问题与反馈。
 
-
 > 本文由AI自动翻译，原文链接：[Code Orange: Fail Small â our resilience plan following recent incidents](https://blog.cloudflare.com/fail-small-resilience-plan/)
 > 
 > 翻译时间：2026-01-04 23:58

@@ -131,7 +131,6 @@ translated_at: '2026-01-06T18:15:23.226Z'
 
 ##
 
-
 > 本文由AI自动翻译，原文链接：[Top 10 Questions You Asked About Databricks Clean Rooms, Answered](https://www.databricks.com/blog/top-10-questions-you-asked-about-databricks-clean-rooms-answered)
 > 
 > 翻译时间：2026-01-06 18:00

@@ -22,7 +22,6 @@ translated_at: '2026-01-21T04:44:35.598834'
 
 说到送游戏，你有没有收到过一款**好到**足以成为你人生中一个标志性事件的游戏？我就有过（感谢《托尼霍克职业滑板：地下城2》）。这次我们找来了Emi、Matt和Cody，并欢迎我们的新朋友Scott，听听他们最近在玩什么，以及哪些他们收到的游戏可能优化了他们的"大脑化学反应"！
 
-
 > 本文由AI自动翻译，原文链接：[December Staff Picks: Itâs Giving Games](https://discord.com/blog/december-staff-picks-its-giving-games)
 > 
 > 翻译时间：2026-01-21 04:44

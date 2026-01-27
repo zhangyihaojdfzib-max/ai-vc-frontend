@@ -31,7 +31,6 @@ translated_at: '2026-01-19T05:03:40.114497'
 - 第一部分：私人测试服务器
 - 第二部分：抢先体验/预发布阶段
 
-
 > 本文由AI自动翻译，原文链接：[The Game Developer Playbook: Three Incredible Game-Focused Communities](https://discord.com/blog/the-game-developer-playbook-three-incredible-game-focused-communities)
 > 
 > 翻译时间：2026-01-19 05:03

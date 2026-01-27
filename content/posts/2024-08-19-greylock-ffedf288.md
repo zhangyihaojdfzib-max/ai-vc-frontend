@@ -88,7 +88,6 @@ translated_at: '2026-01-24T04:23:44.253373'
 
 作为企业家与投资者，里德通过构建网络来培育标志性的全球企业。
 
-
 > 本文由AI自动翻译，原文链接：[Transformational Moments | Greylock](https://greylock.com/reid-hoffman/transformational-moments/)
 > 
 > 翻译时间：2026-01-24 04:23

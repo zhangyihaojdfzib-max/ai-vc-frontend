@@ -85,7 +85,6 @@ translated_at: '2026-01-04T23:55:47.917Z'
 
 这是一个快速发展的领域，我们很高兴能应对这些挑战。如果您的组织在使用 LLM 进行大规模代码转换方面有经验，我们非常乐意与您联系并向您学习。
 
-
 > 本文由AI自动翻译，原文链接：[Background Coding Agents: Predictable Results Through Strong Feedback Loops (Part 3) | Spotify Engineering](https://engineering.atspotify.com/2025/12/feedback-loops-background-coding-agents-part-3/)
 > 
 > 翻译时间：2026-01-04 23:55

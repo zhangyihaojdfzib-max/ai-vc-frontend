@@ -125,7 +125,6 @@ Agent的未来可能简单得出奇。也许最好的架构就是几乎没有架
 
 销售通话摘要模板展示了生产环境中的文件系统和bash模式。将其部署在Vercel上，实时观察Agent探索文件。
 
-
 > 本文由AI自动翻译，原文链接：[How to build agents with filesystems and bash - Vercel](https://vercel.com/blog/how-to-build-agents-with-filesystems-and-bash)
 > 
 > 翻译时间：2026-01-10 04:12

@@ -93,7 +93,6 @@ note={Available in 3B, 7B, and 34B parameter versions}
 }
 - 注：在我们的评估中，ALLaM-7B-Instruct-preview的分数高于OALL排行榜上报告的结果，因为我们使用了最新版本（7b-alpha-v2.33.0.30），而排行榜目前反映的是旧版本（7b-alpha-v1.27.2.25）的结果。
 
-
 > 本文由AI自动翻译，原文链接：[Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](https://huggingface.co/blog/tiiuae/falcon-h1-arabic)
 > 
 > 翻译时间：2026-01-05 13:14

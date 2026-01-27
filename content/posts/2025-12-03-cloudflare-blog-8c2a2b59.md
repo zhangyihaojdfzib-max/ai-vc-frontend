@@ -42,7 +42,6 @@ Cloudflare 已收到安全合作伙伴的警报，发现一个影响 Next.js、R
 
 Cloudflare 安全团队已与合作伙伴协作，识别了多种攻击模式，并确保新规则能有效防止任何绕过行为。在接下来的数小时和数天内，团队将持续监控潜在的攻击变体，并根据需要更新防护措施，以保护所有通过 Cloudflare 代理的流量。
 
-
 > 本文由AI自动翻译，原文链接：[Cloudflare WAF proactively protects against React vulnerability](https://blog.cloudflare.com/waf-rules-react-vulnerability/)
 > 
 > 翻译时间：2026-01-05 17:25

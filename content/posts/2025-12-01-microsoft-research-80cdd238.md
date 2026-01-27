@@ -380,7 +380,6 @@ WiML影响我工作的另一个重要方面是，如今我与比以往更加多�
 
 [1] 沃拉赫后来澄清，2005年神经信息处理系统会议的注册人数约为900人。
 
-
 > 本文由AI自动翻译，原文链接：[Ideas: Community building, machine learning, and the future of AI](https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/)
 > 
 > 翻译时间：2026-01-05 13:12

@@ -264,7 +264,6 @@ Hugging Face Skills
 - Hugging Face Jobs — 云端训练基础设施
 - Trackio — 实时训练监控。
 
-
 > 本文由AI自动翻译，原文链接：[Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex)
 > 
 > 翻译时间：2026-01-06 01:00

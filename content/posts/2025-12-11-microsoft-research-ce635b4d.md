@@ -63,7 +63,6 @@ Agent Lightning在三个不同的任务上进行了测试，在所有场景中�
 
 该框架旨在作为一个开放平台，任何AI智能体都可以通过真实世界的实践得到改进。通过桥接现有的智能体系统与强化学习，Agent Lightning旨在帮助创建能够从经验中学习并随时间不断改进的AI系统。
 
-
 > 本文由AI自动翻译，原文链接：[Agent Lightning adds RL to AI agents without code rewrites](https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/)
 > 
 > 翻译时间：2026-01-04 23:52

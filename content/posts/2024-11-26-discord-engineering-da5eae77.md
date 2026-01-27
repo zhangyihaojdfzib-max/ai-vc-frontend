@@ -24,7 +24,6 @@ Discord 是一个让每个人都能在玩最爱的游戏时——或者随便做
 
 有兴趣将键盘作为主要输入方式吗？或者只是想学几招不用鼠标就能访问不同功能的技巧？请稍作停留，我们将为您详解键盘导航的运作方式。
 
-
 > 本文由AI自动翻译，原文链接：[How to Navigate Discord Using Only Your Keyboard](https://discord.com/blog/how-to-navigate-discord-using-only-your-keyboard)
 > 
 > 翻译时间：2026-01-23 04:45

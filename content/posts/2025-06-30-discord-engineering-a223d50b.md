@@ -22,9 +22,7 @@ translated_at: '2026-01-07T03:12:32.183Z'
 
 ![](/images/posts/6c35d2677b66.png)
 
-
 ![](/images/posts/740078994ebd.gif)
-
 
 最近是否在好友名字旁边看到了奇怪的新标签？
 
@@ -50,7 +48,6 @@ translated_at: '2026-01-07T03:12:32.183Z'
 *   商店里上架了**更多名牌**，快打开桌面应用去看看吧！我们拥有的名牌已经堆得这么多了，看来需要更大的柜子了！哈哈！！明白了吗……盘子（plates）……你把它们堆起来……名牌（nameplates）……唉……
 
 说到堆叠，我们的工程团队每月都会分享他们对Discord所做的一大堆修复和改进。您总能在 dis.gd/PatchNotes 找到它们。
-
 
 > 本文由AI自动翻译，原文链接：[Discord Update: June 30, 2025 Changelog](https://discord.com/blog/discord-update-june-30-2025-changelog)
 > 

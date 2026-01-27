@@ -160,7 +160,6 @@ RH：是的，我认为我们讨论中还有一个非常有趣的点：每辆车
 
 里德（Reid）作为企业家和投资者，致力于构建网络以培育标志性的全球企业。
 
-
 > 本文由AI自动翻译，原文链接：[The Road Ahead | Greylock](https://greylock.com/reid-hoffman/autonomous-vehicles-the-road-ahead/)
 > 
 > 翻译时间：2026-01-11 04:40

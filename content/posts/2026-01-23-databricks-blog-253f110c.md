@@ -503,12 +503,6 @@ Delta Sharing是应用最广泛的开放安全数据共享标准。它被各领�
 - 奖项与认可
 - 新闻中心
 
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
-![databricks logo](/images/posts/443a5359ee28.png)
-
 Databricks Inc.
 160 Spear Street, 15th Floor
 San Francisco, CA 94105

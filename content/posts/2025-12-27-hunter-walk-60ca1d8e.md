@@ -37,7 +37,6 @@ translated_at: '2026-01-04T23:48:41.096Z'
 请享用！
 我始终乐于分享令我愉悦的事物。2025年我最满意的购物可能是这些微波炉专用碗——它们简直是速食燕麦的绝配。
 
-
 > 本文由AI自动翻译，原文链接：[Should It Be Easier To Sue Influencers for Defamation?; 2025 Was the Year Self-Driving Car Optimism Went Mainstream; a Startup CEO’s Annual Learnings Post; a Podcast Where I Spoke for 43% of the Time; and +++ [link blog]](https://hunterwalk.com/2025/12/26/should-it-be-easier-to-sue-influencers-for-defamation-2025-was-the-year-self-driving-car-optimism-went-mainstream-a-startup-ceos-annual-learnings-post-a-podcast-where-i-spoke-for-43-of-the-time/)
 > 
 > 翻译时间：2026-01-04 23:48

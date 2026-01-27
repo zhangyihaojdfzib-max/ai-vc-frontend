@@ -20,7 +20,6 @@ translated_at: '2026-01-10T04:15:47.730814'
 
 Discord正在扩展我们的Quests广告产品，为用户提供新奖励并建立新的衡量合作伙伴关系。全新的虚拟奖励Discord Orbs今日起面向一小部分用户推出。Discord Orbs是通过Quests获得的新型奖励，用户可在商店中使用Orbs兑换商品——包括Nitro积分和个人资料装饰等Orbs专属物品。我们同时宣布与Kantar建立新的合作伙伴关系，这将进一步提升Quests广告主投资回报衡量与分析能力。
 
-
 > 本文由AI自动翻译，原文链接：[Checkpoint 3: Leveling Up Discord Quests with Orbs and Advanced Measurement](https://discord.com/blog/checkpoint-3-leveling-up-discord-quests-with-orbs-and-advanced-measurement)
 > 
 > 翻译时间：2026-01-10 04:15

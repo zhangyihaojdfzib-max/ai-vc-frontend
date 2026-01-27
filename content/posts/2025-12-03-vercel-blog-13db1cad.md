@@ -49,7 +49,6 @@ LaTeX 块中带下划线的数学表达式
 要开始使用，您可以通过 Streamdown 使用它，或通过以下命令独立安装：
 npm i remend
 
-
 > 本文由AI自动翻译，原文链接：[New npm package for automatic recovery of broken streaming markdown - Vercel](https://vercel.com/changelog/new-npm-package-for-automatic-recovery-of-broken-streaming-markdown)
 > 
 > 翻译时间：2026-01-06 04:29

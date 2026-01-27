@@ -452,7 +452,6 @@ result = gemm.gemm(A_fp8, B_fp8, A_scale, B_scale, C)
 - kernels – 用于从 Hub 管理和加载内核的库。
 - Kernels Community Hub – 分享和发现社区的内核。
 
-
 > 本文由AI自动翻译，原文链接：[Easily Build and Share ROCm Kernels with Hugging Face](https://huggingface.co/blog/build-rocm-kernels)
 > 
 > 翻译时间：2026-01-06 01:08

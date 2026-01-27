@@ -82,7 +82,6 @@ ServiceNow 目前正处于测试阶段，由 QA 工程师评估 Agent（智能�
 
 ServiceNow 正在成功利用 LangChain 平台应对 Agent（智能体）编排和可观测性的挑战。通过利用 LangGraph 进行多 Agent（智能体）协调，并利用 LangSmith 实现对 Agent（智能体）行为的细粒度可见性，ServiceNow 为跨越整个客户旅程的智能客户成功运营奠定了基础。
 
-
 > 本文由AI自动翻译，原文链接：[How ServiceNow uses LangSmith to get visibility into its customer success agents](https://blog.langchain.com/customers-servicenow/)
 > 
 > 翻译时间：2026-01-06 01:11

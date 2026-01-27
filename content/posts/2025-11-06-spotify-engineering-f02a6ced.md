@@ -84,7 +84,6 @@ Fleet Management是一个强大的框架，用于在Spotify所有代码库中应
 
 我们很高兴能分享在探索这一领域过程中的更多发现。敬请关注我们关于高效上下文工程以及利用反馈循环实现更可预测结果的后续文章。
 
-
 > 本文由AI自动翻译，原文链接：[1,500+ PRs Later: Spotify’s Journey with Our Background Coding Agent (Part 1) | Spotify Engineering](https://engineering.atspotify.com/2025/11/spotifys-background-coding-agent-part-1/)
 > 
 > 翻译时间：2026-01-05 13:34

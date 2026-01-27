@@ -23,7 +23,6 @@ Unusual Ventures：我们的2025年度回顾
 Goldcast加入Cvent：共同构建AI驱动营销的未来
 Harness获得2.4亿美元E轮融资，推动AI驱动软件交付的未来发展
 
-
 > 本文由AI自动翻译，原文链接：[Jyoti Bansal on how Traceable found PMF](https://www.unusual.vc/jyoti-bansal-on-how-traceable-found-pmf/)
 > 
 > 翻译时间：2026-01-06 00:47

@@ -37,7 +37,6 @@ Stately Cloud 团队在构建和运营全球最大规模的分布式系统方面
 
 2024年11月21日 / 阅读时间 3 分钟
 
-
 > 本文由AI自动翻译，原文链接：[Welcoming Stately Cloud to Databricks: Investing in the Foundation for Scalable AI Applications](https://www.databricks.com/blog/welcoming-stately-cloud-databricks-investing-foundation-scalable-ai-applications)
 > 
 > 翻译时间：2026-01-06 01:23

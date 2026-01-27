@@ -65,7 +65,6 @@ translated_at: '2026-01-05T16:35:07.382Z'
 
 Harj Taggar是YC的管理合伙人。他之前是Triplebyte（YC S15）和Auctomatic（YC W07）的创始人兼CEO，后者于2008年被Live Current Media收购。
 
-
 > 本文由AI自动翻译，原文链接：[Summer Fellows Grants | Y Combinator](https://www.ycombinator.com/blog/summer-fellows/)
 > 
 > 翻译时间：2026-01-05 13:01

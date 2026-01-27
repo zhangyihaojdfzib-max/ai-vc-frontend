@@ -78,7 +78,6 @@ ScreenAI模型的训练分为两个阶段：预训练阶段和微调阶段。首
 
 本项目是与Maria Wang、Fedir Zubach、Hassan Mansoor、Vincent Etter、Victor Carbune、Jason Lin、Jindong Chen以及Abhanshu Sharma共同合作的成果。我们感谢Fangyu Liu、Xi Chen、Efi Kokiopoulou、Jesse Berent、Gabriel Barcik、Lukas Zilka、Oriana Riva、Gang Li、Yang Li、Radu Soricut和Tania Bedrax-Weiss富有洞见的反馈与讨论，同时感谢Rahul Aralikatte、Hao Cheng和Daniel Kim在数据准备方面提供的支持。我们也感谢Jay Yagnik、Blaise Aguera y Arcas、Ewa Dominowska、David Petrou和Matt Sharifi的领导力、远见与支持。我们特别感谢Tom Small协助我们制作了本文中的动画。
 
-
 > 本文由AI自动翻译，原文链接：[ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)
 > 
 > 翻译时间：2026-01-05 13:06

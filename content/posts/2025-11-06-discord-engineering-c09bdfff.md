@@ -70,7 +70,6 @@ translated_at: '2026-01-05T17:29:58.527Z'
 
 如果你期待未来看到特定更新或新增功能，请随时告诉我们！你可以在X、TikTok和Instagram平台找到我们，也别忘了我们的反馈中心……
 
-
 > 本文由AI自动翻译，原文链接：[A Cornucopia of Updates Make Discord on Desktop Fresher Than a Crisp Fall Breeze](https://discord.com/blog/a-cornucopia-of-updates-make-discord-on-desktop-fresher-than-a-crisp-fall-breeze)
 > 
 > 翻译时间：2026-01-05 17:29

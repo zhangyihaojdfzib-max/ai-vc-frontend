@@ -29,7 +29,6 @@ translated_at: '2026-01-07T03:12:32.185Z'
 
 惊讶得睁大了眼睛？下巴掉地上了？引擎已经轰鸣，准备冲向这个疯狂优惠了？听好了，我们来告诉你具体怎么操作。
 
-
 > 本文由AI自动翻译，原文链接：[*FLAILS AROUND* SUMMER SPECIAL! JOIN NITRO, GET AN EXTRA MONTH OF NITRO ON US!](https://discord.com/blog/summer-special-join-nitro-get-an-extra-month-on-us)
 > 
 > 翻译时间：2026-01-07 02:50

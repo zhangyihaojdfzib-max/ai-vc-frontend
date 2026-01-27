@@ -23,7 +23,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 
 - +13
 
-
 ## 一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南SO-ARM入门工作流程；构建具身化手术助手技术实现仿真到现实的混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT入门指南资源一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南
 
 - 一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南
@@ -142,7 +141,6 @@ python -m training.hdf5_to_lerobot \
   --repo_id=surgical_assistance_dataset \ 
   --hdf5_path=/path/to/your/sim_dataset.hdf5 \ 
   --task_description="Autonomous surgical instrument handling and preparation" 
-
 
 # 在混合数据集上对GR00T N1.5进行后训练 
 python -m training.gr00t_n1_5.train \ 

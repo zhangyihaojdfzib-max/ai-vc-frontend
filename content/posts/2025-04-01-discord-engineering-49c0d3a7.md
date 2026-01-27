@@ -31,7 +31,6 @@ translated_at: '2026-01-15T04:47:00.450834'
 
 在2025年4月7日前成功完成《最后的草甸》的玩家，将获得一枚专属头像装饰，可在整个四月使用。
 
-
 > 本文由AI自动翻译，原文链接：[MAJOR NEWS: DISCORD ANNOUNCES ITS FIRST IN-HOUSE AAAA VIDEO GAME, âTHE LAST MEADOWâ](https://discord.com/blog/the-last-meadow)
 > 
 > 翻译时间：2026-01-15 04:47

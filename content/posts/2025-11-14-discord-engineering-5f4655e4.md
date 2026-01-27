@@ -30,7 +30,6 @@ translated_at: '2026-01-05T17:29:18.959Z'
 
 注意：本文讨论的每款游戏目前均提供这些独特的Discord驱动功能。未来可用功能可能会发生变化。
 
-
 > 本文由AI自动翻译，原文链接：[How to Link Discord to Battlefield 6, Marvel Rivals & More](https://discord.com/blog/how-to-link-discord-to-popular-multiplayer-games)
 > 
 > 翻译时间：2026-01-05 17:29

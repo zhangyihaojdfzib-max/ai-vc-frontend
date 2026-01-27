@@ -137,7 +137,6 @@ EwL框架的最大价值在于战略层面——展示创新投入的学习回�
 致谢：Experiments with Learning框架是Spotify众多同事合作的成果。特别感谢Lizzie Eardley、Caroline Thordenberg和Johan Rydberg。
 🧪想像Spotify一样进行实验吗？了解更多关于Confidence的信息。📆 Confidence即将登陆Spotify Portal！报名参加我们的网络研讨会以了解更多信息。
 
-
 > 本文由AI自动翻译，原文链接：[Beyond Winning: Spotify’s Experiments with Learning Framework | Spotify Engineering](https://engineering.atspotify.com/2025/9/spotifys-experiments-with-learning-framework/)
 > 
 > 翻译时间：2026-01-05 13:35

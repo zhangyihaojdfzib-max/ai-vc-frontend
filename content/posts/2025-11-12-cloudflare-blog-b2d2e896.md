@@ -103,7 +103,6 @@ Workers平台上的大多数绑定本质上都可归结为服务绑定。服务�
 
 **直接使用 `wrangler dev` 即可！** 自 Wrangler v4.37.0（@cloudflare/vite-plugin v1.13.0，@cloudflare/vitest-pool-workers v0.9.0）起，远程绑定已在所有项目中可用，并且可以通过在您的 Wrangler 配置文件的绑定定义中添加 `remote: true` 来按绑定逐个启用。
 
-
 > 本文由AI自动翻译，原文链接：[Connecting to production: the architecture of remote bindings](https://blog.cloudflare.com/connecting-to-production-the-architecture-of-remote-bindings/)
 > 
 > 翻译时间：2026-01-06 01:16

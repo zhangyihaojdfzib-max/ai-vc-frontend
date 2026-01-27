@@ -32,7 +32,6 @@ Unusual Ventures的普通合伙人Lars Albright表示："我们很高兴支持He
 
 我们很高兴能与Helios团队合作，共同致力于改变公共和私营部门利益相关者应对监管的方式。欲了解更多信息，请访问 https://heliosintel.ai/。
 
-
 > 本文由AI自动翻译，原文链接：[Why we’re leading Helios $4m Seed Round](https://www.unusual.vc/why-were-leading-helios-4m-seed-round-2/)
 > 
 > 翻译时间：2026-01-06 00:48

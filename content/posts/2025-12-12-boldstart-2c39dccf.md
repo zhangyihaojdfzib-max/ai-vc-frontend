@@ -29,7 +29,6 @@ FastForward #48：感恩节科技随想
 2025年11月21日
 FastForward #47：AI 原生者与 AI 追随者
 
-
 > 本文由AI自动翻译，原文链接：[FastForward #50: See you further on up the road - FastForward](https://fastforward.boldstart.vc/fastforward-50-see-you-further-on-up-the-road/)
 > 
 > 翻译时间：2026-01-05 13:02

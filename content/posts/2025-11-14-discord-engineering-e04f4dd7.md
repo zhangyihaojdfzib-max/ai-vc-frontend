@@ -74,7 +74,6 @@ Locke
 
 Locke 在全宇宙多年的经验使他成为教你“Discord 万事通”知识最渊博的人。对能多益和杰克奶酪三明治情有独钟。
 
-
 > 本文由AI自动翻译，原文链接：[How to Share What Youâre Playing, Listening to, or Watching as Your Status on Discord](https://discord.com/blog/how-to-share-what-youre-playing-listening-to-or-watching-as-your-status-on-discord)
 > 
 > 翻译时间：2026-01-05 17:29

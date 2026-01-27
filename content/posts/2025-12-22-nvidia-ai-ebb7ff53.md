@@ -73,7 +73,6 @@ translated_at: '2026-01-05T16:35:07.399Z'
 
 了解更多关于NVIDIA加速学术研究的信息。
 
-
 > 本文由AI自动翻译，原文链接：[Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality](https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/)
 > 
 > 翻译时间：2026-01-05 13:12

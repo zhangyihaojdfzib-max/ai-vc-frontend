@@ -22,7 +22,6 @@ translated_at: '2026-01-15T04:46:57.582420'
 
 我们的朋友维罗妮卡、科迪和艾米分享了他们最喜爱的游戏改编作品，并聊到了希望哪些游戏系列未来能突破手柄的局限，登上更广阔的舞台。
 
-
 > 本文由AI自动翻译，原文链接：[Staff Picks, April 2025: All The Adaptations](https://discord.com/blog/staff-picks-april-2025-all-the-adaptations)
 > 
 > 翻译时间：2026-01-15 04:46

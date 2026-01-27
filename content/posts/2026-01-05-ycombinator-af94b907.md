@@ -24,13 +24,11 @@ translated_at: '2026-01-05T16:56:34.342Z'
 
 **THE SOCIAL RADARS**
 
-
 **来自 The Social Radars**
 
 The Social Radars（Jessica Livingston 和 Carolynn Levy）与 WePay 的联合创始人兼首席执行官 Bill Clerico 进行了对话，探讨了如何创立我们现在称之为“金融科技”**创业公司**的早期范例之一，并将其以 4 亿美元的价格出售给摩根大通。
 
 **Brian Chesky，Airbnb 联合创始人兼首席执行官（第二部分）**
-
 
 **Brian Chesky，Airbnb 联合创始人兼首席执行官**
 
@@ -47,6 +45,5 @@ The Social Radars（Jessica Livingston 和 Carolynn Levy）与 WePay 的联合�
 **联合创始人匹配**
 
 **收集声明**
-
 
 > 本文由AI自动翻译，原文链接：[Bill Clerico, Co-Founder & CEO of WePay](https://www.ycombinator.com/library/KH-bill-clerico-co-founder-ceo-of-wepay)

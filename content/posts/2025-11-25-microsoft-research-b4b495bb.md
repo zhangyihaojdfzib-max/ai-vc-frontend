@@ -79,7 +79,6 @@ CI-CoT在PrivacyLens基准测试中减少了信息泄露，包括涉及工具使
 两种互补的方法
 总的来说，这些工作展示了一条从识别问题到尝试解决问题的研究路径。PrivacyChecker的评估框架揭示了模型在何处泄露信息，而推理与强化学习方法则训练模型以恰当处理信息披露。两个项目都借鉴了情境完整性理论，并将其转化为实用工具（基准测试、数据集和训练方法），可用于构建保护用户隐私的AI系统。
 
-
 > 本文由AI自动翻译，原文链接：[Two approaches to reducing privacy leaks in AI](https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/)
 > 
 > 翻译时间：2026-01-05 13:07

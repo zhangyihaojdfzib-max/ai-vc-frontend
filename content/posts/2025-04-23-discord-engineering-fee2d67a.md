@@ -43,7 +43,6 @@ Humam与我根本理念一致：创造长期价值需要长远眼光，并专注
 
 点击此处阅读完整公告
 
-
 > 本文由AI自动翻译，原文链接：[Passing the Torch](https://discord.com/blog/passing-the-torch)
 > 
 > 翻译时间：2026-01-13 04:36

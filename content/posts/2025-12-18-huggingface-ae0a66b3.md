@@ -349,7 +349,6 @@ Transformers v5为分词带来了三项改进：
 
 如果你想了解更多关于分词的信息，这里有一些资源：。
 
-
 > 本文由AI自动翻译，原文链接：[Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers)
 > 
 > 翻译时间：2026-01-05 13:15

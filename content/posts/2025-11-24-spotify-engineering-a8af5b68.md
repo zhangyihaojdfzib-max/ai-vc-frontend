@@ -112,7 +112,6 @@ translated_at: '2026-01-04T23:56:03.580Z'
 
 但在实践中，我们仍主要依靠直觉行事。我们的提示词通过试错不断演进。我们尚未建立结构化方法来评估哪些提示词或模型表现最佳。即使我们成功合并了拉取请求，又如何确认它真正解决了原始问题？敬请关注我们下一篇关于利用反馈循环实现更可预测结果的博文。
 
-
 > 本文由AI自动翻译，原文链接：[Background Coding Agents: Context Engineering (Part 2) | Spotify Engineering](https://engineering.atspotify.com/2025/11/context-engineering-background-coding-agents-part-2/)
 > 
 > 翻译时间：2026-01-04 23:56

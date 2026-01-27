@@ -110,7 +110,6 @@ Discord社交SDK内置DAVE支持，开发者无需额外操作。
 
 我们致力于在向所有Discord用户提供DAVE增强隐私与安全性的同时，尽可能平稳地完成此次过渡。
 
-
 > 本文由AI自动翻译，原文链接：[Bringing DAVE to All Discord Platforms](https://discord.com/blog/bringing-dave-to-all-discord-platforms)
 > 
 > 翻译时间：2026-01-06 04:31

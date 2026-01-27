@@ -51,7 +51,6 @@ LLM 通常以仅解码器的方式进行训练，涉及三个步骤。首先，�
 致谢
 这项工作是 Google Research 和 Google Cloud 多位同事合作的成果，包括（按字母顺序排列）：Abhimanyu Das, Weihao Kong, Andrew Leach, Mike Lawrence, Alex Martin, Rajat Sen, Yang Yang, Skander Hannachi, Ivan Kuznetsov 和 Yichen Zhou。
 
-
 > 本文由AI自动翻译，原文链接：[A decoder-only foundation model for time-series forecasting](http://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 > 
 > 翻译时间：2026-01-06 02:09

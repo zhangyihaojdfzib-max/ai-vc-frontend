@@ -41,7 +41,6 @@ Vercel Agent（智能体）会分析您的项目配置和已连接的GitHub仓�
 
 Vercel Agent（智能体）安装功能现已面向所有团队开放公测。立即为**网站分析**或**速度洞察**功能尝试使用。
 
-
 > 本文由AI自动翻译，原文链接：[Vercel Agent can now install Web Analytics and Speed insights for you - Vercel](https://vercel.com/changelog/vercel-agent-installation)
 > 
 > 翻译时间：2026-01-06 17:57

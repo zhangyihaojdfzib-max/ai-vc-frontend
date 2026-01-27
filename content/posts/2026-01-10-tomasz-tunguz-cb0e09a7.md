@@ -55,7 +55,6 @@ TechCrunch : GE Digital snags ServiceMax for $915 million↩︎
 
 Yahoo Finance : Klaviyo (KVYO)↩︎
 
-
 > 本文由AI自动翻译，原文链接：[Open APIs Are Over](https://www.tomtunguz.com/defense-comes-to-software/)
 > 
 > 翻译时间：2026-01-12 04:49

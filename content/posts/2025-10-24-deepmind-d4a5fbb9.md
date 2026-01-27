@@ -123,7 +123,6 @@ Genie 3 可以在更长的时间范围内生成一致且可交互的世界
 
 ![建筑物左侧的树木在整个交互过程中保持一致，即使它们时隐时现。](/images/posts/284129b92d82.jpg)
 
-
 建筑物左侧的树木在整个交互过程中保持一致，即使它们时隐时现。
 
 Genie 3 的一致性是一种涌现能力。其他方法如 NeRF 和高斯泼溅也允许生成一致的可导航 3D 环境，但依赖于提供显式的 3D 表示。相比之下，Genie 3 生成的世界要动态和丰富得多，因为它们是逐帧基于世界描述和用户操作创建的。
@@ -179,7 +178,6 @@ Genie 3的实现得益于以下人员在研究和工程方面的关键贡献：P
 我们感谢Frederic Besse, Tim Harley以及SIMA团队的其他成员，让我们能够使用他们智能体的最新版本。
 
 最后，我们向以下人员表示感谢，感谢他们的见解和支持：Mohammad Babaeizadeh, Gabe Barth-Maron, Parker Beak, Jenny Brennan, Tim Brooks, Max Cant, Harris Chan, Jeff Clune, Kaspar Daugaard, Dumitru Erhan, Ashley Feden, Simon Green, Nik Hemmings, Michael Huber, Jony Hudson, Dirichi Ike-Njoku, Hernan Moraldo, Bonnie Li, Simon Osindero, Georg Ostrovski, Ryan Poplin, Alex Rizkowsky, Giles Ruscoe, Ana Salazar, Guy Simmons, Jeff Stanway, Metin Toksoz-Exley, Xinchen Yan, Petko Yotov, Mingda Zhang 和 Martin Zlocha。
-
 
 > 本文由AI自动翻译，原文链接：[Genie 3: A new frontier for world models](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)
 > 

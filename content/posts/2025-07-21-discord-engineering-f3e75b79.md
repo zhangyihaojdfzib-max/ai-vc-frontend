@@ -63,7 +63,6 @@ Osprey和Coop都将在未来几个月内**公开提供**给用户和贡献者。
 
 ###### Discord是一个通信平台，让您能够通过语音、视频和文本功能，围绕游戏的乐趣建立有意义的连接。作为唯一专为玩多人游戏的用户打造的通信平台，Discord拥有超过2亿月活跃用户的高度参与社区，仅PC端每月在数千款游戏上的总游戏时长就达19亿小时。Discord总部位于旧金山，可在Discord.com免费下载，并提供名为Nitro的可选订阅服务，提供增强的流媒体和自定义功能。
 
-
 > 本文由AI自动翻译，原文链接：[ROOST Announces âCoopâ and âOspreyâ: Free, Open-Source Trust and Safety Infrastructure for the AI Era](https://discord.com/blog/roost-announces-coop-and-osprey-free-open-source-trust-and-safety-infrastructure-for-the-ai-era)
 > 
 > 翻译时间：2026-01-06 18:03

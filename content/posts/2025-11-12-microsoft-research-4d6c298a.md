@@ -105,7 +105,6 @@ MMCTAgent展示了一种采用规划者-批判者架构的、可扩展的智能�
 [2] X. Yue, Y. Ni, K. Zhang, T. Zheng, R. Liu, G. Zhang, S. Stevens, D. Jiang, W. Ren, Y. Sun, C. Wei, B. Yu, R. Yuan, R. Sun, M. Yin, B. Zheng, Z. Yang, Y. Liu, W. Huang, H. Sun, Y. Su, and W. Chen. “MMMU: A massive multi-discipline multimodal understanding and reasoning benchmark for expert AGI”, 2023.  
 [3] Chaoyou Fu, Yuhan Dai, Yondong Luo, Lei Li, Shuhuai Ren, Renrui Zhang, Zihan Wang, Chenyu Zhou, Yunhang Shen, Mengdan Zhang, et al. “Video-MME: The first-ever comprehensive evaluation benchmark of multi-modal llms in video analysis”, 2024.
 
-
 > 本文由AI自动翻译，原文链接：[MMCTAgent enables multimodal reasoning over large video collections](https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/)
 > 
 > 翻译时间：2026-01-06 00:51

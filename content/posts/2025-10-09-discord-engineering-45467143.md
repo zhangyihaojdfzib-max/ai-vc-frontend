@@ -27,7 +27,6 @@ Discord机器学习如何触及其扩展极限
 
 这就是Discord如何从零深度学习基础，到临时性实验，再到生产级编排平台的发展历程，也是这项工作如何催生了像广告排序这样的模型——该模型为我们的业务指标带来了超过200%的提升。
 
-
 > 本文由AI自动翻译，原文链接：[From Single-Node to Multi-GPU Clusters: How Discord Made Distributed Compute Easy for ML Engineers](https://discord.com/blog/from-single-node-to-multi-gpu-clusters-how-discord-made-distributed-compute-easy-for-ml-engineers)
 > 
 > 翻译时间：2026-01-05 17:29

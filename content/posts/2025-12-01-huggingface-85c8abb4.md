@@ -118,7 +118,6 @@ Transformers框架是AI模型参考实现的首选之地。该框架在推动现
 
 现在v5.0.0的第一个候选版本已经发布，我们热切期待您的反馈。请查看我们的发布说明以了解所有技术细节，我们将在GitHub issues中等待您的反馈！
 
-
 > 本文由AI自动翻译，原文链接：[Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5)
 > 
 > 翻译时间：2026-01-06 01:01

@@ -93,7 +93,6 @@ PEVA具有良好的扩展能力。更大的模型带来更优的性能。
 
 更多详情，请阅读完整论文或访问项目网站。
 
-
 > 本文由AI自动翻译，原文链接：[Whole-Body Conditioned Egocentric Video Prediction](http://bair.berkeley.edu/blog/2025/07/01/peva/)
 > 
 > 翻译时间：2026-01-05 13:17

@@ -40,7 +40,6 @@ translated_at: '2026-01-06T14:49:02.041Z'
 
 见过那些由一圈好友头像组成的群组私信图标吗？内部我们称之为“头像堆”。如果您查看补丁说明（访问 dis.gd/PatchNotes），可能会了解到更多此类小知识！（您也会看到我们修复的数百项其他内容。）
 
-
 > 本文由AI自动翻译，原文链接：[Discord Update: September 25, 2025 Changelog](https://discord.com/blog/discord-update-september-25-2025-changelog)
 > 
 > 翻译时间：2026-01-06 02:11

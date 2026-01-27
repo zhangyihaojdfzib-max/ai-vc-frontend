@@ -55,7 +55,6 @@ Cloudflare 是构建 Web 应用的默认选择。从 Replicate 诞生的第一�
 
 更多详情，请查看 Cloudflare 博客上的**官方公告**。
 
-
 > 本文由AI自动翻译，原文链接：[Replicate is joining Cloudflare – Replicate blog](https://replicate.com/blog/replicate-cloudflare)
 > 
 > 翻译时间：2026-01-08 04:44
