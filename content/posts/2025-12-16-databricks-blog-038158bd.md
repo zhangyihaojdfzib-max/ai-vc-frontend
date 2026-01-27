@@ -54,10 +54,6 @@ Dinesh S - AI驱动的数据工程助手，允许业务用户使用自然语言�
 
 有兴趣探索免费版吗？立即注册。
 
-产品
-2024年11月21日 / 3分钟阅读
-
-
 > 本文由AI自动翻译，原文链接：[Announcing the winners of the inaugural Databricks Free Edition Hackathon](https://www.databricks.com/blog/announcing-winners-inaugural-databricks-free-edition-hackathon)
 > 
 > 翻译时间：2026-01-06 01:24

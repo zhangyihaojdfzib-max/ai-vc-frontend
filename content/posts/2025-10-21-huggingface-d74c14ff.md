@@ -22,18 +22,6 @@ translated_at: '2026-01-22T04:50:14.581492'
 
 - +292
 
-![](/images/posts/785d7e16df1c.jpg)
-
-![](/images/posts/377bb8640be1.png)
-
-![](/images/posts/8c2942a398c6.jpg)
-
-![](/images/posts/ac0e506ba48d.jpg)
-
-![](/images/posts/0b27d2d98618.jpg)
-
-![](/images/posts/31012e332645.jpg)
-
 
 目录简介现代OCR简介模型能力顶尖开源OCR模型最新模型对比模型评估运行模型的工具本地运行远程运行超越OCR总结我们已将Chandra和OlmOCR-2添加至本篇博客，并附上了模型的OlmOCR分数 🫡
 
@@ -58,12 +46,10 @@ translated_at: '2026-01-22T04:50:14.581492'
 
 - 当前模型的格局及其能力
 - 何时应该微调模型，何时可以直接使用现成模型
-- 为你的用例选择模型时需要考虑的关键因素
 - 如何通过多模态检索和文档问答超越OCR
 
 到最后，你将知道如何选择合适的OCR模型，开始用它进行构建，并对文档AI有更深入的了解。我们开始吧！
 
-- 用开源模型为你的OCR流程注入强劲动力现代OCR简介模型能力转录处理文档中的复杂组件输出格式OCR中的位置感知模型提示顶尖开源OCR模型最新模型对比模型评估基准测试成本效益开源OCR数据集运行模型的工具本地运行远程运行超越OCR视觉文档检索器使用视觉语言模型进行文档问答总结
 
 - 现代OCR简介模型能力转录处理文档中的复杂组件输出格式OCR中的位置感知模型提示
 - 顶尖开源OCR模型最新模型对比模型评估基准测试成本效益开源OCR数据集
@@ -344,82 +330,6 @@ hf jobs uv run --flavor l4x1 \
 -   教程：在 Grounded OCR 上微调 Kosmos2.5
 -   教程：在 DocVQA 上微调 Florence-2
 -   使用 Core ML 和 dots.ocr 在设备端实现 SOTA OCR
-
-## Smol2Operator：用于计算机使用的训练后 GUI Agent（智能体）
-
--   +1
-
-![](/images/posts/a69384612bd4.png)
-
-![](/images/posts/78bab46e000b.jpg)
-
-![](/images/posts/dc8511e60da5.jpg)
-
-![](/images/posts/4402b0abc4cd.jpg)
-
-![](/images/posts/57c02494e0b8.png)
-
-## Gemma 3n 现已完全融入开源生态系统！
-
--   +4
-
-![](/images/posts/287c63ff9896.jpg)
-
-![](/images/posts/5b36678ab3e8.jpg)
-
-
-要是上周就有这个就好了！我上周花时间学习并测试了所有这些模型以及额外的模型，我想指出一个更正。OlmOCR 并非仅支持英语的模型，事实上，在我的阿拉伯语语料库上，它在所有 VLM 和非 VLM 框架中都取得了最佳结果。
-
--   6 条回复
-
-![](/images/posts/2b67df64c3a7.png)
-
-
-你测试了哪些 VLM？
-
-![](/images/posts/b3ef056e6ca0.jpg)
-
-总结得很棒！别忘了，DeepSeek OCR 也支持 Grounded OCR！
-
-![](/images/posts/61190997e9b3.png)
-
-想知道为什么比较中没有包含 minerU 2.5 模型？MinerU2.5-2509-1.2B
-
-![](/images/posts/1ffd57c1b408.jpg)
-
-非常有帮助的分析。布局感知能力和成本优势确实突出。感谢分享！
-
-![](/images/posts/f4f352087b1c.jpg)
-
-卓越的见解和基准测试分析。我将使用这里的数据集进行评估。
-
-![](/images/posts/106861fcab87.png)
-
-LightOnOCR-1B 非常适合加入本次比较，作为一个表现出色、超越其体量的强者：
-
--   🎯性能：在其规模上，在 OlmOCR 基准测试中取得了最先进的结果——击败了 DeepSeek-OCR，与 dots.ocr 持平（尽管体积小了 3 倍），与 PaddleOCR-VL 表现相当，并超过 Qwen3-VL-2B 16 分
--   ⚡速度：比 dots.ocr 快 6 倍，比 PaddleOCR-VL-0.9B 快 2 倍，比 DeepSeekOCR 快 1.73 倍
--   💸效率：在单个 H100 上每秒处理 5.71 页（约每天 493,000 页），每 1,000 页成本 < $0.01
--   🧠端到端：完全可微分，无需外部 OCR 流程——易于针对特定领域进行微调以改进
--   🧾多功能：可处理表格、收据、表单、多栏布局和数学符号
--   🌍紧凑变体：提供 32k 和 16k 词汇表选项，针对欧洲语言进行了优化
-
-![bench](/images/posts/bd9479bb5bef.png)
-
-· 注册或登录以发表评论
-
--   +286
-
-
-![](/images/posts/7440861c1fd8.jpg)
-
-![](/images/posts/4e1cfa4fde04.png)
-
-![](/images/posts/5fccaeadb224.jpg)
-
-![](/images/posts/25b209f83d7f.png)
-
-![](/images/posts/c93e8dc76332.jpg)
 
 
 > 本文由AI自动翻译，原文链接：[Supercharge your OCR Pipelines with Open Models](https://huggingface.co/blog/ocr-open-models)

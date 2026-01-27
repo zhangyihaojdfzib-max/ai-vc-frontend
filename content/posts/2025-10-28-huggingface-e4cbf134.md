@@ -22,18 +22,6 @@ translated_at: '2026-01-08T04:44:14.966330'
 
 - +28
 
-![](/images/posts/311db97fa420.jpg)
-
-![](/images/posts/ac0e506ba48d.jpg)
-
-![](/images/posts/5b36678ab3e8.jpg)
-
-![](/images/posts/a29bc25d8b31.png)
-
-![](/images/posts/cfd9088d8f1a.jpg)
-
-![](/images/posts/27a550474bb3.jpg)
-
 
 实践中的伦理：将授权作为系统基础设施技术细节方法解锁语音授权门在这篇博客文章中，我们提出了“语音授权门”的概念，以支持基于授权的语音克隆。我们提供了一个示例空间和配套代码来启动这个想法。
 
@@ -133,33 +121,7 @@ translated_at: '2026-01-08T04:44:14.966330'
 ![](/images/posts/770e62731bf0.png)
 
 
-- 1 条回复
-
-
-我看到了您的项目，觉得非常有趣。我尝试为其做出贡献，增加了多语言支持和本地句子生成（使用 ollama 和 llama3:8b），以及使用 XTTS v2 进行语音克隆。我已将代码上传到 GitHub，您可以在这里找到：https://github.com/faridgnank02/voice-cloning
-
-请告诉我您的看法。
-
-![](/images/posts/fbc271017605.png)
-
-非常有趣！但是，同意机制是否可能被另一个不需要验证的语音克隆模型绕过？例如，用那个模型来生成验证音频。
-
-· 注册 或 登录 以发表评论
-
-- +22
-
-
-![](/images/posts/57a181fb720e.png)
-
-![](/images/posts/6fd3dce20fa4.jpg)
-
-
-![](/images/posts/aedb1bac9e09.jpg)
-
-![](/images/posts/4625637daf54.png)
-
-![](/images/posts/23bfa5264cbc.jpg)
-
+- 1 
 
 > 本文由AI自动翻译，原文链接：[Voice Cloning with Consent](https://huggingface.co/blog/voice-consent-gate)
 > 

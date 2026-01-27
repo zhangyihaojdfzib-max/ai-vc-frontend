@@ -52,10 +52,6 @@ Agent（智能体）需要访问内部数据和服务，但以受控和可审计
 
 从 Databricks AI Playground 开始，使用 GPT-5.2，并在几秒钟内尝试提示词、工具调用和多模态输入。熟悉之后，使用 Agent Bricks 注册一个连接到您 Lakehouse 的 MCP 工具，构建一个小型的具备数据感知能力的 Agent（智能体），并通过追踪和评估进行迭代，直到 Agent（智能体）行为可靠。当它在您的数据上表现一致时，将其推广到生产环境。
 
-产品
-2024年11月21日 / 3分钟阅读
-
-
 > 本文由AI自动翻译，原文链接：[OpenAI GPT-5.2 and Responses API on Databricks: Build Trusted, Data-Aware Agentic Systems](https://www.databricks.com/blog/openai-gpt-52-and-responses-api-databricks-build-trusted-data-aware-agentic-systems)
 > 
 > 翻译时间：2026-01-06 01:25

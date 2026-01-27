@@ -24,16 +24,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 
 - +23
 
-![](/images/posts/fb71dc93d9af.jpg)
-
-![](/images/posts/9bc3346835fd.jpg)
-
-![](/images/posts/287c63ff9896.jpg)
-
-![](/images/posts/467464d6ada8.jpg)
-
-![](/images/posts/aedb1bac9e09.jpg)
-
 
 ## 摘要目录引言SO-ARM入门工作流：构建具身手术助手技术实现Sim2Real混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT开始使用资源摘要
 
@@ -265,30 +255,7 @@ Isaac for Healthcare SO-ARM 入门工作流现已可用。开始使用：
 
 鉴于机器人工作流越来越多地处理关键手术，当这些 AI 驱动的系统从手术室仿真转移到真实手术环境时，您如何看待设计伦理和合规性考量会如何演变？
 
-- 1 条回复
-
-![](/images/posts/8b83a519d2ca.png)
-
-
-这很棒，但作为一名曾在许多手术室工作过的医生，真正的挑战在于，人类助手如何通过多年并肩工作建立的直觉，确切知道外科医生下一步想要什么。外科医生对他们的工具以及期望手术团队工作的节奏非常讲究。尽管他们以脾气不好著称，但正是因为这个原因，他们非常重视团队中的人类成员。
-
-这对于我们仅用任何人都能买到的 Spark 就能做到的事情来说太棒了。但真正在手术室中使用还需要很多年，实现这一点所需的 AI 系统也同样遥远。
-
-这太棒了，NVIDIA Isaac for Healthcare 正在重新定义医疗机器人！无缝的仿真到现实工作流和混合数据训练使得构建安全、智能的手术助手比以往任何时候都更容易。这确实是 AI 在医疗保健领域的未来。
-
-· 注册或登录以发表评论
-
-- +17
-
-
-![](/images/posts/e5e036d5d070.webp)
-
-![](/images/posts/e15eebf7f347.jpg)
-
-![](/images/posts/df50a9c3dc80.jpg)
-
-![](/images/posts/21b6b30b32c9.jpg)
-
+- 1 
 
 > 本文由AI自动翻译，原文链接：[Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](https://huggingface.co/blog/lerobotxnvidia-healthcare)
 > 
