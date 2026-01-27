@@ -112,13 +112,7 @@ export function getAllPosts(): PostMeta[] {
     })
     .filter((post): post is PostMeta => post !== null)
     .sort((a, b) => {
-      // 优先按 translated_at 排序（最新翻译的排前面）
-      if (a.translated_at && b.translated_at) {
-        const timeA = new Date(a.translated_at).getTime()
-        const timeB = new Date(b.translated_at).getTime()
-        if (timeA !== timeB) return timeB - timeA
-      }
-      // 如果没有 translated_at，按日期排序
+      // 按发布日期排序（最新发布的排前面）
       return new Date(b.date).getTime() - new Date(a.date).getTime()
     })
 
