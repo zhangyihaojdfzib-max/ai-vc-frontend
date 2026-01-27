@@ -22,14 +22,9 @@ translated_at: '2026-01-16T04:29:22.508439'
 
 更新于美国东部时间2021年12月1日 15:24
 
-![](/images/posts/89f834196a62.jpg)
-
 ### Greylock 投资人 Jerry Chen 评估 AWS 与云产业的第二幕
 
-![](/images/posts/668158379ad9.jpg)
-
 独家视频作者：Mark Albertson
-
 
 本周在拉斯维加斯举行的 AWS re:Invent 大会，众多引人关注的支线情节之一便是亚马逊网络服务公司的“第二幕”问题。
 
@@ -67,27 +62,15 @@ translated_at: '2026-01-16T04:29:22.508439'
 - CrowdStrike 以 7.4 亿美元收购即时访问初创公司 SGNL
 - Strava 在订阅和收入增长之际提交保密 IPO 申请
 
-![](/images/posts/3657fdde5cb8.png)
-
 中国正雇佣大量人类“网络劳工”来训练人形机器人
-
-![](/images/posts/848aa7256b77.jpg)
 
 ThreatModeler 收购竞争性威胁建模初创公司 IriusRisk
 
-![](/images/posts/cd343686c78d.png)
-
 谷歌 Gmail 将进行 Gemini 启发的全面改造，具备 AI 优先级、摘要等功能
-
-![](/images/posts/6c06c8d35bdd.png)
 
 MiniMax 在香港 IPO 中融资 6.19 亿美元，显示投资者对生成式 AI 的兴趣依然强劲
 
-![](/images/posts/721b832c6f90.png)
-
 CrowdStrike 以 7.4 亿美元收购即时访问初创公司 SGNL
-
-![](/images/posts/b9656e3d666d.png)
 
 Strava 在订阅和收入增长之际提交保密 IPO 申请
 
@@ -98,24 +81,17 @@ Strava 在订阅和收入增长之际提交保密 IPO 申请
 - CrowdStrike 以 7.4 亿美元收购即时访问初创公司 SGNL | 安全 - 作者：MARIA DEUTSCHER，8 小时前
 - Strava 在订阅和收入增长之际提交保密 IPO 申请 | 应用 - 作者：DUNCAN RILEY，9 小时前
 
-
 新兴科技 - 作者：MIKE WHEATLEY，5 小时前
-
 
 安全 - 作者：MARIA DEUTSCHER，7 小时前
 
-
 AI - 作者：MIKE WHEATLEY，8 小时前
-
 
 AI - 作者：DUNCAN RILEY，8 小时前
 
-
 安全 - 作者：MARIA DEUTSCHER，8 小时前
 
-
 应用 - 作者：DUNCAN RILEY，9 小时前
-
 
 > 本文由AI自动翻译，原文链接：[Greylock investor Jerry Chen assesses the second act for AWS and the cloud industry - SiliconANGLE](https://greylock.com/press/greylock-investor-jerry-chen-assesses-the-second-act-for-aws-and-the-cloud-industry/)
 > 

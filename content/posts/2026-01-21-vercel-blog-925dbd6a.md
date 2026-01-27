@@ -22,21 +22,9 @@ translated_at: '2026-01-25T05:01:10.893558'
 
 当 Vercel Agent（智能体）审查您的拉取请求时，其建议会包含一个"查看建议"按钮，允许您将修复提交到您的 PR 分支，包括涉及多个文件的更改。
 
-![Vercel Agent - Review suggestions on dashboard](/images/posts/da7130ae70f5.png)
-
-![Vercel Agent - Review suggestions on dashboard](/images/posts/342ce56e7d25.png)
-
 建议会在仪表板中打开，您可以批量接受或逐一应用它们。
 
-![Vercel Agent - Reviewing and applying suggestions in bulk](/images/posts/82c1a6ad141b.png)
-
-![Vercel Agent - Reviewing and applying suggestions in bulk](/images/posts/4d70910c5dcb.png)
-
 应用建议后，审查线程会自动标记为已解决。您还可以从"任务"页面跟踪多个并发的 Vercel Agent（智能体）任务。
-
-![Vercel Agent - Tracking concurrent agent jobs](/images/posts/0af11ce1c9fe.png)
-
-![Vercel Agent - Tracking concurrent agent jobs](/images/posts/abcc252c84f2.png)
 
 请在 Agent（智能体）仪表板中开始使用 Vercel Agent（智能体）代码审查，或在文档中了解更多信息。
 

@@ -18,9 +18,6 @@ draft: false
 translated_at: '2026-01-15T04:40:44.228283'
 ---
 
-![选择正确的多智能体架构](/images/posts/9b5bc636a524.png)
-
-
 # 选择正确的多智能体架构
 
 在本文中，我们将探讨何时需要多智能体架构、我们观察到的四种主要模式，以及 LangChain 如何赋能您有效构建多智能体系统。
@@ -49,9 +46,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 **关键权衡**：每次交互增加一次额外的模型调用，因为结果必须流回主智能体。这种开销提供了集中控制和上下文隔离，但代价是延迟和 Token 消耗。
 
-![](/images/posts/504abd7379c1.png)
-
-
 对于希望以最少设置实现此模式的开发者，**Deep Agents** 提供了一个开箱即用的实现，只需几行代码即可添加子智能体。
 
 **了解更多**：[子智能体文档](https://python.langchain.com/docs/how_to/multi_agent_subagents/) | [教程：使用子智能体构建个人助理](https://python.langchain.com/docs/tutorials/multi_agent_subagents/)
@@ -68,9 +62,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 **关键权衡**：随着技能的加载，上下文会在对话历史中累积，这可能导致后续调用的 Token 膨胀。然而，该模式提供了简单性和贯穿始终的直接用户交互。
 
-![](/images/posts/b779889608ce.png)
-
-
 **了解更多**：[技能文档](https://python.langchain.com/docs/how_to/multi_agent_skills/) | [教程：使用按需技能构建 SQL 助手](https://python.langchain.com/docs/tutorials/multi_agent_skills/)
 
 ### 交接：状态驱动的转换
@@ -83,9 +74,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 **关键权衡**：比其他模式更具状态性，需要仔细的状态管理。然而，这使得流畅的多轮对话成为可能，上下文在阶段之间自然延续。
 
-![](/images/posts/0d4c10672414.png)
-
-
 **了解更多**：[交接文档](https://python.langchain.com/docs/how_to/multi_agent_handoffs/) | [教程：使用交接构建客户支持](https://python.langchain.com/docs/tutorials/multi_agent_handoffs/)
 
 ### 路由器：并行分发与合成
@@ -97,9 +85,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 **最适合**：具有不同垂直领域（独立知识领域）的应用、需要并行跨多个源查询的场景，或需要从多个智能体合成结果的情况。示例包括企业知识库和多垂直领域客户支持助手。
 
 **关键权衡**：无状态设计意味着每个请求的性能一致，但如果需要对话历史，则会产生重复的路由开销。可以通过将路由器包装为有状态对话智能体内的工具来缓解。
-
-![](/images/posts/1e95f033ff1b.png)
-
 
 **了解更多**：[路由器文档](https://python.langchain.com/docs/how_to/multi_agent_router/) | [教程：使用路由构建多源知识库](https://python.langchain.com/docs/tutorials/multi_agent_router/)
 
@@ -126,9 +111,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 **关键发现**：对于单一任务，移交模式、技能模式和路由模式效率最高（各需3次调用）。子Agent模式因结果需流经主Agent而额外增加一次调用。如下所示，这种开销提供了集中控制能力。
 
-![](/images/posts/3bf553f80718.png)
-
-
 ### 场景二：重复请求
 
 用户在对话中连续提出相同请求：
@@ -137,9 +119,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 
 **关键发现**：有状态模式（移交模式、技能模式）通过保持上下文，在重复请求时可节省40-50%的调用次数。子Agent模式通过无状态设计保持每次请求的成本稳定，以重复模型调用为代价提供了强大的上下文隔离。
 
-![](/images/posts/a82055d6098a.png)
-
-
 ### 场景三：多领域查询
 
 用户提问：“比较Python、JavaScript和Rust在Web开发中的表现”。每个语言Agent包含约2000个Token的文档。所有模式均可进行并行工具调用。
@@ -147,9 +126,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 **关键发现**：对于多领域任务，支持并行执行的模式（子Agent模式、路由模式）效率最高。技能模式调用次数较少，但因上下文累积导致Token使用量较高。移交模式必须顺序执行，无法通过并行工具调用来同时咨询多个领域。
 
 在此场景中，由于上下文隔离，子Agent模式整体处理的Token数量比技能模式少67%。每个子Agent仅处理相关上下文，避免了将多个技能加载到单一对话中时产生的Token膨胀问题。
-
-![](/images/posts/ef01de9fbf67.png)
-
 
 最佳模式取决于您的工作负载特征：
 
@@ -164,7 +140,6 @@ translated_at: '2026-01-15T04:40:44.228283'
 成功！请查收邮件并点击链接确认订阅。
 
 抱歉，出现错误。请重试。
-
 
 > 本文由AI自动翻译，原文链接：[Choosing the Right Multi-Agent Architecture](https://www.blog.langchain.com/choosing-the-right-multi-agent-architecture/)
 > 

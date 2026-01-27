@@ -26,14 +26,6 @@ translated_at: '2026-01-20T04:44:36.770774'
 - Andrew Mitchell
 - Leland Garofalo
 
-![Hrushikesh Deshpande](/images/posts/57832e22b418.png)
-
-![Andrew Mitchell](/images/posts/c55333608da3.png)
-
-![Leland Garofalo](/images/posts/f3cfc21c2dd0.png)
-
-![](/images/posts/e7538621b3b6.png)
-
 2025年10月13日，来自FearsOff的安全研究人员发现并报告了Cloudflare ACME（自动证书管理环境）验证逻辑中的一个漏洞，该漏洞导致特定ACME相关路径上的部分WAF功能失效。该漏洞通过Cloudflare的漏洞赏金计划被报告并验证。
 
 该漏洞的根源在于我们的边缘网络如何处理发往ACME HTTP-01质询路径（/.well-known/acme-challenge/*）的请求。
@@ -69,7 +61,6 @@ ACME是一种用于自动化SSL/TLS证书颁发、续期和吊销的协议。当
 一如既往，我们感谢外部研究人员负责任地披露此漏洞。我们鼓励Cloudflare社区提交任何已识别的漏洞，以帮助我们持续改进产品和平台的安全状况。
 
 我们也认识到，您对我们的信任对于您在Cloudflare上基础设施的成功至关重要。我们以最高度的关注对待这些漏洞，并将继续尽我们所能减轻影响。我们深深感谢您对我们平台的持续信任，并致力于不仅在我们所做的一切工作中优先考虑安全，而且在问题出现时迅速、透明地采取行动。
-
 
 > 本文由AI自动翻译，原文链接：[How we mitigated a vulnerability in Cloudflareâs ACME validation logic](https://blog.cloudflare.com/acme-path-vulnerability/)
 > 

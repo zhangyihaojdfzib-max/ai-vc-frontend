@@ -25,7 +25,6 @@ Discord应用能为你的对话增添更多活力，提供实用功能、文字�
 
 请继续阅读，获取这些热门问题的简明解答。
 
----
 
 > 本文由AI自动翻译，原文链接：[How to Play Games, Listen to Music, and Improve Your Discord Server with Apps & Activities](https://discord.com/blog/how-to-play-games-listen-to-music-improve-your-discord-server-with-apps)
 > 

@@ -29,8 +29,6 @@ translated_at: '2026-01-08T04:44:53.544213'
 
 Datalab 先进的文档解析与文本提取模型现已登陆 Replicate。
 
-![OCR](/images/posts/859c24fa28b8.webp)
-
 **Marker** 能将 PDF、DOCX、PPTX、图像（以及更多格式！）转换为 Markdown 或 JSON。它能格式化表格、数学公式和代码，提取图像，并且当您传入 JSON Schema 时，可以提取特定字段。
 
 **OCR** 能从图像和文档中检测九十种语言的文本，并返回阅读顺序和表格网格。
@@ -110,7 +108,6 @@ Marker 的表现优于所有测试模型，包括 GPT-4o、Deepseek OCR、Mistra
 *   在 `accurate` 模式下，每 1000 页 6 美元。
 
 OCR 每 1000 页收费 2 美元。
-
 
 > 本文由AI自动翻译，原文链接：[Extract text from documents and images with Datalab Marker and OCR – Replicate blog](https://replicate.com/blog/datalab-marker-and-ocr-fast-parsing)
 > 

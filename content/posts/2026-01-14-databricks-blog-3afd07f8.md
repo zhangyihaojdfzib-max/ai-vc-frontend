@@ -46,12 +46,9 @@ RetailAI 原生构建于 Databricks 数据智能平台之上，利用 Apache Spa
 
 “这是一次特别的合作，因为 Databricks 和 Algonomy 都相信，未来的软件将是 AI 优先的解决方案，由卓越的数据、出色的模型和强大的 Agent（智能体）能力驱动。Databricks 构建了卓越的数据和 AI 框架，而我们 Algonomy 在过去 20 年里，一直致力于为零售规划用例构建深度学习和机器学习算法。此外，零售规划是 Agent（智能体）AI 的首要用例，AI 在此能带来最直接、可衡量的成功。通过在 Databricks 上构建我们的解决方案，我们将复合 AI 系统的力量与稳健的数据基础相结合，将复杂模型转化为自主行动。”Algonomy 首席商务官 Ravi Shankar 表示。
 
-![高管视角 Ravi Shankar](/images/posts/51fa7a2d092c.png)
-
 “当今的零售商面临着巨大的压力，需要根据快速变化的消费者需求来转型业务。RetailAI 为他们提供了一个强大的平台来推动这一转型，它将 Algonomy 深厚的零售领域专业知识与 Databricks 数据智能平台的智能和规模相结合。”Databricks 消费行业合作伙伴生态系统负责人 Bryan Smith 表示。“这种合作伙伴关系使零售商能够从被动规划转向由 Agent（智能体）AI 驱动的、以结果为导向的预测性战略——提供当今市场所需的速度和精度。”
 
 ##
-
 
 > 本文由AI自动翻译，原文链接：[Algonomy + Databricks Built On Partnership for RetailAI](https://www.databricks.com/blog/algonomy-databricks-built-partnership-retailai)
 > 

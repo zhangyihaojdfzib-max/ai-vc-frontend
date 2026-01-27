@@ -21,8 +21,6 @@ translated_at: '2026-01-08T04:37:49.451180'
 
 ## 初创企业需要关于分发与产品/市场契合的双重理论。仅有一个是不够的
 
-![](/images/posts/8a32ab580d28.jpg)
-
 没有强大的分发理论，产品很难成功。这是一个常见的初创企业困境：团队埋头苦干数月，打造产品的第一个版本。产品即将完成时，一个重大问题浮现——如何让第一批用户使用你的产品？嗯……
 
 如果你发现自己正处于这个时刻，那么你已经处于不利境地。
@@ -83,13 +81,10 @@ translated_at: '2026-01-08T04:37:49.451180'
 
 此列表不包括发行人未允许 a16z 公开披露的投资，以及未公开宣布的对公开交易数字资产的投资。Andreessen Horowitz 过往的投资、集合投资工具或投资策略的结果并不一定代表未来结果。更多重要信息请参见 https://a16z.com/disclosures。
 
-![](/images/posts/25464ad7bb53.jpg)
-
 关于
 安德鲁·陈是 Andreessen Horowitz 的合伙人，专注于游戏、AR/VR、元宇宙和消费科技初创公司的投资。他是《冷启动问题》一书的作者，该书讲述了如何通过网络效应启动和发展新初创公司。他居住在加利福尼亚州威尼斯市。（更多信息）订阅通讯
 
 安德鲁·陈是 Andreessen Horowitz 的合伙人，专注于游戏、AR/VR、元宇宙和消费科技初创公司的投资。他是《冷启动问题》一书的作者，该书讲述了如何通过网络效应启动和发展新初创公司。他居住在加利福尼亚州威尼斯市。（更多信息）
-
 
 > 本文由AI自动翻译，原文链接：[Startups need dual theories on distribution and product/market fit. One is not enough at andrewchen](https://andrewchen.com/startups-need-dual-theories-on-distribution-and-product-market-fit-one-is-not-enough/)
 > 

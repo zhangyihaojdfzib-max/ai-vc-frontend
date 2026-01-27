@@ -22,10 +22,6 @@ translated_at: '2026-01-14T04:47:45.191546'
 
 - David Belson
 
-![David Belson](/images/posts/36fd8a522291.jpg)
-
-![](/images/posts/d4f7e068a357.png)
-
 2025年12月下旬，伊朗多个城市爆发大规模抗议活动。虽然这些抗议最初是由通货膨胀、食品价格和货币贬值引发的民众不满所推动，但已逐渐演变为要求改变国家领导体制的示威活动。
 
 过去几天，来自伊朗的互联网流量已基本降至零。正如我们将在本文中阐述的，Cloudflare Radar提供的数据清晰显示了这一现象。
@@ -65,7 +61,6 @@ translated_at: '2026-01-14T04:47:45.191546'
 正如我们在社交媒体（X、Mastodon、Bluesky）发布的内容所述，自1月10日以来伊朗互联网流量未出现显著变化。该国几乎仍完全与全球互联网隔绝，内部数据显示流量水平仅维持在以往水平的千分之几。
 
 我们将持续监测伊朗互联网连接状况，并通过社交媒体账号发布最新动态。您可通过Cloudflare Radar的流量与路由页面查看伊朗及该国主要网络的实时数据指标。
-
 
 > 本文由AI自动翻译，原文链接：[What we know about Iranâs Internet shutdown](https://blog.cloudflare.com/iran-protests-internet-shutdown/)
 > 

@@ -211,12 +211,6 @@ translated_at: '2026-01-24T04:35:43.960596'
 
 ## 从电信防客户流失AI Agent到任何行业：信任与可靠性评估深度解析
 
-![使用Databricks和MLflow构建负责任且经过校准的AI Agent：一个真实世界用例深度解析](/images/posts/cdcb63608934.png)
-
-![使用Databricks和MLflow构建负责任且经过校准的AI Agent：一个真实世界用例深度解析](/images/posts/cdcb63608934.png)
-
-![使用Databricks和MLflow构建负责任且经过校准的AI Agent：一个真实世界用例深度解析](/images/posts/cdcb63608934.png)
-
 发布日期：2026年1月21日
 
 作者：Ananya Roy 和 Layla Yang
@@ -273,17 +267,9 @@ LLM（大语言模型）被设计为生成非确定性输出。如果对依赖�
 
 在本博客中，我们构建了如下所述的多Agent系统。它基于Databricks MLflow、LangGraph编排和Databricks托管的基础模型构建。多个子Agent以监督者-工作者关系协同工作，执行专门任务，例如故障排除子Agent、客户360分析Agent、留存Agent等。这些独立的子Agent被设计为根据请求执行特定任务。我们的任务是验证这个复合系统是否准确、可信赖并实施了负责任的人工智能实践。我们将重点关注此Agent的质量，因此不会涵盖此Agent的构建过程。
 
-![图A：使用LangGraph和Databricks的电信客户流失预防多Agent系统](/images/posts/cc48c6558897.png)
-
-![使用LangGraph和Databricks的电信客户流失预防多Agent系统](/images/posts/cc48c6558897.png)
-
 ## 构建负责任AI系统的支柱：
 
 负责任的人工智能是一种实践，而非一套固定的规则。它随着我们构建的AI系统的成熟度和行为而发展。这种实践可以大致组织成几个关键支柱。在本博客中，我们为我们的流失预防Agent实现了一个贯穿这些支柱的流水线，并在适用时使用了MLflow Python SDK和UI。
-
-![图B：负责任AI的支柱以及Databricks和MLflow如何提供帮助](/images/posts/5ee0b81bba6d.png)
-
-![负责任AI的支柱以及Databricks和MLflow如何提供帮助](/images/posts/5ee0b81bba6d.png)
 
 让我们详细研究每一个支柱，并提供在Databricks中实现它们的代码示例。如果您主要对更广泛的概念感兴趣，可以跳过代码实现部分。
 
@@ -297,10 +283,6 @@ Agent系统很复杂，准确性、F1分数等指标常常忽略了真正重要�
 Databricks MLflow 3提供了多种评分器/评估器，用于在不同层面评估我们的AI应用。根据我们需要的定制化和控制程度，可以使用适当类型的评分器。每种方法都建立在前一种之上，增加了更多的复杂性和能力。
 
 从内置评判器开始进行快速评估。这些评判器提供有研究支持的指标，如安全性、正确性和事实依据性。随着需求的发展，可以构建自定义LLM评判器用于特定领域标准，并创建基于自定义代码的评分器用于确定性的业务逻辑。
-
-![图C：MLflow评分器选择决策流程](/images/posts/d12336cf1631.png)
-
-![MLflow评分器选择决策流程](/images/posts/d12336cf1631.png)
 
 让我们开始为我们的AI Agent实现每种评估方法。但首先，我们需要创建一个评估数据集。
 
@@ -320,8 +302,6 @@ evaluation_traces = MLflow.search_traces(
 
 MLflow的`search_traces` API会获取与实验中应用程序执行相关的所有轨迹，并准备好用于质量评估。
 
-![评估数据框](/images/posts/3b994d9118be.png)
-
 现在我们的数据集已准备就绪并以数据框形式呈现，让我们开始评估AI Agent的质量。
 
 **场景：** 假设我们想评估我们的流失预防Agent是否对用户查询生成了安全且相关的回答。
@@ -337,7 +317,6 @@ telco_scorers = [
        RelevanceToQuery(),   
        Safety()]
 
-
 # 使用预定义评分器运行评估
 eval_results_builtin = MLflow.genai.evaluate(
        data=evaluation_traces,
@@ -345,8 +324,6 @@ eval_results_builtin = MLflow.genai.evaluate(
    )
 
 ```
-
-![MLflow实验](/images/posts/4025c3d164c5.png)
 
 这些评判器功能强大，能很好地反映我们应用程序的性能。但如果它们还不够呢（例如，我需要我的Agent遵循我组织的政策指南）？那么我们可以使用MLflow指南驱动的评判器来弥合差距。
 
@@ -370,7 +347,6 @@ telco_scorers = [
        )
    ]
 
-
 # 使用预定义的评分器运行评估
 eval_results = MLflow.genai.evaluate(
        data=evaluation_traces,
@@ -378,10 +354,6 @@ eval_results = MLflow.genai.evaluate(
    )
 
 ```
-
-![MLflow Experiment](/images/posts/5d50d40152a8.png)
-
-![MLflow Experiment](/images/posts/dd5630ec6a7b.png)
 
 自定义评判器指标：
 
@@ -420,8 +392,6 @@ MLflow.langchain.autolog()
 
 << LangGraph 智能体代码 >>
 
-![MLflow Trace](/images/posts/e21e443c3f33.png)
-
 快照显示了我们电信智能体的 MLflow 追踪，该追踪由 MLflow 自动生成、管理并存储在 Databricks 中。这些追踪可以被过滤和自定义，以创建用于调试和分析的定制视图。
 
 ```
@@ -435,19 +405,16 @@ MLflow.openai.autolog()
 import MLflow
 from MLflow.entities import SpanType
 
-
 @MLflow.trace(span_type=SpanType.CHAIN)
 def process_request(query: str) -> str:
   # 您的代码放在这里 - 自动追踪！
   result = generate_response(query)
   return result
 
-
 @MLflow.trace(span_type=SpanType.LLM)
 def generate_response(query: str) -> str:
   # 嵌套函数 - 父子关系自动处理
   return f"This is a placeholder response to {query}"
-
 
 process_request("User prompt")
 ```
@@ -460,16 +427,12 @@ process_request("User prompt")
 
 在下面的代码中，我们使用了相同的评分器 (`count_tool_calls`) 并在我们的生产流量上实施了它。当指标值低于阈值时，这会触发警报。
 
-![Databricks Mosaic AI Gateway](/images/posts/67b2a5c3d380.png)
-
 ```
 from MLflow.genai.scorers import ScorerSamplingConfig
 # 注册评分器以供生产环境使用
 count_tool_calls = count_tool_calls.register(name="count_tool_calls")
 Count_tool_calls= count_tool_calls.start(sampling_config=ScorerSamplingConfig(sample_rate=1.0))
 ```
-
-![Databricks Production Monitoring for Agents](/images/posts/bcdcfc0b1ef2.png)
 
 我们仍处于 AI 的早期阶段；这些系统的能力尚未被完全探索。在设计和构建 AI 智能体系统时，**人工监督至关重要**。如果没有人对应用程序输出进行监督，我们就有可能丢失客户数据和敏感信息，最终损害对系统的信任。
 
@@ -484,7 +447,6 @@ Count_tool_calls= count_tool_calls.start(sampling_config=ScorerSamplingConfig(sa
 ```
 from databricks import agents
 
-
 agents.deploy(
    endpoint_name = 'telco_churn_prev_ai_agent_ret_focused',
    model_name=UC_MODEL_NAME,
@@ -498,19 +460,10 @@ agents.deploy(
 
 ```
 
-![Human Centric Design](/images/posts/44a0b0e3a4e4.png)
-
-![Human Centric Design](/images/posts/78c13b4c28ec.png)
-
-![Human Centric Design](/images/posts/a50d408c87e3.png)
-
-![Human Centric Design](/images/posts/246804a19d61.png)
-
 输入数据中的偏见可能导致智能体输出产生误导，并对任何AI应用的结果产生有害影响。由于智能体是一个复合系统，偏见可能出现在各个阶段，因此解决应用的整体响应至关重要。数据偏见可以使用业务指标和偏见框架早期识别，而LLM（大语言模型）提供商则应用统计方法来解决预训练中的偏见。应用也可以定义自定义指标来检测模型响应中的偏见。我们可以采用与之前讨论的Guideline指标相同的原理来实现一个偏见指标。这里我们创建一个自定义偏见检测指标来检测智能体输出中的任何偏见。
 
 ```
 from MLflow.genai.scorers import Guidelines
-
 
 # 定义一个用于评估AI应用偏见的偏见指标
 telco_scorers = [
@@ -519,7 +472,6 @@ telco_scorers = [
            guidelines="""You are an expert bias detection analyst. Examine the input request and output response to identify potential biases across these dimensions: 1) Demographic Bias - age, gender, socioeconomic status, education level ….  3) Product/Brand/Commercial Bias - favoritism toward specific companies, products, services, undisclosed promotional content ……""",
        )]
 
-
 # 使用预定义的评分器运行评估
  eval_results_v1 = MLflow.genai.evaluate(
        data=evaluation_traces,
@@ -527,8 +479,6 @@ telco_scorers = [
    )
 
 ```
-
-![Bias and Fairness](/images/posts/b84a5d65ddd7.png)
 
 上面的例子表明，尽管没有性别、宗教偏见，但在智能体响应中观察到了产品/品牌/商业偏见和偏袒。自定义的偏见指标很容易从智能体的输出中确定。
 
@@ -564,18 +514,15 @@ import MLflow
 from MLflow.genai import make_judge
 from typing import Literal
 
-
 # 用于3类问题解决状态的新指南
 issue_resolution_prompt = """
 Evaluate the entire conversation between a customer and an LLM-based agent.  Determine if the issue was resolved in the conversation. You must choose one of the following categories.
-
 
 [[fully_resolved]]: The response directly and comprehensively addresses the user's question or problem, providing a clear solution or answer.
 [[partially_resolved]]: The response offers some help or relevant information but doesn't completely solve the problem or answer the question. [[needs_follow_up]]: The response does not adequately address the user's query, misunderstands the core issue…. 
 "User's messages: {{ inputs }}\n"
 "Agent's responses: {{ outputs }}"
 """
-
 
 # 创建一个使用输入和输出评估问题解决的评判器
 issue_resolution_judge = make_judge(
@@ -587,8 +534,6 @@ coi_scorer_results = MLflow.genai.evaluate(
        data=evaluation_traces,
        scorers=[issue_resolution_judge])
 ```
-
-![Custom Judge Metrics](/images/posts/abbbc43cc77d.png)
 
 考虑上面的例子。我们定义了一个指标，用于评估客户问题是否已通过AI智能体得到解决，并根据其分析提供完全解决、部分解决或完全未解决的评分。
 
@@ -607,7 +552,6 @@ from typing import Optional, Any
 from MLflow.entities import Feedback, Trace
 import json
 
-
 @scorer
 def count_tool_calls(trace: Trace) -> int:
    tool_calls = 0
@@ -625,8 +569,6 @@ def count_tool_calls(trace: Trace) -> int:
    return tool_calls 
 ```
 
-![MLflow Experiment View](/images/posts/fb22505ee6f8.png)
-
 在这种情况下，我们可以看到流失分析Agent（智能体）为单个查询进行了**13**次工具调用，因为未提供客户详细信息，导致其调用了所有可用工具。这个问题可以通过实施身份验证检查来阻止未经验证的请求来解决。在左侧的Agent-as-judge（智能体即裁判）代码片段中，您可以看到在定义这些自定义裁判时，可以选择任意模型作为裁判。我们使用了"openai:/gpt-5"作为我们的裁判。
 
 ```
@@ -635,7 +577,6 @@ import MLflow
 from MLflow.genai.judges import make_judge
 from typing import Literal
 import time
-
 
 tool_call_judge = make_judge(
   name="performance_analyzer",
@@ -657,21 +598,9 @@ tool_call_judge = make_judge(
 
 ## 不错过任何一篇Databricks文章
 
-![How automated workflows are revolutionizing the manufacturing industry](/images/posts/40d9e92dd935.png)
-
-![How automated workflows are revolutionizing the manufacturing industry](/images/posts/40d9e92dd935.png)
-
-![How automated workflows are revolutionizing the manufacturing industry](/images/posts/40d9e92dd935.png)
-
 2024年11月27日 / 阅读6分钟
 
 #### 自动化工作流如何革新制造业
-
-![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
-
-![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
-
-![Elevating Global Health with Databricks and The Virtue Foundation](/images/posts/596b5527cd9c.png)
 
 医疗保健与生命科学
 

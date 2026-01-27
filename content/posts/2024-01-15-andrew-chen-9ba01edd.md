@@ -92,14 +92,10 @@ translated_at: '2026-01-24T04:25:02.095303'
 
 此列表不包括发行人未允许 a16z 公开披露的投资，以及对公开交易的数字资产的未公布投资。Andreessen Horowitz 过往的投资、集合投资工具或投资策略的结果并不一定预示未来结果。更多重要信息请参见 https://a16z.com/disclosures。
 
-![](/images/posts/25464ad7bb53.jpg)
-
 关于
 安德鲁·陈是 Andreessen Horowitz 的合伙人，专注于投资游戏、AR/VR、元宇宙和消费科技初创公司。他是《冷启动问题》一书的作者，该书探讨了如何通过网络效应启动和发展新初创公司。他居住在加利福尼亚州威尼斯（更多）订阅通讯
 
 安德鲁·陈是 Andreessen Horowitz 的合伙人，专注于投资游戏、AR/VR、元宇宙和消费科技初创公司。他是《冷启动问题》一书的作者，该书探讨了如何通过网络效应启动和发展新初创公司。他居住在加利福尼亚州威尼斯（更多）
-
----
 
 > 本文由AI自动翻译，原文链接：[How to write more at andrewchen](https://andrewchen.com/how-to-write-more/)
 > 

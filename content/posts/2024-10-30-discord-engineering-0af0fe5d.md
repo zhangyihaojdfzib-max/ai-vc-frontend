@@ -22,7 +22,6 @@ translated_at: '2026-01-25T05:01:23.052866'
 
 我们联系了Emi和Alex，听听他们如何与这个比喻中的（也是虚拟的）怪物作战。此外，我们还要向两位新朋友Serena和Tyler致以令人"毛骨悚然"的问候！他们有一些很棒的游戏推荐要分享，如果……出于某种原因……也许你还想继续喂养你的待玩游戏库怪物呢？
 
----
 
 > 本文由AI自动翻译，原文链接：[October Staff Picks: Monster Season](https://discord.com/blog/october-staff-picks-monster-season)
 > 

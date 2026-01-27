@@ -20,14 +20,9 @@ translated_at: '2026-01-08T04:28:40.049480'
 
 # AWS在AI领域迈出一步
 
-![特写：一位徒步者的靴子踏过崎岖地形，一只靴底的纹路清晰聚焦，背景是模糊的山地景观。](/images/posts/bc5728f0b5d0.jpg)
-
 一年前的这周，我在AWS re:Invent大会上推出了《FastForward #1》。在这个星球上最令人分心的地方之一，置身于一场盛大会议的喧嚣中正式开启我的旅程，这真是个绝佳的起点。但我们已准备就绪，而且永远没有完美的时机。于是，我纵身一跃。
 
 一年后，在发布了48期内容后，我重返拉斯维加斯，排着长长的出租车队伍，还被过于热心的活动安保人员找麻烦——仅仅因为我在Matt Garman的主题演讲结束后离开礼堂时，斗胆拍了一张照片。他们威胁要逮捕我并吊销我的证件，直到更冷静的头脑占了上风。我被放行，但心有余悸且颇为恼火，不过这也成了我在新闻中心向记者朋友们讲述的一个好故事。
-
-![AWS CEO Matt Garman在re:Invent 2025上发表主题演讲。照片由亚马逊提供。](/images/posts/4c5d3f6f1f73.jpg)
-
 
 但本周真正的故事并非关于我运营《FastForward》一年来的小插曲。而是关于re:Invent的主题，以及亚马逊在持续的AI竞赛中所处的位置。两年前，Adam Selipsky仍是AWS的CEO，当时业界普遍认为亚马逊已经落后。微软当时与OpenAI的紧密关系似乎让雷德蒙德（微软总部）占了上风。尽管大家都说为时尚早，但亚马逊内部似乎已弥漫着某种程度的恐慌。
 
@@ -46,18 +41,11 @@ translated_at: '2026-01-08T04:28:40.049480'
 
 题图摄影：Ron Miller。
 
-![前路漫漫，后会有期](/images/posts/ec97d1afeabe.jpg)
-
 前路漫漫，后会有期
-
-![感恩节科技随想](/images/posts/7cebd8b71c98.jpg)
 
 感恩节科技随想
 
-![AI原生者与AI跟风者](/images/posts/452f14424afe.jpg)
-
 AI原生者与AI跟风者
-
 
 > 本文由AI自动翻译，原文链接：[AWS takes an AI step forward - FastForward](https://fastforward.boldstart.vc/aws-takes-an-ai-step-forward/)
 > 

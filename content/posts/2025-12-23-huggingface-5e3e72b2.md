@@ -44,7 +44,6 @@ Motivation
 Traditional safety classifiers primarily focus on a limited classification spectrum (e.g., toxicity or self-harm), assume short inputs, and evaluate single user messages. Modern deployments, however, feature:
 - Multi-turn conversations
 - Long contexts
-- Structured reasoning steps producing chains of thought
 - Tool-assisted multi-step workflows (agents)
 - A growing class of adversarial attacks exploiting reasoning, tools, or memory
 As a result, production teams increasingly rely on workarounds: multiple guard models for different stages, regex filters, static rules, or hand-crafted heuristics. These approaches are brittle and do not scale.
@@ -55,9 +54,7 @@ AprielGuard operates across three input formats:
 - Multi-turn Conversation
 - Agentic Workflow (tool calls, reasoning traces, memory, system context)
 It outputs:
-- Safety classification and a list of violated categories from the taxonomy
 - Adversarial attack classification
-- Optional structured reasoning explaining the decision
 Taxonomy
 A. Safety Taxonomy
 | Category | Description |

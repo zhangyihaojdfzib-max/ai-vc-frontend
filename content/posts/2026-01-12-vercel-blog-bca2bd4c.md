@@ -70,8 +70,6 @@ Workflow DevKit 满足了所有这些要求。`"use workflow"` 和 `"use step"` 
 
 当一个步骤首次运行失败，然后在 2 秒后重试并成功时，在可观测性仪表板中看起来是这样的：
 
-![](/images/posts/3bca513824eb.png)
-
 每个 `"use step"` 函数都是独立运行的。如果在生成摘要和标签后，审核 API 失败了，工作流会从上次中断的地方恢复。你不会丢失已经付费完成的工作。执行分布在多个无服务器函数调用中，因此长时间运行的 AI 操作永远不会触及超时限制。
 
 `@mux/ai` SDK 还**内置了基础单元**，这些是更低层次的单一工作单元，例如 `fetchTranscriptForAsset` 和 `getStoryboardUrl`。这些函数已通过 `"use step"` 指令导出，因此你可以将它们引入到自己的工作流中，并将其视为离散步骤。
@@ -79,8 +77,6 @@ Workflow DevKit 满足了所有这些要求。`"use workflow"` 和 `"use step"` 
 ## 随处部署，在 Vercel 上扩展
 
 Workflow DevKit 通过“世界”的概念设计时考虑了可移植性。一个“世界”是存储工作流状态的地方。在本地，它是磁盘上的 JSON 文件。在 Vercel 上，它会为你管理。或者你可以**使用 Postgres、Redis 自托管，或构建你自己的**。最简单的路径是使用本地世界在本地开发和测试，然后部署到 Vercel，在那里所有资源（包括可观测性仪表板）都会自动配置。这是默认的零配置体验。
-
-![](/images/posts/cecbc92c9808.jpg)
 
 对于部署到 Vercel 的团队来说，这意味着：
 
@@ -129,7 +125,6 @@ Next.js模板（含代码示例）
 @mux/ai产品公告
 
 本文由Dylan Jhaveri与Mux团队共同撰写。Mux致力于为开发者构建视频基础设施，@mux/ai通过与Workflow DevKit集成，使AI视频工作流无需额外基础设施即可投入生产环境。
-
 
 > 本文由AI自动翻译，原文链接：[How Mux shipped durable video workflows with their @mux/ai SDK - Vercel](https://vercel.com/blog/how-mux-shipped-durable-video-workflows-with-their-mux-ai-sdk)
 > 

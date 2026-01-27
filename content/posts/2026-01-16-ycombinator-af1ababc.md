@@ -25,19 +25,9 @@ translated_at: '2026-01-17T04:08:43.451372'
 
 作者：Ankit Gupta 2026年1月16日
 
-![](/images/posts/26d9bf950c69.png)
-
-
 今年，YC与近二十家公司合作，为参加YC活动的学生提供一套AI开发工具的免费额度。
 
 **YC AI学生入门资源包**包含价值超过20,000美元的Azure和AWS云服务额度，超过5,000美元的GPT/Claude/Grok额度，以及在语音、浏览器自动化、网络搜索、视频生成、数据库、网络爬虫等领域的AI开发工具的丰厚额度。我们特别高兴的是，有14家YC公司参与了此资源包的提供。
-
-![](/images/posts/2ada57aa36af.png)
-
-
-![](/images/posts/f2f5dc0faed6.png)
-
-![](/images/posts/47d6ff817e72.png)
 
 我们希望看到学生们利用这些资源来尝试最新的AI工具，而无需担心自掏腰包。许多最棒的想法都是基于这些技术构建的。例如，你可以使用**Firecrawl**和**Exa**构建市场研究工具，使用**Vapi**和**Browser Use**构建语音助手，或者使用**Reducto**和**Gumloop**构建法律助手。
 
@@ -56,8 +46,6 @@ YC工作系列：初创公司中的女性工程师
 2021年8月26日 作者：Kat Mañalac
 
 -   Ankit Gupta Ankit是YC的普通合伙人，也是Reverie Labs的创始人。该公司在2024年被Ginkgo Bioworks收购前，致力于开发用于药物发现的机器学习模型。他是一位深度学习研究员，曾在ICML发表论文。
-
-![](/images/posts/e07b671e6496.jpg)
 
 Ankit是YC的普通合伙人，也是Reverie Labs的创始人。该公司在2024年被Ginkgo Bioworks收购前，致力于开发用于药物发现的机器学习模型。他是一位深度学习研究员，曾在ICML发表论文。
 
@@ -85,7 +73,6 @@ Ankit是YC的普通合伙人，也是Reverie Labs的创始人。该公司在2024
 -   YC交易
 
 ### 创造人们想要的东西。
-
 
 > 本文由AI自动翻译，原文链接：[Announcing the YC AI Student Starter Pack | Y Combinator](https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/)
 > 

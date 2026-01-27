@@ -24,7 +24,6 @@ translated_at: '2026-01-24T04:35:59.378844'
 
 如果你使用桌面客户端，即使 Discord 不在当前焦点窗口，也能使用这些快捷键。其中大部分快捷键也可在桌面浏览器中使用我们的网页应用时生效，但若网页浏览器不在焦点窗口，则无法使用。
 
----
 
 > 本文由AI自动翻译，原文链接：[How to Use Keyboard Shortcuts on Discord & Create Custom Keybinds](https://discord.com/blog/how-to-use-keyboard-shortcuts-on-discord-create-custom-keybinds)
 > 

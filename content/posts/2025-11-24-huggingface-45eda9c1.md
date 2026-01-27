@@ -102,9 +102,6 @@ console.log(chatCompletion.choices[0].message);
 我们也为已登录的免费用户提供少量配额的免费推理，但如果可以，请升级到 PRO！
 
 **反馈与后续步骤**
-我们非常希望得到您的反馈！请在此处分享您的想法和/或评论：https://huggingface.co/spaces/huggingface/HuggingDiscussions/discussions/49
-
-
 > 本文由AI自动翻译，原文链接：[OVHcloud on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud)
 > 
 > 翻译时间：2026-01-06 01:03

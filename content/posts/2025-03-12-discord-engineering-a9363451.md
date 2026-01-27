@@ -20,9 +20,6 @@ translated_at: '2026-01-19T05:03:35.783304'
 
 在过去的六个月里，Discord的媒体基础设施团队通过增加对动态WebP和AVIF格式的支持，实现了我们图像管道的现代化。现在，您可以通过附件和嵌入分享动态WebP和AVIF内容，同时所有动态表情符号都以动态WebP格式提供——在Discord的每个平台上都能无缝显示。这些改进旨在实现更高质量的动画效果和跨平台更好的播放性能，同时大幅减小文件体积，从而让它们加载得更快！
 
-![](/images/posts/d1ee6bdd3ec5.webp)
-
-
 > 本文由AI自动翻译，原文链接：[Modern Image Formats at Discord: Supporting WebP and AVIF](https://discord.com/blog/modern-image-formats-at-discord-supporting-webp-and-avif)
 > 
 > 翻译时间：2026-01-19 05:03

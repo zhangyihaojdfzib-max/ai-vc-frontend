@@ -55,9 +55,6 @@ TPU作为谷歌定制的AI加速器芯片，现已发展到第七代，其性能
 
 我们期待一个未来：每家公司都能使用开放模型构建自己的AI，并将其托管在自己安全可控的基础设施中。我们很高兴能与谷歌云共同实现这一未来。无论您使用Vertex AI Model Garden、Google Kubernetes Engine、Cloud Run还是Hugging Face Inference Endpoints，我们深入的合作都将加速这一愿景的实现。
 
-您希望我们通过与谷歌的合作创造或改进什么？请在评论中告诉我们！
-
-
 > 本文由AI自动翻译，原文链接：[Building for an Open Future - our new partnership with Google Cloud](https://huggingface.co/blog/google-cloud)
 > 
 > 翻译时间：2026-01-06 01:07

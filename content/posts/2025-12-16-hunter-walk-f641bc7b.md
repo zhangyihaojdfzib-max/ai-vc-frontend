@@ -24,9 +24,6 @@ translated_at: '2026-01-08T04:38:28.368783'
 
 要读的内容太多，今年却只剩408小时… 真是压力山大
 
-![新年将至，Krampus提醒你关闭浏览器标签页](/images/posts/b4f879ee34a6.jpg)
-
-
 **埃隆·马斯克有他的愿景，Waymo负责人Tekedra Mawakana说她有更好的方案** [Noah Shachtman/《名利场》] – Waymo充满魔力。阅读这篇人物特写让我意识到，相比另一位高调人物，我们很少听到Waymo高管的发声。仅2025年他们就完成了**超过1400万次出行**，是技术改变日常物理世界的绝佳范例。我们在旧金山很幸运——愿你的城市成为Waymo的下一个落脚点！
 
 **想要这款助听器？那得看你认识谁** [Steven Levy/《连线》] – 这款AI助听器限量发售，起价6800美元。但（a）它显然非常出色；（b）这是技术随时间推移降低成本的典型路径；（c）助听器普遍昂贵[且不幸的是保险并不总是覆盖]。公司名为**Fortell**，感兴趣可深入了解。
@@ -37,13 +34,7 @@ translated_at: '2026-01-08T04:38:28.368783'
 
 **人人都在赌博却无人快乐** [Kyla Scanlon/Kyla通讯] – Kyla借一项研究展开论述，该研究将二十多岁年轻人的不满归因于经济不稳定（众多得出相同结论的研究之一）。与此同时——或许正因如此——群体间信任正在瓦解，AI焦虑日益加剧，而投机/YOLO/赌博活动激增（尤其在年轻男性中）。
 
-![](/images/posts/3ccd5735d921.png)
-
-
 **2025年度股东大会思考——万亿美元私营公司、AI融资与外部采购** [Charles Hudson/风险投资思考] – Charles运营一家名为Precursor的风险投资机构，始终秉持真知灼见参与讨论。我参加了这次会议，他确实提炼出了最核心的议题进行分享。观察他每年持续深化的认知总是很有趣，**万亿美元私营公司**正是这样一个领域。
-
-![](/images/posts/45e286ad6d12.png)
-
 
 **我最近在用的一个产品** Blackbird，这款本地餐厅/酒吧应用融合了忠诚度计划、加密货币支付等功能——它很有趣，我正在尝试理解其逻辑。试用还能获得免费福利。推荐给你：
 
@@ -58,7 +49,6 @@ https://app.blackbird.xyz/r/bb-o9edk2
 - 点击分享至Pocket（在新窗口打开）Pocket
 - 点击通过邮件分享给朋友（在新窗口打开）Email
 - 点击分享至Reddit（在新窗口打开）Reddit
-
 
 > 本文由AI自动翻译，原文链接：[Waymo’s CEO Isn’t Like Elon At All; Venture Capital Might Soon Depend on $1 Trillion Startups; Everyone is Gambling and No One is Happy; Are MCPs Just APIs 2.0? and more++++ [link blog]](https://hunterwalk.com/2025/12/15/waymos-ceo-isnt-like-elon-at-all-venture-capital-might-soon-depend-on-1-trillion-startups-everyone-is-gambling-and-no-one-is-happy-are-mcps-just-apis-2-0-and-more-link-blog/)
 > 

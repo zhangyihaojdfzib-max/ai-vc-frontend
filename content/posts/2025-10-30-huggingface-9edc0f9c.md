@@ -22,16 +22,6 @@ translated_at: '2026-01-07T03:12:32.187Z'
 
 - +35
 
-![](/images/posts/377bb8640be1.png)
-
-![](/images/posts/0936a580b0bb.jpg)
-
-![](/images/posts/d9ecfddda63e.jpg)
-
-![](/images/posts/fe891c2376f7.jpg)
-
-![](/images/posts/ed23d04248c4.jpg)
-
 
 真正的智能体对齐问题：基准测试还是现实？交错思维的必要性真正的泛化在于应对扰动下一步是什么？参与进来看到社区深入探讨我们新的 MiniMax M2 模型，许多人强调其在复杂智能体任务中令人印象深刻的技能，这真是太棒了。这尤其让我感到兴奋，因为我的工作重点是其训练后阶段的智能体对齐部分。在这篇文章中，我想分享我们在这个过程中获得的一些关键见解和经验教训。
 
@@ -99,22 +89,6 @@ translated_at: '2026-01-07T03:12:32.187Z'
 ## “给 M2 用户的专业建议：由于 M2 依赖于交错思维，其上下文就是它的记忆。为了获得最佳性能，你必须保留完整的会话历史，包括思考步骤。我们注意到，许多关于性能差距的社区反馈源于无意中丢弃了这一至关重要的上下文，而这在更简单的推理模型中是一种常见做法。”
 
 这是我在 Chatbox+M2 API 中观察到后续轮次输出质量下降的原因吗？第一轮正确回答的问题有时会变得不正确。
-
-· 注册或登录以评论
-
-- +29
-
-
-![](/images/posts/e92f7a1e8d97.jpg)
-
-![](/images/posts/61848414a8cc.png)
-
-![](/images/posts/13e0aca0c3c0.jpg)
-
-![](/images/posts/c8cccc88e68e.jpg)
-
-![](/images/posts/21895c34544a.jpg)
-
 
 > 本文由AI自动翻译，原文链接：[Aligning to What? Rethinking Agent Generalization in MiniMax M2](https://huggingface.co/blog/MiniMax-AI/aligning-to-what)
 > 

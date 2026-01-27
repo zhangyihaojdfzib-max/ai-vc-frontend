@@ -19,11 +19,7 @@ draft: false
 translated_at: '2026-01-23T04:34:38.294698'
 ---
 
-![#](/images/posts/bd75613506cd.png)
-
 # Railway 完成 1 亿美元 B 轮融资，致力于打造 AI 时代的开发者云平台
-
-![Railway Raises $100M Series B to Build the Developer Cloud for the AI Era](/images/posts/909232b0cc7f.png)
 
 热烈祝贺 Jake Cooper 及整个 Railway 团队成功完成 1 亿美元的 B 轮融资。我们曾在领投其种子轮并参与 A 轮融资后，持续支持 Railway，如今我们很高兴能继续参与本轮融资。
 
@@ -40,7 +36,6 @@ translated_at: '2026-01-23T04:34:38.294698'
 Unusual Ventures：我们的 2025 年度回顾
 
 Goldcast 加入 Cvent：共同构建 AI 驱动营销的未来
-
 
 > 本文由AI自动翻译，原文链接：[Railway Raises $100M Series B to Build the Developer Cloud for the AI Era](https://www.unusual.vc/railway-raises-100m-series-b-to-build-the-developer-cloud-for-the-ai-era/)
 > 

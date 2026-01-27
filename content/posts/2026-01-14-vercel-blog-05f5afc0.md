@@ -20,14 +20,6 @@ translated_at: '2026-01-15T04:44:14.022679'
 
 我们将十余年积累的 React 与 Next.js 优化经验，系统性地封装进了 `react-best-practices` 这个专为 AI Agent（智能体）和 LLM（大语言模型）优化的结构化知识库中。
 
-![](/images/posts/581d5b898e27.png)
-
-![](/images/posts/9e39ec7aa671.png)
-
-![](/images/posts/77c522fd3e66.png)
-
-![](/images/posts/a19717c6e897.png)
-
 React 性能优化工作通常是“被动响应式”的。版本发布后，应用感觉变慢了，团队才开始追查各种表象。这种方式成本高昂，且很容易优化错方向。
 
 十多年来，我们在众多生产代码库中反复看到相同的根本原因：
@@ -114,10 +106,6 @@ JavaScript 性能
 
 这些并非理论空谈。它们来源于对生产代码库进行的真实性能优化工作。
 
-![](/images/posts/090b60de13f4.png)
-
-![](/images/posts/6af5f90a8a87.png)
-
 **合并循环迭代**
 
 一个聊天页面曾对同一消息列表进行了八次独立的扫描。我们将其合并为单次遍历，当消息数量达到数千条时，这种优化效果显著。
@@ -137,7 +125,6 @@ JavaScript 性能
 ```
 
 请查看 `react-best-practices` 知识库。
-
 
 > 本文由AI自动翻译，原文链接：[Introducing: React Best Practices - Vercel](https://vercel.com/blog/introducing-react-best-practices)
 > 

@@ -18,9 +18,6 @@ draft: false
 translated_at: '2026-01-22T04:51:39.249391'
 ---
 
-![Agent Builder 现已开放公测](/images/posts/c3195ff5edc9.png)
-
-
 # LangSmith Agent Builder 现已开放公测
 
 现在，任何人都可以创建生产就绪的智能体，无需编写代码，只需聊天即可。
@@ -67,22 +64,13 @@ Agent Builder 解决了这两个挑战。它为每位员工提供了一种直观
 
 您描述希望智能体做什么，批准合适的工具，然后让您的智能体自行确定方法。Agent Builder 帮助您编写提示词（通常可能长达数段或更长），并且智能体利用长期记忆，根据您的反馈随时间推移进行学习。
 
-![Agent Builder 提示词](/images/posts/b8cb1e9b5704.png)
-
-
 ### 用自然语言更新智能体
 
 需要扩展或修改智能体的功能？只需告诉 Agent Builder 要更新什么。智能体会将您的指导存储在其系统提示词中。无需重建工作流。
 
-![更新智能体系统提示词](/images/posts/363de0999f23.png)
-
-
 ### 跨团队安全地复用和扩展智能体
 
 我们新的智能体工作区允许您创建模板，团队成员可以克隆和自定义这些模板。技术团队可以通过 MCP 服务器提供对内部工具的安全访问，而非技术团队可以在已批准的工具基础上进行构建，并使用 OAuth 进行身份验证，而无需每次修改智能体都寻求 IT 支持。
-
-![工作区智能体](/images/posts/86ca3cb301fd.png)
-
 
 ## 人们正在构建什么
 
@@ -130,30 +118,17 @@ Agent Builder 尚处于早期阶段，但我们已经看到一些有趣的模式
 
 抱歉，出错了。请重试。
 
-![Introducing Agent Builder templates](/images/posts/3a612c8385be.png)
-
 ## 使用Agent Builder模板即时部署Agent（智能体）
-
-![LangSmith Agent Builder Now Generally Available](/images/posts/0c37946eb9e8.png)
 
 ## 现已全面上市：LangSmith Agent Builder
 
-![Introducing Align Evals: Streamlining LLM Application Evaluation](/images/posts/652b47416aa7.png)
-
 ## 推出Align Evals：简化LLM应用评估
-
-![Catch production failures early with LangSmith Alerts](/images/posts/9cb09f574cea.png)
 
 ## 通过LangSmith警报及早发现生产故障
 
-![Pairwise Evaluations with LangSmith](/images/posts/efd9d10c94b5.png)
-
 ## 使用LangSmith进行成对评估
 
-![Access Control Updates for LangSmith](/images/posts/a44af992bf51.png)
-
 ## LangSmith访问控制更新
-
 
 > 本文由AI自动翻译，原文链接：[LangSmith Agent Builder now in Public Beta](https://www.blog.langchain.com/langsmith-agent-builder-now-in-public-beta/)
 > 

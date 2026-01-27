@@ -18,10 +18,7 @@ draft: false
 translated_at: '2026-01-16T04:36:50.823847'
 ---
 
-![渐变背景上从左至右排列着三个白色线条图标：左侧是中心带圆点、周围有六个节点的网络/分子结构，中间是一个3D立方体，右侧是一台打开的笔记本电脑，上方有一个眼睛符号。](/images/posts/75945b3a7f52.jpg)
-
 ### MindJourney 让AI探索模拟3D世界以提升空间理解能力
-
 
 > 本文由AI自动翻译，原文链接：[OptiMind: A small language model with optimization expertise](https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/)
 > 

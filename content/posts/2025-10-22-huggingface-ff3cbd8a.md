@@ -24,7 +24,6 @@ translated_at: '2026-01-21T04:38:35.768857'
 
 - +80
 
-
 项目历史致谢快速开始今天，我们宣布 Sentence Transformers 将从达姆施塔特工业大学 Iryna Gurevych 教授领导的普适知识处理实验室正式迁移至 Hugging Face。Hugging Face 的 Tom Aarsen 自 2023 年底起已开始维护该库，并将继续领导该项目。在新家，Sentence Transformers 将受益于 Hugging Face 强大的基础设施，包括持续集成和测试，确保其紧跟信息检索和自然语言处理领域的最新进展。
 
 - 项目历史
@@ -64,25 +63,9 @@ Hugging Face 感谢 UKP 实验室以及所有过去和现在的贡献者，特�
 
 ![](/images/posts/fb71dc93d9af.jpg)
 
-![](/images/posts/ee041adb72f8.jpg)
-
-![](/images/posts/f80373445ed0.jpg)
-
-![](/images/posts/4402b0abc4cd.jpg)
-
-![](/images/posts/ff16471348cd.png)
-
 ## 共同构建开放的 Agent 生态系统：介绍 OpenEnv
 
 - +6
-
-![](/images/posts/4bc561b5b8eb.jpg)
-
-![](/images/posts/3b86f9871ff6.jpg)
-
-![](/images/posts/dbbe3ad5abd9.png)
-
-![](/images/posts/c99c7cbdf7fa.jpg)
 
 - 1 
 

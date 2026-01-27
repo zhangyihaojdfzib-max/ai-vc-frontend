@@ -23,18 +23,6 @@ translated_at: '2026-01-07T03:12:32.186Z'
 
 - +13
 
-![](/images/posts/fb71dc93d9af.jpg)
-
-![](/images/posts/9bc3346835fd.jpg)
-
-![](/images/posts/95d1650d88ea.jpg)
-
-![](/images/posts/78bab46e000b.jpg)
-
-![](/images/posts/708f2069f03c.png)
-
-![](/images/posts/147442e2c1c8.png)
-
 
 ## 一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南SO-ARM入门工作流程；构建具身化手术助手技术实现仿真到现实的混合训练方法硬件要求数据收集实现仿真遥操作控制模型训练流程端到端仿真收集-训练-评估流程在仿真中生成合成数据训练与评估策略将模型转换为TensorRT入门指南资源一份关于数据收集、策略训练以及在真实硬件上部署自主医疗机器人工作流程的实践指南
 
@@ -174,7 +162,6 @@ python -m training.gr00t_n1_5.train \
 
 - 使用键盘或硬件控制器遥操作机器人
 - 捕获多摄像头观测数据、机器人状态和动作
-- 创建包含在真实环境中难以安全收集的边缘案例的多样化数据集
 
 ### 训练和评估策略
 
@@ -202,18 +189,6 @@ Isaac for Healthcare SO-ARM入门工作流现已可用。开始使用：
 - GR00T模型：预训练的基础模型
 - 硬件指南：SO-ARM101设置说明
 - LeRobot仓库：端到端的机器人学习
-
-· 注册或登录以评论
-
-- +7
-
-
-![](/images/posts/b39222448f25.png)
-
-![](/images/posts/a45a2269c6af.jpg)
-
-![](/images/posts/21b6b30b32c9.jpg)
-
 
 > 本文由AI自动翻译，原文链接：[How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare)
 > 

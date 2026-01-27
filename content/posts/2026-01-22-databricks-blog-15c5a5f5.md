@@ -46,8 +46,6 @@ translated_at: '2026-01-22T05:04:05.197733'
 
 特色合作伙伴包括埃森哲、Avanade、Bizmetric、Blueprint、凯捷、Celebal Technologies、CI&T、Diggibyte、DataSentics、Elitmind、Entrada、EPAM、安永、Fractal、简柏特、Hexaware、Impetus、Indicium、Infogain、印孚瑟斯、Kubrick、Lingaro、Lovelytics、LTIMindtree、MathCo、Neudesic、Ness、ORAYLIS、Persistent、Prodapt、Qubika、Sigmoid、Slalom、Syren、塔塔咨询服务、Tiger Analytics、Tredence、Wavicle Data Solutions、威普罗、Xebia、zeb、Zensar 和 ZS。
 
-![合作伙伴 AI 解决方案](/images/posts/e8a6042cc956.png)
-
 ## 通信、媒体与娱乐
 
 合作伙伴正在构建解决方案，彻底改变内容生命周期管理、改进网络运营、增强营销活动信心、自动化现场服务，并最大化广告支出回报。解决方案提供内容个性化和发现功能，以推动参与度、减少客户流失并最大化广告收入：
@@ -576,7 +574,6 @@ Brickbuilder是Databricks合作伙伴计划的关键组成部分，旨在表彰�
 鼓励有兴趣了解更多关于如何创建Brickbuilder解决方案或加速器的合作伙伴通过[email protected]与我们联系。
 
 ##
-
 
 > 本文由AI自动翻译，原文链接：[Driving Industry Outcomes with Partner AI Solutions](https://www.databricks.com/blog/driving-industry-outcomes-partner-ai-solutions)
 > 

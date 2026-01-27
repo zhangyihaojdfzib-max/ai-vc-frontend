@@ -21,14 +21,7 @@ translated_at: '2026-01-17T04:14:50.965913'
 
 # NRF 2026 揭示的三大智能体商业趋势
 
-![Maia Josebachvili，人工智能首席营收官](/images/posts/fb5295a24797.png)
-
-
-![Barbara O’Beirne，全球企业业务发展负责人](/images/posts/dff7a45baa56.png)
-
-
 ![URBN 首席信息官 Rob Frieman 与 Stripe 人工智能首席营收官 Maia Josebachvili 在 NRF 会议上，探讨 URBN 如何触达消费者所在之处。](https://images.stripeassets.com/fzn2n1nzq965/ZPeu1YDDojQpvmMr1kxqO/7dcc2d6fd71da92d3210dbdc0b138a94/Maia__1_.jpg?w=1616&q=80              )
-
 
 URBN 首席信息官 Rob Frieman 与 Stripe 人工智能首席营收官 Maia Josebachvili 在 NRF 会议上，探讨 URBN 如何触达消费者所在之处。
 
@@ -77,7 +70,6 @@ URBN 首席信息官 Rob Frieman 与 Stripe 人工智能首席营收官 Maia Jos
 我们正在为领先的零售商构建基础设施，以成功驾驭这个商业新时代。我们的**智能体商业套件**将帮助您做好智能体准备，允许您将产品目录连接到 Stripe，然后只需在 Stripe 仪表板中点击几下，您就可以选择希望通过哪些 AI 智能体进行销售。之后，Stripe 将协助处理结账、支付和欺诈检测，并向您发送订单事件，以便您可以继续使用现有的商业技术栈。
 
 要了解更多关于智能体商业套件的信息，请**注册等待列表**并**阅读我们的集成指南**。
-
 
 > 本文由AI自动翻译，原文链接：[The three biggest agentic commerce trends from NRF 2026](https://stripe.com/blog/three-agentic-commerce-trends-nrf-2026)
 > 

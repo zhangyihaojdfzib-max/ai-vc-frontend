@@ -22,16 +22,6 @@ translated_at: '2026-01-21T04:38:30.053221'
 
 # Waypoint-1：来自 Overworld 的实时交互式视频扩散模型
 
-
-![](/images/posts/4241b99076dc.jpg)
-
-![](/images/posts/f20fa9eebbef.jpg)
-
-![](/images/posts/cf46f3f2bac8.jpg)
-
-
-![waypoint 启动网格](/images/posts/57356a747284.gif)
-
 ## Waypoint-1Hub 上的权重试用模型什么是 Waypoint-1？它是如何训练的？推理库：WorldEngine使用 World Engine 构建保持联系Waypoint-1Hub 上的权重
 
 - Waypoint-1Hub 上的权重
@@ -103,30 +93,13 @@ for controller_input in [
 
 来自我们博客的更多文章
 
-![](/images/posts/7e9901eeab7a.png)
-
 ## Transformers v5：为 AI 生态系统提供动力的简单模型定义
-
 
 ![](/images/posts/fb71dc93d9af.jpg)
 
-![](/images/posts/ee041adb72f8.jpg)
-
-![](/images/posts/f80373445ed0.jpg)
-
-![](/images/posts/4402b0abc4cd.jpg)
-
-![](/images/posts/32eca1742f7d.png)
-
 ## 为开放未来而构建——我们与 Google Cloud 的新合作伙伴关系
 
-
 ![](/images/posts/95d1650d88ea.jpg)
-
-![](/images/posts/e449c92fe2b3.jpg)
-
-· 注册或登录以发表评论
-
 
 > 本文由AI自动翻译，原文链接：[Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](https://huggingface.co/blog/waypoint-1)
 > 

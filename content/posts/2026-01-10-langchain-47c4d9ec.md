@@ -18,9 +18,6 @@ draft: false
 translated_at: '2026-01-11T04:44:39.489012'
 ---
 
-![In software, the code documents the app. In AI, the traces do.](/images/posts/a8083a77f8e4.png)
-
-
 # 在软件中，代码记录应用。在AI中，痕迹记录应用。
 
 *   在传统软件中，你通过阅读代码来理解应用的功能——决策逻辑存在于你的代码库中。
@@ -137,28 +134,15 @@ result = agent.run(user_query)
 
 抱歉，出现错误。请重试。
 
-![Agent框架、运行时与工具集——我的天！](/images/posts/2110bc77a378.png)
-
 ## Agent框架、运行时与工具集——我的天！
-
-![构建LangChain三年的思考](/images/posts/db54a6ec9ac0.png)
 
 ## 构建LangChain三年的思考
 
-![并非又一个工作流构建器](/images/posts/ff5166a3c3c8.webp)
-
 ## 并非又一个工作流构建器
-
-![深度Agent](/images/posts/2622ee2805cf.png)
-
-![“上下文工程”的兴起](/images/posts/8f8fb83ca2c7.jpg)
 
 ## “上下文工程”的兴起
 
-![如何以及何时构建多Agent系统](/images/posts/eab0683a74e4.png)
-
 ## 如何以及何时构建多Agent系统
-
 
 > 本文由AI自动翻译，原文链接：[In software, the code documents the app. In AI, the traces do.](https://blog.langchain.com/in-software-the-code-documents-the-app-in-ai-the-traces-do/)
 > 

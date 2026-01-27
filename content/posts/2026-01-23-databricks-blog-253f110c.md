@@ -247,12 +247,6 @@ translated_at: '2026-01-24T04:33:25.685428'
 
 ## 数据接收方现可在任何兼容Iceberg的客户端中使用Delta Shares；数据提供方可从外部目录Delta Share任何Iceberg表
 
-![宣布在Delta Sharing协议中提供对Iceberg格式的一流支持](/images/posts/353456993e3a.png)
-
-![宣布在Delta Sharing协议中提供对Iceberg格式的一流支持](/images/posts/353456993e3a.png)
-
-![宣布在Delta Sharing协议中提供对Iceberg格式的一流支持](/images/posts/353456993e3a.png)
-
 发布日期：2026年1月23日
 
 作者：Tia Chang, Qinghao Wu 和 Harish Gaur
@@ -273,10 +267,6 @@ Delta Sharing连续两年实现超过300%的同比增长，是应用最广泛的
 
 此外，我们正在启动一项私人预览，使数据提供方能够使用Delta Sharing来共享由Databricks外部目录（包括AWS Glue、Hive Metastore、Snowflake Horizon等）管理的Iceberg表。
 
-![图1：为开放生态系统统一共享与协作的格式](/images/posts/f40f03118139.png)
-
-![图1：为开放生态系统统一共享与协作的格式](/images/posts/f40f03118139.png)
-
 总之，您可以共享任何新的或现有的表（Delta或Iceberg，托管或外部）。这为实现完全开放的互操作性奠定了基础。您可以从任何外部目录引入Iceberg表，通过Databricks和Unity Catalog进行管理，然后共享给任何接收方——无论他们使用的是Databricks、Iceberg客户端还是Delta客户端。这使您能够利用Unity Catalog作为统一的数据治理层，为所有共享提供一个集中管理点。
 
 在这篇博客文章中，我们将解释开放数据共享为何重要。我们还将通过实际操作演示，深入探讨Delta Sharing如何与Iceberg客户端协同工作。
@@ -292,10 +282,6 @@ Delta Sharing是应用最广泛的开放安全数据共享标准。它被各领�
 - 无摩擦地共享。
 
 增加对 Iceberg 客户端的支持强化了这一承诺。它允许您共享 Delta 表，而接收方体验到的却是原生的 Iceberg 表。共享通过 Iceberg REST API 进行，因此接收方可以从任何兼容 Iceberg 的平台进行连接。这使您能够兼收两者之利：数据提供方受益于 Delta Sharing 的高级功能（例如视图共享），而接收方则通过 Iceberg REST API 获得原生 Iceberg 表。
-
-![图 2：直接将数据共享给兼容 Iceberg 的工具](/images/posts/09def78f091d.png)
-
-![图 2：直接将数据共享给兼容 Iceberg 的工具](/images/posts/09def78f091d.png)
 
 接收方能够安全、实时地访问源数据。这消除了数据孤岛，使您可以与任何人开放地共享数据。
 

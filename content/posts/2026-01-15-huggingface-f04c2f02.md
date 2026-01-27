@@ -23,19 +23,6 @@ translated_at: '2026-01-16T04:39:01.486745'
 
 - +14
 
-![](/images/posts/785d7e16df1c.jpg)
-
-![](/images/posts/ac0e506ba48d.jpg)
-
-![](/images/posts/95d1650d88ea.jpg)
-
-![](/images/posts/5b36678ab3e8.jpg)
-
-![](/images/posts/8157d098ccae.png)
-
-![](/images/posts/78bab46e000b.jpg)
-
-
 什么是开放响应？使用开放响应进行构建需要了解什么？向开放响应发起的客户端请求推理客户端与提供商的变更用于路由的开放响应工具子智能体循环后续步骤开放响应是一种全新且开放的推理标准。它由 OpenAI 发起，由开源 AI 社区构建，并得到 Hugging Face 生态系统的支持。开放响应基于 Responses API，专为智能体的未来而设计。在这篇博客文章中，我们将探讨开放响应的工作原理以及开源社区为何应该使用开放响应。
 
 - 什么是开放响应？
@@ -146,8 +133,6 @@ translated_at: '2026-01-16T04:39:01.486745'
 
 开放响应形式化了智能体循环，该循环通常由推理、工具调用和响应生成的重复周期组成，使模型能够自主完成多步骤任务。
 
-![流程示意图](/images/posts/7aaa34abb6b9.png)
-
 图片来源：openresponses.org
 
 循环操作如下：
@@ -176,39 +161,15 @@ translated_at: '2026-01-16T04:39:01.486745'
 
 Open Responses 扩展并改进了 Responses API，提供了更丰富、更详细的内容定义、兼容性和部署选项。它还提供了一种标准方式，在主推理调用期间执行子智能体循环，为 AI 应用开启了强大的能力。我们期待与 Open Responses 团队及整个社区合作，共同推进该规范的未来发展。
 
-![acceptance test](/images/posts/07c184eabb5f.png)
-
 您现在就可以通过 Hugging Face 推理提供商 试用 Open Responses。我们在 Hugging Face Spaces 上提供了早期访问版本，今天就使用您的客户端和 Open Responses 合规工具来试试吧！
 
 ## ScreenEnv：部署您的全栈桌面智能体
 
-![](/images/posts/a69384612bd4.png)
-
-![](/images/posts/907fac44062b.jpg)
-
-![](/images/posts/257498e9a28e.png)
-
 ## Codex 正在开源 AI 模型
-
-
-![](/images/posts/a81239c48d0a.png)
 
 这是否意味着本地 LLM 端点提供商（如 vLLM）的下一步是支持托管工具？
 
 是的——我认为我们将看到更多这种模式，特别是对于通过 Open Responses 将工作卸载给子智能体工具循环的智能体。
-
-· 注册 或 登录 以评论
-
-- +8
-
-
-![](/images/posts/4402b0abc4cd.jpg)
-
-
-![](/images/posts/6efbe784086d.png)
-
-![](/images/posts/3a2fba626253.jpg)
-
 
 > 本文由AI自动翻译，原文链接：[Open Responses: What you need to know](https://huggingface.co/blog/open-responses)
 > 

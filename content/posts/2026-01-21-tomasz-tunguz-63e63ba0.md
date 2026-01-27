@@ -26,15 +26,9 @@ translated_at: '2026-01-22T04:45:59.054118'
 
 今年以来，SaaS股票中位数下跌14-17%。64%的软件公司股价下跌。Adobe下跌32%，HubSpot下跌57%，Atlassian下跌54%。
 
-![Software Stock Performance Ranked : 2026 YTD](/images/posts/002c9ca88d1e.jpg)
-
 收入增长比利润率、盈利能力或市值更能预测回报。增长率超过20%的公司股价上涨，低于20%的公司则下跌。Palantir增长47%，MongoDB增长21%，Adobe和Salesforce增长不足10%。
 
-![Software Stock Performance vs Revenue Growth : 2026 YTD](/images/posts/785006f4b5f9.jpg)
-
 这不是广泛的市场调整。大盘股保持稳定，小盘股正在崩盘。
-
-![Software Stock Performance by Market Cap : 2026 YTD](/images/posts/c312c6806250.jpg)
 
 十年前，软件行业也曾暴跌。2016年2月5日，LinkedIn单日暴跌43%，Tableau重挫49%。Salesforce下跌13%，纳斯达克指数大跌3.25%。投资者在一个下午集体抛售软件股。
 
@@ -43,7 +37,6 @@ translated_at: '2026-01-22T04:45:59.054118'
 但抛售在数周内逆转。纳斯达克指数2016年全年上涨7.5%，SaaS股票随后持续上涨五年。当时无人怀疑企业会继续购买CRM软件和分析工具——产品仍然不可或缺，变化的只是价格。
 
 2016年，投资者质疑的是估值。2026年，他们质疑的是相关性。
-
 
 > 本文由AI自动翻译，原文链接：[When the Market Questions Relevance](https://www.tomtunguz.com/2016-vs-2026-saas-crash/)
 > 

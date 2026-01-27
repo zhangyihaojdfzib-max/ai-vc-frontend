@@ -19,11 +19,7 @@ draft: false
 translated_at: '2026-01-15T04:37:32.627081'
 ---
 
-![#](/images/posts/bd75613506cd.png)
-
 # 融资的隐性收益：为何过程与资金同等重要
-
-![融资的隐性收益：为何过程与资金同等重要](/images/posts/9bbaac7740f9.png)
 
 我投资组合中的多家公司本季度正在进行融资，这让我回想起自己作为创始人的融资经历，也促使我分享一些关于这个过程的观察。
 
@@ -79,7 +75,6 @@ Unusual Ventures：我们的2025年度回顾
 Goldcast 加入 Cvent：构建 AI 驱动营销的未来
 
 Harness 获得 2.4 亿美元 E 轮融资，助力 AI 驱动软件交付的未来
-
 
 > 本文由AI自动翻译，原文链接：[The Hidden Benefits of Fundraising: Why the Process Matters as Much as the Capital](https://www.unusual.vc/the-hidden-benefits-of-fundraising-why-the-process-matters-as-much-as-the-capital/)
 > 

@@ -26,13 +26,9 @@ translated_at: '2026-01-21T04:37:20.711897'
 
 现代数据栈创造了超过1000亿美元的市值，其核心理念很简单：通过ETL移动数据，在云端数据仓库中进行转换，在其上添加语义层以统一指标定义，并通过BI进行分析。
 
-![包含ETL、数据仓库、语义层和BI的原始现代数据栈架构](/images/posts/534ae22cb841.jpg)
-
 这对于表格中的结构化数据、数值数据效果显著。但AI和企业的蓬勃发展依赖于非结构化数据，例如通话记录、状态报告、网络搜索和PDF文件。
 
 语义层，尤其是在拥有海量数据集的大型组织中，现在必须大规模地结合结构化和非结构化信息，这一点至关重要，因为所有这些信息都为AI提供养分并驱动智能体。
-
-![展示AI与向量数据库、文件系统和智能体集成的后现代数据栈](/images/posts/58ef205512b3.jpg)
 
 战略收购证明了这一转变已在进程中。Datadog收购Metaplane¹、Snowflake收购Observe²以及ClickHouse收购Langfuse³，是推动这种融合最具体的战略举措。
 
@@ -51,7 +47,6 @@ Datadog Acquires Metaplane↩︎
 Snowflake Announces Intent to Acquire Observe↩︎
 
 Langfuse is Joining ClickHouse↩︎
-
 
 > 本文由AI自动翻译，原文链接：[The Postmodern Data Stack is AI](https://www.tomtunguz.com/the-postmodern-data-stack-is-ai/)
 > 

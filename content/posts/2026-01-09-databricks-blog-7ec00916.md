@@ -54,8 +54,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 开发团队使用 Databricks Vector Search，实现了带嵌入计算的 Delta Sync。他们使用 BAAI bge-large-en-v1.5 模型生成向量嵌入，并通过 Vector Search 端点提供服务，以实现高速、低延迟的检索。
 
-![Document Storage and Indexing](/images/posts/841c49dc7f8d.png)
-
 ## Microsoft Teams 集成
 
 技术员通过 Microsoft Teams 直接访问 TMA。Teams Bot 通过一个 API 层路由每个查询，该 API 层编排对 Databricks Model Serving 的调用。助手在聊天窗口中直接提供上下文答案、匹配文档链接并建议相关部件。
@@ -81,8 +79,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 - 聊天机器人解决趋势和延迟情况。
 - TMA采用率与首次修复率提升之间的相关性。
 
-![IHM仪表板](/images/posts/3077f3336b2d.png)
-
 ## 从AWS迁移至Databricks
 
 最初的验证概念使用了AWS组件，包括SageMaker、FAISS和Bedrock，来托管Claude 3.7 Sonnet和Llama 3.1 405B等大语言模型。虽然功能可用，但此设置需要手动重新索引、涉及多个分离的服务，并引入了延迟。
@@ -91,8 +87,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 
 - 使用Databricks Vector Search实现自动化向量索引。
 - 通过单一的湖仓一体架构降低了延迟并简化了可观测性。
-
-![从AWS迁移至Databricks](/images/posts/47350c094599.png)
 
 ## 实现运营影响
 
@@ -115,7 +109,6 @@ translated_at: '2026-01-10T04:15:34.640062'
 探索Databricks AI解决方案
 
 ##
-
 
 > 本文由AI自动翻译，原文链接：[How 7‑Eleven Transformed Maintenance Technician Knowledge Access with Databricks Agent Bricks](https://www.databricks.com/blog/how-7-eleven-transformed-maintenance-technician-knowledge-access-databricks-agent-bricks)
 > 

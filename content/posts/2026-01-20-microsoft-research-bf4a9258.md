@@ -19,10 +19,7 @@ draft: false
 translated_at: '2026-01-21T04:37:35.049516'
 ---
 
-![蓝色到紫色渐变背景上的三个白色线条图标：第一个图标显示了一个由相连的方块和菱形组成的简单流程图，第二个图标描绘了一个由相互连接的圆圈构成的网络，第三个图标代表了一个社交连接图，其中三个用户个人资料符号链接在一起。](/images/posts/7e3f91284f3e.jpg)
-
 ### Agent Lightning：无需重写代码，为AI Agent（智能体）添加强化学习
-
 
 > 本文由AI自动翻译，原文链接：[Multimodal RL with agentic verifier for AI agents](https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/)
 > 
