@@ -490,9 +490,9 @@
     "timestamp": "2026-01-22T04:41:21.467621"
   },
   "https://a16z.simplecast.com/episodes/inferact-building-the-infrastructure-that-runs-modern-ai-baPx6f5v": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-24T04:21:53.318470"
+    "timestamp": "2026-01-27T00:43:20.897161"
   },
   "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/": {
     "count": 3,
@@ -505,9 +505,9 @@
     "timestamp": "2026-01-25T05:01:11.755703"
   },
   "https://a16z.simplecast.com/episodes/how-mintlify-is-rebuilding-documentation-for-coding-agents-5mrEd7Xm": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-24T04:21:53.341040"
+    "timestamp": "2026-01-27T00:43:20.905867"
   },
   "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model/": {
     "count": 3,
@@ -520,23 +520,48 @@
     "timestamp": "2026-01-26T05:04:03.745098"
   },
   "https://greylock.com/reid-hoffman/safely-scaling-artificial-general-intelligence/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-26T05:02:51.550212"
+    "timestamp": "2026-01-27T00:43:23.290859"
   },
   "https://greylock.com/greymatter/the-meaning-revolution-in-leadership/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-26T05:02:51.545931"
+    "timestamp": "2026-01-27T00:43:23.298479"
   },
   "https://greylock.com/press/a-primer-on-all-things-growth/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-26T05:02:51.584210"
+    "timestamp": "2026-01-27T00:43:23.952435"
   },
   "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T00:44:23.901689"
+  },
+  "https://a16z.simplecast.com/episodes/the-real-economics-behind-the-al-boom-7LNh86AD": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-26T05:04:03.760714"
+    "timestamp": "2026-01-27T00:43:20.893335"
+  },
+  "https://medium.com/point-nine-news/some-learnings-from-vibe-coding-a-knowledge-hub-in-13-days-6c4e3f75c754?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T00:43:26.804309"
+  },
+  "https://www.saastr.com/dear-saastr-how-much-do-founder-ceos-own-at-time-of-exit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T00:43:45.749168"
+  },
+  "https://www.saastr.com/the-new-rule-500k-arr-per-employee-is-the-new-200k/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T00:43:45.808201"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-flight-controls/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T00:45:46.790249"
   }
 }
