@@ -117,7 +117,11 @@ export default function PostClient({ post }: PostClientProps) {
               ),
 
               // Images with error handling
-              img: ({ src, alt }) => <MarkdownImage src={src} alt={alt} />,
+              img: ({ src, alt }) => {
+                // Only render if src is a string (not Blob)
+                const imgSrc = typeof src === 'string' ? src : undefined
+                return <MarkdownImage src={imgSrc} alt={alt} />
+              },
 
               // Lists
               ul: ({ children }) => (
