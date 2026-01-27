@@ -535,9 +535,9 @@
     "timestamp": "2026-01-27T00:43:23.952435"
   },
   "https://deepmind.google/blog/how-a-gemma-model-helped-discover-a-new-potential-cancer-therapy-pathway/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T00:44:23.901689"
+    "timestamp": "2026-01-27T04:37:22.406613"
   },
   "https://a16z.simplecast.com/episodes/the-real-economics-behind-the-al-boom-7LNh86AD": {
     "count": 1,
@@ -545,9 +545,9 @@
     "timestamp": "2026-01-27T00:43:20.893335"
   },
   "https://medium.com/point-nine-news/some-learnings-from-vibe-coding-a-knowledge-hub-in-13-days-6c4e3f75c754?source=rss----92bc84a24ea5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T00:43:26.804309"
+    "timestamp": "2026-01-27T04:37:18.858816"
   },
   "https://www.saastr.com/dear-saastr-how-much-do-founder-ceos-own-at-time-of-exit/": {
     "count": 1,
@@ -563,5 +563,35 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-01-27T00:45:46.790249"
+  },
+  "https://greylock.com/firm-news/welcome-mor-chen/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T04:37:15.226473"
+  },
+  "https://greylock.com/firm-news/welcome-chang-li/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T04:37:15.268875"
+  },
+  "https://greylock.com/firm-news/welcome-sophia-luo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T04:37:15.775033"
+  },
+  "https://hunterwalk.com/2026/01/26/so-say-youre-against-that-now-before-it-stops-shocking-you/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T04:37:21.066644"
+  },
+  "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T04:37:22.395733"
+  },
+  "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-27T04:37:22.401323"
   }
 }
