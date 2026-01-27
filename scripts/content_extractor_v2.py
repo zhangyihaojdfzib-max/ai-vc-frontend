@@ -39,16 +39,20 @@ class ContentExtractorV2:
         'ad-', 'ads-', 'banner', 'promo', 'sponsor', 'placeholder',
         # Hugging Face 特定
         'huggingface.co/avatars', '/spaces/', 'thumb', 'reaction',
+        'cdn-avatars.huggingface.co',  # HF 用户头像 CDN
+        '/blog/assets/',  # HF 相关文章缩略图
+        '/v1/production/uploads/',  # HF 头像上传路径
     ]
 
     # 需要移除的容器选择器 (这些区块的内容会被完全跳过)
     SKIP_CONTAINER_SELECTORS = [
         # 评论区
         '.comments', '#comments', '.comment-section', '.discussion',
-        '[data-testid="comments"]', '.post-comments',
+        '[data-testid="comments"]', '.post-comments', '.comments-section',
         # 相关文章
         '.related', '.more-posts', '.recommended', '.suggested',
         '.you-might-like', '.also-read', '.more-from',
+        '.article-card', '.related-articles',
         # 导航/页脚
         'nav', 'footer', 'header', '.navbar', '.navigation',
         '.sidebar', 'aside', '.widget', '.menu',
@@ -61,6 +65,10 @@ class ContentExtractorV2:
         # Hugging Face 特定
         '.BlogCard', '.blog-card', '[class*="BlogCard"]',
         '.user-row', '.reaction-', '.comment-form',
+        '[class*="article-card"]', '[class*="ArticleCard"]',
+        '[class*="comment"]', '[class*="Comment"]',
+        # Databricks 特定
+        '[class*="related"]', '[class*="sidebar"]',
     ]
 
     # 需要过滤的文本模式 (包含这些内容的段落会被跳过)
@@ -76,6 +84,18 @@ class ContentExtractorV2:
         r'^Sign (up|in)',
         r'^\s*[-·•]\s*$',  # 单独的列表符号
         r'^\+\d+$',  # +292 这种
+        # Databricks 页脚垃圾
+        r'^产品\s*$',
+        r'^\d{4}年\d{1,2}月\d{1,2}日\s*/\s*\d+分钟阅读',
+        r'^\d+\s*min\s*read',
+        # Hugging Face 相关文章标题（通常出现在侧边栏）
+        r'^Smol2Operator',  # 常见的推荐文章
+        r'^Gemma\s+\d',
+        # 通用垃圾
+        r'^Read\s+more\s*$',
+        r'^阅读更多\s*$',
+        r'^See\s+all\s*$',
+        r'^查看全部\s*$',
     ]
 
     def __init__(self, images_dir: Path, user_agent: str = None):
@@ -241,10 +261,24 @@ class ContentExtractorV2:
         # Hugging Face Blog 特定处理
         if 'huggingface.co' in base_url:
             # HF 的文章内容通常在特定的容器中
-            for selector in ['.prose', '[class*="prose"]', '.blog-content',
-                           '.markdown-body', 'article .container']:
+            # 优先查找精确的文章内容容器
+            for selector in ['.blog-content', '.prose:not(.prose-sm)',
+                           '[class*="prose"]:not([class*="card"])',
+                           '.markdown-body', 'article > .container']:
                 container = soup.select_one(selector)
                 if container:
+                    # 对 HF，进一步清理：移除文章末尾的相关内容
+                    self._clean_hf_article(container)
+                    return container
+
+        # Databricks Blog 特定处理
+        if 'databricks.com' in base_url:
+            for selector in ['.blog-post-content', '.post-content',
+                           'article .content', '.entry-content']:
+                container = soup.select_one(selector)
+                if container:
+                    # 清理 Databricks 文章末尾的导航垃圾
+                    self._clean_databricks_article(container)
                     return container
 
         # 通用选择器
@@ -270,6 +304,47 @@ class ContentExtractorV2:
                     return container
 
         return soup.find('body')
+
+    def _clean_hf_article(self, container: Tag):
+        """清理 Hugging Face 文章中的非正文内容"""
+        # 移除包含 "blog/assets" 的图片（相关文章缩略图）
+        for img in container.find_all('img'):
+            src = img.get('src', '') or img.get('data-src', '')
+            if '/blog/assets/' in src or 'cdn-avatars' in src:
+                # 移除整个 figure 或图片本身
+                parent = img.find_parent('figure')
+                if parent:
+                    parent.decompose()
+                else:
+                    img.decompose()
+
+        # 移除看起来像相关文章标题的 h2/h3（通常在文章末尾）
+        # 这些标题后面紧跟的是卡片式布局
+        for heading in container.find_all(['h2', 'h3']):
+            text = heading.get_text(strip=True)
+            # 检查是否是非正文内容的标志
+            if any(marker in text.lower() for marker in
+                   ['related', 'more from', 'you might', 'also read',
+                    'trending', 'popular', 'recent posts']):
+                # 移除这个标题及其后面的所有兄弟元素
+                for sibling in list(heading.find_next_siblings()):
+                    sibling.decompose()
+                heading.decompose()
+
+    def _clean_databricks_article(self, container: Tag):
+        """清理 Databricks 文章中的非正文内容"""
+        # 查找并移除文章末尾的导航元素
+        # Databricks 文章末尾通常有 "产品" + 日期 的格式
+        all_p = container.find_all('p')
+        for i, p in enumerate(all_p):
+            text = p.get_text(strip=True)
+            # 检测 Databricks 特有的页脚模式
+            if text == '产品' or re.match(r'^\d{4}年\d{1,2}月\d{1,2}日', text):
+                # 移除这个段落及其后面的所有兄弟元素
+                for sibling in list(p.find_next_siblings()):
+                    sibling.decompose()
+                p.decompose()
+                break
 
     def _process_image(self, img_tag: Tag, base_url: str) -> Optional[Dict]:
         """处理图片，过滤非正文图片"""
