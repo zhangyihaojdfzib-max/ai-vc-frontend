@@ -505,9 +505,9 @@
     "timestamp": "2026-01-25T05:01:11.755703"
   },
   "https://a16z.simplecast.com/episodes/how-mintlify-is-rebuilding-documentation-for-coding-agents-5mrEd7Xm": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T00:43:20.905867"
+    "timestamp": "2026-01-28T04:35:03.778319"
   },
   "https://deepmind.google/blog/introducing-the-gemini-25-computer-use-model/": {
     "count": 3,
@@ -540,44 +540,44 @@
     "timestamp": "2026-01-27T04:37:22.406613"
   },
   "https://a16z.simplecast.com/episodes/the-real-economics-behind-the-al-boom-7LNh86AD": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T00:43:20.893335"
-  },
-  "https://medium.com/point-nine-news/some-learnings-from-vibe-coding-a-knowledge-hub-in-13-days-6c4e3f75c754?source=rss----92bc84a24ea5---4": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T04:37:18.858816"
+    "timestamp": "2026-01-28T04:35:03.762519"
+  },
+  "https://medium.com/point-nine-news/some-learnings-from-vibe-coding-a-knowledge-hub-in-13-days-6c4e3f75c754?source=rss----92bc84a24ea5---4": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-28T04:35:39.695329"
   },
   "https://www.saastr.com/dear-saastr-how-much-do-founder-ceos-own-at-time-of-exit/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T00:43:45.749168"
+    "timestamp": "2026-01-28T04:35:42.143185"
   },
   "https://www.saastr.com/the-new-rule-500k-arr-per-employee-is-the-new-200k/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T00:43:45.808201"
+    "timestamp": "2026-01-28T04:35:42.474929"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-flight-controls/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T00:45:46.790249"
+    "timestamp": "2026-01-28T04:38:45.464023"
   },
   "https://greylock.com/firm-news/welcome-mor-chen/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T04:37:15.226473"
+    "timestamp": "2026-01-28T04:35:37.831717"
   },
   "https://greylock.com/firm-news/welcome-chang-li/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T04:37:15.268875"
+    "timestamp": "2026-01-28T04:35:37.832511"
   },
   "https://greylock.com/firm-news/welcome-sophia-luo/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T04:37:15.775033"
+    "timestamp": "2026-01-28T04:35:37.828585"
   },
   "https://hunterwalk.com/2026/01/26/so-say-youre-against-that-now-before-it-stops-shocking-you/": {
     "count": 1,
@@ -585,13 +585,23 @@
     "timestamp": "2026-01-27T04:37:21.066644"
   },
   "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T04:37:22.395733"
+    "timestamp": "2026-01-28T04:36:17.039073"
   },
   "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-28T04:36:17.010981"
+  },
+  "https://a16z.simplecast.com/episodes/how-consumer-behavior-is-rewiring-us-healthcare-5Ex9w8F7": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T04:37:22.401323"
+    "timestamp": "2026-01-28T04:35:03.779273"
+  },
+  "https://www.saastr.com/please-stop-selling-like-its-2021/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-28T04:35:42.460880"
   }
 }
