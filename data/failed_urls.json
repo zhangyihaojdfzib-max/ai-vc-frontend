@@ -275,9 +275,9 @@
     "timestamp": "2026-01-13T04:28:02.844889"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-2026-new-infrastructure-primitives-uhuC1TnI": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-12T04:40:28.934588"
+    "timestamp": "2026-01-29T04:01:56.112996"
   },
   "https://greylock.com/press/73-of-the-most-promising-startups-of-2023-according-to-top-vcs/": {
     "count": 3,
@@ -540,9 +540,9 @@
     "timestamp": "2026-01-27T04:37:22.406613"
   },
   "https://a16z.simplecast.com/episodes/the-real-economics-behind-the-al-boom-7LNh86AD": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:35:03.762519"
+    "timestamp": "2026-01-29T04:01:56.017251"
   },
   "https://medium.com/point-nine-news/some-learnings-from-vibe-coding-a-knowledge-hub-in-13-days-6c4e3f75c754?source=rss----92bc84a24ea5---4": {
     "count": 3,
@@ -550,34 +550,34 @@
     "timestamp": "2026-01-28T04:35:39.695329"
   },
   "https://www.saastr.com/dear-saastr-how-much-do-founder-ceos-own-at-time-of-exit/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:35:42.143185"
+    "timestamp": "2026-01-29T04:02:48.368315"
   },
   "https://www.saastr.com/the-new-rule-500k-arr-per-employee-is-the-new-200k/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:35:42.474929"
+    "timestamp": "2026-01-29T04:02:48.213031"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-flight-controls/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:38:45.464023"
+    "timestamp": "2026-01-29T04:03:50.610016"
   },
   "https://greylock.com/firm-news/welcome-mor-chen/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:35:37.831717"
+    "timestamp": "2026-01-29T04:02:40.704889"
   },
   "https://greylock.com/firm-news/welcome-chang-li/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:35:37.832511"
+    "timestamp": "2026-01-29T04:02:41.359158"
   },
   "https://greylock.com/firm-news/welcome-sophia-luo/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:35:37.828585"
+    "timestamp": "2026-01-29T04:02:41.339594"
   },
   "https://hunterwalk.com/2026/01/26/so-say-youre-against-that-now-before-it-stops-shocking-you/": {
     "count": 1,
@@ -585,23 +585,73 @@
     "timestamp": "2026-01-27T04:37:21.066644"
   },
   "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:36:17.039073"
+    "timestamp": "2026-01-29T04:03:09.736323"
   },
   "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:36:17.010981"
+    "timestamp": "2026-01-29T04:03:10.100172"
   },
   "https://a16z.simplecast.com/episodes/how-consumer-behavior-is-rewiring-us-healthcare-5Ex9w8F7": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:35:03.779273"
+    "timestamp": "2026-01-29T04:01:55.988316"
   },
   "https://www.saastr.com/please-stop-selling-like-its-2021/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:02:47.672717"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-and-balaji-srinivasan-on-netscape-and-network-states-LvyrSCPK": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-28T04:35:42.460880"
+    "timestamp": "2026-01-29T04:01:55.998250"
+  },
+  "https://a16z.simplecast.com/episodes/big-ideas-2026-physical-ai-and-the-industrial-stack-_jUvmWaM": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:01:56.121585"
+  },
+  "https://greylock.com/firm-news/welcome-shreya-shekhar/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:02:41.718328"
+  },
+  "https://greylock.com/firm-news/welcome-howard-ting/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:02:42.231725"
+  },
+  "https://www.saastr.com/the-latest-carta-data-vc-deals-are-up-only-3-but-are-up-130/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:02:48.010236"
+  },
+  "https://www.saastr.com/your-critical-product-goal-for-2026-your-customers-truly-honestly-see-your-ai-agent-as-part-of-the-team-for-real/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:02:48.015490"
+  },
+  "https://deepmind.google/blog/advanced-audio-dialog-and-generation-with-gemini-25/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:03:09.770303"
+  },
+  "https://deepmind.google/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:03:09.963050"
+  },
+  "https://blogs.nvidia.com/blog/national-quantum-initiative/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:03:50.514332"
+  },
+  "https://medium.com/airbnb-engineering/my-journey-to-airbnb-peter-coles-0e8efd01c5a8?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-29T04:07:05.497743"
   }
 }
