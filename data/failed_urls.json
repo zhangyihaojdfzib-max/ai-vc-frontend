@@ -595,9 +595,9 @@
     "timestamp": "2026-01-29T04:03:10.100172"
   },
   "https://a16z.simplecast.com/episodes/how-consumer-behavior-is-rewiring-us-healthcare-5Ex9w8F7": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:01:55.988316"
+    "timestamp": "2026-01-30T04:02:27.537988"
   },
   "https://www.saastr.com/please-stop-selling-like-its-2021/": {
     "count": 2,
@@ -605,53 +605,123 @@
     "timestamp": "2026-01-29T04:02:47.672717"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-and-balaji-srinivasan-on-netscape-and-network-states-LvyrSCPK": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:01:55.998250"
+    "timestamp": "2026-01-30T04:02:27.547844"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-2026-physical-ai-and-the-industrial-stack-_jUvmWaM": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:01:56.121585"
+    "timestamp": "2026-01-30T04:02:27.734150"
   },
   "https://greylock.com/firm-news/welcome-shreya-shekhar/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:02:41.718328"
+    "timestamp": "2026-01-30T04:02:29.869773"
   },
   "https://greylock.com/firm-news/welcome-howard-ting/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:02:42.231725"
+    "timestamp": "2026-01-30T04:02:29.996255"
   },
   "https://www.saastr.com/the-latest-carta-data-vc-deals-are-up-only-3-but-are-up-130/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:02:48.010236"
+    "timestamp": "2026-01-30T04:02:40.922418"
   },
   "https://www.saastr.com/your-critical-product-goal-for-2026-your-customers-truly-honestly-see-your-ai-agent-as-part-of-the-team-for-real/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:02:48.015490"
+    "timestamp": "2026-01-30T04:02:40.766798"
   },
   "https://deepmind.google/blog/advanced-audio-dialog-and-generation-with-gemini-25/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:03:09.770303"
+    "timestamp": "2026-01-30T04:03:09.157207"
   },
   "https://deepmind.google/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:03:09.963050"
+    "timestamp": "2026-01-30T04:03:09.151334"
   },
   "https://blogs.nvidia.com/blog/national-quantum-initiative/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:03:50.514332"
+    "timestamp": "2026-01-30T04:03:12.813259"
   },
   "https://medium.com/airbnb-engineering/my-journey-to-airbnb-peter-coles-0e8efd01c5a8?source=rss----53c7c27702d5---4": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:06:07.028293"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-on-why-this-is-the-most-important-moment-in-tech-history-LKmC5VRE": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-29T04:07:05.497743"
+    "timestamp": "2026-01-30T04:02:27.557076"
+  },
+  "https://a16z.simplecast.com/episodes/big-ideas-2026-voice-agents-and-high-stakes-trust-01thYDH5": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:02:27.750957"
+  },
+  "https://greylock.com/portfolio-news/introducing-fable-ai-native-human-risk-management/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:02:29.479936"
+  },
+  "https://greylock.com/portfolio-news/digital-home-ownership/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:02:29.798168"
+  },
+  "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-naveen-zutshi-cio-at-databricks/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:02:30.128917"
+  },
+  "https://www.saastr.com/why-most-b2b-companies-are-failing-at-ai-and-how-to-avoid-it-with-intercoms-cpo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:02:40.393353"
+  },
+  "https://www.saastr.com/20vc-x-saastr-this-week-the-5-billion-exit-that-felt-weird-why-inference-costs-are-the-final-nail-for-mid-growth-saas-and-andreessens-2-3-ai-domination/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:02:40.430992"
+  },
+  "https://www.saastr.com/iconiqs-latest-state-of-ai-report-the-10-most-important-data-points-for-saas-founders/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:02:40.601519"
+  },
+  "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:03:09.133915"
+  },
+  "https://deepmind.google/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:03:09.374107"
+  },
+  "https://deepmind.google/blog/gemini-25-our-world-leading-model-is-getting-even-better/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:03:09.393395"
+  },
+  "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:03:12.343185"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-linux/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:03:12.549763"
+  },
+  "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-30T04:03:12.574185"
   }
 }
