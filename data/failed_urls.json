@@ -605,24 +605,24 @@
     "timestamp": "2026-01-29T04:02:47.672717"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-and-balaji-srinivasan-on-netscape-and-network-states-LvyrSCPK": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:27.547844"
+    "timestamp": "2026-01-31T03:59:14.596212"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-2026-physical-ai-and-the-industrial-stack-_jUvmWaM": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:27.734150"
+    "timestamp": "2026-01-31T03:59:14.684039"
   },
   "https://greylock.com/firm-news/welcome-shreya-shekhar/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:29.869773"
+    "timestamp": "2026-01-31T03:59:16.326389"
   },
   "https://greylock.com/firm-news/welcome-howard-ting/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:29.996255"
+    "timestamp": "2026-01-31T03:59:16.278642"
   },
   "https://www.saastr.com/the-latest-carta-data-vc-deals-are-up-only-3-but-are-up-130/": {
     "count": 2,
@@ -635,14 +635,14 @@
     "timestamp": "2026-01-30T04:02:40.766798"
   },
   "https://deepmind.google/blog/advanced-audio-dialog-and-generation-with-gemini-25/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:09.157207"
+    "timestamp": "2026-01-31T03:59:22.737174"
   },
   "https://deepmind.google/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:09.151334"
+    "timestamp": "2026-01-31T03:59:22.726251"
   },
   "https://blogs.nvidia.com/blog/national-quantum-initiative/": {
     "count": 2,
@@ -655,59 +655,59 @@
     "timestamp": "2026-01-30T04:06:07.028293"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-why-this-is-the-most-important-moment-in-tech-history-LKmC5VRE": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:27.557076"
+    "timestamp": "2026-01-31T03:59:14.605301"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-2026-voice-agents-and-high-stakes-trust-01thYDH5": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:27.750957"
+    "timestamp": "2026-01-31T03:59:14.675789"
   },
   "https://greylock.com/portfolio-news/introducing-fable-ai-native-human-risk-management/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:29.479936"
+    "timestamp": "2026-01-31T03:59:15.897499"
   },
   "https://greylock.com/portfolio-news/digital-home-ownership/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:29.798168"
+    "timestamp": "2026-01-31T03:59:16.415052"
   },
   "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-naveen-zutshi-cio-at-databricks/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:30.128917"
+    "timestamp": "2026-01-31T03:59:16.750765"
   },
   "https://www.saastr.com/why-most-b2b-companies-are-failing-at-ai-and-how-to-avoid-it-with-intercoms-cpo/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:40.393353"
+    "timestamp": "2026-01-31T03:59:21.795586"
   },
   "https://www.saastr.com/20vc-x-saastr-this-week-the-5-billion-exit-that-felt-weird-why-inference-costs-are-the-final-nail-for-mid-growth-saas-and-andreessens-2-3-ai-domination/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:40.430992"
+    "timestamp": "2026-01-31T03:59:21.441208"
   },
   "https://www.saastr.com/iconiqs-latest-state-of-ai-report-the-10-most-important-data-points-for-saas-founders/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:02:40.601519"
+    "timestamp": "2026-01-31T03:59:21.639513"
   },
   "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:09.133915"
+    "timestamp": "2026-01-31T03:59:22.714107"
   },
   "https://deepmind.google/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:09.374107"
+    "timestamp": "2026-01-31T03:59:22.885388"
   },
   "https://deepmind.google/blog/gemini-25-our-world-leading-model-is-getting-even-better/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:09.393395"
+    "timestamp": "2026-01-31T03:59:22.926128"
   },
   "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/": {
     "count": 1,
@@ -723,5 +723,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-01-30T04:03:12.574185"
+  },
+  "https://a16z.simplecast.com/episodes/anyone-can-code-now-netlify-ceo-talks-ai-agents-L9FlDni9": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-31T03:59:14.582084"
+  },
+  "https://www.saastr.com/want-leads-sponsor-the-next-saastr-ai-day-and-then-saastr-ai-annual-2026-in-may/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-31T03:59:21.087376"
+  },
+  "https://www.saastr.com/the-best-ai-startups-do-the-training-for-you-its-on-you-to-make-the-agent-awesome-not-your-customers/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-01-31T03:59:21.443300"
   }
 }
