@@ -110,12 +110,12 @@ vc_funds:
 
   - name: first-round-review
     display_name: First Round Review
-    type: rss
+    type: playwright  # ✅ 2026-02-01: 使用Playwright抓取
     url: https://review.firstround.com/
-    feed_url: https://review.firstround.com/feed.xml
+    sitemap_url: https://review.firstround.com/sitemap.xml
     category: vc_funds
-    enabled: false  # ❌ 仍失效，所有路径404
-    note: "RSS已失效，需要Playwright方案"
+    enabled: true
+    note: "使用Playwright绕过反爬"
 
   - name: bessemer
     display_name: Bessemer Venture Partners
@@ -268,12 +268,13 @@ investors:
 ai_research:
   - name: openai
     display_name: OpenAI
-    type: rss
+    type: playwright  # ✅ 2026-02-01: 使用Playwright抓取
     url: https://openai.com/blog
-    feed_url: https://openai.com/blog/rss/
+    sitemap_url: https://openai.com/sitemap.xml
+    url_pattern: "/index/"  # OpenAI blog posts use /index/ URLs
     category: ai_research
-    enabled: false  # ❌ 403 Forbidden，需要Playwright
-    note: "反爬严格，需要Playwright方案"
+    enabled: true
+    note: "使用Playwright绕过反爬"
 
   - name: anthropic
     display_name: Anthropic

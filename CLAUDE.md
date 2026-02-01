@@ -35,7 +35,7 @@ ai-vc-frontend/
 ### 1. VC源fetching问题修复
 - [x] **Sequoia (红杉)**: RSS已失效，改用sitemap方案 (`post-sitemap.xml`)
 - [x] **Anthropic**: RSS 404，改用sitemap方案，添加url_pattern过滤
-- [x] **Meta AI**: RSS 400，改用gzip压缩sitemap方案
+- [x] **Meta AI**: RSS 400，sitemap需要认证，已禁用
 
 ### 2. 新功能: Sitemap URL模式过滤
 - [x] `scripts/main.py`: 添加 `url_pattern` 配置支持
@@ -44,15 +44,29 @@ ai-vc-frontend/
 ### 3. 新功能: Gzip Sitemap支持
 - [x] `scripts/main.py`: 添加 `.xml.gz` 压缩sitemap解压支持
 
-### 4. 禁用更多失效源
+### 4. 新功能: Playwright反爬方案
+- [x] `scripts/playwright_fetcher.py`: 新增Playwright内容抓取器
+- [x] 支持反爬站点 (OpenAI, First Round Review等)
+- [x] 人类行为模拟 (滚动、延迟、随机UA)
+- [x] 自动隐身模式避免检测
+- [x] 与现有图文提取流程无缝集成，保留原有格式
+- [x] `sources.yaml`: 新增 `type: playwright` 源类型
+- [x] GitHub Actions: 添加Playwright安装步骤
+
+### 5. 启用反爬站点
+- [x] **OpenAI Blog**: 使用Playwright抓取
+- [x] **First Round Review**: 使用Playwright抓取
+
+### 6. 禁用无sitemap/RSS的源
 - Redpoint Ventures (404)
 - Lux Capital (404)
 - Contrary (404)
 - Amplify Partners (404)
-- Sam Altman (404, Posthaven RSS失效)
+- Sam Altman (无sitemap, RSS失效)
 - Mark Suster (SSL证书错误)
 - MIT CSAIL (404)
 - OpenAI Cookbook (404)
+- Meta AI (sitemap需要认证)
 
 ---
 
@@ -101,26 +115,26 @@ ai-vc-frontend/
 ## 已知问题
 
 ### RSS 源状态
-| 来源 | 状态 | 问题 |
+| 来源 | 状态 | 方案 |
 |------|------|------|
-| Sequoia | ✅ 已修复 | 改用 sitemap (post-sitemap.xml) |
-| Anthropic | ✅ 已修复 | 改用 sitemap + url_pattern 过滤 |
-| Meta AI | ✅ 已修复 | 改用 gzip sitemap |
-| Redpoint | 禁用 | 404，网站可能重构 |
+| Sequoia | ✅ 已修复 | sitemap (post-sitemap.xml) |
+| Anthropic | ✅ 已修复 | sitemap + url_pattern |
+| OpenAI Blog | ✅ 已修复 | Playwright + sitemap |
+| First Round Review | ✅ 已修复 | Playwright + sitemap |
+| Meta AI | 禁用 | sitemap需要认证 |
+| Redpoint | 禁用 | 404，无sitemap |
 | Lux Capital | 禁用 | 404 |
 | Contrary | 禁用 | 404 |
 | Amplify Partners | 禁用 | 404 |
-| Sam Altman | 禁用 | 404，Posthaven RSS失效 |
+| Sam Altman | 禁用 | 无sitemap/RSS |
 | Mark Suster | 禁用 | SSL 证书错误 |
 | MIT CSAIL | 禁用 | 404 |
 | OpenAI Cookbook | 禁用 | 404 |
 | Netflix Tech Blog | 禁用 | SSL 证书验证失败 |
 | Uber Engineering | 禁用 | 406 Not Acceptable |
-| Figma Blog | 禁用 | 404，RSS 地址已变 |
-| Notion Blog | 禁用 | 404，域名可能改为 notion.com |
-| Linear Blog | 禁用 | 404，RSS 地址已变 |
-| OpenAI Blog | 禁用 | 403 Forbidden，反爬严格 |
-| First Round Review | 禁用 | 404，需要 Playwright |
+| Figma Blog | 禁用 | 404 |
+| Notion Blog | 禁用 | 404 |
+| Linear Blog | 禁用 | 404 |
 | Bessemer | 禁用 | RSS 失效 |
 
 ### 内容提取问题
@@ -131,7 +145,9 @@ ai-vc-frontend/
 
 - **文章排序**: `lib/posts.ts:114`
 - **RSS 抓取**: `scripts/main.py:489` (_fetch_rss)
+- **Sitemap 抓取**: `scripts/main.py:562` (_fetch_sitemap)
 - **内容提取**: `scripts/content_extractor_v2.py`
+- **Playwright 抓取**: `scripts/playwright_fetcher.py`
 - **垃圾清理**: `scripts/main.py:42` (ContentCleaner)
 - **源配置**: `data/sources.yaml`
 

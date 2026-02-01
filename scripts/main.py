@@ -473,6 +473,10 @@ class ContentFetcher:
         elif source_type == 'sitemap' and source.get('sitemap_url'):
             return self._fetch_sitemap(source, max_items, since_date)
         
+        elif source_type == 'playwright' and source.get('sitemap_url'):
+            # Playwright sources: use sitemap for article list, Playwright for content
+            return self._fetch_sitemap(source, max_items, since_date)
+
         elif source_type == 'homepage':
             feed_url = self.rss_discovery.discover(source.get('url'))
             if feed_url:
@@ -481,7 +485,7 @@ class ContentFetcher:
             else:
                 self.logger.warning(f"无法为 {source['name']} 发现RSS，跳过")
                 return []
-        
+
         else:
             self.logger.warning(f"不支持的源类型: {source_type}")
             return []
@@ -679,6 +683,41 @@ class ContentFetcher:
 
         except Exception as e:
             self.logger.error(f"内容提取失败: {e}")
+            return None
+
+    def fetch_article_content_playwright(self, url: str, pw_fetcher) -> Optional[Dict]:
+        """使用 Playwright 提取内容（用于反爬站点，保留图文格式）"""
+        try:
+            html = pw_fetcher.fetch_page(url)
+            if not html:
+                return None
+
+            result = self.extractor.extract(html, url)
+
+            if not result['blocks']:
+                self.logger.warning(f"    [Playwright] 无法提取内容块")
+                return None
+
+            text_blocks = [b for b in result['blocks'] if b['type'] == 'text']
+            img_blocks = [b for b in result['blocks'] if b['type'] == 'image']
+            self.logger.info(f"    [Playwright] 提取: {len(text_blocks)} 文本块, {len(img_blocks)} 图片")
+
+            content_md = self.extractor.blocks_to_markdown(result['blocks'])
+
+            if len(content_md) < 200:
+                self.logger.warning(f"    [Playwright] 内容过短 ({len(content_md)} 字符)")
+                return None
+
+            return {
+                'content': content_md,
+                'title': result.get('title', ''),
+                'author': '',
+                'date': '',
+                'blocks': result['blocks'],
+            }
+
+        except Exception as e:
+            self.logger.error(f"[Playwright] 内容提取失败: {e}")
             return None
 
 # ============================================
@@ -973,6 +1012,36 @@ class Pipeline:
         self.fetcher = ContentFetcher(config, state, logger)
         self.translator = Translator(config, logger)
         self.generator = ArticleGenerator(content_dir, logger)
+
+        # Playwright fetcher (lazy init for anti-bot sites)
+        self.pw_fetcher = None
+        self._pw_fetcher_initialized = False
+
+    def _init_playwright(self):
+        """Lazy initialization of Playwright fetcher"""
+        if self._pw_fetcher_initialized:
+            return
+
+        self._pw_fetcher_initialized = True
+        try:
+            from playwright_fetcher import PlaywrightFetcher
+            self.pw_fetcher = PlaywrightFetcher(headless=True, logger=self.logger)
+            self.pw_fetcher._start_browser()
+            self.logger.info("[Playwright] 浏览器已启动")
+        except ImportError:
+            self.logger.warning("[Playwright] 未安装，跳过反爬站点。运行: pip install playwright && playwright install chromium")
+        except Exception as e:
+            self.logger.warning(f"[Playwright] 初始化失败: {e}")
+
+    def _cleanup_playwright(self):
+        """Clean up Playwright resources"""
+        if self.pw_fetcher:
+            try:
+                self.pw_fetcher._stop_browser()
+                self.logger.info("[Playwright] 浏览器已关闭")
+            except:
+                pass
+            self.pw_fetcher = None
     
     def _process_single_article(
         self, 
@@ -988,9 +1057,16 @@ class Pipeline:
         self.logger.info(f"  [{index}/{total}] {title_short}...")
         
         try:
-            # 获取完整内容
-            full_content = self.fetcher.fetch_article_content(url)
-            
+            # 获取完整内容 - 根据源类型选择抓取方式
+            source_type = source.get('type', 'rss')
+
+            if source_type == 'playwright' and self.pw_fetcher:
+                # 使用 Playwright 抓取反爬站点
+                full_content = self.fetcher.fetch_article_content_playwright(url, self.pw_fetcher)
+            else:
+                # 常规 requests 抓取
+                full_content = self.fetcher.fetch_article_content(url)
+
             if not full_content:
                 self.logger.warning(f"    内容获取失败，跳过")
                 self.state.mark_failed(url, "content_extraction_failed")
@@ -1027,14 +1103,18 @@ class Pipeline:
             return False
     
     def process_source(
-        self, 
-        source: Dict, 
+        self,
+        source: Dict,
         max_items: int = 5,
         since_date: datetime = None
     ) -> int:
         """处理单个源（并行处理文章）"""
         self.logger.info(f"处理源: {source.get('display_name', source['name'])}")
-        
+
+        # 初始化 Playwright（如果是反爬源）
+        if source.get('type') == 'playwright':
+            self._init_playwright()
+
         # 1. 获取文章列表（串行）
         articles = self.fetcher.fetch_from_source(source, max_items, since_date)
         
@@ -1103,10 +1183,13 @@ class Pipeline:
                 self.logger.error(f"源 {source['name']} 处理失败: {e}")
                 continue
         
+        # 清理 Playwright 资源
+        self._cleanup_playwright()
+
         self.logger.info("=" * 60)
         self.logger.info(f"处理完成！共处理 {total_processed} 篇文章")
         self.logger.info("=" * 60)
-        
+
         return total_processed
 
 

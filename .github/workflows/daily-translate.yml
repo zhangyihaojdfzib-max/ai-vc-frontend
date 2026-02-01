@@ -20,7 +20,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests feedparser beautifulsoup4 trafilatura openai pyyaml
+          pip install requests feedparser beautifulsoup4 trafilatura openai pyyaml playwright
+
+      - name: Install Playwright browsers
+        run: |
+          playwright install chromium
+          playwright install-deps chromium
 
       - name: Run fetch and translate script
         env:
@@ -33,6 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/posts/ data/
+          git add content/posts/ data/ public/images/posts/
           git diff --staged --quiet || git commit -m "Auto: Add new translated articles"
           git push
