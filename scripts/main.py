@@ -1122,12 +1122,14 @@ class Pipeline:
             self.logger.info(f"  没有新文章")
             return 0
         
-        # 2. 并行处理文章
+        # 2. 处理文章
+        # 注意: Playwright 源必须串行处理（Playwright 不支持多线程）
         processed_count = 0
         total = len(articles)
-        
-        if self.max_workers <= 1:
-            # 串行模式
+        use_serial = self.max_workers <= 1 or source.get('type') == 'playwright'
+
+        if use_serial:
+            # 串行模式 (Playwright 源或单线程配置)
             for i, article in enumerate(articles):
                 if self._process_single_article(article, source, i+1, total):
                     processed_count += 1
