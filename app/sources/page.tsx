@@ -25,6 +25,8 @@ const sourcesMeta: Record<string, { name: string; slug: string; description: str
   'Sam Altman': { name: 'Sam Altman', slug: 'sam-altman', description: 'OpenAI CEO，前 YC 总裁', type: 'investor' },
 
   // AI 研究
+  'Anthropic': { name: 'Anthropic', slug: 'anthropic', description: 'Claude AI 背后的公司', type: 'research' },
+  'OpenAI': { name: 'OpenAI', slug: 'openai', description: 'GPT 和 ChatGPT 背后的公司', type: 'research' },
   'Google DeepMind': { name: 'DeepMind', slug: 'deepmind', description: 'Google 旗下 AI 研究实验室', type: 'research' },
   'Google AI Blog': { name: 'Google AI', slug: 'google-ai', description: 'Google AI 研究博客', type: 'research' },
   'Microsoft Research': { name: 'Microsoft Research', slug: 'microsoft-research', description: '微软研究院', type: 'research' },
