@@ -740,19 +740,19 @@
     "timestamp": "2026-02-01T04:23:50.314723"
   },
   "https://greylock.com/portfolio-news/introducing-cogent-ai-agents-for-vulnerability-management/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:43.950961"
+    "timestamp": "2026-02-01T04:31:17.274425"
   },
   "https://greylock.com/portfolio-news/infrastructure-for-ais-new-era/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:44.416625"
+    "timestamp": "2026-02-01T04:31:17.121308"
   },
   "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-meerah-rajavel-cio-at-palo-alto-networks/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:44.489345"
+    "timestamp": "2026-02-01T04:31:17.275518"
   },
   "https://greylock.com/press/this-120-million-startups-ai-will-teach-you-how-to-suck-less-at-security/": {
     "count": 1,
