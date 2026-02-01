@@ -571,8 +571,14 @@ class ContentFetcher:
             headers = {'User-Agent': self.config.user_agent}
             response = requests.get(sitemap_url, headers=headers, timeout=30)
             response.raise_for_status()
-            
-            root = ElementTree.fromstring(response.content)
+
+            # 处理gzip压缩的sitemap
+            content = response.content
+            if sitemap_url.endswith('.gz'):
+                import gzip
+                content = gzip.decompress(content)
+
+            root = ElementTree.fromstring(content)
             ns = {'sm': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
             
             if root.tag.endswith('sitemapindex'):
@@ -596,6 +602,11 @@ class ContentFetcher:
                     continue
 
                 url = loc.text
+
+                # URL模式过滤：如果配置了url_pattern，只抓取匹配的URL
+                url_pattern = source.get('url_pattern')
+                if url_pattern and url_pattern not in url:
+                    continue
 
                 if self.state.is_processed(url):
                     continue

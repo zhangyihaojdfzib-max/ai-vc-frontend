@@ -1,6 +1,6 @@
 # AI-VC-Frontend 项目记忆
 
-> 最后更新: 2026-01-27
+> 最后更新: 2026-02-01
 
 ## 项目概述
 
@@ -30,6 +30,32 @@ ai-vc-frontend/
 └── lib/posts.ts            # 文章读取/排序逻辑
 ```
 
+## 2026-02-01 完成的工作
+
+### 1. VC源fetching问题修复
+- [x] **Sequoia (红杉)**: RSS已失效，改用sitemap方案 (`post-sitemap.xml`)
+- [x] **Anthropic**: RSS 404，改用sitemap方案，添加url_pattern过滤
+- [x] **Meta AI**: RSS 400，改用gzip压缩sitemap方案
+
+### 2. 新功能: Sitemap URL模式过滤
+- [x] `scripts/main.py`: 添加 `url_pattern` 配置支持
+- [x] sitemap抓取时可通过pattern过滤URL（如只抓取 `/news/` 目录）
+
+### 3. 新功能: Gzip Sitemap支持
+- [x] `scripts/main.py`: 添加 `.xml.gz` 压缩sitemap解压支持
+
+### 4. 禁用更多失效源
+- Redpoint Ventures (404)
+- Lux Capital (404)
+- Contrary (404)
+- Amplify Partners (404)
+- Sam Altman (404, Posthaven RSS失效)
+- Mark Suster (SSL证书错误)
+- MIT CSAIL (404)
+- OpenAI Cookbook (404)
+
+---
+
 ## 2026-01-27 完成的工作
 
 ### 1. 文章审计与清理
@@ -57,7 +83,7 @@ ai-vc-frontend/
 ## 待办事项
 
 ### 高优先级
-- [ ] 修复失效的 RSS 源（查找新的 RSS URL）
+- [x] 修复失效的 RSS 源（2026-02-01: 改用sitemap方案修复Sequoia/Anthropic/Meta AI）
 - [ ] 分析用户提供的工作记录，找出更深层问题
 - [ ] 验证新的抓取优先级逻辑是否生效
 
@@ -77,6 +103,17 @@ ai-vc-frontend/
 ### RSS 源状态
 | 来源 | 状态 | 问题 |
 |------|------|------|
+| Sequoia | ✅ 已修复 | 改用 sitemap (post-sitemap.xml) |
+| Anthropic | ✅ 已修复 | 改用 sitemap + url_pattern 过滤 |
+| Meta AI | ✅ 已修复 | 改用 gzip sitemap |
+| Redpoint | 禁用 | 404，网站可能重构 |
+| Lux Capital | 禁用 | 404 |
+| Contrary | 禁用 | 404 |
+| Amplify Partners | 禁用 | 404 |
+| Sam Altman | 禁用 | 404，Posthaven RSS失效 |
+| Mark Suster | 禁用 | SSL 证书错误 |
+| MIT CSAIL | 禁用 | 404 |
+| OpenAI Cookbook | 禁用 | 404 |
 | Netflix Tech Blog | 禁用 | SSL 证书验证失败 |
 | Uber Engineering | 禁用 | 406 Not Acceptable |
 | Figma Blog | 禁用 | 404，RSS 地址已变 |

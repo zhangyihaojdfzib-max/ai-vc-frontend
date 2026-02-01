@@ -1,6 +1,6 @@
 # AI/VC/Startup 内容聚合系统 - 数据源配置
-# 更新日期: 2026-01-05
-# 修复了10个之前失效的源，覆盖率从69%提升到90%
+# 更新日期: 2026-02-01
+# 修复了VC源的fetching问题，将失效的RSS切换为sitemap方案
 
 settings:
   user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -41,9 +41,9 @@ vc_funds:
 
   - name: sequoia
     display_name: 红杉资本 (Sequoia)
-    type: rss
+    type: sitemap
     url: https://www.sequoiacap.com/
-    feed_url: https://www.sequoiacap.com/feed/  # ✅ 修复：官网RSS恢复
+    sitemap_url: https://sequoiacap.com/post-sitemap.xml  # ✅ 2026-02-01修复：RSS已失效，改用sitemap
     category: vc_funds
     enabled: true
 
@@ -70,7 +70,8 @@ vc_funds:
     url: https://www.redpoint.com/blog/
     feed_url: https://www.redpoint.com/feed/
     category: vc_funds
-    enabled: true
+    enabled: false  # ❌ 2026-02-01: 404错误，网站可能重构
+    note: "RSS返回404，需要查找新地址或Playwright方案"
 
   - name: lux-capital
     display_name: Lux Capital
@@ -78,7 +79,8 @@ vc_funds:
     url: https://www.luxcapital.com/
     feed_url: https://www.luxcapital.com/feed
     category: vc_funds
-    enabled: true
+    enabled: false  # ❌ 2026-02-01: 404错误
+    note: "RSS返回404"
 
   - name: contrary
     display_name: Contrary
@@ -86,7 +88,8 @@ vc_funds:
     url: https://contrary.com/blog
     feed_url: https://contrary.com/feed.xml
     category: vc_funds
-    enabled: true
+    enabled: false  # ❌ 2026-02-01: 404错误
+    note: "RSS返回404"
 
   - name: amplify-partners
     display_name: Amplify Partners
@@ -94,7 +97,8 @@ vc_funds:
     url: https://amplifypartners.com/
     feed_url: https://amplifypartners.com/feed/
     category: vc_funds
-    enabled: true
+    enabled: false  # ❌ 2026-02-01: 404错误
+    note: "RSS返回404"
 
   - name: unusual-ventures
     display_name: Unusual Ventures
@@ -173,7 +177,8 @@ investors:
     url: https://blog.samaltman.com/
     feed_url: https://blog.samaltman.com/feed
     category: investors
-    enabled: true
+    enabled: false  # ❌ 2026-02-01: 404错误，Posthaven RSS已失效
+    note: "RSS返回404，需要Playwright方案"
 
   - name: benedict-evans
     display_name: Benedict Evans
@@ -235,9 +240,10 @@ investors:
     display_name: Mark Suster
     type: rss
     url: https://bothsidesofthetable.com/
-    feed_url: https://bothsidesofthetable.com/feed  # ✅ 修复：SSL问题已解决
+    feed_url: https://bothsidesofthetable.com/feed
     category: investors
-    enabled: true
+    enabled: false  # ❌ 2026-02-01: SSL证书验证失败
+    note: "SSL证书错误"
 
   - name: tomasz-tunguz
     display_name: Tomasz Tunguz
@@ -271,9 +277,10 @@ ai_research:
 
   - name: anthropic
     display_name: Anthropic
-    type: rss
+    type: sitemap
     url: https://www.anthropic.com/news
-    feed_url: https://www.anthropic.com/rss.xml
+    sitemap_url: https://www.anthropic.com/sitemap.xml  # ✅ 2026-02-01修复：RSS已失效，改用sitemap
+    url_pattern: "/news/"  # 只抓取news目录下的内容
     category: ai_research
     enabled: true
 
@@ -287,9 +294,10 @@ ai_research:
 
   - name: meta-ai
     display_name: Meta AI
-    type: rss
+    type: sitemap
     url: https://ai.meta.com/blog/
-    feed_url: https://ai.meta.com/blog/rss/
+    sitemap_url: https://ai.meta.com/sitemap/ai_meta_com_sitemap.xml.gz  # ✅ 2026-02-01修复：RSS已失效，改用sitemap
+    url_pattern: "/blog/"  # 只抓取blog目录下的内容
     category: ai_research
     enabled: true
 
@@ -347,7 +355,8 @@ ai_research:
     url: https://www.csail.mit.edu/news
     feed_url: https://www.csail.mit.edu/news/feed
     category: ai_research
-    enabled: true
+    enabled: false  # ❌ 2026-02-01: 404错误
+    note: "RSS返回404，需要查找新地址"
 
 # ============================================
 # 技术博客
@@ -367,7 +376,8 @@ tech_blogs:
     url: https://cookbook.openai.com/
     feed_url: https://cookbook.openai.com/feed.xml
     category: tech_blogs
-    enabled: true
+    enabled: false  # ❌ 2026-02-01: 404错误
+    note: "RSS返回404，需要查找新地址"
 
   - name: replicate
     display_name: Replicate Blog
