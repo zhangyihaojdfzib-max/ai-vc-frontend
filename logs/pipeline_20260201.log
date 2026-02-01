@@ -1,0 +1,205 @@
+2026-02-01 04:23:41,977 - INFO - 项目根目录: /home/runner/work/ai-vc-frontend/ai-vc-frontend
+2026-02-01 04:23:41,977 - INFO - 配置文件: /home/runner/work/ai-vc-frontend/ai-vc-frontend/data/sources.yaml
+2026-02-01 04:23:42,041 - INFO - ============================================================
+2026-02-01 04:23:42,041 - INFO - 开始处理 - 2026-02-01 04:23:42
+2026-02-01 04:23:42,041 - INFO - 参数: source=None, max=5, workers=3
+2026-02-01 04:23:42,041 - INFO - ============================================================
+2026-02-01 04:23:42,041 - INFO - 处理源: Y Combinator
+2026-02-01 04:23:42,612 - INFO - [ycombinator] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:42,613 - INFO -   没有新文章
+2026-02-01 04:23:42,613 - INFO - 处理源: Andreessen Horowitz (a16z)
+2026-02-01 04:23:42,814 - INFO - [a16z] Feed未更新 (304)
+2026-02-01 04:23:42,815 - INFO -   没有新文章
+2026-02-01 04:23:42,815 - INFO - 处理源: 红杉资本 (Sequoia)
+2026-02-01 04:23:43,292 - INFO - [sequoia] Feed未更新 (304)
+2026-02-01 04:23:43,293 - INFO -   没有新文章
+2026-02-01 04:23:43,293 - INFO - 处理源: Greylock Partners
+2026-02-01 04:23:43,630 - INFO - [greylock] 从Sitemap获取 5 篇待处理文章（共 245 篇未处理）
+2026-02-01 04:23:43,632 - INFO -   [1/5] ...
+2026-02-01 04:23:43,633 - INFO -   [2/5] ...
+2026-02-01 04:23:43,635 - INFO -   [3/5] ...
+2026-02-01 04:23:43,950 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:43,952 - INFO -   [4/5] ...
+2026-02-01 04:23:44,406 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:44,463 - INFO -   [5/5] ...
+2026-02-01 04:23:44,489 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:45,020 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://www.forbes.com/sites/thomasbrewster/2025/07/28/this-120-million-startups-ai-will-teach-you-how-to-suck-less-at-security/
+2026-02-01 04:23:45,022 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:45,229 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://www.nytimes.com/2025/08/04/technology/ai-young-ceos-san-francisco.html
+2026-02-01 04:23:45,231 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:45,232 - INFO - 处理源: Union Square Ventures
+2026-02-01 04:23:45,449 - INFO - [usv] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:45,450 - INFO -   没有新文章
+2026-02-01 04:23:45,450 - INFO - 处理源: Redpoint Ventures
+2026-02-01 04:23:45,555 - ERROR - [redpoint] RSS获取失败: 404 Client Error: Not Found for url: https://www.redpoint.com/feed/
+2026-02-01 04:23:45,556 - INFO -   没有新文章
+2026-02-01 04:23:45,556 - INFO - 处理源: Lux Capital
+2026-02-01 04:23:45,684 - ERROR - [lux-capital] RSS获取失败: 404 Client Error: Not Found for url: https://www.luxcapital.com/feed
+2026-02-01 04:23:45,685 - INFO -   没有新文章
+2026-02-01 04:23:45,685 - INFO - 处理源: Contrary
+2026-02-01 04:23:45,852 - ERROR - [contrary] RSS获取失败: 404 Client Error: Not Found for url: https://contrary.com/feed.xml
+2026-02-01 04:23:45,853 - INFO -   没有新文章
+2026-02-01 04:23:45,854 - INFO - 处理源: Amplify Partners
+2026-02-01 04:23:46,322 - ERROR - [amplify-partners] RSS获取失败: 404 Client Error: Not Found for url: https://www.amplifypartners.com/feed
+2026-02-01 04:23:46,323 - INFO -   没有新文章
+2026-02-01 04:23:46,324 - INFO - 处理源: Unusual Ventures
+2026-02-01 04:23:46,682 - INFO - [unusual-ventures] Feed未更新 (304)
+2026-02-01 04:23:46,683 - INFO -   没有新文章
+2026-02-01 04:23:46,683 - INFO - 处理源: NFX
+2026-02-01 04:23:47,094 - INFO - [nfx] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:47,095 - INFO -   没有新文章
+2026-02-01 04:23:47,095 - INFO - 处理源: Point Nine Capital
+2026-02-01 04:23:47,330 - INFO - [point-nine] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:47,331 - INFO -   没有新文章
+2026-02-01 04:23:47,331 - INFO - 处理源: Boldstart Ventures
+2026-02-01 04:23:47,566 - INFO - [boldstart] Feed未更新 (304)
+2026-02-01 04:23:47,567 - INFO -   没有新文章
+2026-02-01 04:23:47,567 - INFO - 处理源: Paul Graham
+2026-02-01 04:23:47,759 - INFO - [paul-graham] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:47,759 - INFO -   没有新文章
+2026-02-01 04:23:47,759 - INFO - 处理源: Sam Altman
+2026-02-01 04:23:48,149 - ERROR - [sam-altman] RSS获取失败: 404 Client Error: Not Found for url: https://blog.samaltman.com/feed
+2026-02-01 04:23:48,150 - INFO -   没有新文章
+2026-02-01 04:23:48,150 - INFO - 处理源: Benedict Evans
+2026-02-01 04:23:48,616 - INFO - [benedict-evans] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:48,618 - INFO -   没有新文章
+2026-02-01 04:23:48,618 - INFO - 处理源: Fred Wilson (AVC)
+2026-02-01 04:23:48,886 - INFO - [fred-wilson] Feed未更新 (304)
+2026-02-01 04:23:48,887 - INFO -   没有新文章
+2026-02-01 04:23:48,888 - INFO - 处理源: Brad Feld
+2026-02-01 04:23:48,990 - INFO - [brad-feld] Feed未更新 (304)
+2026-02-01 04:23:48,991 - INFO -   没有新文章
+2026-02-01 04:23:48,991 - INFO - 处理源: Bill Gurley
+2026-02-01 04:23:49,049 - INFO - [bill-gurley] Feed未更新 (304)
+2026-02-01 04:23:49,050 - INFO -   没有新文章
+2026-02-01 04:23:49,050 - INFO - 处理源: Andrew Chen
+2026-02-01 04:23:49,340 - INFO - [andrew-chen] Feed未更新 (304)
+2026-02-01 04:23:49,341 - INFO -   没有新文章
+2026-02-01 04:23:49,341 - INFO - 处理源: Hunter Walk
+2026-02-01 04:23:49,422 - INFO - [hunter-walk] Feed未更新 (304)
+2026-02-01 04:23:49,423 - INFO -   没有新文章
+2026-02-01 04:23:49,423 - INFO - 处理源: Jason Lemkin (SaaStr)
+2026-02-01 04:23:49,689 - INFO - [saastr] 从RSS获取 5 篇待处理文章（共 10 篇未处理）
+2026-02-01 04:23:49,690 - INFO -   [1/5] The #1 Conceit in B2B at Scale: Masking a Slowdown...
+2026-02-01 04:23:49,690 - INFO -   [2/5] The Trade Desk Was Priced for Perfection. Then Gro...
+2026-02-01 04:23:49,692 - INFO -   [3/5] The Best AI Startups Do the Training For You. It’s...
+2026-02-01 04:23:49,954 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:49,956 - INFO -   [4/5] Want Leads? Sponsor the Next SaaStr AI Day. And Th...
+2026-02-01 04:23:50,277 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:50,314 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:50,314 - INFO -   [5/5] 20VC x SaaStr This Week: The $5 Billion Exit That ...
+2026-02-01 04:23:50,479 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:50,649 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:50,651 - INFO - 处理源: Mark Suster
+2026-02-01 04:23:50,823 - ERROR - [mark-suster] RSS获取失败: HTTPSConnectionPool(host='bothsidesofthetable.com', port=443): Max retries exceeded with url: /feed (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
+2026-02-01 04:23:50,823 - INFO -   没有新文章
+2026-02-01 04:23:50,823 - INFO - 处理源: Tomasz Tunguz
+2026-02-01 04:23:51,029 - INFO - [tomasz-tunguz] Feed未更新 (304)
+2026-02-01 04:23:51,031 - INFO -   没有新文章
+2026-02-01 04:23:51,031 - INFO - 处理源: Anthropic
+2026-02-01 04:23:51,189 - ERROR - [anthropic] RSS获取失败: 404 Client Error: Not Found for url: https://www.anthropic.com/rss.xml
+2026-02-01 04:23:51,190 - INFO -   没有新文章
+2026-02-01 04:23:51,190 - INFO - 处理源: Google DeepMind
+2026-02-01 04:23:51,494 - INFO - [deepmind] 从RSS获取 5 篇待处理文章（共 40 篇未处理）
+2026-02-01 04:23:51,495 - INFO -   [1/5] Project Genie: Experimenting with infinite, intera...
+2026-02-01 04:23:51,495 - INFO -   [2/5] SynthID Detector — a new portal to help identify A...
+2026-02-01 04:23:51,497 - INFO -   [3/5] Gemini 2.5: Our most intelligent models are gettin...
+2026-02-01 04:23:51,693 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:51,699 - INFO -   [4/5] Announcing Gemma 3n preview: Powerful, efficient, ...
+2026-02-01 04:23:51,701 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:51,707 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:51,707 - INFO -   [5/5] Our vision for building a universal AI assistant...
+2026-02-01 04:23:51,890 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:51,907 - WARNING -     内容获取失败，跳过
+2026-02-01 04:23:51,908 - INFO - 处理源: Meta AI
+2026-02-01 04:23:52,095 - ERROR - [meta-ai] RSS获取失败: 400 Client Error: Bad Request for url: https://ai.meta.com/blog/rss/
+2026-02-01 04:23:52,096 - INFO -   没有新文章
+2026-02-01 04:23:52,096 - INFO - 处理源: Google AI Blog
+2026-02-01 04:23:52,779 - INFO - [google-ai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:52,781 - INFO -   没有新文章
+2026-02-01 04:23:52,781 - INFO - 处理源: Microsoft Research
+2026-02-01 04:23:53,270 - INFO - [microsoft-research] Feed未更新 (304)
+2026-02-01 04:23:53,272 - INFO -   没有新文章
+2026-02-01 04:23:53,272 - INFO - 处理源: NVIDIA AI Blog
+2026-02-01 04:23:54,159 - INFO - [nvidia-ai] Feed未更新 (304)
+2026-02-01 04:23:54,161 - INFO -   没有新文章
+2026-02-01 04:23:54,161 - INFO - 处理源: Hugging Face Blog
+2026-02-01 04:23:54,243 - INFO - [huggingface] Feed未更新 (304)
+2026-02-01 04:23:54,244 - INFO -   没有新文章
+2026-02-01 04:23:54,245 - INFO - 处理源: Berkeley AI Research (BAIR)
+2026-02-01 04:23:54,645 - INFO - [berkeley-ai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:54,646 - INFO -   没有新文章
+2026-02-01 04:23:54,646 - INFO - 处理源: Stanford HAI
+2026-02-01 04:23:55,019 - INFO - [stanford-hai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:55,019 - INFO -   没有新文章
+2026-02-01 04:23:55,019 - INFO - 处理源: MIT CSAIL
+2026-02-01 04:23:56,225 - ERROR - [mit-csail] RSS获取失败: 404 Client Error: Not Found for url: https://www.csail.mit.edu/news/feed
+2026-02-01 04:23:56,226 - INFO -   没有新文章
+2026-02-01 04:23:56,226 - INFO - 处理源: LangChain Blog
+2026-02-01 04:23:57,156 - INFO - [langchain] Feed未更新 (304)
+2026-02-01 04:23:57,156 - INFO -   没有新文章
+2026-02-01 04:23:57,156 - INFO - 处理源: OpenAI Cookbook
+2026-02-01 04:23:57,324 - ERROR - [openai-cookbook] RSS获取失败: 404 Client Error: Not Found for url: https://cookbook.openai.com/feed.xml
+2026-02-01 04:23:57,326 - INFO -   没有新文章
+2026-02-01 04:23:57,326 - INFO - 处理源: Replicate Blog
+2026-02-01 04:23:57,507 - INFO - [replicate] Feed未更新 (304)
+2026-02-01 04:23:57,508 - INFO -   没有新文章
+2026-02-01 04:23:57,508 - INFO - 处理源: Airbnb Engineering
+2026-02-01 04:23:57,757 - INFO - [airbnb-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:57,758 - INFO -   没有新文章
+2026-02-01 04:23:57,758 - INFO - 处理源: Stripe Blog
+2026-02-01 04:23:57,872 - INFO - [stripe-blog] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:57,873 - INFO -   没有新文章
+2026-02-01 04:23:57,873 - INFO - 处理源: Cloudflare Blog
+2026-02-01 04:23:58,486 - INFO - [cloudflare-blog] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:23:58,487 - INFO -   没有新文章
+2026-02-01 04:23:58,487 - INFO - 处理源: Vercel Blog
+2026-02-01 04:24:00,480 - INFO - [vercel-blog] 从RSS获取 5 篇待处理文章（共 1196 篇未处理）
+2026-02-01 04:24:00,486 - INFO -   [1/5] Improved analytics experience now available on the...
+2026-02-01 04:24:00,486 - INFO -   [2/5] Nano Banana Pro (Gemini 3 Pro Image) now available...
+2026-02-01 04:24:00,488 - INFO -   [3/5] Vercel collaborates with Google for Gemini 3 Pro P...
+2026-02-01 04:24:01,320 - INFO -     提取: 36 文本块, 0 图片
+2026-02-01 04:24:01,326 - INFO -     开始翻译正文（3098 字符）...
+2026-02-01 04:24:01,331 - INFO -     翻译第 1/1 段...
+2026-02-01 04:24:01,392 - INFO -     提取: 8 文本块, 0 图片
+2026-02-01 04:24:01,393 - INFO -     开始翻译正文（1952 字符）...
+2026-02-01 04:24:01,393 - INFO -     翻译第 1/1 段...
+2026-02-01 04:24:01,691 - INFO -     提取: 7 文本块, 0 图片
+2026-02-01 04:24:01,692 - INFO -     开始翻译正文（1438 字符）...
+2026-02-01 04:24:01,692 - INFO -     翻译第 1/1 段...
+2026-02-01 04:24:12,147 - INFO -     生成元数据...
+2026-02-01 04:24:14,539 - INFO -     生成元数据...
+2026-02-01 04:24:18,554 - INFO -     ✓ 生成文章: 2025-11-20-vercel-blog-9a87a3bc.md
+2026-02-01 04:24:18,555 - INFO -   [4/5] Gemini 3 Pro now available in Vercel AI Gateway...
+2026-02-01 04:24:19,041 - INFO -     提取: 8 文本块, 0 图片
+2026-02-01 04:24:19,042 - INFO -     开始翻译正文（1774 字符）...
+2026-02-01 04:24:19,042 - INFO -     翻译第 1/1 段...
+2026-02-01 04:24:21,832 - INFO -     ✓ 生成文章: 2025-11-20-vercel-blog-ec41efa1.md
+2026-02-01 04:24:21,833 - INFO -   [5/5] Vercel now supports Build Commands for FastAPI and...
+2026-02-01 04:24:22,542 - INFO -     提取: 4 文本块, 0 图片
+2026-02-01 04:24:22,543 - INFO -     开始翻译正文（492 字符）...
+2026-02-01 04:24:22,543 - INFO -     翻译第 1/1 段...
+2026-02-01 04:24:25,825 - INFO -     生成元数据...
+2026-02-01 04:24:26,762 - INFO -     生成元数据...
+2026-02-01 04:24:31,826 - INFO -     生成元数据...
+2026-02-01 04:24:32,944 - INFO -     ✓ 生成文章: 2025-11-18-vercel-blog-8921e9a8.md
+2026-02-01 04:24:33,220 - INFO -     ✓ 生成文章: 2025-11-17-vercel-blog-6cf6a111.md
+2026-02-01 04:24:38,368 - INFO -     ✓ 生成文章: 2025-11-18-vercel-blog-238d182b.md
+2026-02-01 04:24:38,369 - INFO - 处理源: Databricks Blog
+2026-02-01 04:24:38,506 - INFO - [databricks-blog] Feed未更新 (304)
+2026-02-01 04:24:38,508 - INFO -   没有新文章
+2026-02-01 04:24:38,508 - INFO - 处理源: Spotify Engineering
+2026-02-01 04:24:38,896 - INFO - [spotify-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:24:38,897 - INFO -   没有新文章
+2026-02-01 04:24:38,897 - INFO - 处理源: DoorDash Engineering
+2026-02-01 04:24:39,015 - INFO - [doordash-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:24:39,016 - INFO -   没有新文章
+2026-02-01 04:24:39,016 - INFO - 处理源: Discord Engineering
+2026-02-01 04:24:39,175 - INFO - [discord-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:24:39,176 - INFO -   没有新文章
+2026-02-01 04:24:39,177 - INFO - 处理源: Supabase Blog
+2026-02-01 04:24:39,355 - INFO - [supabase-blog] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-02-01 04:24:39,355 - INFO -   没有新文章
+2026-02-01 04:24:39,355 - INFO - ============================================================
+2026-02-01 04:24:39,355 - INFO - 处理完成！共处理 5 篇文章
+2026-02-01 04:24:39,355 - INFO - ============================================================
