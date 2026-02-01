@@ -740,19 +740,19 @@
     "timestamp": "2026-02-01T04:23:50.314723"
   },
   "https://greylock.com/portfolio-news/introducing-cogent-ai-agents-for-vulnerability-management/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:31:17.274425"
+    "timestamp": "2026-02-01T20:28:42.695920"
   },
   "https://greylock.com/portfolio-news/infrastructure-for-ais-new-era/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:31:17.121308"
+    "timestamp": "2026-02-01T20:28:42.665366"
   },
   "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-meerah-rajavel-cio-at-palo-alto-networks/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:31:17.275518"
+    "timestamp": "2026-02-01T20:28:43.997521"
   },
   "https://greylock.com/press/this-120-million-startups-ai-will-teach-you-how-to-suck-less-at-security/": {
     "count": 1,
@@ -765,23 +765,28 @@
     "timestamp": "2026-02-01T04:23:45.231592"
   },
   "https://www.saastr.com/the-1-conceit-in-b2b-at-scale-masking-a-slowdown-in-net-new-customers/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:49.954835"
+    "timestamp": "2026-02-01T20:28:47.004057"
   },
   "https://www.saastr.com/the-trade-desk-was-priced-for-perfection-then-growth-slowed-now-its-the-worst-performing-stock-in-the-sp-500/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:50.288262"
+    "timestamp": "2026-02-01T20:28:47.290642"
   },
   "https://deepmind.google/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:51.891116"
+    "timestamp": "2026-02-01T20:29:50.752267"
   },
   "https://deepmind.google/blog/our-vision-for-building-a-universal-ai-assistant/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-01T20:29:50.723658"
+  },
+  "https://www.saastr.com/i-wrote-off-4m-to-0-my-co-investor-marked-up-the-same-deal-to-30m-heres-what-founders-need-to-know-about-vc-incentives/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:51.907262"
+    "timestamp": "2026-02-01T20:28:47.311602"
   }
 }
