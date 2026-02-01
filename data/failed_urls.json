@@ -755,14 +755,14 @@
     "timestamp": "2026-02-01T20:28:43.997521"
   },
   "https://greylock.com/press/this-120-million-startups-ai-will-teach-you-how-to-suck-less-at-security/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:45.022477"
+    "timestamp": "2026-02-01T20:43:24.388480"
   },
   "https://greylock.com/press/the-20-somethings-are-swarming-san-franciscos-a-i-boom/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T04:23:45.231592"
+    "timestamp": "2026-02-01T20:43:24.287933"
   },
   "https://www.saastr.com/the-1-conceit-in-b2b-at-scale-masking-a-slowdown-in-net-new-customers/": {
     "count": 2,
@@ -788,5 +788,40 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-01T20:28:47.311602"
+  },
+  "https://greylock.com/portfolio-news/congratulations-figma-nyse-fig/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-01T20:43:24.330935"
+  },
+  "https://review.firstround.com/^/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-01T20:43:27.687037"
+  },
+  "https://review.firstround.com/podcast/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-01T20:43:27.689320"
+  },
+  "https://review.firstround.com/newsletter/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-01T20:43:27.690225"
+  },
+  "https://openai.com/index/openai-grove/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-01T20:43:32.209363"
+  },
+  "https://openai.com/index/gpt-5-2-codex/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-01T20:43:32.211061"
+  },
+  "https://openai.com/index/frontier-builders/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-01T20:43:32.212073"
   }
 }
