@@ -4,6 +4,7 @@ import SourceDetailClient from './SourceDetailClient'
 
 // 源的元数据映射（slug -> 显示信息）
 const sourcesMeta: Record<string, { name: string; fullName: string; description: string; website?: string }> = {
+  'first-round-review': { name: 'First Round Review', fullName: 'First Round Review', description: 'First Round Capital 的深度内容平台，提供创业者和管理者的实战经验分享。', website: 'https://review.firstround.com' },
   'ycombinator': { name: 'Y Combinator', fullName: 'Y Combinator', description: '全球最知名的创业加速器，孵化了 Airbnb、Stripe、Dropbox 等众多独角兽公司。', website: 'https://www.ycombinator.com' },
   'sequoia': { name: '红杉资本', fullName: 'Sequoia Capital', description: '全球顶级风险投资基金，投资了 Apple、Google、WhatsApp 等传奇公司。', website: 'https://www.sequoiacap.com' },
   'a16z': { name: 'a16z', fullName: 'Andreessen Horowitz', description: '硅谷顶级风投，由 Marc Andreessen 和 Ben Horowitz 创立，专注科技投资。', website: 'https://a16z.com' },
@@ -54,6 +55,7 @@ const sourcesMeta: Record<string, { name: string; fullName: string; description:
 
 // 从文章的 source 字段反向映射到 slug
 const sourceNameToSlug: Record<string, string> = {
+  'First Round Review': 'first-round-review',
   'Y Combinator': 'ycombinator',
   'Sequoia Capital': 'sequoia',
   'Andreessen Horowitz': 'a16z',
