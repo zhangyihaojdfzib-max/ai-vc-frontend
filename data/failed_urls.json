@@ -790,14 +790,14 @@
     "timestamp": "2026-02-01T20:28:47.311602"
   },
   "https://greylock.com/portfolio-news/congratulations-figma-nyse-fig/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T21:12:05.974241"
+    "timestamp": "2026-02-02T04:18:09.563534"
   },
   "https://review.firstround.com/^/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T21:12:09.344273"
+    "timestamp": "2026-02-02T04:18:12.381238"
   },
   "https://review.firstround.com/podcast/": {
     "count": 1,
@@ -810,23 +810,68 @@
     "timestamp": "2026-02-01T20:43:27.690225"
   },
   "https://openai.com/index/openai-grove/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T21:15:14.487994"
+    "timestamp": "2026-02-02T04:20:13.432626"
   },
   "https://openai.com/index/gpt-5-2-codex/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T21:15:28.859903"
+    "timestamp": "2026-02-02T04:20:17.532874"
   },
   "https://openai.com/index/frontier-builders/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T21:15:26.748006"
+    "timestamp": "2026-02-02T04:20:15.487028"
   },
   "https://deepmind.google/blog/gemini-25-pro-preview-even-better-coding-performance/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:21:38.610203"
+  },
+  "https://greylock.com/portfolio-news/introducing-netic-the-ai-revenue-engine-for-americas-essential-services/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-01T21:16:23.063515"
+    "timestamp": "2026-02-02T04:18:09.519630"
+  },
+  "https://greylock.com/portfolio-news/introducing-aspora-the-financial-super-app-for-the-global-diaspora/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:18:09.820133"
+  },
+  "https://greylock.com/portfolio-news/from-clicks-to-clarity/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:18:10.596235"
+  },
+  "https://greylock.com/greymatter/gen-ai-adobe/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:18:10.910513"
+  },
+  "https://openai.com/index/ai-for-self-empowerment/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:20:19.584090"
+  },
+  "https://openai.com/index/one-in-a-million-customers/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:20:21.639544"
+  },
+  "https://deepmind.google/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:21:38.604395"
+  },
+  "https://deepmind.google/blog/generate-videos-in-gemini-and-whisk-with-veo-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:21:38.883779"
+  },
+  "https://deepmind.google/blog/introducing-gemini-2-5-flash/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:21:38.931180"
   }
 }
