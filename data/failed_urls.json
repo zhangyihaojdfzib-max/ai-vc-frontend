@@ -830,19 +830,19 @@
     "timestamp": "2026-02-02T04:21:38.610203"
   },
   "https://greylock.com/portfolio-news/introducing-netic-the-ai-revenue-engine-for-americas-essential-services/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-02T04:18:09.519630"
+    "timestamp": "2026-02-02T04:27:50.813334"
   },
   "https://greylock.com/portfolio-news/introducing-aspora-the-financial-super-app-for-the-global-diaspora/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-02T04:18:09.820133"
+    "timestamp": "2026-02-02T04:27:50.814469"
   },
   "https://greylock.com/portfolio-news/from-clicks-to-clarity/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-02T04:18:10.596235"
+    "timestamp": "2026-02-02T04:27:50.660817"
   },
   "https://greylock.com/greymatter/gen-ai-adobe/": {
     "count": 1,
@@ -850,14 +850,14 @@
     "timestamp": "2026-02-02T04:18:10.910513"
   },
   "https://openai.com/index/ai-for-self-empowerment/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-02T04:20:19.584090"
+    "timestamp": "2026-02-02T04:29:29.096635"
   },
   "https://openai.com/index/one-in-a-million-customers/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-02T04:20:21.639544"
+    "timestamp": "2026-02-02T04:29:35.964988"
   },
   "https://deepmind.google/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/": {
     "count": 1,
@@ -873,5 +873,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-02T04:21:38.931180"
+  },
+  "https://review.firstround.com/series/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:28:21.667289"
+  },
+  "https://openai.com/index/the-truth-elon-left-out/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-02T04:29:45.845769"
   }
 }
