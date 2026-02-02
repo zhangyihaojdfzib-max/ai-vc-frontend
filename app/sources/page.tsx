@@ -3,6 +3,7 @@ import SourcesClient from './SourcesClient'
 
 const sourcesMeta: Record<string, { name: string; slug: string; description: string; type: 'vc' | 'investor' | 'research' | 'tech' }> = {
   // VC 基金
+  'First Round Review': { name: 'First Round Review', slug: 'first-round-review', description: 'First Round Capital 的深度内容平台', type: 'vc' },
   'Y Combinator': { name: 'Y Combinator', slug: 'ycombinator', description: '全球最知名的创业加速器', type: 'vc' },
   'Sequoia Capital': { name: '红杉资本', slug: 'sequoia', description: '全球顶级风险投资基金', type: 'vc' },
   '红杉资本 (Sequoia)': { name: '红杉资本', slug: 'sequoia', description: '全球顶级风险投资基金', type: 'vc' },
