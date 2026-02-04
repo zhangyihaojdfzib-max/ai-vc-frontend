@@ -645,9 +645,9 @@
     "timestamp": "2026-01-31T03:59:22.726251"
   },
   "https://blogs.nvidia.com/blog/national-quantum-initiative/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:12.813259"
+    "timestamp": "2026-02-04T04:13:11.471946"
   },
   "https://medium.com/airbnb-engineering/my-journey-to-airbnb-peter-coles-0e8efd01c5a8?source=rss----53c7c27702d5---4": {
     "count": 3,
@@ -710,24 +710,24 @@
     "timestamp": "2026-02-01T04:23:51.708905"
   },
   "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:12.343185"
-  },
-  "https://blogs.nvidia.com/blog/geforce-now-thursday-linux/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:12.549763"
-  },
-  "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-01-30T04:03:12.574185"
-  },
-  "https://a16z.simplecast.com/episodes/anyone-can-code-now-netlify-ceo-talks-ai-agents-L9FlDni9": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:08:29.896747"
+    "timestamp": "2026-02-04T04:13:11.171197"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-linux/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:13:11.322492"
+  },
+  "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:13:11.181921"
+  },
+  "https://a16z.simplecast.com/episodes/anyone-can-code-now-netlify-ceo-talks-ai-agents-L9FlDni9": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:05:46.178306"
   },
   "https://www.saastr.com/want-leads-sponsor-the-next-saastr-ai-day-and-then-saastr-ai-annual-2026-in-may/": {
     "count": 2,
@@ -785,9 +785,9 @@
     "timestamp": "2026-02-01T21:16:23.072477"
   },
   "https://www.saastr.com/i-wrote-off-4m-to-0-my-co-investor-marked-up-the-same-deal-to-30m-heres-what-founders-need-to-know-about-vc-incentives/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:12:46.325749"
+    "timestamp": "2026-02-04T04:09:36.735861"
   },
   "https://greylock.com/portfolio-news/congratulations-figma-nyse-fig/": {
     "count": 3,
@@ -845,9 +845,9 @@
     "timestamp": "2026-02-03T04:11:11.773408"
   },
   "https://greylock.com/greymatter/gen-ai-adobe/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:11:13.370644"
+    "timestamp": "2026-02-04T04:07:08.699029"
   },
   "https://openai.com/index/ai-for-self-empowerment/": {
     "count": 3,
@@ -860,68 +860,118 @@
     "timestamp": "2026-02-03T04:14:14.359931"
   },
   "https://deepmind.google/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:16:10.020086"
+    "timestamp": "2026-02-04T04:12:03.870774"
   },
   "https://deepmind.google/blog/generate-videos-in-gemini-and-whisk-with-veo-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:16:10.254367"
+    "timestamp": "2026-02-04T04:12:03.884089"
   },
   "https://deepmind.google/blog/introducing-gemini-2-5-flash/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:16:10.027067"
+    "timestamp": "2026-02-04T04:12:03.865269"
   },
   "https://review.firstround.com/series/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:11:15.868700"
+    "timestamp": "2026-02-04T04:07:33.242368"
   },
   "https://openai.com/index/the-truth-elon-left-out/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:14:16.435008"
+    "timestamp": "2026-02-04T04:10:00.279225"
   },
   "https://a16z.simplecast.com/episodes/ben-dh-goldman-draft-R3q1UeKb": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:08:29.911770"
+    "timestamp": "2026-02-04T04:05:46.158088"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-the-enterprise-orchestration-layer-o_PmcPc_": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:08:30.128011"
+    "timestamp": "2026-02-04T04:05:46.263261"
   },
   "https://greylock.com/greymatter/gen-ai-present-and-future-carmax/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:11:12.294467"
+    "timestamp": "2026-02-04T04:07:08.693045"
   },
   "https://www.saastr.com/digital-jason-has-answered-questions-and-its-free-try-it/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:12:45.962505"
+    "timestamp": "2026-02-04T04:09:36.558233"
   },
   "https://www.saastr.com/the-2026-saas-crash-its-not-what-you-think/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:12:46.288999"
+    "timestamp": "2026-02-04T04:09:36.402802"
   },
   "https://openai.com/index/launching-sora-responsibly/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:14:10.213709"
+    "timestamp": "2026-02-04T04:09:58.224631"
   },
   "https://openai.com/index/introducing-superalignment/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:14:18.506504"
+    "timestamp": "2026-02-04T04:10:02.324742"
   },
   "https://deepmind.google/blog/dolphingemma-how-google-ai-is-helping-decode-dolphin-communication/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:12:04.063737"
+  },
+  "https://a16z.simplecast.com/episodes/palmer-luckey-on-hardware-building-and-the-next-frontiers-of-innovation-mfXdU3h7": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-03T04:16:10.248835"
+    "timestamp": "2026-02-04T04:05:46.175163"
+  },
+  "https://a16z.simplecast.com/episodes/big-ideas-2026-the-agentic-interface-3tUCqeJv": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:05:46.321480"
+  },
+  "https://greylock.com/greymatter/voice-agents-easy-to-use-hard-to-build/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:07:08.697108"
+  },
+  "https://greylock.com/portfolio-news/mandolin-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:07:09.097693"
+  },
+  "https://greylock.com/portfolio-news/congratulations-predibase-and-rubrik/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:07:09.146056"
+  },
+  "https://www.saastr.com/the-dumbest-idea-ive-ever-heard-how-own-became-a-2b-salesforce-acquisition/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:09:36.056871"
+  },
+  "https://www.saastr.com/the-1-error-with-ai-gtm-agents-assuming-they-can-do-what-your-team-hasnt-already-figured-out/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:09:36.393499"
+  },
+  "https://openai.com/index/early-access-for-safety-testing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:10:04.377724"
+  },
+  "https://openai.com/index/gpt-5-mathematical-discovery/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:10:06.423203"
+  },
+  "https://blogs.nvidia.com/blog/huang-3dexperience-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-04T04:13:10.961281"
   }
 }
