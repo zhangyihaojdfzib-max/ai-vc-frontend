@@ -925,29 +925,29 @@
     "timestamp": "2026-02-05T04:12:38.110292"
   },
   "https://a16z.simplecast.com/episodes/palmer-luckey-on-hardware-building-and-the-next-frontiers-of-innovation-mfXdU3h7": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:07:36.736828"
+    "timestamp": "2026-02-06T04:08:08.768705"
   },
   "https://a16z.simplecast.com/episodes/big-ideas-2026-the-agentic-interface-3tUCqeJv": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:07:36.843184"
+    "timestamp": "2026-02-06T04:08:08.867241"
   },
   "https://greylock.com/greymatter/voice-agents-easy-to-use-hard-to-build/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:08:28.480720"
+    "timestamp": "2026-02-06T04:09:31.348099"
   },
   "https://greylock.com/portfolio-news/mandolin-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:08:28.763657"
+    "timestamp": "2026-02-06T04:09:31.148747"
   },
   "https://greylock.com/portfolio-news/congratulations-predibase-and-rubrik/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:08:28.485666"
+    "timestamp": "2026-02-06T04:09:31.303923"
   },
   "https://www.saastr.com/the-dumbest-idea-ive-ever-heard-how-own-became-a-2b-salesforce-acquisition/": {
     "count": 2,
@@ -960,29 +960,29 @@
     "timestamp": "2026-02-05T04:10:19.949586"
   },
   "https://openai.com/index/early-access-for-safety-testing/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:10:59.307370"
+    "timestamp": "2026-02-06T04:11:48.420709"
   },
   "https://openai.com/index/gpt-5-mathematical-discovery/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:11:01.365709"
+    "timestamp": "2026-02-06T04:11:50.506495"
   },
   "https://blogs.nvidia.com/blog/huang-3dexperience-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:13:34.546838"
+    "timestamp": "2026-02-06T04:14:51.120383"
   },
   "https://a16z.simplecast.com/episodes/why-americas-health-crisis-is-an-incentive-problem-vC_d0tuj": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:07:36.739230"
+    "timestamp": "2026-02-06T04:08:08.791122"
   },
   "https://greylock.com/portfolio-news/congratulations-to-dazz-and-wiz/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:08:28.845641"
+    "timestamp": "2026-02-06T04:09:31.652378"
   },
   "https://feld.com/archives/2026/02/interview-with-guy-kawasaki/": {
     "count": 1,
@@ -990,33 +990,93 @@
     "timestamp": "2026-02-05T04:10:04.533056"
   },
   "https://www.saastr.com/palantir-the-greatest-enterprise-software-company-of-all-time-ever-could-be/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:10:19.624711"
+    "timestamp": "2026-02-06T04:11:27.170131"
   },
   "https://www.saastr.com/saastr-x-tbpn-if-growth-isnt-accelerating-youre-not-an-ai-company-and-9-other-hard-truths-for-b2b-in-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:10:19.960077"
+    "timestamp": "2026-02-06T04:11:27.352582"
   },
   "https://openai.com/index/spring-update/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:11:03.417835"
+    "timestamp": "2026-02-06T04:11:52.560729"
   },
   "https://deepmind.google/blog/gemini-2-5-our-most-intelligent-ai-model/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:12:38.098549"
+    "timestamp": "2026-02-06T04:13:29.589541"
   },
   "https://deepmind.google/blog/experiment-with-gemini-20-flash-native-image-generation/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:12:38.397500"
+    "timestamp": "2026-02-06T04:13:29.604637"
   },
   "https://blogs.nvidia.com/blog/ai-agents-intelligent-document-processing/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:14:50.892527"
+  },
+  "https://a16z.simplecast.com/episodes/why-this-isnt-the-dot-com-bubble-martin-casado-on-wsjs-bold-names-lpintmla": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-05T04:13:34.430892"
+    "timestamp": "2026-02-06T04:08:08.796128"
+  },
+  "https://a16z.simplecast.com/episodes/the-rise-fall-reset-of-the-fintech-industry-7NpSaKiR": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:08:08.858076"
+  },
+  "https://greylock.com/greymatter/ai-user-research/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:09:32.444952"
+  },
+  "https://www.saastr.com/why-saas-is-still-terrible-you-cant-just-talk-to-it-and-have-it-do-what-you-want-its-time-in-the-age-of-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:11:26.684588"
+  },
+  "https://www.saastr.com/inference-costs-average-23-of-revenue-at-ai-b2b-companies-how-will-you-pay-for-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:11:26.946470"
+  },
+  "https://www.saastr.com/20vc-x-saastr-spacex-at-1-25-trillion-saas-stocks-down-40-and-the-week-we-connected-a-million-ai-agents-sort-of/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:11:27.002316"
+  },
+  "https://openai.com/index/podium/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:11:54.648028"
+  },
+  "https://openai.com/index/yabble/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:11:56.773083"
+  },
+  "https://deepmind.google/blog/introducing-gemma-3/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:13:29.613420"
+  },
+  "https://deepmind.google/blog/start-building-with-gemini-20-flash-and-flash-lite/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:13:29.744639"
+  },
+  "https://deepmind.google/blog/gemini-2-0-is-now-available-to-everyone/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:13:29.787210"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2026-games-list/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-06T04:14:51.069376"
   }
 }
