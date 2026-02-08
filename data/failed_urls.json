@@ -1030,9 +1030,9 @@
     "timestamp": "2026-02-07T04:02:05.602521"
   },
   "https://greylock.com/greymatter/ai-user-research/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:04:03.778747"
+    "timestamp": "2026-02-08T04:29:42.931459"
   },
   "https://www.saastr.com/why-saas-is-still-terrible-you-cant-just-talk-to-it-and-have-it-do-what-you-want-its-time-in-the-age-of-ai/": {
     "count": 2,
@@ -1050,9 +1050,9 @@
     "timestamp": "2026-02-07T04:06:33.940463"
   },
   "https://openai.com/index/podium/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-06T04:11:54.648028"
+    "timestamp": "2026-02-08T04:33:58.839883"
   },
   "https://openai.com/index/yabble/": {
     "count": 1,
@@ -1060,19 +1060,19 @@
     "timestamp": "2026-02-06T04:11:56.773083"
   },
   "https://deepmind.google/blog/introducing-gemma-3/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:08:15.622412"
+    "timestamp": "2026-02-08T04:35:19.412628"
   },
   "https://deepmind.google/blog/start-building-with-gemini-20-flash-and-flash-lite/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:08:15.790457"
+    "timestamp": "2026-02-08T04:35:19.406298"
   },
   "https://deepmind.google/blog/gemini-2-0-is-now-available-to-everyone/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:08:15.811219"
+    "timestamp": "2026-02-08T04:35:19.399385"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-feb-2026-games-list/": {
     "count": 2,
@@ -1090,58 +1090,73 @@
     "timestamp": "2026-02-07T04:02:05.617826"
   },
   "https://greylock.com/greymatter/gen-ai-servicenow/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:04:03.951827"
+    "timestamp": "2026-02-08T04:29:43.407598"
   },
   "https://greylock.com/greymatter/security-first-identity/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:04:04.401530"
+    "timestamp": "2026-02-08T04:29:43.195122"
   },
   "https://greylock.com/portfolio-news/introducing-greenlite-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:04:04.847396"
+    "timestamp": "2026-02-08T04:29:43.365093"
   },
   "https://review.firstround.com/collections/insights-from-building-instacart-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:04:22.509744"
+    "timestamp": "2026-02-08T04:29:45.456275"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-relevance-ai-the-platform-where-ops-teams-build-entire-ai-workforces-without-writing-a-line-of-code/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:06:33.408754"
+    "timestamp": "2026-02-08T04:33:49.560109"
   },
   "https://www.saastr.com/pe-is-no-longer-coming-to-the-rescue-and-that-changes-everything/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:06:33.706189"
+    "timestamp": "2026-02-08T04:33:49.063106"
   },
   "https://www.saastr.com/b2b-spend-is-up-8-app-counts-are-flat-so-wheres-all-the-money-going-the-latest-data-from-zylo/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:06:33.731053"
+    "timestamp": "2026-02-08T04:33:49.539425"
   },
   "https://openai.com/index/higgsfield/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:06:57.472621"
+    "timestamp": "2026-02-08T04:33:50.622913"
   },
   "https://openai.com/index/bny/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:06:59.558861"
+    "timestamp": "2026-02-08T04:33:52.680202"
   },
   "https://openai.com/index/cisco/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:07:01.629674"
+    "timestamp": "2026-02-08T04:33:54.739102"
   },
   "https://openai.com/index/openai-inbound-sales-assistant/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-08T04:33:56.791563"
+  },
+  "https://greylock.com/portfolio-news/introducing-highstock/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-07T04:07:03.707865"
+    "timestamp": "2026-02-08T04:29:43.813401"
+  },
+  "https://www.saastr.com/the-execution-era-of-ai-5-key-takeaways-from-iconiqs-state-of-ai-report/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-08T04:33:49.053821"
+  },
+  "https://www.saastr.com/how-nebius-built-a-4b-gpu-cloud-in-18-months-7-lessons-for-any-startup/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-08T04:33:49.235659"
   }
 }
