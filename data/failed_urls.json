@@ -1050,9 +1050,9 @@
     "timestamp": "2026-02-07T04:06:33.940463"
   },
   "https://openai.com/index/podium/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:33:58.839883"
+    "timestamp": "2026-02-09T04:23:35.050716"
   },
   "https://openai.com/index/yabble/": {
     "count": 1,
@@ -1090,24 +1090,24 @@
     "timestamp": "2026-02-07T04:02:05.617826"
   },
   "https://greylock.com/greymatter/gen-ai-servicenow/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:29:43.407598"
+    "timestamp": "2026-02-09T04:22:06.793851"
   },
   "https://greylock.com/greymatter/security-first-identity/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:29:43.195122"
+    "timestamp": "2026-02-09T04:22:06.840446"
   },
   "https://greylock.com/portfolio-news/introducing-greenlite-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:29:43.365093"
+    "timestamp": "2026-02-09T04:22:06.651627"
   },
   "https://review.firstround.com/collections/insights-from-building-instacart-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:29:45.456275"
+    "timestamp": "2026-02-09T04:22:08.745481"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-relevance-ai-the-platform-where-ops-teams-build-entire-ai-workforces-without-writing-a-line-of-code/": {
     "count": 2,
@@ -1115,9 +1115,9 @@
     "timestamp": "2026-02-08T04:33:49.560109"
   },
   "https://www.saastr.com/pe-is-no-longer-coming-to-the-rescue-and-that-changes-everything/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:33:49.063106"
+    "timestamp": "2026-02-09T04:23:25.360691"
   },
   "https://www.saastr.com/b2b-spend-is-up-8-app-counts-are-flat-so-wheres-all-the-money-going-the-latest-data-from-zylo/": {
     "count": 2,
@@ -1125,38 +1125,63 @@
     "timestamp": "2026-02-08T04:33:49.539425"
   },
   "https://openai.com/index/higgsfield/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:33:50.622913"
+    "timestamp": "2026-02-09T04:23:28.809134"
   },
   "https://openai.com/index/bny/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:33:52.680202"
+    "timestamp": "2026-02-09T04:23:30.890551"
   },
   "https://openai.com/index/cisco/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:33:54.739102"
+    "timestamp": "2026-02-09T04:23:32.982999"
   },
   "https://openai.com/index/openai-inbound-sales-assistant/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:33:56.791563"
+    "timestamp": "2026-02-09T04:23:26.692981"
   },
   "https://greylock.com/portfolio-news/introducing-highstock/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:29:43.813401"
+    "timestamp": "2026-02-09T04:22:07.189672"
   },
   "https://www.saastr.com/the-execution-era-of-ai-5-key-takeaways-from-iconiqs-state-of-ai-report/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:33:49.053821"
+    "timestamp": "2026-02-09T04:23:24.910890"
   },
   "https://www.saastr.com/how-nebius-built-a-4b-gpu-cloud-in-18-months-7-lessons-for-any-startup/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:23:25.516017"
+  },
+  "https://greylock.com/greymatter/upwind-cybersecurity-giants/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-08T04:33:49.235659"
+    "timestamp": "2026-02-09T04:22:07.310026"
+  },
+  "https://www.saastr.com/340-billion-in-vc-but-fewer-deals-than-any-year-this-decade-10-things/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:23:25.080919"
+  },
+  "https://www.saastr.com/two-ipos-six-weeks-apart-opposite-outcomes-5-lessons-from-wealthfronts-slide-and-equipmentshares-pop/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:23:25.114907"
+  },
+  "https://deepmind.google/blog/introducing-gemini-20-our-new-ai-model-for-the-agentic-era/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:24:48.285773"
+  },
+  "https://deepmind.google/blog/state-of-the-art-video-and-image-generation-with-veo-2-and-imagen-3/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:24:48.293071"
   }
 }
