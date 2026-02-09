@@ -1055,9 +1055,9 @@
     "timestamp": "2026-02-09T04:23:35.050716"
   },
   "https://openai.com/index/yabble/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-06T04:11:56.773083"
+    "timestamp": "2026-02-09T04:31:34.932553"
   },
   "https://deepmind.google/blog/introducing-gemma-3/": {
     "count": 3,
@@ -1145,9 +1145,9 @@
     "timestamp": "2026-02-09T04:23:26.692981"
   },
   "https://greylock.com/portfolio-news/introducing-highstock/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-09T04:22:07.189672"
+    "timestamp": "2026-02-09T04:30:36.184380"
   },
   "https://www.saastr.com/the-execution-era-of-ai-5-key-takeaways-from-iconiqs-state-of-ai-report/": {
     "count": 2,
@@ -1160,9 +1160,9 @@
     "timestamp": "2026-02-09T04:23:25.516017"
   },
   "https://greylock.com/greymatter/upwind-cybersecurity-giants/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-09T04:22:07.310026"
+    "timestamp": "2026-02-09T04:30:36.333663"
   },
   "https://www.saastr.com/340-billion-in-vc-but-fewer-deals-than-any-year-this-decade-10-things/": {
     "count": 1,
@@ -1183,5 +1183,25 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-09T04:24:48.293071"
+  },
+  "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-jim-swanson-cio-at-johnson-johnson/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:30:36.336101"
+  },
+  "https://review.firstround.com/founders-quotes/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:31:05.109985"
+  },
+  "https://openai.com/index/typeform/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:31:44.045401"
+  },
+  "https://openai.com/index/harvey/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-09T04:31:53.254165"
   }
 }
