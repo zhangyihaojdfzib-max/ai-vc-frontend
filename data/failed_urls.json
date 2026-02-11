@@ -580,9 +580,9 @@
     "timestamp": "2026-01-29T04:02:41.339594"
   },
   "https://hunterwalk.com/2026/01/26/so-say-youre-against-that-now-before-it-stops-shocking-you/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-01-27T04:37:21.066644"
+    "timestamp": "2026-02-11T04:27:30.312808"
   },
   "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/": {
     "count": 3,
@@ -1080,14 +1080,14 @@
     "timestamp": "2026-02-10T04:32:27.215700"
   },
   "https://a16z.simplecast.com/episodes/balaji-x-benedict-evans-draft-szho1EJ4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:26:53.094430"
+    "timestamp": "2026-02-11T04:24:36.365666"
   },
   "https://a16z.simplecast.com/episodes/do-revenue-and-margins-still-matter-in-ai-fH83AB_n": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:26:53.172170"
+    "timestamp": "2026-02-11T04:24:36.527518"
   },
   "https://greylock.com/greymatter/gen-ai-servicenow/": {
     "count": 3,
@@ -1175,24 +1175,24 @@
     "timestamp": "2026-02-10T04:29:22.835896"
   },
   "https://deepmind.google/blog/introducing-gemini-20-our-new-ai-model-for-the-agentic-era/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:31:37.785830"
+    "timestamp": "2026-02-11T04:29:55.897842"
   },
   "https://deepmind.google/blog/state-of-the-art-video-and-image-generation-with-veo-2-and-imagen-3/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:31:37.745866"
+    "timestamp": "2026-02-11T04:29:55.868300"
   },
   "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-jim-swanson-cio-at-johnson-johnson/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:27:55.855075"
+    "timestamp": "2026-02-11T04:26:28.075455"
   },
   "https://review.firstround.com/founders-quotes/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:27:57.850476"
+    "timestamp": "2026-02-11T04:26:30.627434"
   },
   "https://openai.com/index/typeform/": {
     "count": 1,
@@ -1205,44 +1205,44 @@
     "timestamp": "2026-02-09T04:31:53.254165"
   },
   "https://a16z.simplecast.com/episodes/the-state-of-markets-uuopmdKY": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:26:53.080326"
+    "timestamp": "2026-02-11T04:24:36.368690"
   },
   "https://greylock.com/portfolio-news/our-investment-in-abnormal-security/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:27:55.852486"
+    "timestamp": "2026-02-11T04:26:28.073867"
   },
   "https://greylock.com/greymatter/a-radically-different-ai-native-approach-to-cybersecurity/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:27:56.225003"
+    "timestamp": "2026-02-11T04:26:27.907480"
   },
   "https://greylock.com/greymatter/building-a-cybersecurity-juggernaut/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:27:56.324830"
+    "timestamp": "2026-02-11T04:26:28.456992"
   },
   "https://review.firstround.com/signin/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:28:57.451289"
+    "timestamp": "2026-02-11T04:26:32.907710"
   },
   "https://www.saastr.com/google-actually-ai-hasnt-hurt-search-at-all-in-fact-its-accelerating-it/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:29:22.166334"
+    "timestamp": "2026-02-11T04:28:26.473779"
   },
   "https://www.saastr.com/inference-is-the-new-sales-marketing-spend/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:29:22.508215"
+    "timestamp": "2026-02-11T04:28:26.671100"
   },
   "https://www.saastr.com/growth-may-have-slowed-for-some-but-holy-cow-not-for-databricks/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:29:22.510183"
+    "timestamp": "2026-02-11T04:28:26.194771"
   },
   "https://openai.com/index/mercado-libre/": {
     "count": 1,
@@ -1255,9 +1255,9 @@
     "timestamp": "2026-02-10T04:29:44.258693"
   },
   "https://openai.com/index/wix/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:29:46.324498"
+    "timestamp": "2026-02-11T04:28:29.991249"
   },
   "https://openai.com/index/upwork/": {
     "count": 1,
@@ -1270,13 +1270,58 @@
     "timestamp": "2026-02-10T04:29:50.491156"
   },
   "https://deepmind.google/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:31:37.779348"
+    "timestamp": "2026-02-11T04:29:55.874646"
   },
   "https://deepmind.google/blog/the-ai-for-science-forum-a-new-era-of-discovery/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:29:56.081831"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-who-runs-the-worlds-ai-hCEmBXHZ": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:31:37.919226"
+    "timestamp": "2026-02-11T04:24:36.353840"
+  },
+  "https://a16z.simplecast.com/episodes/the-crime-crisis-in-america-how-technology-fixes-it-_8hsRCbO": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:24:36.510161"
+  },
+  "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-swamy-kocherlakota-evp-and-chief-digital-solutions-officer-at-sp-global/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:26:28.792355"
+  },
+  "https://www.saastr.com/what-we-actually-learned-deploying-20-ai-agents-across-our-entire-go-to-market-8-months-in/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:28:25.982932"
+  },
+  "https://www.saastr.com/what-folks-are-really-vibe-coding-today-its-not-building-their-own-salesforce/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:28:26.120452"
+  },
+  "https://openai.com/index/canva/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:28:27.921766"
+  },
+  "https://openai.com/index/booking-com/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:28:32.077872"
+  },
+  "https://openai.com/index/expedia-jochen-koedijk/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:28:34.160990"
+  },
+  "https://openai.com/index/uber-enables-outstanding-experiences/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-11T04:28:36.276808"
   }
 }
