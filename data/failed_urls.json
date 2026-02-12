@@ -1290,19 +1290,19 @@
     "timestamp": "2026-02-12T04:16:48.386859"
   },
   "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-swamy-kocherlakota-evp-and-chief-digital-solutions-officer-at-sp-global/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-12T04:18:36.234685"
+    "timestamp": "2026-02-12T04:28:39.351815"
   },
   "https://www.saastr.com/what-we-actually-learned-deploying-20-ai-agents-across-our-entire-go-to-market-8-months-in/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:28:25.982932"
+    "timestamp": "2026-02-12T04:29:39.475079"
   },
   "https://www.saastr.com/what-folks-are-really-vibe-coding-today-its-not-building-their-own-salesforce/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:28:26.120452"
+    "timestamp": "2026-02-12T04:29:39.479850"
   },
   "https://openai.com/index/canva/": {
     "count": 1,
@@ -1335,24 +1335,24 @@
     "timestamp": "2026-02-12T04:16:48.396356"
   },
   "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-rashmi-kumar-svp-and-cio-at-medtronic/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-12T04:18:36.009036"
+    "timestamp": "2026-02-12T04:28:39.316306"
   },
   "https://openai.com/index/tolan/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-12T04:20:04.000406"
+    "timestamp": "2026-02-12T04:29:48.086166"
   },
   "https://openai.com/index/netomi/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-12T04:20:06.060893"
+    "timestamp": "2026-02-12T04:29:56.919205"
   },
   "https://openai.com/index/praktika/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-12T04:20:08.111584"
+    "timestamp": "2026-02-12T04:30:05.863977"
   },
   "https://openai.com/index/stripe/": {
     "count": 1,
@@ -1360,8 +1360,18 @@
     "timestamp": "2026-02-12T04:20:12.214159"
   },
   "https://medium.com/airbnb-engineering/my-journey-to-airbnb-anna-sulkina-85216183d094?source=rss----53c7c27702d5---4": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:31:03.272184"
+  },
+  "https://greylock.com/greymatter/gen-ai-bayer/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-12T04:22:42.049335"
+    "timestamp": "2026-02-12T04:28:39.693118"
+  },
+  "https://www.saastr.com/atlassian-is-growing-23-at-6-4b-in-revenue-rpo-is-accelerating-44-and-the-stock-is-down-70-whats-really-going-on/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:29:39.095373"
   }
 }
