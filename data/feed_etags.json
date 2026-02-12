@@ -1,13 +1,13 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"4c8bb968c7daface74d0b5ffeff71112\"",
+    "etag": "W/\"4802c8efd6daac3f469a43137e151654\"",
     "last_modified": null,
-    "updated": "2026-02-11T04:24:32.767139"
+    "updated": "2026-02-12T04:16:44.599594"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
-    "etag": "W/\"2ea9b1e9501dd776e10bd00e581ef7b0\"",
-    "last_modified": "Tue, 10 Feb 2026 18:48:59 GMT",
-    "updated": "2026-02-11T04:24:33.074724"
+    "etag": "W/\"ae4ef5886e313f2732e04a4eb7f00a43\"",
+    "last_modified": "Wed, 11 Feb 2026 11:00:28 GMT",
+    "updated": "2026-02-12T04:16:44.744197"
   },
   "https://www.sequoiacap.com/feed/": {
     "etag": "W/\"26e94b9336cb2411b34f88ba23ccce03\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"659c2ee96f12052bf0624c1b5d47f872\"",
     "last_modified": "Wed, 28 Jan 2026 17:09:13 GMT",
-    "updated": "2026-02-11T04:26:29.135320"
+    "updated": "2026-02-12T04:18:36.550808"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"67e169a766a5076caa319ac7491a087b\"",
@@ -40,9 +40,9 @@
     "updated": "2026-01-08T04:30:20.097183"
   },
   "https://feld.com/feed": {
-    "etag": "W/\"34ea90144f4ed395f3e1dba6de88905e\"",
-    "last_modified": "Mon, 09 Feb 2026 15:28:01 GMT",
-    "updated": "2026-02-10T04:29:01.307367"
+    "etag": "W/\"ad56c45276383f6cfe14e38fe755d738\"",
+    "last_modified": "Tue, 10 Feb 2026 17:25:43 GMT",
+    "updated": "2026-02-12T04:19:44.772587"
   },
   "https://abovethecrowd.com/feed/": {
     "etag": "W/\"8171e06de0f26f39260e81bf2d53fb99\"",
@@ -70,19 +70,19 @@
     "updated": "2026-02-10T04:29:23.000757"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"IUckcA\"",
+    "etag": "\"rx_FNg\"",
     "last_modified": null,
-    "updated": "2026-02-11T04:29:55.609273"
+    "updated": "2026-02-12T04:21:28.877762"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 1 Feb 2026 07:43:07 GMT",
-    "updated": "2026-02-11T04:31:02.752485"
+    "updated": "2026-02-12T04:22:37.064690"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"c3db5760e9579434a5e1126cab1601c2\"",
-    "last_modified": "Wed, 11 Feb 2026 01:34:16 GMT",
-    "updated": "2026-02-11T04:31:03.668669"
+    "etag": "\"cac5ec4306c5eee8a6d3654c49c8a1d1\"",
+    "last_modified": "Thu, 12 Feb 2026 04:02:28 GMT",
+    "updated": "2026-02-12T04:22:39.740269"
   },
   "https://blogs.nvidia.com/feed/": {
     "etag": "\"4dd14befa3303b201f535fbd580e7add-gzip\"",
@@ -97,12 +97,12 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"2a7d0-642fc5b1f50a6-gzip\"",
     "last_modified": "Fri, 07 Nov 2025 07:44:48 GMT",
-    "updated": "2026-02-11T04:31:04.822387"
+    "updated": "2026-02-12T04:22:40.385411"
   },
   "https://blog.langchain.dev/rss/": {
-    "etag": "W/\"2e897-Agz11/1ceOHWPTWPGJpiYfTO/68\"",
+    "etag": "W/\"2e9e4-C+5MpYTRZhXlkPaLWPlJ5K9tBzA\"",
     "last_modified": null,
-    "updated": "2026-02-11T04:31:05.742355"
+    "updated": "2026-02-12T04:22:41.331314"
   },
   "https://replicate.com/blog/rss": {
     "etag": "W/\"10a86-19c489905d0\"",
@@ -110,19 +110,19 @@
     "updated": "2026-02-11T04:32:05.807191"
   },
   "https://www.databricks.com/feed": {
-    "etag": "W/\"5be649a69c7ea0bd65f6df70b80b213f\"",
-    "last_modified": "Wed, 11 Feb 2026 03:24:14 GMT",
-    "updated": "2026-02-11T04:34:47.504795"
+    "etag": "W/\"b3379e6e17b4210cf63262340ccd976e\"",
+    "last_modified": "Thu, 12 Feb 2026 00:48:00 GMT",
+    "updated": "2026-02-12T04:23:31.085134"
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Mon, 09 Feb 2026 18:29:00 GMT",
-    "updated": "2026-02-11T04:35:51.369605"
+    "updated": "2026-02-12T04:25:24.993296"
   },
   "https://supabase.com/blog/rss.xml": {
-    "etag": "W/\"zeg3ssfg5cbd5\"",
+    "etag": "W/\"ugvs1ifekpbem\"",
     "last_modified": null,
-    "updated": "2026-02-11T04:35:51.605909"
+    "updated": "2026-02-12T04:25:25.345147"
   },
   "https://vercel.com/atom": {
     "etag": "W/\"43d7a661eb8c19c0b2a9c70b36401509\"",

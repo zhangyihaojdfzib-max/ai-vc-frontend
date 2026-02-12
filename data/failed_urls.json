@@ -1195,9 +1195,9 @@
     "timestamp": "2026-02-11T04:26:30.627434"
   },
   "https://openai.com/index/typeform/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-09T04:31:44.045401"
+    "timestamp": "2026-02-12T04:20:10.166765"
   },
   "https://openai.com/index/harvey/": {
     "count": 1,
@@ -1205,29 +1205,29 @@
     "timestamp": "2026-02-09T04:31:53.254165"
   },
   "https://a16z.simplecast.com/episodes/the-state-of-markets-uuopmdKY": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:24:36.368690"
+    "timestamp": "2026-02-12T04:16:48.125474"
   },
   "https://greylock.com/portfolio-news/our-investment-in-abnormal-security/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:26:28.073867"
+    "timestamp": "2026-02-12T04:18:35.703248"
   },
   "https://greylock.com/greymatter/a-radically-different-ai-native-approach-to-cybersecurity/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:26:27.907480"
+    "timestamp": "2026-02-12T04:18:35.642489"
   },
   "https://greylock.com/greymatter/building-a-cybersecurity-juggernaut/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:26:28.456992"
+    "timestamp": "2026-02-12T04:18:35.765923"
   },
   "https://review.firstround.com/signin/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:26:32.907710"
+    "timestamp": "2026-02-12T04:18:37.873603"
   },
   "https://www.saastr.com/google-actually-ai-hasnt-hurt-search-at-all-in-fact-its-accelerating-it/": {
     "count": 2,
@@ -1270,29 +1270,29 @@
     "timestamp": "2026-02-10T04:29:50.491156"
   },
   "https://deepmind.google/blog/alphaqubit-tackles-one-of-quantum-computings-biggest-challenges/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:29:55.874646"
+    "timestamp": "2026-02-12T04:21:29.142469"
   },
   "https://deepmind.google/blog/the-ai-for-science-forum-a-new-era-of-discovery/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:29:56.081831"
+    "timestamp": "2026-02-12T04:21:29.156828"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-who-runs-the-worlds-ai-hCEmBXHZ": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:24:36.353840"
+    "timestamp": "2026-02-12T04:16:48.111310"
   },
   "https://a16z.simplecast.com/episodes/the-crime-crisis-in-america-how-technology-fixes-it-_8hsRCbO": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:24:36.510161"
+    "timestamp": "2026-02-12T04:16:48.386859"
   },
   "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-swamy-kocherlakota-evp-and-chief-digital-solutions-officer-at-sp-global/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:26:28.792355"
+    "timestamp": "2026-02-12T04:18:36.234685"
   },
   "https://www.saastr.com/what-we-actually-learned-deploying-20-ai-agents-across-our-entire-go-to-market-8-months-in/": {
     "count": 1,
@@ -1323,5 +1323,45 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-11T04:28:36.276808"
+  },
+  "https://a16z.simplecast.com/episodes/how-magic-johnson-built-a-billion-dollar-portfolio-in-30-years-FMsfMARC": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:16:48.129789"
+  },
+  "https://a16z.simplecast.com/episodes/ryo-lu-cursor-ai-turns-designers-to-developers-iKxTG20j": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:16:48.396356"
+  },
+  "https://greylock.com/greymatter/gen-ai-present-and-future-a-conversation-with-rashmi-kumar-svp-and-cio-at-medtronic/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:18:36.009036"
+  },
+  "https://openai.com/index/tolan/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:20:04.000406"
+  },
+  "https://openai.com/index/netomi/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:20:06.060893"
+  },
+  "https://openai.com/index/praktika/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:20:08.111584"
+  },
+  "https://openai.com/index/stripe/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:20:12.214159"
+  },
+  "https://medium.com/airbnb-engineering/my-journey-to-airbnb-anna-sulkina-85216183d094?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-12T04:22:42.049335"
   }
 }
