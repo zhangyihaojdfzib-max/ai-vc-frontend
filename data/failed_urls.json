@@ -1460,24 +1460,24 @@
     "timestamp": "2026-02-14T04:03:27.247551"
   },
   "https://greylock.com/greymatter/snorkel-data-enterprise-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:16:02.107171"
+    "timestamp": "2026-02-15T04:25:57.271653"
   },
   "https://review.firstround.com/cta-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:16:03.785889"
+    "timestamp": "2026-02-15T04:26:03.962800"
   },
   "https://review.firstround.com/buy-group-subscription/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:16:06.051286"
+    "timestamp": "2026-02-15T04:26:09.421669"
   },
   "https://review.firstround.com/group-subscriptions/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:16:08.326397"
+    "timestamp": "2026-02-15T04:26:14.511744"
   },
   "https://www.saastr.com/the-2026-sales-team-what-it-actually-looks-like-and-what-it-doesnt/": {
     "count": 2,
@@ -1490,24 +1490,24 @@
     "timestamp": "2026-02-15T04:17:07.252837"
   },
   "https://openai.com/index/be-my-eyes/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:17:27.234518"
+    "timestamp": "2026-02-15T04:26:28.133398"
   },
   "https://openai.com/index/government-of-iceland/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:17:29.315541"
+    "timestamp": "2026-02-15T04:26:39.049302"
   },
   "https://openai.com/index/holiday-extras/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:17:31.383465"
+    "timestamp": "2026-02-15T04:26:48.100247"
   },
   "https://greylock.com/portfolio-news/our-investment-in-rubrik-apple-like-simplicity-and-delight-for-your-data-center/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:16:02.070810"
+    "timestamp": "2026-02-15T04:25:57.113772"
   },
   "https://review.firstround.com/advanced-settings/": {
     "count": 1,
@@ -1538,5 +1538,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-15T04:17:07.357375"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-lyra-health/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-15T04:25:57.269915"
   }
 }
