@@ -580,9 +580,9 @@
     "timestamp": "2026-01-29T04:02:41.339594"
   },
   "https://hunterwalk.com/2026/01/26/so-say-youre-against-that-now-before-it-stops-shocking-you/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:27:30.312808"
+    "timestamp": "2026-02-15T04:17:06.596268"
   },
   "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/": {
     "count": 3,
@@ -1255,9 +1255,9 @@
     "timestamp": "2026-02-10T04:29:44.258693"
   },
   "https://openai.com/index/wix/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:28:29.991249"
+    "timestamp": "2026-02-15T04:17:33.468935"
   },
   "https://openai.com/index/upwork/": {
     "count": 1,
@@ -1355,9 +1355,9 @@
     "timestamp": "2026-02-12T04:30:05.863977"
   },
   "https://openai.com/index/stripe/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:08:03.694339"
+    "timestamp": "2026-02-15T04:17:25.137946"
   },
   "https://medium.com/airbnb-engineering/my-journey-to-airbnb-anna-sulkina-85216183d094?source=rss----53c7c27702d5---4": {
     "count": 3,
@@ -1380,19 +1380,19 @@
     "timestamp": "2026-02-14T04:03:27.147816"
   },
   "https://greylock.com/greymatter/the-deepseek-moment/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:06:51.850035"
+    "timestamp": "2026-02-15T04:16:01.340918"
   },
   "https://greylock.com/greymatter/ramps-quest-to-automate-the-cfo-suite/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:06:51.463396"
+    "timestamp": "2026-02-15T04:16:01.373802"
   },
   "https://greylock.com/greymatter/pepper-independent-distributors/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:06:52.195493"
+    "timestamp": "2026-02-15T04:16:01.681028"
   },
   "https://www.saastr.com/cs-disco-what-1x-arr-looks-like-for-a-public-b2b-company/": {
     "count": 2,
@@ -1425,14 +1425,14 @@
     "timestamp": "2026-02-13T04:18:56.650514"
   },
   "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:09:07.381027"
+    "timestamp": "2026-02-15T04:18:25.343270"
   },
   "https://deepmind.google/blog/updated-production-ready-gemini-models-reduced-15-pro-pricing-increased-rate-limits-and-more/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:09:07.388652"
+    "timestamp": "2026-02-15T04:18:25.365173"
   },
   "https://blogs.nvidia.com/blog/dgx-spark-higher-education/": {
     "count": 2,
@@ -1460,48 +1460,83 @@
     "timestamp": "2026-02-14T04:03:27.247551"
   },
   "https://greylock.com/greymatter/snorkel-data-enterprise-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:06:51.936915"
+    "timestamp": "2026-02-15T04:16:02.107171"
   },
   "https://review.firstround.com/cta-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:07:26.921268"
+    "timestamp": "2026-02-15T04:16:03.785889"
   },
   "https://review.firstround.com/buy-group-subscription/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:07:29.166365"
+    "timestamp": "2026-02-15T04:16:06.051286"
   },
   "https://review.firstround.com/group-subscriptions/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:07:31.376012"
+    "timestamp": "2026-02-15T04:16:08.326397"
   },
   "https://www.saastr.com/the-2026-sales-team-what-it-actually-looks-like-and-what-it-doesnt/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:07:35.548310"
+    "timestamp": "2026-02-15T04:17:07.515544"
   },
   "https://www.saastr.com/mike-cannon-brooks-ceo-atlassian-on-why-b2b-software-isnt-dead-why-ceos-need-to-stop-whining-and-what-actually-matters-now/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:07:35.926938"
+    "timestamp": "2026-02-15T04:17:07.252837"
   },
   "https://openai.com/index/be-my-eyes/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:08:05.768947"
+    "timestamp": "2026-02-15T04:17:27.234518"
   },
   "https://openai.com/index/government-of-iceland/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:08:07.837435"
+    "timestamp": "2026-02-15T04:17:29.315541"
   },
   "https://openai.com/index/holiday-extras/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-15T04:17:31.383465"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-rubrik-apple-like-simplicity-and-delight-for-your-data-center/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:08:09.915850"
+    "timestamp": "2026-02-15T04:16:02.070810"
+  },
+  "https://review.firstround.com/advanced-settings/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-15T04:16:10.605048"
+  },
+  "https://review.firstround.com/gift-subscription/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-15T04:16:12.884158"
+  },
+  "https://hunterwalk.com/2026/02/14/no-coding-before-10am-vcs-are-investing-in-competing-companies-dgaf-about-conflicts-technology-is-not-destiny-principles-for-ais-future-and-link-blog/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-15T04:17:06.564147"
+  },
+  "https://www.saastr.com/whos-left-in-the-10x-arr-club-the-incredible-shrinking-elite-of-public-b2b-companies-still-trading-at-10x-revenue-but-the-best-is-yet-to-come/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-15T04:17:07.078180"
+  },
+  "https://www.saastr.com/saastr-ai-app-of-the-week-people-ai-the-answer-platform-that-turns-your-sales-activity-data-into-the-only-forecast-you-can-trust/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-15T04:17:07.202517"
+  },
+  "https://www.saastr.com/your-buyer-isnt-human-anymore-neither-is-your-seller-welcome-to-ai-led-growth-with-firebolts-president/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-15T04:17:07.357375"
   }
 }
