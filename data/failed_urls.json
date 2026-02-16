@@ -1250,9 +1250,9 @@
     "timestamp": "2026-02-10T04:29:42.186388"
   },
   "https://openai.com/index/zalando/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-10T04:29:44.258693"
+    "timestamp": "2026-02-16T04:23:22.367317"
   },
   "https://openai.com/index/wix/": {
     "count": 3,
@@ -1505,19 +1505,19 @@
     "timestamp": "2026-02-15T04:26:48.100247"
   },
   "https://greylock.com/portfolio-news/our-investment-in-rubrik-apple-like-simplicity-and-delight-for-your-data-center/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:25:57.113772"
+    "timestamp": "2026-02-16T04:18:03.990068"
   },
   "https://review.firstround.com/advanced-settings/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:16:10.605048"
+    "timestamp": "2026-02-16T04:18:06.334618"
   },
   "https://review.firstround.com/gift-subscription/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:16:12.884158"
+    "timestamp": "2026-02-16T04:18:08.553962"
   },
   "https://hunterwalk.com/2026/02/14/no-coding-before-10am-vcs-are-investing-in-competing-companies-dgaf-about-conflicts-technology-is-not-destiny-principles-for-ais-future-and-link-blog/": {
     "count": 1,
@@ -1525,23 +1525,78 @@
     "timestamp": "2026-02-15T04:17:06.564147"
   },
   "https://www.saastr.com/whos-left-in-the-10x-arr-club-the-incredible-shrinking-elite-of-public-b2b-companies-still-trading-at-10x-revenue-but-the-best-is-yet-to-come/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:17:07.078180"
+    "timestamp": "2026-02-16T04:23:12.289731"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-people-ai-the-answer-platform-that-turns-your-sales-activity-data-into-the-only-forecast-you-can-trust/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:17:07.202517"
+    "timestamp": "2026-02-16T04:23:12.611042"
   },
   "https://www.saastr.com/your-buyer-isnt-human-anymore-neither-is-your-seller-welcome-to-ai-led-growth-with-firebolts-president/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:17:07.357375"
+    "timestamp": "2026-02-16T04:23:12.453048"
   },
   "https://greylock.com/portfolio-news/our-investment-in-lyra-health/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:18:03.984035"
+  },
+  "https://greylock.com/portfolio-news/design-together/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-15T04:25:57.269915"
+    "timestamp": "2026-02-16T04:18:03.853822"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-innovium-next-generation-cloud-data-center-networks/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:18:04.754404"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-discord/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:18:04.783993"
+  },
+  "https://review.firstround.com/tip-jar/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:18:10.803486"
+  },
+  "https://www.saastr.com/20vc-x-saastr-this-week-with-atlassian-co-founder-mike-cannon-brookes-why-b2b-software-isnt-dead-what-anthropics-149b-projection-really-means-and-why-ceos-need-to-stop-whining-and-start-buildin/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:23:11.940167"
+  },
+  "https://www.saastr.com/anthropic-just-hit-14-billion-in-arr-up-from-1-billion-just-14-months-ago/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:23:12.204228"
+  },
+  "https://openai.com/index/jetbrains/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:23:14.096117"
+  },
+  "https://openai.com/index/klarna/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:23:16.167969"
+  },
+  "https://openai.com/index/paf/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:23:18.238345"
+  },
+  "https://openai.com/index/genmab/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:23:20.301629"
+  },
+  "https://vercel.com/changelog/docs-pages-support-markdown-responses": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-16T04:24:44.748918"
   }
 }
