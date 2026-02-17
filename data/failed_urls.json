@@ -1250,9 +1250,9 @@
     "timestamp": "2026-02-10T04:29:42.186388"
   },
   "https://openai.com/index/zalando/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:23:22.367317"
+    "timestamp": "2026-02-17T04:22:04.915167"
   },
   "https://openai.com/index/wix/": {
     "count": 3,
@@ -1375,9 +1375,9 @@
     "timestamp": "2026-02-14T04:07:36.259714"
   },
   "https://a16z.simplecast.com/episodes/anish-acharya-is-saas-dead-in-a-world-of-ai-O8HbgCYl": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:03:27.147816"
+    "timestamp": "2026-02-17T04:12:22.355518"
   },
   "https://greylock.com/greymatter/the-deepseek-moment/": {
     "count": 3,
@@ -1435,29 +1435,29 @@
     "timestamp": "2026-02-15T04:18:25.365173"
   },
   "https://blogs.nvidia.com/blog/dgx-spark-higher-education/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:11:10.297766"
+    "timestamp": "2026-02-17T04:22:48.231129"
   },
   "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:11:10.302303"
+    "timestamp": "2026-02-17T04:22:48.456938"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-amazon-fire-tv-app/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:11:10.208498"
+    "timestamp": "2026-02-17T04:22:48.641673"
   },
   "https://a16z.simplecast.com/episodes/balaji-and-dan-wang-the-engineering-state-vs-lawyerly-state-geekCvPy": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:03:27.128242"
+    "timestamp": "2026-02-17T04:12:22.361590"
   },
   "https://a16z.simplecast.com/episodes/ai-eats-the-world-benedict-evans-on-the-next-platform-shift-ASo5Vq3f": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-14T04:03:27.247551"
+    "timestamp": "2026-02-17T04:12:22.605321"
   },
   "https://greylock.com/greymatter/snorkel-data-enterprise-ai/": {
     "count": 3,
@@ -1525,9 +1525,9 @@
     "timestamp": "2026-02-15T04:17:06.564147"
   },
   "https://www.saastr.com/whos-left-in-the-10x-arr-club-the-incredible-shrinking-elite-of-public-b2b-companies-still-trading-at-10x-revenue-but-the-best-is-yet-to-come/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:23:12.289731"
+    "timestamp": "2026-02-17T04:21:55.433982"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-people-ai-the-answer-platform-that-turns-your-sales-activity-data-into-the-only-forecast-you-can-trust/": {
     "count": 2,
@@ -1545,58 +1545,93 @@
     "timestamp": "2026-02-16T04:29:05.960749"
   },
   "https://greylock.com/portfolio-news/design-together/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:29:05.912387"
+    "timestamp": "2026-02-17T04:13:03.689564"
   },
   "https://greylock.com/portfolio-news/our-investment-in-innovium-next-generation-cloud-data-center-networks/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:18:04.754404"
+    "timestamp": "2026-02-17T04:13:03.867792"
   },
   "https://greylock.com/portfolio-news/our-investment-in-discord/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:29:05.962578"
+    "timestamp": "2026-02-17T04:13:03.650765"
   },
   "https://review.firstround.com/tip-jar/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:29:23.019661"
+    "timestamp": "2026-02-17T04:13:06.357501"
   },
   "https://www.saastr.com/20vc-x-saastr-this-week-with-atlassian-co-founder-mike-cannon-brookes-why-b2b-software-isnt-dead-what-anthropics-149b-projection-really-means-and-why-ceos-need-to-stop-whining-and-start-buildin/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:23:11.940167"
+    "timestamp": "2026-02-17T04:21:55.103461"
   },
   "https://www.saastr.com/anthropic-just-hit-14-billion-in-arr-up-from-1-billion-just-14-months-ago/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:23:12.204228"
+    "timestamp": "2026-02-17T04:21:55.276563"
   },
   "https://openai.com/index/jetbrains/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:29:39.815560"
+    "timestamp": "2026-02-17T04:21:56.548338"
   },
   "https://openai.com/index/klarna/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:29:48.842043"
+    "timestamp": "2026-02-17T04:21:58.633666"
   },
   "https://openai.com/index/paf/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:29:57.853884"
+    "timestamp": "2026-02-17T04:22:00.723507"
   },
   "https://openai.com/index/genmab/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-16T04:23:20.301629"
+    "timestamp": "2026-02-17T04:22:02.818448"
   },
   "https://vercel.com/changelog/docs-pages-support-markdown-responses": {
     "count": 2,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-16T04:30:49.156625"
+  },
+  "https://a16z.simplecast.com/episodes/novartis-ceo-vasant-narasimhan-on-transforming-a-250-year-old-company-5kBHPRUC": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-17T04:12:22.364542"
+  },
+  "https://a16z.simplecast.com/episodes/how-the-best-ceos-delegate-Pnh3gU21": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-17T04:12:22.591420"
+  },
+  "https://greylock.com/portfolio-news/customer-service-reinvented/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-17T04:13:04.281335"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-cato-networks/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-17T04:13:04.335140"
+  },
+  "https://www.saastr.com/gartner-business-software-spend-will-grow-a-stunning-14-7-in-2026-to-1-4-trillion-up-from-11-5-in-2025-are-you-grabbing-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-17T04:21:54.780925"
+  },
+  "https://www.saastr.com/the-future-of-b2b-marketing-is-agent-recommendations-and-agents-play-favorites/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-17T04:21:55.045392"
+  },
+  "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-17T04:22:48.455137"
   }
 }
