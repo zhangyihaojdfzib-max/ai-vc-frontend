@@ -1310,9 +1310,9 @@
     "timestamp": "2026-02-11T04:28:27.921766"
   },
   "https://openai.com/index/booking-com/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:28:32.077872"
+    "timestamp": "2026-02-18T04:33:26.055646"
   },
   "https://openai.com/index/expedia-jochen-koedijk/": {
     "count": 1,
@@ -1450,9 +1450,9 @@
     "timestamp": "2026-02-17T04:22:48.641673"
   },
   "https://a16z.simplecast.com/episodes/balaji-and-dan-wang-the-engineering-state-vs-lawyerly-state-geekCvPy": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:12:22.361590"
+    "timestamp": "2026-02-18T04:25:01.033003"
   },
   "https://a16z.simplecast.com/episodes/ai-eats-the-world-benedict-evans-on-the-next-platform-shift-ASo5Vq3f": {
     "count": 2,
@@ -1550,9 +1550,9 @@
     "timestamp": "2026-02-17T04:13:03.689564"
   },
   "https://greylock.com/portfolio-news/our-investment-in-innovium-next-generation-cloud-data-center-networks/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:13:03.867792"
+    "timestamp": "2026-02-18T04:25:25.444590"
   },
   "https://greylock.com/portfolio-news/our-investment-in-discord/": {
     "count": 3,
@@ -1590,9 +1590,9 @@
     "timestamp": "2026-02-17T04:22:00.723507"
   },
   "https://openai.com/index/genmab/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:22:02.818448"
+    "timestamp": "2026-02-18T04:33:23.932309"
   },
   "https://vercel.com/changelog/docs-pages-support-markdown-responses": {
     "count": 2,
@@ -1600,9 +1600,9 @@
     "timestamp": "2026-02-16T04:30:49.156625"
   },
   "https://a16z.simplecast.com/episodes/novartis-ceo-vasant-narasimhan-on-transforming-a-250-year-old-company-5kBHPRUC": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:12:22.364542"
+    "timestamp": "2026-02-18T04:25:01.031121"
   },
   "https://a16z.simplecast.com/episodes/how-the-best-ceos-delegate-Pnh3gU21": {
     "count": 1,
@@ -1610,14 +1610,14 @@
     "timestamp": "2026-02-17T04:12:22.591420"
   },
   "https://greylock.com/portfolio-news/customer-service-reinvented/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:13:04.281335"
+    "timestamp": "2026-02-18T04:25:25.314530"
   },
   "https://greylock.com/portfolio-news/our-investment-in-cato-networks/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:13:04.335140"
+    "timestamp": "2026-02-18T04:25:25.446397"
   },
   "https://www.saastr.com/gartner-business-software-spend-will-grow-a-stunning-14-7-in-2026-to-1-4-trillion-up-from-11-5-in-2025-are-you-grabbing-it/": {
     "count": 1,
@@ -1625,13 +1625,48 @@
     "timestamp": "2026-02-17T04:21:54.780925"
   },
   "https://www.saastr.com/the-future-of-b2b-marketing-is-agent-recommendations-and-agents-play-favorites/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:21:55.045392"
+    "timestamp": "2026-02-18T04:33:09.932354"
   },
   "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-17T04:22:48.455137"
+  },
+  "https://a16z.simplecast.com/episodes/wsj-x-a16z-the-next-25-years-of-defense-innovation-7fNyoZyd": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-18T04:25:01.013268"
+  },
+  "https://www.saastr.com/the-2x-arr-club-dont-let-it-be-you/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-18T04:33:09.561268"
+  },
+  "https://www.saastr.com/salesforce-now-has-3-pricing-models-for-agentforce-and-maybe-right-now-thats-the-way-to-do-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-18T04:33:09.942246"
+  },
+  "https://openai.com/index/intercom/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-18T04:33:35.144970"
+  },
+  "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-18T04:34:35.237971"
+  },
+  "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-18T04:34:35.393096"
+  },
+  "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-18T04:34:35.416645"
   }
 }
