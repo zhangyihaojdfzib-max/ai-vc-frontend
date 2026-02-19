@@ -1310,9 +1310,9 @@
     "timestamp": "2026-02-11T04:28:27.921766"
   },
   "https://openai.com/index/booking-com/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:33:26.055646"
+    "timestamp": "2026-02-19T04:36:32.944657"
   },
   "https://openai.com/index/expedia-jochen-koedijk/": {
     "count": 1,
@@ -1350,9 +1350,9 @@
     "timestamp": "2026-02-12T04:29:56.919205"
   },
   "https://openai.com/index/praktika/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-12T04:30:05.863977"
+    "timestamp": "2026-02-19T04:36:41.158191"
   },
   "https://openai.com/index/stripe/": {
     "count": 3,
@@ -1455,9 +1455,9 @@
     "timestamp": "2026-02-18T04:25:01.033003"
   },
   "https://a16z.simplecast.com/episodes/ai-eats-the-world-benedict-evans-on-the-next-platform-shift-ASo5Vq3f": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:12:22.605321"
+    "timestamp": "2026-02-19T04:13:35.471808"
   },
   "https://greylock.com/greymatter/snorkel-data-enterprise-ai/": {
     "count": 3,
@@ -1600,24 +1600,24 @@
     "timestamp": "2026-02-16T04:30:49.156625"
   },
   "https://a16z.simplecast.com/episodes/novartis-ceo-vasant-narasimhan-on-transforming-a-250-year-old-company-5kBHPRUC": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:25:01.031121"
+    "timestamp": "2026-02-19T04:13:35.238907"
   },
   "https://a16z.simplecast.com/episodes/how-the-best-ceos-delegate-Pnh3gU21": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:12:22.591420"
+    "timestamp": "2026-02-19T04:13:35.495327"
   },
   "https://greylock.com/portfolio-news/customer-service-reinvented/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:25:25.314530"
+    "timestamp": "2026-02-19T04:14:27.876228"
   },
   "https://greylock.com/portfolio-news/our-investment-in-cato-networks/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:25:25.446397"
+    "timestamp": "2026-02-19T04:14:27.495139"
   },
   "https://www.saastr.com/gartner-business-software-spend-will-grow-a-stunning-14-7-in-2026-to-1-4-trillion-up-from-11-5-in-2025-are-you-grabbing-it/": {
     "count": 1,
@@ -1625,48 +1625,98 @@
     "timestamp": "2026-02-17T04:21:54.780925"
   },
   "https://www.saastr.com/the-future-of-b2b-marketing-is-agent-recommendations-and-agents-play-favorites/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:33:09.932354"
+    "timestamp": "2026-02-19T04:36:32.045095"
   },
   "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-17T04:22:48.455137"
+    "timestamp": "2026-02-19T04:40:16.421821"
   },
   "https://a16z.simplecast.com/episodes/wsj-x-a16z-the-next-25-years-of-defense-innovation-7fNyoZyd": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:25:01.013268"
+    "timestamp": "2026-02-19T04:13:35.228079"
   },
   "https://www.saastr.com/the-2x-arr-club-dont-let-it-be-you/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:33:09.561268"
+    "timestamp": "2026-02-19T04:36:31.807608"
   },
   "https://www.saastr.com/salesforce-now-has-3-pricing-models-for-agentforce-and-maybe-right-now-thats-the-way-to-do-it/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:33:09.942246"
+    "timestamp": "2026-02-19T04:36:31.777623"
   },
   "https://openai.com/index/intercom/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:33:35.144970"
+    "timestamp": "2026-02-19T04:36:34.994702"
   },
   "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:34:35.237971"
+    "timestamp": "2026-02-19T04:40:16.091222"
   },
   "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:34:35.393096"
+    "timestamp": "2026-02-19T04:40:16.296204"
   },
   "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:40:16.293351"
+  },
+  "https://a16z.simplecast.com/episodes/from-copilots-to-agents-rebuilding-the-company-around-ai-_07WiWQy": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-18T04:34:35.416645"
+    "timestamp": "2026-02-19T04:13:35.249644"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-obsidian-security/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:14:27.448799"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-coda/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:14:28.206583"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-nauto/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:14:28.241403"
+  },
+  "https://www.saastr.com/the-90-10-rule-for-ai-agents-updated-we-replaced-a-paid-saas-tool-in-a-day-with-a-vibe-coded-app-heres-what-we-learned/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:36:31.429751"
+  },
+  "https://www.saastr.com/shopify-is-growing-30-at-11-6-billion-the-stock-is-down-28-nothing-is-enough-right-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:36:31.810220"
+  },
+  "https://openai.com/index/mirakl/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:36:37.047204"
+  },
+  "https://openai.com/index/virgin-atlantic-oliver-byers/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:36:39.106239"
+  },
+  "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:38:59.789383"
+  },
+  "https://medium.com/airbnb-engineering/safeguarding-dynamic-configuration-changes-at-scale-5aca5222ed68?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-19T04:43:18.579715"
   }
 }
