@@ -1405,9 +1405,9 @@
     "timestamp": "2026-02-14T04:07:36.081415"
   },
   "https://openai.com/index/wrtn/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:33:16.252943"
+    "timestamp": "2026-02-21T04:15:57.181386"
   },
   "https://openai.com/index/healthify/": {
     "count": 1,
@@ -1605,9 +1605,9 @@
     "timestamp": "2026-02-19T04:13:35.238907"
   },
   "https://a16z.simplecast.com/episodes/how-the-best-ceos-delegate-Pnh3gU21": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-19T04:13:35.495327"
+    "timestamp": "2026-02-21T04:00:00.520883"
   },
   "https://greylock.com/portfolio-news/customer-service-reinvented/": {
     "count": 3,
@@ -1630,9 +1630,9 @@
     "timestamp": "2026-02-19T04:36:32.045095"
   },
   "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-19T04:40:16.421821"
+    "timestamp": "2026-02-21T04:16:44.884092"
   },
   "https://a16z.simplecast.com/episodes/wsj-x-a16z-the-next-25-years-of-defense-innovation-7fNyoZyd": {
     "count": 3,
@@ -1650,9 +1650,9 @@
     "timestamp": "2026-02-19T04:36:31.777623"
   },
   "https://openai.com/index/intercom/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-19T04:36:34.994702"
+    "timestamp": "2026-02-21T04:16:03.365977"
   },
   "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/": {
     "count": 3,
@@ -1660,34 +1660,34 @@
     "timestamp": "2026-02-20T04:34:25.053627"
   },
   "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-19T04:40:16.296204"
+    "timestamp": "2026-02-21T04:16:44.360301"
   },
   "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-19T04:40:16.293351"
+    "timestamp": "2026-02-21T04:16:44.772198"
   },
   "https://a16z.simplecast.com/episodes/from-copilots-to-agents-rebuilding-the-company-around-ai-_07WiWQy": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:18:55.420423"
+    "timestamp": "2026-02-21T04:00:00.448256"
   },
   "https://greylock.com/portfolio-news/our-investment-in-obsidian-security/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:19:34.274980"
+    "timestamp": "2026-02-21T04:02:11.435191"
   },
   "https://greylock.com/portfolio-news/our-investment-in-coda/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:19:34.110002"
+    "timestamp": "2026-02-21T04:02:11.438429"
   },
   "https://greylock.com/portfolio-news/our-investment-in-nauto/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:19:34.273100"
+    "timestamp": "2026-02-21T04:02:11.308770"
   },
   "https://www.saastr.com/the-90-10-rule-for-ai-agents-updated-we-replaced-a-paid-saas-tool-in-a-day-with-a-vibe-coded-app-heres-what-we-learned/": {
     "count": 1,
@@ -1710,24 +1710,24 @@
     "timestamp": "2026-02-19T04:36:39.106239"
   },
   "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:33:56.166275"
+    "timestamp": "2026-02-21T04:16:42.135975"
   },
   "https://medium.com/airbnb-engineering/safeguarding-dynamic-configuration-changes-at-scale-5aca5222ed68?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:35:58.124407"
+    "timestamp": "2026-02-21T04:19:59.924411"
   },
   "https://a16z.simplecast.com/episodes/capital-compute-and-the-fight-for-ai-dominance-Qb96oXgu": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:18:55.406199"
+    "timestamp": "2026-02-21T04:00:00.425499"
   },
   "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:32:31.275373"
+    "timestamp": "2026-02-21T04:15:34.818253"
   },
   "https://www.saastr.com/debt-isnt-free-what-every-b2b-founder-needs-to-learn-from-divvy-homes-1-billion-exit-where-founders-got-0/": {
     "count": 1,
@@ -1735,38 +1735,78 @@
     "timestamp": "2026-02-20T04:32:34.874129"
   },
   "https://www.saastr.com/figma-just-hit-304m-in-a-single-quarter-growing-40-and-just-like-that-saas-is-back/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:32:35.136590"
+    "timestamp": "2026-02-21T04:15:38.716132"
   },
   "https://www.saastr.com/20vc-x-saastr-anthropic-raises-30b-the-b2b-software-gravity-well-and-why-corporate-america-is-willing-ai-into-existence/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:32:35.224787"
+    "timestamp": "2026-02-21T04:15:38.590516"
   },
   "https://openai.com/index/schoolai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:33:06.312269"
+    "timestamp": "2026-02-21T04:15:55.121393"
   },
   "https://openai.com/index/doppel/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:33:26.036311"
+    "timestamp": "2026-02-21T04:15:59.239058"
   },
   "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:33:56.173560"
+    "timestamp": "2026-02-21T04:16:42.142212"
   },
   "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:34:25.118094"
+    "timestamp": "2026-02-21T04:16:44.588160"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-21T04:16:44.549755"
+  },
+  "https://a16z.simplecast.com/episodes/patrick-collison-on-stripes-early-choices-smalltalk-and-what-comes-after-coding-hsXebQ3K": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-20T04:34:25.135735"
+    "timestamp": "2026-02-21T04:00:00.453726"
+  },
+  "https://a16z.simplecast.com/episodes/the-3-trillion-ai-coding-opportunity-7plojNqE": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-21T04:00:00.522957"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-roblox-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-21T04:02:11.833656"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-payjoy/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-21T04:02:12.091395"
+  },
+  "https://www.saastr.com/saas-markets-have-crashed-in-2026-but-is-private-credit-the-even-bigger-risk/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-21T04:15:37.975315"
+  },
+  "https://www.saastr.com/our-annual-cro-ceo-summit-is-back-may-12-share-the-best-learnings-on-ai-gtm-with-other-top-cros-and-ceos/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-21T04:15:38.202163"
+  },
+  "https://www.saastr.com/gartner-down-71-forrester-worth-105m-what-that-tells-us-about-b2b-spend-right-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-21T04:15:38.362151"
+  },
+  "https://openai.com/index/consensus/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-21T04:16:01.295046"
   }
 }
