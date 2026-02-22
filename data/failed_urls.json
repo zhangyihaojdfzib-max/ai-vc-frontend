@@ -1700,14 +1700,14 @@
     "timestamp": "2026-02-19T04:36:31.810220"
   },
   "https://openai.com/index/mirakl/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-19T04:36:37.047204"
+    "timestamp": "2026-02-22T04:31:02.585768"
   },
   "https://openai.com/index/virgin-atlantic-oliver-byers/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-19T04:36:39.106239"
+    "timestamp": "2026-02-22T04:31:04.640936"
   },
   "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/": {
     "count": 3,
@@ -1745,19 +1745,19 @@
     "timestamp": "2026-02-21T04:15:38.590516"
   },
   "https://openai.com/index/schoolai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-21T04:15:55.121393"
+    "timestamp": "2026-02-22T04:30:56.409032"
   },
   "https://openai.com/index/doppel/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-21T04:15:59.239058"
+    "timestamp": "2026-02-22T04:30:58.459468"
   },
   "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-21T04:16:42.142212"
+    "timestamp": "2026-02-22T04:31:47.489389"
   },
   "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/": {
     "count": 2,
@@ -1780,24 +1780,24 @@
     "timestamp": "2026-02-21T04:00:00.522957"
   },
   "https://greylock.com/portfolio-news/our-investment-in-roblox-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-21T04:02:11.833656"
+    "timestamp": "2026-02-22T04:10:51.619411"
   },
   "https://greylock.com/portfolio-news/our-investment-in-payjoy/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-21T04:02:12.091395"
+    "timestamp": "2026-02-22T04:10:52.059964"
   },
   "https://www.saastr.com/saas-markets-have-crashed-in-2026-but-is-private-credit-the-even-bigger-risk/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-21T04:15:37.975315"
+    "timestamp": "2026-02-22T04:30:55.358635"
   },
   "https://www.saastr.com/our-annual-cro-ceo-summit-is-back-may-12-share-the-best-learnings-on-ai-gtm-with-other-top-cros-and-ceos/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-21T04:15:38.202163"
+    "timestamp": "2026-02-22T04:30:55.182114"
   },
   "https://www.saastr.com/gartner-down-71-forrester-worth-105m-what-that-tells-us-about-b2b-spend-right-now/": {
     "count": 1,
@@ -1805,8 +1805,38 @@
     "timestamp": "2026-02-21T04:15:38.362151"
   },
   "https://openai.com/index/consensus/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-22T04:31:00.535178"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-chronosphere/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-21T04:16:01.295046"
+    "timestamp": "2026-02-22T04:10:51.681225"
+  },
+  "https://greylock.com/portfolio-news/experts-on-day-one-our-investment-in-cresta/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-22T04:10:52.394743"
+  },
+  "https://greylock.com/portfolio-news/greylock-our-investment-in-gem/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-22T04:10:52.417432"
+  },
+  "https://www.saastr.com/is-saas-dead-no-but-one-thing-is-clear-its-unstable/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-22T04:30:54.665698"
+  },
+  "https://www.saastr.com/the-real-data-on-ai-agents-what-1-trillion-tokens-a-day-reveals-with-openrouters-coo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-22T04:30:54.982849"
+  },
+  "https://www.saastr.com/saastr-ai-2026-is-running-132-of-last-year-but-its-not-remotely-that-simple-it-could-have-been-46/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-22T04:30:55.009450"
   }
 }

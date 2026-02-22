@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"07be6bbe2a7d0a796f3eb98f6494ed1d\"",
+    "etag": "W/\"3488701ff51d403e44e05c9b2ddffde9\"",
     "last_modified": null,
-    "updated": "2026-02-21T03:59:56.860924"
+    "updated": "2026-02-22T04:09:54.061431"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"09080961f495f6f269a69e345637f997\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"659c2ee96f12052bf0624c1b5d47f872\"",
     "last_modified": "Wed, 28 Jan 2026 17:09:13 GMT",
-    "updated": "2026-02-21T04:02:12.322643"
+    "updated": "2026-02-22T04:10:52.633294"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"3f4aa80f22fba53a47f853986ed984fb\"",
@@ -60,9 +60,9 @@
     "updated": "2026-02-15T04:17:06.359948"
   },
   "https://www.saastr.com/feed/": {
-    "etag": "W/\"0f405e819b88dfd9d1fa67df21df53fb\"",
-    "last_modified": "Fri, 20 Feb 2026 21:18:13 GMT",
-    "updated": "2026-02-21T04:15:37.690194"
+    "etag": "W/\"c5403b8d59dbb53bf9e3cbfc5db6ad04\"",
+    "last_modified": "Sat, 21 Feb 2026 16:13:11 GMT",
+    "updated": "2026-02-22T04:30:54.346665"
   },
   "https://tomtunguz.com/index.xml": {
     "etag": "W/\"5a13b170a0c2b3fce11b75b9f092f5c4\"",
@@ -70,19 +70,19 @@
     "updated": "2026-02-21T04:15:38.865572"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"vqHWOw\"",
+    "etag": "\"UjKfag\"",
     "last_modified": null,
-    "updated": "2026-02-21T04:16:41.947128"
+    "updated": "2026-02-22T04:31:46.974897"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 15 Feb 2026 01:52:44 GMT",
-    "updated": "2026-02-21T04:16:42.741631"
+    "updated": "2026-02-22T04:31:47.934206"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"154f1897c165fbea76053b6e0cd761bf\"",
-    "last_modified": "Fri, 20 Feb 2026 23:53:05 GMT",
-    "updated": "2026-02-21T04:16:43.425742"
+    "etag": "\"df63ab71fc3f59996b1e10ee76cffcb7\"",
+    "last_modified": "Sat, 21 Feb 2026 20:31:06 GMT",
+    "updated": "2026-02-22T04:31:48.833497"
   },
   "https://blogs.nvidia.com/feed/": {
     "etag": "\"2d7ca40ac88e869bba2d7d47c2876966-gzip\"",
@@ -97,12 +97,12 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"2a7d0-642fc5b1f50a6-gzip\"",
     "last_modified": "Fri, 07 Nov 2025 07:44:48 GMT",
-    "updated": "2026-02-21T04:19:58.777638"
+    "updated": "2026-02-22T04:31:50.151232"
   },
   "https://blog.langchain.dev/rss/": {
-    "etag": "W/\"3731a-W3g38BRkdBev2DtfPYYMWdNiNhE\"",
+    "etag": "W/\"3a528-3cEnzIyUvEXJ6inph6Tbyjjit4E\"",
     "last_modified": null,
-    "updated": "2026-02-20T04:35:03.087000"
+    "updated": "2026-02-22T04:31:51.024440"
   },
   "https://replicate.com/blog/rss": {
     "etag": "W/\"10d37-19c788691b8\"",
@@ -117,12 +117,12 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Fri, 20 Feb 2026 17:27:03 GMT",
-    "updated": "2026-02-21T04:21:46.177795"
+    "updated": "2026-02-22T04:34:32.108070"
   },
   "https://supabase.com/blog/rss.xml": {
-    "etag": "W/\"l700ipk6k6bej\"",
+    "etag": "W/\"h4v0wwhlkpbej\"",
     "last_modified": null,
-    "updated": "2026-02-21T04:21:46.310504"
+    "updated": "2026-02-22T04:34:32.316164"
   },
   "https://vercel.com/atom": {
     "etag": "W/\"43d7a661eb8c19c0b2a9c70b36401509\"",
