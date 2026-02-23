@@ -1410,14 +1410,14 @@
     "timestamp": "2026-02-21T04:15:57.181386"
   },
   "https://openai.com/index/healthify/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-13T04:18:52.550150"
+    "timestamp": "2026-02-23T04:33:57.978286"
   },
   "https://openai.com/index/digital-green/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-13T04:18:54.597577"
+    "timestamp": "2026-02-23T04:34:00.057197"
   },
   "https://openai.com/index/10bedicu/": {
     "count": 1,
@@ -1700,14 +1700,14 @@
     "timestamp": "2026-02-19T04:36:31.810220"
   },
   "https://openai.com/index/mirakl/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:31:02.585768"
+    "timestamp": "2026-02-23T04:33:53.808305"
   },
   "https://openai.com/index/virgin-atlantic-oliver-byers/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:31:04.640936"
+    "timestamp": "2026-02-23T04:33:55.896127"
   },
   "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/": {
     "count": 3,
@@ -1780,14 +1780,14 @@
     "timestamp": "2026-02-21T04:00:00.522957"
   },
   "https://greylock.com/portfolio-news/our-investment-in-roblox-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:10:51.619411"
+    "timestamp": "2026-02-23T04:18:19.743426"
   },
   "https://greylock.com/portfolio-news/our-investment-in-payjoy/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:10:52.059964"
+    "timestamp": "2026-02-23T04:18:20.235598"
   },
   "https://www.saastr.com/saas-markets-have-crashed-in-2026-but-is-private-credit-the-even-bigger-risk/": {
     "count": 2,
@@ -1805,38 +1805,48 @@
     "timestamp": "2026-02-21T04:15:38.362151"
   },
   "https://openai.com/index/consensus/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:31:00.535178"
+    "timestamp": "2026-02-23T04:33:51.719696"
   },
   "https://greylock.com/portfolio-news/our-investment-in-chronosphere/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:10:51.681225"
+    "timestamp": "2026-02-23T04:18:19.784520"
   },
   "https://greylock.com/portfolio-news/experts-on-day-one-our-investment-in-cresta/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:10:52.394743"
+    "timestamp": "2026-02-23T04:18:20.428174"
   },
   "https://greylock.com/portfolio-news/greylock-our-investment-in-gem/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:10:52.417432"
+    "timestamp": "2026-02-23T04:18:20.465594"
   },
   "https://www.saastr.com/is-saas-dead-no-but-one-thing-is-clear-its-unstable/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:30:54.665698"
+    "timestamp": "2026-02-23T04:33:50.503892"
   },
   "https://www.saastr.com/the-real-data-on-ai-agents-what-1-trillion-tokens-a-day-reveals-with-openrouters-coo/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:30:54.982849"
+    "timestamp": "2026-02-23T04:33:50.862509"
   },
   "https://www.saastr.com/saastr-ai-2026-is-running-132-of-last-year-but-its-not-remotely-that-simple-it-could-have-been-46/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-23T04:33:50.686462"
+  },
+  "https://www.saastr.com/saas-isnt-dead-but-the-way-you-used-to-win-in-b2b-thats-gone/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-22T04:30:55.009450"
+    "timestamp": "2026-02-23T04:33:50.147620"
+  },
+  "https://www.saastr.com/canva-crosses-a-stunning-4b-arr-but-what-would-it-be-worth-today/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-23T04:33:50.433372"
   }
 }
