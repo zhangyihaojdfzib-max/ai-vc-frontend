@@ -1420,9 +1420,9 @@
     "timestamp": "2026-02-24T04:33:17.131468"
   },
   "https://openai.com/index/10bedicu/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:33:19.201493"
+    "timestamp": "2026-02-25T04:29:52.602845"
   },
   "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/": {
     "count": 3,
@@ -1840,9 +1840,9 @@
     "timestamp": "2026-02-23T04:33:50.686462"
   },
   "https://www.saastr.com/saas-isnt-dead-but-the-way-you-used-to-win-in-b2b-thats-gone/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:32:47.179489"
+    "timestamp": "2026-02-25T04:29:29.959604"
   },
   "https://www.saastr.com/canva-crosses-a-stunning-4b-arr-but-what-would-it-be-worth-today/": {
     "count": 2,
@@ -1860,38 +1860,83 @@
     "timestamp": "2026-02-24T04:11:35.130916"
   },
   "https://greylock.com/portfolio-news/snorkel-making-ai-practical-investment/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:13:38.789127"
+    "timestamp": "2026-02-25T04:15:18.073939"
   },
   "https://greylock.com/portfolio-news/truera-building-trust-in-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:13:38.947013"
+    "timestamp": "2026-02-25T04:15:17.692098"
   },
   "https://www.saastr.com/ai-agents-in-sales-and-finance-arent-behind-theyre-just-next-the-latest-data-from-anthropic-and-1000000-tool-calls/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:32:47.480563"
+    "timestamp": "2026-02-25T04:29:29.785009"
   },
   "https://www.saastr.com/dont-love-your-job-i-hear-you-but-dont-quit-at-least-99-of-you-shouldnt/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:32:47.512651"
+    "timestamp": "2026-02-25T04:29:29.250581"
   },
   "https://openai.com/index/rakuten/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:33:21.247241"
+    "timestamp": "2026-02-25T04:29:54.662770"
   },
   "https://openai.com/index/grab/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:33:23.299140"
+    "timestamp": "2026-02-25T04:29:56.709993"
   },
   "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:31:27.723360"
+  },
+  "https://greylock.com/portfolio-news/from-zero-to-ipo/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:34:17.912577"
+    "timestamp": "2026-02-25T04:15:18.140431"
+  },
+  "https://greylock.com/portfolio-news/congratulations-to-awake-and-arista/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:15:18.359232"
+  },
+  "https://greylock.com/portfolio-news/reinventing-secure-development-lifecycle/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:15:18.859507"
+  },
+  "https://www.saastr.com/the-2025-ipo-class-graded-only-3-of-13-are-above-water/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:29:29.606851"
+  },
+  "https://www.saastr.com/the-wave-of-ai-agent-churn-to-come-prompts-are-portable/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:29:29.611272"
+  },
+  "https://openai.com/index/notion/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:29:50.543340"
+  },
+  "https://openai.com/index/mercari/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:29:58.767481"
+  },
+  "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:31:27.623381"
+  },
+  "https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-25T04:33:13.526820"
   }
 }
