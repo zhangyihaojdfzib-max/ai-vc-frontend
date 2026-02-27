@@ -1770,9 +1770,9 @@
     "timestamp": "2026-02-24T04:34:17.900598"
   },
   "https://a16z.simplecast.com/episodes/patrick-collison-on-stripes-early-choices-smalltalk-and-what-comes-after-coding-hsXebQ3K": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:11:34.858545"
+    "timestamp": "2026-02-27T04:16:23.479957"
   },
   "https://a16z.simplecast.com/episodes/the-3-trillion-ai-coding-opportunity-7plojNqE": {
     "count": 2,
@@ -1850,9 +1850,9 @@
     "timestamp": "2026-02-24T04:32:47.686243"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-rsi-crypto-as-ai-money-classified-physics-7haZIfGq": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:11:34.839987"
+    "timestamp": "2026-02-27T04:16:23.482351"
   },
   "https://a16z.simplecast.com/episodes/the-80-year-bet-why-naveen-rao-is-rebuilding-the-computer-from-scratch-wLonZe7I": {
     "count": 1,
@@ -1895,19 +1895,19 @@
     "timestamp": "2026-02-25T04:31:27.723360"
   },
   "https://greylock.com/portfolio-news/from-zero-to-ipo/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-26T04:12:28.931483"
+    "timestamp": "2026-02-27T04:18:28.846954"
   },
   "https://greylock.com/portfolio-news/congratulations-to-awake-and-arista/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-26T04:12:29.074238"
+    "timestamp": "2026-02-27T04:18:28.837614"
   },
   "https://greylock.com/portfolio-news/reinventing-secure-development-lifecycle/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-26T04:12:29.622890"
+    "timestamp": "2026-02-27T04:18:28.848919"
   },
   "https://www.saastr.com/the-2025-ipo-class-graded-only-3-of-13-are-above-water/": {
     "count": 2,
@@ -1920,29 +1920,29 @@
     "timestamp": "2026-02-26T04:28:55.993295"
   },
   "https://openai.com/index/notion/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-26T04:29:11.593501"
+    "timestamp": "2026-02-27T04:32:36.868640"
   },
   "https://openai.com/index/mercari/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-26T04:29:17.781286"
+    "timestamp": "2026-02-27T04:32:46.054528"
   },
   "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-02-25T04:31:27.623381"
-  },
-  "https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-26T04:32:35.317036"
+    "timestamp": "2026-02-27T04:36:41.083007"
+  },
+  "https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-27T04:39:41.478099"
   },
   "https://www.saastr.com/the-painful-gap-in-playbooks-and-urgency-between-ai-native-and-traditional-b2b-startups-today/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-26T04:28:55.452402"
+    "timestamp": "2026-02-27T04:32:06.686989"
   },
   "https://www.saastr.com/the-agent-orchestration-problem-how-we-wire-20-ai-agents-together-without-losing-our-minds/": {
     "count": 1,
@@ -1958,5 +1958,25 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-26T04:29:19.836937"
+  },
+  "https://a16z.simplecast.com/episodes/when-giants-dont-go-public-inside-the-5-trillion-private-tech-market-d4i96jsJ": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-27T04:16:23.444930"
+  },
+  "https://www.saastr.com/saastr-ai-app-of-the-week-lightfield-the-ai-native-crm-that-killed-tomes-25-million-users-to-build-something-better/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-27T04:32:06.865591"
+  },
+  "https://www.saastr.com/the-boomerang-founders-why-uipath-and-workdays-creators-had-to-come-back-and-whos-next/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-27T04:32:06.994664"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-27T04:36:41.096876"
   }
 }
