@@ -1850,9 +1850,9 @@
     "timestamp": "2026-02-24T04:32:47.686243"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-rsi-crypto-as-ai-money-classified-physics-7haZIfGq": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-27T04:16:23.482351"
+    "timestamp": "2026-02-28T03:57:55.421024"
   },
   "https://a16z.simplecast.com/episodes/the-80-year-bet-why-naveen-rao-is-rebuilding-the-computer-from-scratch-wLonZe7I": {
     "count": 1,
@@ -1890,9 +1890,9 @@
     "timestamp": "2026-02-26T04:29:15.724552"
   },
   "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-25T04:31:27.723360"
+    "timestamp": "2026-02-28T04:26:18.375654"
   },
   "https://greylock.com/portfolio-news/from-zero-to-ipo/": {
     "count": 3,
@@ -1930,9 +1930,9 @@
     "timestamp": "2026-02-27T04:32:46.054528"
   },
   "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-27T04:36:41.083007"
+    "timestamp": "2026-02-28T04:26:18.506232"
   },
   "https://medium.com/airbnb-engineering/academic-publications-airbnb-tech-2025-year-in-review-7d79f57d3b52?source=rss----53c7c27702d5---4": {
     "count": 3,
@@ -1960,9 +1960,9 @@
     "timestamp": "2026-02-26T04:29:19.836937"
   },
   "https://a16z.simplecast.com/episodes/when-giants-dont-go-public-inside-the-5-trillion-private-tech-market-d4i96jsJ": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-27T04:16:23.444930"
+    "timestamp": "2026-02-28T03:57:55.423555"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-lightfield-the-ai-native-crm-that-killed-tomes-25-million-users-to-build-something-better/": {
     "count": 1,
@@ -1970,13 +1970,58 @@
     "timestamp": "2026-02-27T04:32:06.865591"
   },
   "https://www.saastr.com/the-boomerang-founders-why-uipath-and-workdays-creators-had-to-come-back-and-whos-next/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-27T04:32:06.994664"
+    "timestamp": "2026-02-28T04:22:42.885157"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:26:18.560773"
+  },
+  "https://a16z.simplecast.com/episodes/a16zs-new-media-playbook-yf8qklrr": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-27T04:36:41.096876"
+    "timestamp": "2026-02-28T03:57:55.425529"
+  },
+  "https://greylock.com/portfolio-news/modern-financial-tools-for-consumers/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:01:30.814588"
+  },
+  "https://greylock.com/portfolio-news/the-github-of-data/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:01:30.831674"
+  },
+  "https://greylock.com/portfolio-news/api-approach-to-financing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:01:30.833729"
+  },
+  "https://medium.com/point-nine-news/ai-killed-my-saas-55646a9a7522?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:22:06.076397"
+  },
+  "https://medium.com/point-nine-news/the-right-to-switch-under-the-eu-data-act-aee6cc80c541?source=rss----92bc84a24ea5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:22:06.080183"
+  },
+  "https://www.saastr.com/digitalocean-its-up-12-in-2026-while-the-rest-of-software-is-down-24-heres-why/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:22:42.888561"
+  },
+  "https://www.saastr.com/claude-is-the-fastest-growing-enterprise-product-ever-and-it-makes-it-simple-to-cancel-why-do-you-make-it-so-hard/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:22:43.093905"
+  },
+  "https://openai.com/index/salesforce/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-02-28T04:23:14.190785"
   }
 }
