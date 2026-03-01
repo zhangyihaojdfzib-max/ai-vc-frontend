@@ -1985,29 +1985,29 @@
     "timestamp": "2026-02-28T03:57:55.425529"
   },
   "https://greylock.com/portfolio-news/modern-financial-tools-for-consumers/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-28T04:01:30.814588"
+    "timestamp": "2026-03-01T04:27:31.034588"
   },
   "https://greylock.com/portfolio-news/the-github-of-data/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-28T04:01:30.831674"
+    "timestamp": "2026-03-01T04:27:30.911331"
   },
   "https://greylock.com/portfolio-news/api-approach-to-financing/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-28T04:01:30.833729"
+    "timestamp": "2026-03-01T04:27:31.027014"
   },
   "https://medium.com/point-nine-news/ai-killed-my-saas-55646a9a7522?source=rss----92bc84a24ea5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-28T04:22:06.076397"
+    "timestamp": "2026-03-01T04:43:51.983320"
   },
   "https://medium.com/point-nine-news/the-right-to-switch-under-the-eu-data-act-aee6cc80c541?source=rss----92bc84a24ea5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-28T04:22:06.080183"
+    "timestamp": "2026-03-01T04:43:51.972926"
   },
   "https://www.saastr.com/digitalocean-its-up-12-in-2026-while-the-rest-of-software-is-down-24-heres-why/": {
     "count": 1,
@@ -2023,5 +2023,25 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-02-28T04:23:14.190785"
+  },
+  "https://www.saastr.com/dear-saastr-should-i-take-on-venture-debt/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-01T04:43:57.782007"
+  },
+  "https://www.saastr.com/10-months-ago-we-were-barely-using-salesforce-now-its-our-ai-agent-hub/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-01T04:43:58.096076"
+  },
+  "https://www.saastr.com/20vc-x-saastr-this-week-anthropic-wiped-20b-off-cybersecurity-100k-deca-millionaires-are-coming-and-why-every-b2b-product-feels-dated-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-01T04:43:58.121590"
+  },
+  "https://openai.com/index/moderna/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-01T04:45:34.880469"
   }
 }
