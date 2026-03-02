@@ -1975,9 +1975,9 @@
     "timestamp": "2026-02-28T04:22:42.885157"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-28T04:26:18.560773"
+    "timestamp": "2026-03-02T04:45:24.765782"
   },
   "https://a16z.simplecast.com/episodes/a16zs-new-media-playbook-yf8qklrr": {
     "count": 1,
@@ -1985,19 +1985,19 @@
     "timestamp": "2026-02-28T03:57:55.425529"
   },
   "https://greylock.com/portfolio-news/modern-financial-tools-for-consumers/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-01T04:27:31.034588"
+    "timestamp": "2026-03-02T04:20:54.332712"
   },
   "https://greylock.com/portfolio-news/the-github-of-data/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-01T04:27:30.911331"
+    "timestamp": "2026-03-02T04:20:54.193219"
   },
   "https://greylock.com/portfolio-news/api-approach-to-financing/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-01T04:27:31.027014"
+    "timestamp": "2026-03-02T04:20:54.354982"
   },
   "https://medium.com/point-nine-news/ai-killed-my-saas-55646a9a7522?source=rss----92bc84a24ea5---4": {
     "count": 2,
@@ -2030,18 +2030,38 @@
     "timestamp": "2026-03-01T04:43:57.782007"
   },
   "https://www.saastr.com/10-months-ago-we-were-barely-using-salesforce-now-its-our-ai-agent-hub/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-01T04:43:58.096076"
+    "timestamp": "2026-03-02T04:41:00.657918"
   },
   "https://www.saastr.com/20vc-x-saastr-this-week-anthropic-wiped-20b-off-cybersecurity-100k-deca-millionaires-are-coming-and-why-every-b2b-product-feels-dated-now/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-01T04:43:58.121590"
+    "timestamp": "2026-03-02T04:41:00.303521"
   },
   "https://openai.com/index/moderna/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-01T04:45:34.880469"
+  },
+  "https://www.saastr.com/the-great-myth-of-the-liquidation-preference-yes-it-matters-but-not-in-many-scenarios/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-02T04:41:00.655450"
+  },
+  "https://openai.com/index/lowes/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-02T04:43:55.522948"
+  },
+  "https://blogs.nvidia.com/blog/software-defined-ai-ran/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-02T04:45:24.588659"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-02T04:45:24.788191"
   }
 }
