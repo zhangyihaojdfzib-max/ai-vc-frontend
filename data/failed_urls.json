@@ -1960,9 +1960,9 @@
     "timestamp": "2026-02-26T04:29:19.836937"
   },
   "https://a16z.simplecast.com/episodes/when-giants-dont-go-public-inside-the-5-trillion-private-tech-market-d4i96jsJ": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-28T03:57:55.423555"
+    "timestamp": "2026-03-03T04:18:35.553434"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-lightfield-the-ai-native-crm-that-killed-tomes-25-million-users-to-build-something-better/": {
     "count": 1,
@@ -1980,9 +1980,9 @@
     "timestamp": "2026-03-02T04:45:24.765782"
   },
   "https://a16z.simplecast.com/episodes/a16zs-new-media-playbook-yf8qklrr": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-28T03:57:55.425529"
+    "timestamp": "2026-03-03T04:18:35.543939"
   },
   "https://greylock.com/portfolio-news/modern-financial-tools-for-consumers/": {
     "count": 3,
@@ -2000,14 +2000,14 @@
     "timestamp": "2026-03-02T04:20:54.354982"
   },
   "https://medium.com/point-nine-news/ai-killed-my-saas-55646a9a7522?source=rss----92bc84a24ea5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-01T04:43:51.983320"
+    "timestamp": "2026-03-03T04:41:39.441046"
   },
   "https://medium.com/point-nine-news/the-right-to-switch-under-the-eu-data-act-aee6cc80c541?source=rss----92bc84a24ea5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-01T04:43:51.972926"
+    "timestamp": "2026-03-03T04:41:39.428311"
   },
   "https://www.saastr.com/digitalocean-its-up-12-in-2026-while-the-rest-of-software-is-down-24-heres-why/": {
     "count": 1,
@@ -2045,14 +2045,14 @@
     "timestamp": "2026-03-01T04:45:34.880469"
   },
   "https://www.saastr.com/the-great-myth-of-the-liquidation-preference-yes-it-matters-but-not-in-many-scenarios/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-02T04:41:00.655450"
+    "timestamp": "2026-03-03T04:41:43.948686"
   },
   "https://openai.com/index/lowes/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-02T04:43:55.522948"
+    "timestamp": "2026-03-03T04:42:20.261591"
   },
   "https://blogs.nvidia.com/blog/software-defined-ai-ran/": {
     "count": 1,
@@ -2063,5 +2063,40 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-02T04:45:24.788191"
+  },
+  "https://a16z.simplecast.com/episodes/chris-dixon-from-quant-trading-to-building-a16z-crypto-kaofpaaQ": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-03T04:18:35.533794"
+  },
+  "https://greylock.com/portfolio-news/congratulations-roblox/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-03T04:21:22.724768"
+  },
+  "https://greylock.com/portfolio-news/messaging-for-commerce/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-03T04:21:22.747271"
+  },
+  "https://greylock.com/portfolio-news/congrats-coinbase-nasdaq-coin/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-03T04:21:22.749309"
+  },
+  "https://www.saastr.com/how-to-not-run-out-of-cash-as-a-founder-2-things-that-really-really-help/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-03T04:41:43.698959"
+  },
+  "https://www.saastr.com/were-still-early-to-ai-and-your-team-needs-more-help-than-you-think/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-03T04:41:43.715648"
+  },
+  "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-03T04:46:50.763593"
   }
 }
