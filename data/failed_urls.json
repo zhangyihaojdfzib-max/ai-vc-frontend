@@ -1980,9 +1980,9 @@
     "timestamp": "2026-03-02T04:45:24.765782"
   },
   "https://a16z.simplecast.com/episodes/a16zs-new-media-playbook-yf8qklrr": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-03T04:18:35.543939"
+    "timestamp": "2026-03-04T04:11:36.121960"
   },
   "https://greylock.com/portfolio-news/modern-financial-tools-for-consumers/": {
     "count": 3,
@@ -2050,39 +2050,39 @@
     "timestamp": "2026-03-03T04:41:43.948686"
   },
   "https://openai.com/index/lowes/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-03T04:42:20.261591"
+    "timestamp": "2026-03-04T04:35:45.255948"
   },
   "https://blogs.nvidia.com/blog/software-defined-ai-ran/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-02T04:45:24.588659"
+    "timestamp": "2026-03-04T04:40:10.167028"
   },
   "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-02T04:45:24.788191"
+    "timestamp": "2026-03-04T04:40:10.089632"
   },
   "https://a16z.simplecast.com/episodes/chris-dixon-from-quant-trading-to-building-a16z-crypto-kaofpaaQ": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-03T04:18:35.533794"
+    "timestamp": "2026-03-04T04:11:36.112246"
   },
   "https://greylock.com/portfolio-news/congratulations-roblox/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-03T04:21:22.724768"
+    "timestamp": "2026-03-04T04:14:17.527537"
   },
   "https://greylock.com/portfolio-news/messaging-for-commerce/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-03T04:21:22.747271"
+    "timestamp": "2026-03-04T04:14:17.529650"
   },
   "https://greylock.com/portfolio-news/congrats-coinbase-nasdaq-coin/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-03T04:21:22.749309"
+    "timestamp": "2026-03-04T04:14:17.511781"
   },
   "https://www.saastr.com/how-to-not-run-out-of-cash-as-a-founder-2-things-that-really-really-help/": {
     "count": 1,
@@ -2095,8 +2095,33 @@
     "timestamp": "2026-03-03T04:41:43.715648"
   },
   "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-04T04:43:09.904518"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-on-what-makes-a-great-founder-y8Mditkj": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-03T04:46:50.763593"
+    "timestamp": "2026-03-04T04:11:36.097307"
+  },
+  "https://www.saastr.com/we-have-30-ai-agents-in-production-here-are-the-top-5-issues-no-one-talks-about/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-04T04:34:49.553750"
+  },
+  "https://www.saastr.com/im-still-tired-and-if-you-are-too-i-get-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-04T04:34:49.865873"
+  },
+  "https://www.saastr.com/dear-saastr-we-have-a-5m-acquisition-offer-at-500k-arr-what-will-our-vcs-think/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-04T04:34:49.892726"
+  },
+  "https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-04T04:43:09.819441"
   }
 }
