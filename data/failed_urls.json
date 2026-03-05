@@ -2055,34 +2055,34 @@
     "timestamp": "2026-03-04T04:35:45.255948"
   },
   "https://blogs.nvidia.com/blog/software-defined-ai-ran/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:40:10.167028"
+    "timestamp": "2026-03-05T04:44:42.412686"
   },
   "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:40:10.089632"
+    "timestamp": "2026-03-05T04:44:42.305191"
   },
   "https://a16z.simplecast.com/episodes/chris-dixon-from-quant-trading-to-building-a16z-crypto-kaofpaaQ": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:11:36.112246"
+    "timestamp": "2026-03-05T04:15:18.810367"
   },
   "https://greylock.com/portfolio-news/congratulations-roblox/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:14:17.527537"
+    "timestamp": "2026-03-05T04:17:28.984383"
   },
   "https://greylock.com/portfolio-news/messaging-for-commerce/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:14:17.529650"
+    "timestamp": "2026-03-05T04:17:28.847752"
   },
   "https://greylock.com/portfolio-news/congrats-coinbase-nasdaq-coin/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:14:17.511781"
+    "timestamp": "2026-03-05T04:17:28.909639"
   },
   "https://www.saastr.com/how-to-not-run-out-of-cash-as-a-founder-2-things-that-really-really-help/": {
     "count": 1,
@@ -2095,19 +2095,19 @@
     "timestamp": "2026-03-03T04:41:43.715648"
   },
   "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:43:09.904518"
+    "timestamp": "2026-03-05T04:45:18.047387"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-what-makes-a-great-founder-y8Mditkj": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:11:36.097307"
+    "timestamp": "2026-03-05T04:15:18.789946"
   },
   "https://www.saastr.com/we-have-30-ai-agents-in-production-here-are-the-top-5-issues-no-one-talks-about/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:34:49.553750"
+    "timestamp": "2026-03-05T04:37:29.444041"
   },
   "https://www.saastr.com/im-still-tired-and-if-you-are-too-i-get-it/": {
     "count": 1,
@@ -2120,8 +2120,33 @@
     "timestamp": "2026-03-04T04:34:49.892726"
   },
   "https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-05T04:45:17.972978"
+  },
+  "https://a16z.simplecast.com/episodes/ambience-ceo-nikhil-buduma-on-ai-in-clinical-workflows-4Vm_QgbN": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-04T04:43:09.819441"
+    "timestamp": "2026-03-05T04:15:18.808092"
+  },
+  "https://www.saastr.com/dear-saastr-i-have-a-final-interview-for-an-sdr-role-at-a-top-vertical-saas-company-how-do-i-nail-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-05T04:37:29.046434"
+  },
+  "https://www.saastr.com/how-big-of-a-sales-team-do-you-really-need-at-a-hot-ai-b2b-startup-the-two-playbooks/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-05T04:37:29.466024"
+  },
+  "https://openai.com/index/datadog/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-05T04:39:08.493599"
+  },
+  "https://medium.com/airbnb-engineering/it-wasnt-a-culture-problem-upleveling-alert-development-at-airbnb-01e2290eb0f5?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-05T04:45:17.116024"
   }
 }
