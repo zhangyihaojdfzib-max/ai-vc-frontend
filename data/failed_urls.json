@@ -2100,9 +2100,9 @@
     "timestamp": "2026-03-05T04:45:18.047387"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-what-makes-a-great-founder-y8Mditkj": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-05T04:15:18.789946"
+    "timestamp": "2026-03-06T04:12:31.459270"
   },
   "https://www.saastr.com/we-have-30-ai-agents-in-production-here-are-the-top-5-issues-no-one-talks-about/": {
     "count": 2,
@@ -2120,14 +2120,14 @@
     "timestamp": "2026-03-04T04:34:49.892726"
   },
   "https://stripe.com/blog/supporting-additional-payment-methods-for-agentic-commerce": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-05T04:45:17.972978"
+    "timestamp": "2026-03-06T04:37:33.799799"
   },
   "https://a16z.simplecast.com/episodes/ambience-ceo-nikhil-buduma-on-ai-in-clinical-workflows-4Vm_QgbN": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-05T04:15:18.808092"
+    "timestamp": "2026-03-06T04:12:31.448990"
   },
   "https://www.saastr.com/dear-saastr-i-have-a-final-interview-for-an-sdr-role-at-a-top-vertical-saas-company-how-do-i-nail-it/": {
     "count": 1,
@@ -2145,8 +2145,58 @@
     "timestamp": "2026-03-05T04:39:08.493599"
   },
   "https://medium.com/airbnb-engineering/it-wasnt-a-culture-problem-upleveling-alert-development-at-airbnb-01e2290eb0f5?source=rss----53c7c27702d5---4": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:37:33.128643"
+  },
+  "https://a16z.simplecast.com/episodes/ben-thompson-x-tbpn-draft-Ul1bevvC": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-05T04:45:17.116024"
+    "timestamp": "2026-03-06T04:12:31.474068"
+  },
+  "https://greylock.com/portfolio-news/ecommerce-meets-the-passion-economy/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:13:40.785561"
+  },
+  "https://greylock.com/portfolio-news/introducing-cylake-ai-native-cybersecurity-with-total-data-sovereignty/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:13:40.849120"
+  },
+  "https://greylock.com/portfolio-news/the-backend-game-engine/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:13:40.872450"
+  },
+  "https://www.saastr.com/if-youre-behind-on-ai-put-your-10-20-best-engineers-in-a-different-building-today/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:31:55.266371"
+  },
+  "https://www.saastr.com/crowdstrike-just-had-its-best-quarter-ever-so-much-for-ai-disrupting-cybersecurity-but-the-markets-want-to-see-acceleration/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:31:55.543189"
+  },
+  "https://www.saastr.com/20vc-x-saastr-the-ai-power-grab-anthropic-blinks-openai-raises-110b-and-every-ceo-i-know-wants-to-cut-40-of-their-team/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:31:55.612790"
+  },
+  "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:32:35.102370"
+  },
+  "https://openai.com/index/introducing-the-adoption-news-channel/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:32:43.097502"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2026-games-list/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-06T04:34:15.909671"
   }
 }
