@@ -2125,9 +2125,9 @@
     "timestamp": "2026-03-06T04:37:33.799799"
   },
   "https://a16z.simplecast.com/episodes/ambience-ceo-nikhil-buduma-on-ai-in-clinical-workflows-4Vm_QgbN": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:12:31.448990"
+    "timestamp": "2026-03-07T04:03:47.367014"
   },
   "https://www.saastr.com/dear-saastr-i-have-a-final-interview-for-an-sdr-role-at-a-top-vertical-saas-company-how-do-i-nail-it/": {
     "count": 1,
@@ -2145,34 +2145,34 @@
     "timestamp": "2026-03-05T04:39:08.493599"
   },
   "https://medium.com/airbnb-engineering/it-wasnt-a-culture-problem-upleveling-alert-development-at-airbnb-01e2290eb0f5?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:37:33.128643"
+    "timestamp": "2026-03-07T04:32:00.428938"
   },
   "https://a16z.simplecast.com/episodes/ben-thompson-x-tbpn-draft-Ul1bevvC": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:12:31.474068"
+    "timestamp": "2026-03-07T04:03:47.351089"
   },
   "https://greylock.com/portfolio-news/ecommerce-meets-the-passion-economy/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:13:40.785561"
+    "timestamp": "2026-03-07T04:04:33.153002"
   },
   "https://greylock.com/portfolio-news/introducing-cylake-ai-native-cybersecurity-with-total-data-sovereignty/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:13:40.849120"
+    "timestamp": "2026-03-07T04:04:33.246292"
   },
   "https://greylock.com/portfolio-news/the-backend-game-engine/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:13:40.872450"
+    "timestamp": "2026-03-07T04:04:33.289074"
   },
   "https://www.saastr.com/if-youre-behind-on-ai-put-your-10-20-best-engineers-in-a-different-building-today/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:31:55.266371"
+    "timestamp": "2026-03-07T04:27:00.065451"
   },
   "https://www.saastr.com/crowdstrike-just-had-its-best-quarter-ever-so-much-for-ai-disrupting-cybersecurity-but-the-markets-want-to-see-acceleration/": {
     "count": 1,
@@ -2180,9 +2180,9 @@
     "timestamp": "2026-03-06T04:31:55.543189"
   },
   "https://www.saastr.com/20vc-x-saastr-the-ai-power-grab-anthropic-blinks-openai-raises-110b-and-every-ceo-i-know-wants-to-cut-40-of-their-team/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:31:55.612790"
+    "timestamp": "2026-03-07T04:26:59.700393"
   },
   "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention/": {
     "count": 1,
@@ -2195,8 +2195,28 @@
     "timestamp": "2026-03-06T04:32:43.097502"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2026-games-list/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-07T04:30:25.586232"
+  },
+  "https://a16z.simplecast.com/episodes/atlassian-ceo-on-the-saas-apocalypse-ai-agents-what-comes-next-h71NBdHW": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-06T04:34:15.909671"
+    "timestamp": "2026-03-07T04:03:47.364736"
+  },
+  "https://feld.com/archives/2026/03/hello-world/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-07T04:26:24.091011"
+  },
+  "https://www.saastr.com/digital-jason-hit-2-7-million-conversations-in-12-months-heres-what-i-learned-cloning-myself/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-07T04:27:00.067935"
+  },
+  "https://openai.com/index/openai-support-model/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-07T04:29:07.074373"
   }
 }
