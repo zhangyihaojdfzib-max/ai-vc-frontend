@@ -1315,9 +1315,9 @@
     "timestamp": "2026-02-19T04:36:32.944657"
   },
   "https://openai.com/index/expedia-jochen-koedijk/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-11T04:28:34.160990"
+    "timestamp": "2026-03-08T04:34:37.703244"
   },
   "https://openai.com/index/uber-enables-outstanding-experiences/": {
     "count": 1,
@@ -2155,24 +2155,24 @@
     "timestamp": "2026-03-07T04:03:47.351089"
   },
   "https://greylock.com/portfolio-news/ecommerce-meets-the-passion-economy/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:04:33.153002"
+    "timestamp": "2026-03-08T04:06:03.567290"
   },
   "https://greylock.com/portfolio-news/introducing-cylake-ai-native-cybersecurity-with-total-data-sovereignty/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:04:33.246292"
+    "timestamp": "2026-03-08T04:06:03.117596"
   },
   "https://greylock.com/portfolio-news/the-backend-game-engine/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:04:33.289074"
+    "timestamp": "2026-03-08T04:06:03.524494"
   },
   "https://www.saastr.com/if-youre-behind-on-ai-put-your-10-20-best-engineers-in-a-different-building-today/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:27:00.065451"
+    "timestamp": "2026-03-08T04:34:02.369275"
   },
   "https://www.saastr.com/crowdstrike-just-had-its-best-quarter-ever-so-much-for-ai-disrupting-cybersecurity-but-the-markets-want-to-see-acceleration/": {
     "count": 1,
@@ -2180,9 +2180,9 @@
     "timestamp": "2026-03-06T04:31:55.543189"
   },
   "https://www.saastr.com/20vc-x-saastr-the-ai-power-grab-anthropic-blinks-openai-raises-110b-and-every-ceo-i-know-wants-to-cut-40-of-their-team/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:26:59.700393"
+    "timestamp": "2026-03-08T04:34:02.203906"
   },
   "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention/": {
     "count": 1,
@@ -2210,13 +2210,53 @@
     "timestamp": "2026-03-07T04:26:24.091011"
   },
   "https://www.saastr.com/digital-jason-hit-2-7-million-conversations-in-12-months-heres-what-i-learned-cloning-myself/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:27:00.067935"
+    "timestamp": "2026-03-08T04:34:01.911368"
   },
   "https://openai.com/index/openai-support-model/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-07T04:29:07.074373"
+  },
+  "https://greylock.com/portfolio-news/congrats-blend-nyse-blnd/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-08T04:06:03.391229"
+  },
+  "https://greylock.com/portfolio-news/solving-customer-data-challenges/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-08T04:06:03.723437"
+  },
+  "https://www.saastr.com/the-top-10-learnings-from-revenuecats-state-of-subscription-apps-how-115000-mobile-apps-deliver-16b-in-revenue-whats-working-whats-quietly-killing-growth/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-08T04:34:01.640688"
+  },
+  "https://www.saastr.com/the-cowan-paradox-why-ai-agents-wont-let-you-do-less-work-theyll-make-you-do-more/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-08T04:34:01.963845"
+  },
+  "https://openai.com/index/ironclad/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-08T04:34:29.302579"
+  },
+  "https://openai.com/index/whoop/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-08T04:34:31.397868"
+  },
+  "https://openai.com/index/safetykit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-08T04:34:33.504374"
+  },
+  "https://openai.com/index/color-health/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-08T04:34:35.602326"
   }
 }
