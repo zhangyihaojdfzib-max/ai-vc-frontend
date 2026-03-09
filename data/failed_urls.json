@@ -2220,24 +2220,24 @@
     "timestamp": "2026-03-07T04:29:07.074373"
   },
   "https://greylock.com/portfolio-news/congrats-blend-nyse-blnd/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-08T04:06:03.391229"
+    "timestamp": "2026-03-09T04:22:09.485314"
   },
   "https://greylock.com/portfolio-news/solving-customer-data-challenges/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-08T04:06:03.723437"
+    "timestamp": "2026-03-09T04:22:09.482615"
   },
   "https://www.saastr.com/the-top-10-learnings-from-revenuecats-state-of-subscription-apps-how-115000-mobile-apps-deliver-16b-in-revenue-whats-working-whats-quietly-killing-growth/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-08T04:34:01.640688"
+    "timestamp": "2026-03-09T04:47:11.736285"
   },
   "https://www.saastr.com/the-cowan-paradox-why-ai-agents-wont-let-you-do-less-work-theyll-make-you-do-more/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-08T04:34:01.963845"
+    "timestamp": "2026-03-09T04:47:12.090606"
   },
   "https://openai.com/index/ironclad/": {
     "count": 1,
@@ -2250,13 +2250,33 @@
     "timestamp": "2026-03-08T04:34:31.397868"
   },
   "https://openai.com/index/safetykit/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-08T04:34:33.504374"
+    "timestamp": "2026-03-09T04:47:20.586303"
   },
   "https://openai.com/index/color-health/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-08T04:34:35.602326"
+  },
+  "https://greylock.com/portfolio-news/building-better-brands/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-09T04:22:09.487661"
+  },
+  "https://feld.com/events/startup-mountain-summit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-09T04:45:51.492444"
+  },
+  "https://www.saastr.com/the-honest-reason-ai-will-beat-many-sales-reps-they-dont-really-do-the-work/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-09T04:47:12.095410"
+  },
+  "https://openai.com/index/factory/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-09T04:48:28.041474"
   }
 }
