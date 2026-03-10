@@ -2150,9 +2150,9 @@
     "timestamp": "2026-03-07T04:32:00.428938"
   },
   "https://a16z.simplecast.com/episodes/ben-thompson-x-tbpn-draft-Ul1bevvC": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:03:47.351089"
+    "timestamp": "2026-03-10T04:12:23.099121"
   },
   "https://greylock.com/portfolio-news/ecommerce-meets-the-passion-economy/": {
     "count": 3,
@@ -2195,14 +2195,14 @@
     "timestamp": "2026-03-06T04:32:43.097502"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2026-games-list/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:30:25.586232"
+    "timestamp": "2026-03-10T04:39:38.946906"
   },
   "https://a16z.simplecast.com/episodes/atlassian-ceo-on-the-saas-apocalypse-ai-agents-what-comes-next-h71NBdHW": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:03:47.364736"
+    "timestamp": "2026-03-10T04:12:23.123999"
   },
   "https://feld.com/archives/2026/03/hello-world/": {
     "count": 1,
@@ -2220,14 +2220,14 @@
     "timestamp": "2026-03-07T04:29:07.074373"
   },
   "https://greylock.com/portfolio-news/congrats-blend-nyse-blnd/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-09T04:22:09.485314"
+    "timestamp": "2026-03-10T04:13:07.342091"
   },
   "https://greylock.com/portfolio-news/solving-customer-data-challenges/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-09T04:22:09.482615"
+    "timestamp": "2026-03-10T04:13:07.347261"
   },
   "https://www.saastr.com/the-top-10-learnings-from-revenuecats-state-of-subscription-apps-how-115000-mobile-apps-deliver-16b-in-revenue-whats-working-whats-quietly-killing-growth/": {
     "count": 2,
@@ -2260,9 +2260,9 @@
     "timestamp": "2026-03-08T04:34:35.602326"
   },
   "https://greylock.com/portfolio-news/building-better-brands/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-09T04:22:09.487661"
+    "timestamp": "2026-03-10T04:13:07.344781"
   },
   "https://feld.com/events/startup-mountain-summit/": {
     "count": 1,
@@ -2270,13 +2270,53 @@
     "timestamp": "2026-03-09T04:45:51.492444"
   },
   "https://www.saastr.com/the-honest-reason-ai-will-beat-many-sales-reps-they-dont-really-do-the-work/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-09T04:47:12.095410"
+    "timestamp": "2026-03-10T04:37:25.688240"
   },
   "https://openai.com/index/factory/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-09T04:48:28.041474"
+  },
+  "https://a16z.simplecast.com/episodes/andrew-huberman-peptides-sleep-tech-and-the-end-of-obesity-LKFcXxTU": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-10T04:12:23.121486"
+  },
+  "https://www.saastr.com/dear-saastr-should-i-run-20-ai-agents-the-way-saastr-does/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-10T04:37:26.073015"
+  },
+  "https://www.saastr.com/the-rise-of-the-n1-app-when-building-it-yourself-really-beats-buying-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-10T04:37:26.077084"
+  },
+  "https://openai.com/index/balyasny-asset-management/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-10T04:37:56.380583"
+  },
+  "https://openai.com/index/descript/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-10T04:38:06.315467"
+  },
+  "https://openai.com/index/openai-research-assistant/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-10T04:38:16.426673"
+  },
+  "https://blogs.nvidia.com/blog/abb-robotics-omniverse/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-10T04:39:38.799159"
+  },
+  "https://blogs.nvidia.com/blog/state-of-ai-report-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-10T04:39:38.949256"
   }
 }
