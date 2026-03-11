@@ -2200,9 +2200,9 @@
     "timestamp": "2026-03-10T04:39:38.946906"
   },
   "https://a16z.simplecast.com/episodes/atlassian-ceo-on-the-saas-apocalypse-ai-agents-what-comes-next-h71NBdHW": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-10T04:12:23.123999"
+    "timestamp": "2026-03-11T04:13:03.907725"
   },
   "https://feld.com/archives/2026/03/hello-world/": {
     "count": 1,
@@ -2260,9 +2260,9 @@
     "timestamp": "2026-03-08T04:34:35.602326"
   },
   "https://greylock.com/portfolio-news/building-better-brands/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-10T04:13:07.344781"
+    "timestamp": "2026-03-11T04:13:32.270023"
   },
   "https://feld.com/events/startup-mountain-summit/": {
     "count": 1,
@@ -2280,9 +2280,9 @@
     "timestamp": "2026-03-09T04:48:28.041474"
   },
   "https://a16z.simplecast.com/episodes/andrew-huberman-peptides-sleep-tech-and-the-end-of-obesity-LKFcXxTU": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-10T04:12:23.121486"
+    "timestamp": "2026-03-11T04:13:03.873496"
   },
   "https://www.saastr.com/dear-saastr-should-i-run-20-ai-agents-the-way-saastr-does/": {
     "count": 1,
@@ -2290,9 +2290,9 @@
     "timestamp": "2026-03-10T04:37:26.073015"
   },
   "https://www.saastr.com/the-rise-of-the-n1-app-when-building-it-yourself-really-beats-buying-it/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-10T04:37:26.077084"
+    "timestamp": "2026-03-11T04:20:11.329370"
   },
   "https://openai.com/index/balyasny-asset-management/": {
     "count": 1,
@@ -2300,9 +2300,9 @@
     "timestamp": "2026-03-10T04:37:56.380583"
   },
   "https://openai.com/index/descript/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-10T04:38:06.315467"
+    "timestamp": "2026-03-11T04:21:23.433129"
   },
   "https://openai.com/index/openai-research-assistant/": {
     "count": 1,
@@ -2318,5 +2318,55 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-10T04:39:38.949256"
+  },
+  "https://a16z.simplecast.com/episodes/the-top-100-gen-ai-consumer-apps-Z5knOdcs": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:13:03.913155"
+  },
+  "https://greylock.com/portfolio-news/headless-no-code-commerce/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:13:32.264708"
+  },
+  "https://greylock.com/portfolio-news/next-level-observability/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:13:32.267458"
+  },
+  "https://www.saastr.com/dear-saastr-do-you-have-to-have-a-super-strong-brand-like-saastr-to-get-ai-sdrs-to-work/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:20:10.964900"
+  },
+  "https://www.saastr.com/the-4-levels-of-prompt-portability-why-some-ai-agents-will-hold-retention-and-most-wont/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:20:11.347864"
+  },
+  "https://openai.com/index/gpt-5-amgen/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:21:30.506394"
+  },
+  "https://blogs.nvidia.com/blog/gdc-2026-virtual-game-development/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:23:35.315313"
+  },
+  "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-ltx-video-comfyui-gdc/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:23:35.473688"
+  },
+  "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:23:35.554267"
+  },
+  "https://stripe.com/blog/analyzing-first-party-fraud-trends-account-free-trial-and-refund-abuse": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-11T04:30:09.149093"
   }
 }
