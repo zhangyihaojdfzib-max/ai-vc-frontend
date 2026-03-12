@@ -1,0 +1,370 @@
+---
+title: 符合RFC 9457的错误响应将智能体Token成本降低98%
+title_original: Slashing agent token costs by 98% with RFC 9457-compliant error responses
+date: '2026-03-11'
+source: Cloudflare Blog
+source_url: https://blog.cloudflare.com/rfc-9457-agent-error-pages/
+author: ''
+summary: Cloudflare宣布为AI智能体提供符合RFC 9457标准的结构化错误响应，当智能体发送特定Accept请求头时，将返回机器可读的Markdown或JSON负载，取代传统的人类HTML错误页面。这些响应不仅提供明确、可操作的指令（如重试策略），还将负载大小和Token使用量减少了98%以上。该功能已在全网自动生效，无需网站所有者配置，旨在提升智能体处理错误的效率并降低运营成本。
+categories:
+- AI基础设施
+tags:
+- AI智能体
+- RFC 9457
+- 错误处理
+- Token优化
+- Cloudflare
+draft: false
+translated_at: '2026-03-12T04:41:12.774273'
+---
+
+# 通过符合 RFC 9457 标准的错误响应，将智能体 Token 成本降低 98%
+
+2026-03-11
+
+- Sam Marsh
+
+![](/images/posts/89c8eb4d5276.png)
+
+AI 智能体已不再是实验品。它们是生产基础设施，每天处理数十亿次 HTTP 请求，浏览网络，调用 API，并编排复杂的工作流。
+
+但当这些智能体遇到错误时，它们收到的仍然是我们为浏览器构建的相同 HTML 错误页面：数百行为人类设计的标记、CSS 和文本。这些页面给智能体提供的是线索，而非指令，既浪费时间又浪费 Token。这个差距正是为智能体提供指令而非障碍的机会。
+
+从今天开始，Cloudflare 向 AI 智能体返回符合 RFC 9457 标准的结构化 Markdown 和 JSON 错误负载，用机器可读的指令取代了笨重的 HTML 页面。
+
+这意味着，当智能体发送 `Accept: text/markdown`、`Accept: application/json` 或 `Accept: application/problem+json` 请求头并遇到 Cloudflare 错误时，我们会返回一个结构化的语义契约，而不是 HTML。并且它附带了可操作的指导。（这建立在我们最近发布的[面向智能体的 Markdown](https://blog.cloudflare.com/zh-cn/markdown-for-agents-zh-cn) 功能之上。）
+
+因此，智能体将不会只被告知“您被阻止了”，而是会读到：“您被限速了——等待 30 秒并使用指数退避重试。” 而不仅仅是“访问被拒绝”，智能体将得到指示：“此阻止是故意的：请勿重试，请联系网站所有者。”
+
+这些响应不仅更清晰，而且效率也显著提高。与 HTML 相比，结构化的错误响应将负载大小和 Token 使用量减少了 98% 以上（这是针对实时的 1015（‘rate-limit’）错误响应测量的）。对于在工作流中遇到多个错误的智能体来说，节省的成本会迅速累积。
+
+这已在 Cloudflare 全网自动生效。网站所有者无需配置任何内容。浏览器将继续获得与以前相同的 HTML 体验。
+
+这些不仅仅是错误页面。它们是面向智能体网络的指令。
+
+### 智能体今天看到的情况
+
+当智能体收到 Cloudflare 生成的错误时，通常意味着 Cloudflare 正在执行客户策略或代表客户返回平台响应——而不是 Cloudflare 宕机了。这些响应在请求无法按原样处理时触发，例如无效的主机或 DNS 路由、客户定义的访问控制（WAF、地理位置、ASN 或机器人规则），或边缘强制执行的限制（如速率限制）。简而言之，Cloudflare 充当了客户的路由和安全层，而响应则解释了请求被阻止或无法继续的原因。
+
+目前，这些响应被渲染为为人类设计的 HTML：
+
+```HTML
+<!DOCTYPE html>
+<html>
+<head>
+<title>Access denied | example.com used Cloudflare to restrict access</title>
+<style>/* 200 lines of CSS */</style>
+</head>
+<body>
+  <div class="cf-wrapper">
+    <h1 data-translate="block_headline">Sorry, you have been blocked</h1>
+    <!-- ... hundreds more lines ... -->
+  </div>
+</body>
+</html>
+```
+
+对智能体来说，这是垃圾信息。它无法确定发生了什么错误、为什么被阻止，或者重试是否有帮助。即使它解析了 HTML，内容也只是描述了错误，但并没有告诉智能体——或者就此而言，也没有告诉人类——下一步该怎么做。
+
+如果您是智能体开发者，并且希望优雅地处理 Cloudflare 错误，您的选择非常有限。对于 Cloudflare 生成的错误，结构化响应仅存在于依赖于配置的路径中，而不是作为智能体一致的默认选项。
+
+自定义错误规则可以自定义许多 Cloudflare 错误，包括一些 1xxx 类错误。但它们依赖于每个站点的配置，因此不能作为整个网络上通用的智能体契约。Cloudflare 位于请求路径的前端。这意味着我们可以定义默认的机器响应：重试或停止、等待并退避、升级或重新路由。错误页面不再是装饰，而变成了执行指令。
+
+### 我们所做的
+
+Cloudflare 现在为所有 1xxx 类错误路径返回符合 RFC 9457 标准的结构化响应——这些是 Cloudflare 针对边缘端故障（如 DNS 解析问题、访问拒绝和速率限制）的平台错误代码。两种格式均已生效：`Accept: text/markdown` 返回 Markdown，`Accept: application/json` 返回 JSON，`Accept: application/problem+json` 返回内容类型为 `application/problem+json` 的 JSON。
+
+这涵盖了目前所有的 1xxx 类错误。相同的契约接下来将扩展到 Cloudflare 生成的 4xx 和 5xx 错误。
+
+Markdown 响应包含两部分：
+
+- 用于机器可读字段的 YAML 前言
+- 用于明确指导的文本部分（发生了什么以及您应该做什么）
+
+JSON 响应以扁平对象的形式携带相同的字段。
+
+YAML 前言是实现自动化的关键层。它允许智能体提取稳定的键值，而无需抓取 HTML 或从文本中猜测意图。诸如 `error_code`、`error_name` 和 `error_category` 等字段让智能体能够对故障进行分类。`retryable` 和 `retry_after` 驱动退避逻辑。`owner_action_required` 告诉智能体是继续尝试还是升级处理。`ray_id`、`timestamp` 和 `zone` 使日志记录和支持交接具有确定性。
+
+该模式在设计上是稳定的，因此智能体可以实现持久的控制流，而无需追赶呈现方式的变化。
+
+这种稳定性并非 Cloudflare 的发明。[RFC 9457 —— HTTP API 问题详情](https://datatracker.ietf.org/doc/html/rfc9457) 定义了一种标准的 JSON 格式，用于通过 HTTP 报告错误，因此客户端可以解析错误响应，而无需事先了解特定的 API。我们的 JSON 响应遵循这种格式，这意味着任何理解问题详情的 HTTP 客户端都可以解析基本成员，而无需特定于 Cloudflare 的代码：
+
+RFC 9457 成员
+
+包含内容
+
+指向 Cloudflare 特定错误代码文档的 URI
+
+status
+
+HTTP 状态码（与实际响应状态匹配）
+
+title
+
+问题的简短、人类可读摘要
+
+detail
+
+针对此特定情况的人类可读解释
+
+instance
+
+标识此特定错误发生的 Ray ID
+
+操作字段——`error_code`、`error_category`、`retryable`、`retry_after`、`owner_action_required` 等——是 RFC 9457 的扩展成员。不识别它们的客户端会直接忽略它们。
+
+这是全网范围且附加的功能。网站所有者无需配置任何内容。除非客户端明确请求 Markdown 或 JSON，否则浏览器将继续接收 HTML。
+
+### 响应示例
+
+以下是速率限制错误（1015）在 JSON 中的样子：
+
+```JSON
+{
+  "type": "https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-1xxx-errors/error-1015/",
+  "title": "Error 1015: You are being rate limited",
+  "status": 429,
+  "detail": "You are being rate-limited by the website owner's configuration.",
+  "instance": "9d99a4434fz2d168",
+  "error_code": 1015,
+  "error_name": "rate_limited",
+  "error_category": "rate_limit",
+  "ray_id": "9d99a4434fz2d168",
+  "timestamp": "2026-03-09T11:11:55Z",
+  "zone": "<YOUR_DOMAIN>",
+  "cloudflare_error": true,
+  "retryable": true,
+  "retry_after": 30,
+  "owner_action_required": false,
+  "what_you_should_do": "**Wait and retry.** This block is transient. Wait at least 30 seconds, then retry with exponential backoff.\n\nRecommended approach:\n1. Wait 30 seconds before your next request\n2. If rate-limited again, double the wait time (60s, 120s, etc.)\n3. If rate-limiting persists after 5 retries, stop and reassess your request pattern",
+  "footer": "This error was generated by Cloudflare on behalf of the website owner."
+}
+```
+
+相同的错误在 Markdown 中（针对模型优先工作流优化）：
+
+```Markdown
+---
+error_code: 1015
+error_name: rate_limited
+error_category: rate_limit
+status: 429
+ray_id: 9d99a39dc992d168
+timestamp: 2026-03-09T11:11:28Z
+zone: <YOUR_DOMAIN>
+cloudflare_error: true
+retryable: true
+retry_after: 30
+owner_action_required: false
+---
+
+# Error 1015: You are being rate limited
+```
+
+## 发生了什么
+
+您因网站所有者的配置而被限制访问速率。
+
+## 您应该怎么做
+
+**等待并重试。** 此限制是暂时的。请至少等待 30 秒，然后使用指数退避策略重试。
+
+推荐方法：
+1. 在下一次请求前等待 30 秒
+2. 如果再次被限制，将等待时间加倍（60秒、120秒等）
+3. 如果重试 5 次后限制仍然存在，请停止并重新评估您的请求模式
+
+---
+此错误由 Cloudflare 代表网站所有者生成。
+
+```
+
+这两种格式为 Agent（智能体）提供了决策和行动所需的一切：对错误进行分类、选择重试行为，并确定是否需要上报。这就是默认的机器契约的样子——不是针对每个站点的配置，而是网络范围内的行为。这种对比在不同错误类别中是明确的：像 1015 这样的暂时性错误指示等待并重试，而像 1020 这样的故意阻止或像 1009 这样的地理限制则告诉 Agent（智能体）不要重试，而是上报。
+
+### 一份契约，两种格式
+
+核心价值不在于格式选择，而在于语义的稳定性。
+
+Agent（智能体）需要对操作性问题给出确定性的答案：是否重试、等待多久以及是否上报。Cloudflare 通过两种有线格式公开一份策略契约。无论客户端消费的是 Markdown 还是 JSON，其操作含义是相同的：相同的错误标识、相同的重试/退避信号、相同的上报指导。
+
+发送 `Accept: application/problem+json` 的客户端会收到 `application/problem+json; charset=utf-8` 的响应——这对于根据媒体类型进行分发的 HTTP 客户端库很有用。发送 `Accept: application/json` 的客户端会收到 `application/json; charset=utf-8` 的响应——相同的正文，对于现有消费者来说是安全的默认值。
+
+### 大小缩减与 Token 效率
+
+该契约也比它所替代的方案小得多。Cloudflare 的 HTML 错误页面面向浏览器且内容繁重，而结构化响应在设计上是紧凑的。
+
+以 1015 错误为例进行测量比较：
+
+| 负载类型 | 字节数 | Token 数 (cl100k_base) | 大小 vs HTML | Token 数 vs HTML |
+| :--- | :--- | :--- | :--- | :--- |
+| HTML 响应 | 46,645 | 14,252 | | |
+| Markdown 响应 | 797 | 221 | 减少 58.5 倍 | 减少 64.5 倍 |
+| JSON 响应 | 970 | 256 | 减少 48.1 倍 | 减少 55.7 倍 |
+
+与 HTML 相比，两种结构化格式在大小和 Token 数量上都减少了约 98%。对于 Agent（智能体）来说，大小直接转化为 Token 成本——当 Agent（智能体）在一次运行中遇到多个错误时，这些节省会累积成更低的模型开销和更快的恢复循环。
+
+### 十个类别，明确操作
+
+每个 `1xxx` 错误都被映射到一个 `error_category`。这将错误处理转变为路由逻辑，而不是脆弱的逐页解析。
+
+| 类别 | 含义 | Agent（智能体）应执行的操作 |
+| :--- | :--- | :--- |
+| access_denied | 故意阻止：IP、ASN、地理位置、防火墙规则 | 不要重试。如果意外，请联系网站所有者。 |
+| rate_limit | 请求速率超限 | 退避。在 retry_after 秒后重试。 |
+| origin | 源站 DNS 解析失败 | 不要重试。向网站所有者报告。 |
+| config | 配置错误：CNAME、隧道、主机路由 | 不要重试（通常）。向网站所有者报告。 |
+| tls | TLS 版本或密码套件不匹配 | 修复 TLS 客户端设置。不要按原样重试。 |
+| legal | DMCA 或监管阻止 | 不要重试。这是法律限制。 |
+| worker | Cloudflare Workers 运行时错误 | 不要重试。网站所有者必须修复脚本。 |
+| rewrite | 无效的 URL 重写输出 | 不要重试。网站所有者必须修复规则。 |
+| snippet | Cloudflare Snippets 错误 | 不要重试。网站所有者必须修复 Snippets 配置。 |
+| unsupported | 不支持的方法或已弃用的功能 | 更改请求。不要按原样重试。 |
+
+两个字段使这对 Agent（智能体）在操作上很有用：
+
+- `retryable` 回答重试是否可能成功
+- `owner_action_required` 回答问题是否必须上报
+
+您可以用明确的控制流来替代脆弱的“如果状态码 == 429 则可能重试”的启发式方法。解析一次 frontmatter，然后根据稳定的字段进行分支。一个简单的模式是：
+
+- 如果 `retryable` 为 `true`，等待 `retry_after` 后重试
+- 如果 `owner_action_required` 为 `true`，停止并上报
+- 否则，快速失败，不要持续冲击网站
+
+以下是一个使用该模式的最小 Python 示例：
+
+```Python
+import time
+import yaml
+
+
+def parse_frontmatter(markdown_text: str) -> dict:
+    # 期望格式：---\n<yaml>\n---\n<body>
+    if not markdown_text.startswith("---\n"):
+        return {}
+    _, yaml_block, _ = markdown_text.split("---\n", 2)
+    return yaml.safe_load(yaml_block) or {}
+
+
+def handle_cloudflare_error(markdown_text: str) -> str:
+    meta = parse_frontmatter(markdown_text)
+
+    if not meta.get("cloudflare_error"):
+        return "not_cloudflare_error"
+
+    if meta.get("retryable"):
+        wait_seconds = int(meta.get("retry_after", 30))
+        time.sleep(wait_seconds)
+        return f"retry_after_{wait_seconds}s"
+
+    if meta.get("owner_action_required"):
+        return f"escalate_owner_error_{meta.get('error_code')}"
+
+    return "do_not_retry"
+```
+
+这是关键的转变：Agent（智能体）不再从 HTML 文本中推断意图。它们正在根据结构化字段执行明确的策略。
+
+### 如何使用
+
+发送 `Accept: text/markdown`、`Accept: application/json` 或 `Accept: application/problem+json`。
+
+对于快速测试，您可以直接访问任何 Cloudflare 代理的域名的 `/cdn-cgi/error/1015`（或将 `1015` 替换为另一个 `1xxx` 代码）。
+
+```Rust
+curl -s --compressed -H "Accept: text/markdown" -A "TestAgent/1.0" -H "Accept-Encoding: gzip, deflate" "<YOUR_DOMAIN>/cdn-cgi/error/1015"
+
+```
+
+使用另一个错误代码的示例：
+
+```Rust
+curl -s --compressed -H "Accept: text/markdown" -A "TestAgent/1.0" -H "Accept-Encoding: gzip, deflate" "<YOUR_DOMAIN>/cdn-cgi/error/1020"
+
+```
+
+JSON 示例：
+
+```JSON
+curl -s --compressed -H "Accept: application/json" -A "TestAgent/1.0" -H "Accept-Encoding: gzip, deflate" "<YOUR_DOMAIN>/cdn-cgi/error/1015" | jq .
+
+```
+
+RFC 9457 问题详情示例：
+
+```Rust
+curl -s --compressed -H "Accept: application/problem+json" -A "TestAgent/1.0" -H "Accept-Encoding: gzip, deflate" "<YOUR_DOMAIN>/cdn-cgi/error/1015" | jq .
+
+```
+
+行为是确定性的——第一个明确的结构化类型胜出：
+
+| Accept 头 | 响应 |
+| :--- | :--- |
+| `application/json` | `application/json; charset=utf-8` |
+| `application/problem+json` | JSON (`application/problem+json` 内容类型) |
+| `application/json, text/markdown;q=0.9` | JSON |
+| `application/json, text/markdown` | JSON (q 值相等，列出的第一个胜出) |
+| `text/markdown` | Markdown |
+| `text/markdown, application/json` | Markdown (q 值相等，列出的第一个胜出) |
+| `text/markdown, */*` | Markdown |
+| `text/*` | HTML (默认) |
+
+仅包含通配符的请求 (`*/*`) 不表示对结构化格式的偏好；客户端必须明确请求 Markdown 或 JSON。
+
+如果请求成功，您将获得正常的源站内容。该头部仅影响 Cloudflare 生成的错误响应。
+
+### 实际用例
+
+在许多情况下，结构化错误响应能立即提供帮助：
+
+1.  **Agent（智能体）被 WAF 规则阻止 (1020)。** Agent（智能体）解析 `error_code`，记录 `ray_id`，并停止重试。它可以用有用的上下文进行上报，而不是循环重试。
+2.  **MCP（模型上下文协议）工具遇到地理限制 (1009)。** 该工具获得一个清晰的、机器可读的原因，将其返回给编排器，工作流可以选择替代路径或通知用户。
+3.  **被限制速率的爬虫 (1015)。** Agent（智能体）读取 `retryable: true` 和 `retry_after`，应用退避策略，并可以预测性地重试，而不是持续冲击端点。
+4.  **使用 `curl` 进行调试的开发人员。** 开发人员可以精确复现 Agent（智能体）看到的内容，包括 frontmatter 和指导，而无需对 HTML 进行逆向工程。
+5.  **理解 RFC 9457 的 HTTP 客户端库。** 任何基于 `application/problem+json` 进行分发或解析问题详情对象的客户端都可以处理 Cloudflare 错误，而无需特定于 Cloudflare 的代码。
+
+Agent（智能体）被WAF规则（1020）拦截。该Agent（智能体）会解析`error_code`，记录`ray_id`，并停止重试。它能够附带有用的上下文信息进行上报，而不是陷入循环。
+
+MCP（模型上下文协议）工具触发地理限制（1009）。该工具会获得清晰、机器可读的原因，将其返回给编排器，工作流随后可以选择替代路径或通知用户。
+
+被速率限制的爬虫（1015）。Agent（智能体）读取`retryable: true`和`retry_after`，应用退避策略，并进行可预测的重试，而不是持续冲击端点。
+
+开发者使用`curl`进行调试。开发者可以精确复现Agent（智能体）看到的内容，包括前置信息和指导，而无需对HTML进行逆向工程。
+
+理解RFC 9457的HTTP客户端库。任何能根据`application/problem+json`进行分发或能解析Problem Details对象的客户端，都可以处理Cloudflare错误，而无需编写Cloudflare特定的代码。
+
+在每种情况下，结果都是一样的：更少的猜测、更少无谓的重试、更低的模型成本和更快的恢复。
+
+### 立即尝试
+
+发送结构化的`Accept`头部，并针对任何由Cloudflare代理的域名进行测试：
+
+```Rust
+curl -s --compressed -H "Accept: text/markdown" -A "TestAgent/1.0" -H "Accept-Encoding: gzip, deflate" "<YOUR_DOMAIN>/cdn-cgi/error/1015"
+
+```
+
+```Rust
+curl -s --compressed -H "Accept: application/json" -A "TestAgent/1.0" -H "Accept-Encoding: gzip, deflate" "<YOUR_DOMAIN>/cdn-cgi/error/1015" | jq .
+
+```
+
+```Rust
+curl -s --compressed -H "Accept: application/problem+json" -A "TestAgent/1.0" -H "Accept-Encoding: gzip, deflate" "<YOUR_DOMAIN>/cdn-cgi/error/1015" | jq .
+
+```
+
+错误页面是Cloudflare与Agent（智能体）之间的第一次对话。此次发布使该对话变得结构化、符合标准且易于处理。
+
+为了让这在整个网络生效，Agent（智能体）运行时默认应使用明确的结构化`Accept`头部，而不是简单的`*/*`。对于模型优先的工作流，使用`Accept: text/markdown, */*`；对于类型化控制流，使用`Accept: application/json, */*`。如果您维护一个Agent（智能体）框架、SDK或浏览器自动化栈，请默认采用此设置，并将简单的`*/*`视为遗留的回退方案。
+
+而这仅仅是第一层。我们正在其上构建Agent（智能体）栈的其余部分：用于路由、控制和可观测性的`AI Gateway`；用于推理（Inference）的`Workers AI`；以及Agent（智能体）在互联网规模下安全运行所需的身份、安全和访问原语。
+
+Cloudflare正在帮助我们的客户以对Agent（智能体）友好的方式交付内容，而这仅仅是个开始。如果您正在构建或运营Agent（智能体），请访问`agents.cloudflare.com`。
+
+---
+
+> 本文由AI自动翻译，原文链接：[Slashing agent token costs by 98% with RFC 9457-compliant error responses](https://blog.cloudflare.com/rfc-9457-agent-error-pages/)
+> 
+> 翻译时间：2026-03-12 04:41

@@ -2280,9 +2280,9 @@
     "timestamp": "2026-03-09T04:48:28.041474"
   },
   "https://a16z.simplecast.com/episodes/andrew-huberman-peptides-sleep-tech-and-the-end-of-obesity-LKFcXxTU": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:13:03.873496"
+    "timestamp": "2026-03-12T04:17:09.177281"
   },
   "https://www.saastr.com/dear-saastr-should-i-run-20-ai-agents-the-way-saastr-does/": {
     "count": 1,
@@ -2320,19 +2320,19 @@
     "timestamp": "2026-03-10T04:39:38.949256"
   },
   "https://a16z.simplecast.com/episodes/the-top-100-gen-ai-consumer-apps-Z5knOdcs": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:13:03.913155"
+    "timestamp": "2026-03-12T04:17:09.171938"
   },
   "https://greylock.com/portfolio-news/headless-no-code-commerce/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:13:32.264708"
+    "timestamp": "2026-03-12T04:17:34.985554"
   },
   "https://greylock.com/portfolio-news/next-level-observability/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:13:32.267458"
+    "timestamp": "2026-03-12T04:17:34.840462"
   },
   "https://www.saastr.com/dear-saastr-do-you-have-to-have-a-super-strong-brand-like-saastr-to-get-ai-sdrs-to-work/": {
     "count": 1,
@@ -2360,13 +2360,48 @@
     "timestamp": "2026-03-11T04:23:35.473688"
   },
   "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:23:35.554267"
+    "timestamp": "2026-03-12T04:35:51.367543"
   },
   "https://stripe.com/blog/analyzing-first-party-fraud-trends-account-free-trial-and-refund-abuse": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-12T04:39:17.450667"
+  },
+  "https://a16z.simplecast.com/episodes/what-it-takes-to-clear-a-million-crimes-a-year-with-flock-safetys-ceo-E0aARCdV": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:30:09.149093"
+    "timestamp": "2026-03-12T04:17:09.174880"
+  },
+  "https://greylock.com/portfolio-news/introducing-axiamatic-ai-for-enterprise-transformation/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-12T04:17:34.983105"
+  },
+  "https://www.saastr.com/while-most-b2b-companies-are-decelerating-cloudflare-just-had-its-best-quarter-since-2021-10-numbers-that-explain-why/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-12T04:33:11.373693"
+  },
+  "https://www.saastr.com/dear-saastr-i-want-to-roll-out-an-ai-sdr-how-do-i-start/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-12T04:33:11.677806"
+  },
+  "https://www.saastr.com/if-your-ai-feature-didnt-materially-boost-revenue-it-doesnt-count-try-again/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-12T04:33:11.737821"
+  },
+  "https://openai.com/index/openai-contract-data-agent/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-12T04:35:17.850212"
+  },
+  "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-12T04:35:51.398699"
   }
 }
