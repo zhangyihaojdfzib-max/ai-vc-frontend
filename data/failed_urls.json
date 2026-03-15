@@ -2440,9 +2440,9 @@
     "timestamp": "2026-03-14T04:45:01.819002"
   },
   "https://stripe.com/blog/10-lessons": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:48:56.089210"
+    "timestamp": "2026-03-15T05:04:19.087557"
   },
   "https://a16z.simplecast.com/episodes/emil-michael-iran-anthropic-and-the-future-of-ai-at-the-pentagon-Ng4jELx1": {
     "count": 1,
@@ -2450,14 +2450,14 @@
     "timestamp": "2026-03-14T04:13:34.728826"
   },
   "https://greylock.com/portfolio-news/congrats-aurora/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:15:12.701298"
+    "timestamp": "2026-03-15T04:38:09.948360"
   },
   "https://greylock.com/portfolio-news/congrats-nextdoor/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:15:12.704000"
+    "timestamp": "2026-03-15T04:38:09.754496"
   },
   "https://www.saastr.com/wiz-had-4-co-founders-databricks-had-7-stop-overthinking-it/": {
     "count": 1,
@@ -2465,9 +2465,9 @@
     "timestamp": "2026-03-14T04:41:58.525701"
   },
   "https://www.saastr.com/20vc-x-saastr-this-week-anthropic-sues-the-government-the-death-of-the-junior-and-why-gentle-deceleration-is-over/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:41:58.608781"
+    "timestamp": "2026-03-15T04:59:34.067952"
   },
   "https://openai.com/index/genspark/": {
     "count": 1,
@@ -2480,8 +2480,28 @@
     "timestamp": "2026-03-14T04:43:52.755154"
   },
   "https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-15T05:04:18.193937"
+  },
+  "https://greylock.com/portfolio-news/congrats-sonder/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:48:55.396555"
+    "timestamp": "2026-03-15T04:38:09.939658"
+  },
+  "https://www.saastr.com/be-honest-if-growth-has-slowed-is-your-product-still-magical-it-probably-used-to-be/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-15T04:59:33.804247"
+  },
+  "https://www.saastr.com/saastr-ai-app-of-the-week-v0-by-vercel-the-vibe-coding-tool-that-4-million-people-use-to-ship-real-software-not-just-demos/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-15T04:59:34.065387"
+  },
+  "https://openai.com/index/hebbia/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-15T05:02:25.149351"
   }
 }
