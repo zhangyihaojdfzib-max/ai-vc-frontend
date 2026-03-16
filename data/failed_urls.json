@@ -2300,9 +2300,9 @@
     "timestamp": "2026-03-10T04:37:56.380583"
   },
   "https://openai.com/index/descript/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:21:23.433129"
+    "timestamp": "2026-03-16T05:07:13.669081"
   },
   "https://openai.com/index/openai-research-assistant/": {
     "count": 1,
@@ -2350,14 +2350,14 @@
     "timestamp": "2026-03-11T04:21:30.506394"
   },
   "https://blogs.nvidia.com/blog/gdc-2026-virtual-game-development/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:23:35.315313"
+    "timestamp": "2026-03-16T05:07:29.136259"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-ltx-video-comfyui-gdc/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-11T04:23:35.473688"
+    "timestamp": "2026-03-16T05:07:28.987198"
   },
   "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/": {
     "count": 3,
@@ -2405,9 +2405,9 @@
     "timestamp": "2026-03-14T04:45:01.726608"
   },
   "https://a16z.simplecast.com/episodes/palantir-ceo-alex-karp-on-the-zero-sum-ai-race-39f_cNL_": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:13:34.777280"
+    "timestamp": "2026-03-16T04:43:12.762748"
   },
   "https://www.saastr.com/being-a-system-of-record-wont-save-you-itll-just-make-your-decline-more-comfortable/": {
     "count": 1,
@@ -2435,9 +2435,9 @@
     "timestamp": "2026-03-13T04:50:56.309552"
   },
   "https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:45:01.819002"
+    "timestamp": "2026-03-16T05:07:29.138816"
   },
   "https://stripe.com/blog/10-lessons": {
     "count": 3,
@@ -2445,19 +2445,19 @@
     "timestamp": "2026-03-15T05:04:19.087557"
   },
   "https://a16z.simplecast.com/episodes/emil-michael-iran-anthropic-and-the-future-of-ai-at-the-pentagon-Ng4jELx1": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:13:34.728826"
+    "timestamp": "2026-03-16T04:43:12.765302"
   },
   "https://greylock.com/portfolio-news/congrats-aurora/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-15T04:38:09.948360"
+    "timestamp": "2026-03-16T04:44:06.741772"
   },
   "https://greylock.com/portfolio-news/congrats-nextdoor/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-15T04:38:09.754496"
+    "timestamp": "2026-03-16T04:44:06.689222"
   },
   "https://www.saastr.com/wiz-had-4-co-founders-databricks-had-7-stop-overthinking-it/": {
     "count": 1,
@@ -2480,28 +2480,38 @@
     "timestamp": "2026-03-14T04:43:52.755154"
   },
   "https://medium.com/airbnb-engineering/recommending-travel-destinations-to-help-users-explore-5fa7a81654fb?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-15T05:04:18.193937"
+    "timestamp": "2026-03-16T05:08:48.476111"
   },
   "https://greylock.com/portfolio-news/congrats-sonder/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-15T04:38:09.939658"
+    "timestamp": "2026-03-16T04:44:06.739248"
   },
   "https://www.saastr.com/be-honest-if-growth-has-slowed-is-your-product-still-magical-it-probably-used-to-be/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-15T04:59:33.804247"
+    "timestamp": "2026-03-16T05:05:37.004316"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-v0-by-vercel-the-vibe-coding-tool-that-4-million-people-use-to-ship-real-software-not-just-demos/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-15T04:59:34.065387"
+    "timestamp": "2026-03-16T05:05:36.982054"
   },
   "https://openai.com/index/hebbia/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-16T05:07:24.128843"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-on-the-mindset-of-great-founders-with-david-senra-2nzQS_kD": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-15T05:02:25.149351"
+    "timestamp": "2026-03-16T04:43:12.744799"
+  },
+  "https://www.saastr.com/10-things-to-know-before-you-deploy-your-first-ai-sdr-the-very-latest-with-saastrs-jason-and-amelia/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-16T05:05:36.646936"
   }
 }
