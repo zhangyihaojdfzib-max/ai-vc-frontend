@@ -1200,9 +1200,9 @@
     "timestamp": "2026-02-14T04:08:01.628782"
   },
   "https://openai.com/index/harvey/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-09T04:31:53.254165"
+    "timestamp": "2026-03-17T04:32:15.786273"
   },
   "https://a16z.simplecast.com/episodes/the-state-of-markets-uuopmdKY": {
     "count": 3,
@@ -1775,9 +1775,9 @@
     "timestamp": "2026-02-27T04:16:23.479957"
   },
   "https://a16z.simplecast.com/episodes/the-3-trillion-ai-coding-opportunity-7plojNqE": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:11:35.135523"
+    "timestamp": "2026-03-17T04:10:50.951308"
   },
   "https://greylock.com/portfolio-news/our-investment-in-roblox-2/": {
     "count": 3,
@@ -1855,9 +1855,9 @@
     "timestamp": "2026-02-28T03:57:55.421024"
   },
   "https://a16z.simplecast.com/episodes/the-80-year-bet-why-naveen-rao-is-rebuilding-the-computer-from-scratch-wLonZe7I": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-24T04:11:35.130916"
+    "timestamp": "2026-03-17T04:10:50.994973"
   },
   "https://greylock.com/portfolio-news/snorkel-making-ai-practical-investment/": {
     "count": 3,
@@ -2350,14 +2350,14 @@
     "timestamp": "2026-03-11T04:21:30.506394"
   },
   "https://blogs.nvidia.com/blog/gdc-2026-virtual-game-development/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T05:07:29.136259"
+    "timestamp": "2026-03-17T04:32:28.541093"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-ltx-video-comfyui-gdc/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T05:07:28.987198"
+    "timestamp": "2026-03-17T04:32:28.683793"
   },
   "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/": {
     "count": 3,
@@ -2445,9 +2445,9 @@
     "timestamp": "2026-03-15T05:04:19.087557"
   },
   "https://a16z.simplecast.com/episodes/emil-michael-iran-anthropic-and-the-future-of-ai-at-the-pentagon-Ng4jELx1": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T04:43:12.765302"
+    "timestamp": "2026-03-17T04:10:50.915692"
   },
   "https://greylock.com/portfolio-news/congrats-aurora/": {
     "count": 3,
@@ -2485,19 +2485,19 @@
     "timestamp": "2026-03-16T05:08:48.476111"
   },
   "https://greylock.com/portfolio-news/congrats-sonder/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T04:44:06.739248"
+    "timestamp": "2026-03-17T04:11:42.311273"
   },
   "https://www.saastr.com/be-honest-if-growth-has-slowed-is-your-product-still-magical-it-probably-used-to-be/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T05:05:37.004316"
+    "timestamp": "2026-03-17T04:31:53.752680"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-v0-by-vercel-the-vibe-coding-tool-that-4-million-people-use-to-ship-real-software-not-just-demos/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T05:05:36.982054"
+    "timestamp": "2026-03-17T04:31:53.928046"
   },
   "https://openai.com/index/hebbia/": {
     "count": 2,
@@ -2505,13 +2505,78 @@
     "timestamp": "2026-03-16T05:07:24.128843"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-the-mindset-of-great-founders-with-david-senra-2nzQS_kD": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T04:43:12.744799"
+    "timestamp": "2026-03-17T04:10:50.887710"
   },
   "https://www.saastr.com/10-things-to-know-before-you-deploy-your-first-ai-sdr-the-very-latest-with-saastrs-jason-and-amelia/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:31:53.513834"
+  },
+  "https://a16z.simplecast.com/episodes/ai-startups-vs-big-chatbots-with-olivia-moore-h3P18Yyl": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T05:05:36.646936"
+    "timestamp": "2026-03-17T04:10:50.909898"
+  },
+  "https://greylock.com/portfolio-news/faster-easier-and-cheaper-data-lakes/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:11:42.327978"
+  },
+  "https://greylock.com/portfolio-news/payment-automation-for-web3/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:11:42.829333"
+  },
+  "https://greylock.com/portfolio-news/on-chain-credentialing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:11:43.336282"
+  },
+  "https://greylock.com/portfolio-news/the-metaverse-in-your-browser/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:11:43.396755"
+  },
+  "https://www.saastr.com/in-a-serious-sales-cycle-should-a-client-tell-you-who-you-are-competing-with-and-when/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:31:53.194414"
+  },
+  "https://www.saastr.com/you-have-100m-arr-100-nrr-and-10000-customers-why-are-you-quitting-to-start-an-ai-company/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:31:53.559802"
+  },
+  "https://openai.com/index/decagon/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:32:17.847125"
+  },
+  "https://openai.com/index/retell-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:32:19.916003"
+  },
+  "https://openai.com/index/unify/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:32:21.988733"
+  },
+  "https://openai.com/index/rox/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:32:24.066686"
+  },
+  "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:32:28.406529"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-17T04:32:28.788505"
   }
 }
