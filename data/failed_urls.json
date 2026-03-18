@@ -1340,9 +1340,9 @@
     "timestamp": "2026-02-13T04:16:47.835581"
   },
   "https://openai.com/index/tolan/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-02-12T04:29:48.086166"
+    "timestamp": "2026-03-18T04:51:34.929052"
   },
   "https://openai.com/index/netomi/": {
     "count": 2,
@@ -1855,9 +1855,9 @@
     "timestamp": "2026-02-28T03:57:55.421024"
   },
   "https://a16z.simplecast.com/episodes/the-80-year-bet-why-naveen-rao-is-rebuilding-the-computer-from-scratch-wLonZe7I": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:10:50.994973"
+    "timestamp": "2026-03-18T04:17:05.689497"
   },
   "https://greylock.com/portfolio-news/snorkel-making-ai-practical-investment/": {
     "count": 3,
@@ -2505,49 +2505,49 @@
     "timestamp": "2026-03-16T05:07:24.128843"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-the-mindset-of-great-founders-with-david-senra-2nzQS_kD": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:10:50.887710"
+    "timestamp": "2026-03-18T04:17:05.496649"
   },
   "https://www.saastr.com/10-things-to-know-before-you-deploy-your-first-ai-sdr-the-very-latest-with-saastrs-jason-and-amelia/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:31:53.513834"
+    "timestamp": "2026-03-18T04:50:57.878476"
   },
   "https://a16z.simplecast.com/episodes/ai-startups-vs-big-chatbots-with-olivia-moore-h3P18Yyl": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:10:50.909898"
+    "timestamp": "2026-03-18T04:17:05.484505"
   },
   "https://greylock.com/portfolio-news/faster-easier-and-cheaper-data-lakes/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:11:42.327978"
+    "timestamp": "2026-03-18T04:18:09.555098"
   },
   "https://greylock.com/portfolio-news/payment-automation-for-web3/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:11:42.829333"
+    "timestamp": "2026-03-18T04:18:09.496519"
   },
   "https://greylock.com/portfolio-news/on-chain-credentialing/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:11:43.336282"
+    "timestamp": "2026-03-18T04:18:10.115664"
   },
   "https://greylock.com/portfolio-news/the-metaverse-in-your-browser/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:11:43.396755"
+    "timestamp": "2026-03-18T04:18:09.630500"
   },
   "https://www.saastr.com/in-a-serious-sales-cycle-should-a-client-tell-you-who-you-are-competing-with-and-when/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:31:53.194414"
+    "timestamp": "2026-03-18T04:50:57.665957"
   },
   "https://www.saastr.com/you-have-100m-arr-100-nrr-and-10000-customers-why-are-you-quitting-to-start-an-ai-company/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:31:53.559802"
+    "timestamp": "2026-03-18T04:50:57.449134"
   },
   "https://openai.com/index/decagon/": {
     "count": 1,
@@ -2570,13 +2570,78 @@
     "timestamp": "2026-03-17T04:32:24.066686"
   },
   "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:32:28.406529"
+    "timestamp": "2026-03-18T04:51:48.790709"
   },
   "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-17T04:32:28.788505"
+  },
+  "https://a16z.simplecast.com/episodes/whats-missing-between-llms-and-agi-vishal-misra-martin-casado-YRValfqT": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:17:05.507332"
+  },
+  "https://a16z.simplecast.com/episodes/what-comes-after-chatgpt-the-mother-of-imagenet-predicts-the-future-N6cF4ZpS": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:17:05.710825"
+  },
+  "https://greylock.com/portfolio-news/payroll-powered-financial-solutions/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:18:09.891783"
+  },
+  "https://www.saastr.com/how-much-of-the-software-slowdown-is-just-budgets-flowing-to-anthropic-and-openai-maybe-as-much-as-70/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:50:57.136062"
+  },
+  "https://www.saastr.com/5-uncomfortable-truths-about-ai-adoption-that-most-vps-of-sales-dont-want-to-hear-the-data-from-laridan/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:50:57.482704"
+  },
+  "https://openai.com/index/mavenagi/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:51:37.038399"
+  },
+  "https://openai.com/index/altera/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:51:39.154437"
+  },
+  "https://openai.com/index/model-ml-chaz-englander/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:51:41.247210"
+  },
+  "https://openai.com/index/blue-j/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:51:43.351104"
+  },
+  "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:51:48.174626"
+  },
+  "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:51:48.401466"
+  },
+  "https://blogs.nvidia.com/blog/snap-accelerated-data-processing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:51:48.676261"
+  },
+  "https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-18T04:57:39.276529"
   }
 }
