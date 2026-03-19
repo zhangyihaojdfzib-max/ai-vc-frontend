@@ -2515,19 +2515,19 @@
     "timestamp": "2026-03-18T04:50:57.878476"
   },
   "https://a16z.simplecast.com/episodes/ai-startups-vs-big-chatbots-with-olivia-moore-h3P18Yyl": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:17:05.484505"
+    "timestamp": "2026-03-19T04:27:04.433961"
   },
   "https://greylock.com/portfolio-news/faster-easier-and-cheaper-data-lakes/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:18:09.555098"
+    "timestamp": "2026-03-19T04:27:51.691050"
   },
   "https://greylock.com/portfolio-news/payment-automation-for-web3/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:18:09.496519"
+    "timestamp": "2026-03-19T04:27:51.540780"
   },
   "https://greylock.com/portfolio-news/on-chain-credentialing/": {
     "count": 2,
@@ -2535,9 +2535,9 @@
     "timestamp": "2026-03-18T04:18:10.115664"
   },
   "https://greylock.com/portfolio-news/the-metaverse-in-your-browser/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:18:09.630500"
+    "timestamp": "2026-03-19T04:27:51.687249"
   },
   "https://www.saastr.com/in-a-serious-sales-cycle-should-a-client-tell-you-who-you-are-competing-with-and-when/": {
     "count": 2,
@@ -2580,9 +2580,9 @@
     "timestamp": "2026-03-17T04:32:28.788505"
   },
   "https://a16z.simplecast.com/episodes/whats-missing-between-llms-and-agi-vishal-misra-martin-casado-YRValfqT": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:17:05.507332"
+    "timestamp": "2026-03-19T04:27:04.412520"
   },
   "https://a16z.simplecast.com/episodes/what-comes-after-chatgpt-the-mother-of-imagenet-predicts-the-future-N6cF4ZpS": {
     "count": 1,
@@ -2595,19 +2595,19 @@
     "timestamp": "2026-03-18T04:18:09.891783"
   },
   "https://www.saastr.com/how-much-of-the-software-slowdown-is-just-budgets-flowing-to-anthropic-and-openai-maybe-as-much-as-70/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:50:57.136062"
+    "timestamp": "2026-03-19T04:50:34.884273"
   },
   "https://www.saastr.com/5-uncomfortable-truths-about-ai-adoption-that-most-vps-of-sales-dont-want-to-hear-the-data-from-laridan/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:50:57.482704"
+    "timestamp": "2026-03-19T04:50:35.047433"
   },
   "https://openai.com/index/mavenagi/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:51:37.038399"
+    "timestamp": "2026-03-19T04:52:11.965044"
   },
   "https://openai.com/index/altera/": {
     "count": 1,
@@ -2625,14 +2625,14 @@
     "timestamp": "2026-03-18T04:51:43.351104"
   },
   "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:51:48.174626"
+    "timestamp": "2026-03-19T04:53:00.011453"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:51:48.401466"
+    "timestamp": "2026-03-19T04:53:00.155397"
   },
   "https://blogs.nvidia.com/blog/snap-accelerated-data-processing/": {
     "count": 1,
@@ -2640,8 +2640,28 @@
     "timestamp": "2026-03-18T04:51:48.676261"
   },
   "https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-19T04:56:15.132646"
+  },
+  "https://a16z.simplecast.com/episodes/jacob-helberg-draft-6EvVv6rO": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:57:39.276529"
+    "timestamp": "2026-03-19T04:27:04.423117"
+  },
+  "https://www.saastr.com/i-added-an-ai-chatbot-to-our-ai-vp-of-marketing-today-cost-0-20-time-25-seconds-its-better-than-98-of-what-i-could-buy/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-19T04:50:34.755385"
+  },
+  "https://openai.com/index/parameter-golf/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-19T04:51:01.577247"
+  },
+  "https://stripe.com/blog/machine-payments-protocol": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-19T04:56:15.896675"
   }
 }
