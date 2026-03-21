@@ -2570,9 +2570,9 @@
     "timestamp": "2026-03-17T04:32:24.066686"
   },
   "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:51:48.790709"
+    "timestamp": "2026-03-21T04:30:34.297776"
   },
   "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/": {
     "count": 1,
@@ -2590,9 +2590,9 @@
     "timestamp": "2026-03-18T04:17:05.710825"
   },
   "https://greylock.com/portfolio-news/payroll-powered-financial-solutions/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-20T04:18:23.053022"
+    "timestamp": "2026-03-21T04:09:55.969582"
   },
   "https://www.saastr.com/how-much-of-the-software-slowdown-is-just-budgets-flowing-to-anthropic-and-openai-maybe-as-much-as-70/": {
     "count": 2,
@@ -2610,9 +2610,9 @@
     "timestamp": "2026-03-19T04:52:11.965044"
   },
   "https://openai.com/index/altera/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:51:39.154437"
+    "timestamp": "2026-03-21T04:30:16.827485"
   },
   "https://openai.com/index/model-ml-chaz-englander/": {
     "count": 1,
@@ -2620,9 +2620,9 @@
     "timestamp": "2026-03-18T04:51:41.247210"
   },
   "https://openai.com/index/blue-j/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:51:43.351104"
+    "timestamp": "2026-03-21T04:30:25.915558"
   },
   "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/": {
     "count": 3,
@@ -2635,9 +2635,9 @@
     "timestamp": "2026-03-20T04:46:39.917912"
   },
   "https://blogs.nvidia.com/blog/snap-accelerated-data-processing/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:51:48.676261"
+    "timestamp": "2026-03-21T04:30:34.511886"
   },
   "https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4": {
     "count": 3,
@@ -2645,9 +2645,9 @@
     "timestamp": "2026-03-20T04:49:06.011583"
   },
   "https://a16z.simplecast.com/episodes/jacob-helberg-draft-6EvVv6rO": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-20T04:17:42.373605"
+    "timestamp": "2026-03-21T04:08:51.514905"
   },
   "https://www.saastr.com/i-added-an-ai-chatbot-to-our-ai-vp-of-marketing-today-cost-0-20-time-25-seconds-its-better-than-98-of-what-i-could-buy/": {
     "count": 1,
@@ -2660,24 +2660,24 @@
     "timestamp": "2026-03-19T04:51:01.577247"
   },
   "https://stripe.com/blog/machine-payments-protocol": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-20T04:49:06.709695"
+    "timestamp": "2026-03-21T04:34:35.817236"
   },
   "https://a16z.simplecast.com/episodes/ai-just-gave-you-superpowers-now-what-w1BZEEnu": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-20T04:17:42.422400"
+    "timestamp": "2026-03-21T04:08:51.504878"
   },
   "https://greylock.com/portfolio-news/privacy-and-scalability-for-web3/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-20T04:18:23.099173"
+    "timestamp": "2026-03-21T04:09:56.106434"
   },
   "https://www.saastr.com/the-latest-20vc-x-saastr-nvidia-at-1t-metas-16000-layoffs-travis-is-back-and-adobe/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-20T04:44:46.038874"
+    "timestamp": "2026-03-21T04:29:03.773868"
   },
   "https://www.saastr.com/try-the-new-digital-ai-jason-for-free-get-all-your-b2b-ai-questions-answered/": {
     "count": 1,
@@ -2690,13 +2690,38 @@
     "timestamp": "2026-03-20T04:44:46.366705"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-20T04:46:39.998829"
+    "timestamp": "2026-03-21T04:30:34.514590"
   },
   "https://stripe.com/blog/adaptive-pricing-for-subscriptions": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-21T04:34:35.735780"
+  },
+  "https://a16z.simplecast.com/episodes/inside-palantir-building-software-that-matters-with-shyam-sankar-mSRYC1eQ": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-20T04:49:06.934303"
+    "timestamp": "2026-03-21T04:08:51.493750"
+  },
+  "https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-21T04:09:56.005933"
+  },
+  "https://www.saastr.com/to-thrive-today-you-have-to-become-an-agentic-deployment-expert-but-so-so-few-actually-are/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-21T04:29:03.414793"
+  },
+  "https://www.saastr.com/dear-saastr-should-i-hire-more-fdes-or-csms-for-our-ai-agent-product/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-21T04:29:03.746767"
+  },
+  "https://stripe.com/blog/three-fraud-trends-from-mrc-vegas-2026": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-21T04:34:35.814451"
   }
 }
