@@ -2560,9 +2560,9 @@
     "timestamp": "2026-03-17T04:32:19.916003"
   },
   "https://openai.com/index/unify/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:32:21.988733"
+    "timestamp": "2026-03-22T04:41:17.330146"
   },
   "https://openai.com/index/rox/": {
     "count": 1,
@@ -2610,9 +2610,9 @@
     "timestamp": "2026-03-19T04:52:11.965044"
   },
   "https://openai.com/index/altera/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:30:16.827485"
+    "timestamp": "2026-03-22T04:41:27.331218"
   },
   "https://openai.com/index/model-ml-chaz-englander/": {
     "count": 1,
@@ -2620,9 +2620,9 @@
     "timestamp": "2026-03-18T04:51:41.247210"
   },
   "https://openai.com/index/blue-j/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:30:25.915558"
+    "timestamp": "2026-03-22T04:41:37.235699"
   },
   "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/": {
     "count": 3,
@@ -2670,9 +2670,9 @@
     "timestamp": "2026-03-21T04:08:51.504878"
   },
   "https://greylock.com/portfolio-news/privacy-and-scalability-for-web3/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:09:56.106434"
+    "timestamp": "2026-03-22T04:24:36.960134"
   },
   "https://www.saastr.com/the-latest-20vc-x-saastr-nvidia-at-1t-metas-16000-layoffs-travis-is-back-and-adobe/": {
     "count": 2,
@@ -2695,9 +2695,9 @@
     "timestamp": "2026-03-21T04:30:34.514590"
   },
   "https://stripe.com/blog/adaptive-pricing-for-subscriptions": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:34:35.735780"
+    "timestamp": "2026-03-22T04:41:44.412443"
   },
   "https://a16z.simplecast.com/episodes/inside-palantir-building-software-that-matters-with-shyam-sankar-mSRYC1eQ": {
     "count": 1,
@@ -2705,9 +2705,9 @@
     "timestamp": "2026-03-21T04:08:51.493750"
   },
   "https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:09:56.005933"
+    "timestamp": "2026-03-22T04:24:36.726660"
   },
   "https://www.saastr.com/to-thrive-today-you-have-to-become-an-agentic-deployment-expert-but-so-so-few-actually-are/": {
     "count": 1,
@@ -2720,8 +2720,28 @@
     "timestamp": "2026-03-21T04:29:03.746767"
   },
   "https://stripe.com/blog/three-fraud-trends-from-mrc-vegas-2026": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-22T04:41:44.152988"
+  },
+  "https://greylock.com/portfolio-news/persuasion-through-stories/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:34:35.814451"
+    "timestamp": "2026-03-22T04:24:36.962895"
+  },
+  "https://www.saastr.com/cfomissingburn/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-22T04:41:08.968881"
+  },
+  "https://www.saastr.com/we-use-1-crm-but-we-use-4-ai-sales-agents-what-does-that-tell-us-about-the-future-of-b2b/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-22T04:41:09.314545"
+  },
+  "https://www.saastr.com/saastr-ai-app-of-the-week-launchpad-io-the-enterprise-platform-that-lets-b2b-software-companies-ship-production-apps-in-weeks-not-years/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-22T04:41:09.359433"
   }
 }
