@@ -2425,9 +2425,9 @@
     "timestamp": "2026-03-14T04:41:58.776396"
   },
   "https://openai.com/index/invideo-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-13T04:46:56.432257"
+    "timestamp": "2026-03-23T04:47:14.220470"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-gdc-2026/": {
     "count": 1,
@@ -2470,9 +2470,9 @@
     "timestamp": "2026-03-15T04:59:34.067952"
   },
   "https://openai.com/index/genspark/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-14T04:43:43.684756"
+    "timestamp": "2026-03-23T04:47:06.059420"
   },
   "https://openai.com/index/arco-education/": {
     "count": 1,
@@ -2705,9 +2705,9 @@
     "timestamp": "2026-03-21T04:08:51.493750"
   },
   "https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-22T04:24:36.726660"
+    "timestamp": "2026-03-23T04:32:53.758504"
   },
   "https://www.saastr.com/to-thrive-today-you-have-to-become-an-agentic-deployment-expert-but-so-so-few-actually-are/": {
     "count": 1,
@@ -2720,14 +2720,14 @@
     "timestamp": "2026-03-21T04:29:03.746767"
   },
   "https://stripe.com/blog/three-fraud-trends-from-mrc-vegas-2026": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-22T04:41:44.152988"
+    "timestamp": "2026-03-23T04:47:22.630843"
   },
   "https://greylock.com/portfolio-news/persuasion-through-stories/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-22T04:24:36.962895"
+    "timestamp": "2026-03-23T04:32:53.823361"
   },
   "https://www.saastr.com/cfomissingburn/": {
     "count": 1,
@@ -2735,13 +2735,28 @@
     "timestamp": "2026-03-22T04:41:08.968881"
   },
   "https://www.saastr.com/we-use-1-crm-but-we-use-4-ai-sales-agents-what-does-that-tell-us-about-the-future-of-b2b/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-22T04:41:09.314545"
+    "timestamp": "2026-03-23T04:46:15.371507"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-launchpad-io-the-enterprise-platform-that-lets-b2b-software-companies-ship-production-apps-in-weeks-not-years/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-22T04:41:09.359433"
+  },
+  "https://greylock.com/portfolio-news/bringing-specialty-care-everywhere/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-23T04:32:53.837592"
+  },
+  "https://www.saastr.com/you-have-all-the-power-as-a-hot-ai-founder-just-dont-accidentally-push-vcs-into-maybe-not/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-23T04:46:15.035601"
+  },
+  "https://www.saastr.com/dear-saastr-were-at-8m-arr-growing-90-but-cant-get-a-vc-to-give-us-a-term-sheet/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-23T04:46:15.405594"
   }
 }
