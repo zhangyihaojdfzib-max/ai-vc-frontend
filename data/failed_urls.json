@@ -2425,9 +2425,9 @@
     "timestamp": "2026-03-14T04:41:58.776396"
   },
   "https://openai.com/index/invideo-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-23T04:47:14.220470"
+    "timestamp": "2026-03-24T04:40:25.744107"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-gdc-2026/": {
     "count": 1,
@@ -2470,9 +2470,9 @@
     "timestamp": "2026-03-15T04:59:34.067952"
   },
   "https://openai.com/index/genspark/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-23T04:47:06.059420"
+    "timestamp": "2026-03-24T04:40:17.052983"
   },
   "https://openai.com/index/arco-education/": {
     "count": 1,
@@ -2635,9 +2635,9 @@
     "timestamp": "2026-03-20T04:46:39.917912"
   },
   "https://blogs.nvidia.com/blog/snap-accelerated-data-processing/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:30:34.511886"
+    "timestamp": "2026-03-24T04:47:49.396412"
   },
   "https://medium.com/airbnb-engineering/from-vendors-to-vanguard-airbnbs-hard-won-lessons-in-observability-ownership-3811bf6c1ac3?source=rss----53c7c27702d5---4": {
     "count": 3,
@@ -2665,9 +2665,9 @@
     "timestamp": "2026-03-21T04:34:35.817236"
   },
   "https://a16z.simplecast.com/episodes/ai-just-gave-you-superpowers-now-what-w1BZEEnu": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:08:51.504878"
+    "timestamp": "2026-03-24T04:23:24.124478"
   },
   "https://greylock.com/portfolio-news/privacy-and-scalability-for-web3/": {
     "count": 3,
@@ -2690,9 +2690,9 @@
     "timestamp": "2026-03-20T04:44:46.366705"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:30:34.514590"
+    "timestamp": "2026-03-24T04:47:49.494250"
   },
   "https://stripe.com/blog/adaptive-pricing-for-subscriptions": {
     "count": 3,
@@ -2700,9 +2700,9 @@
     "timestamp": "2026-03-22T04:41:44.412443"
   },
   "https://a16z.simplecast.com/episodes/inside-palantir-building-software-that-matters-with-shyam-sankar-mSRYC1eQ": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-21T04:08:51.493750"
+    "timestamp": "2026-03-24T04:23:24.118914"
   },
   "https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/": {
     "count": 3,
@@ -2725,9 +2725,9 @@
     "timestamp": "2026-03-23T04:47:22.630843"
   },
   "https://greylock.com/portfolio-news/persuasion-through-stories/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-23T04:32:53.823361"
+    "timestamp": "2026-03-24T04:24:13.511719"
   },
   "https://www.saastr.com/cfomissingburn/": {
     "count": 1,
@@ -2745,18 +2745,43 @@
     "timestamp": "2026-03-22T04:41:09.359433"
   },
   "https://greylock.com/portfolio-news/bringing-specialty-care-everywhere/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-23T04:32:53.837592"
+    "timestamp": "2026-03-24T04:24:13.418486"
   },
   "https://www.saastr.com/you-have-all-the-power-as-a-hot-ai-founder-just-dont-accidentally-push-vcs-into-maybe-not/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-23T04:46:15.035601"
+    "timestamp": "2026-03-24T04:39:27.699133"
   },
   "https://www.saastr.com/dear-saastr-were-at-8m-arr-growing-90-but-cant-get-a-vc-to-give-us-a-term-sheet/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-23T04:46:15.405594"
+  },
+  "https://a16z.simplecast.com/episodes/why-every-satellite-needs-earth-northwood-ceo-on-a16z-sPoRUFws": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-24T04:23:24.101000"
+  },
+  "https://greylock.com/portfolio-news/instant-collaborative-developer-environments/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-24T04:24:13.329330"
+  },
+  "https://www.saastr.com/the-trust-objection-to-ai-sales-execs-doesnt-hold-up-the-way-you-think-it-does/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-24T04:39:28.051692"
+  },
+  "https://www.saastr.com/dear-saastr-should-i-use-an-ai-sdr-before-i-have-a-working-human-sdr-motion/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-24T04:39:28.054583"
+  },
+  "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-24T04:47:49.491351"
   }
 }
