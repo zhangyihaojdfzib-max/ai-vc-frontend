@@ -2500,9 +2500,9 @@
     "timestamp": "2026-03-17T04:31:53.928046"
   },
   "https://openai.com/index/hebbia/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-16T05:07:24.128843"
+    "timestamp": "2026-03-25T04:36:58.850804"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-the-mindset-of-great-founders-with-david-senra-2nzQS_kD": {
     "count": 3,
@@ -2560,9 +2560,9 @@
     "timestamp": "2026-03-17T04:32:19.916003"
   },
   "https://openai.com/index/unify/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-22T04:41:17.330146"
+    "timestamp": "2026-03-25T04:37:08.711278"
   },
   "https://openai.com/index/rox/": {
     "count": 1,
@@ -2575,9 +2575,9 @@
     "timestamp": "2026-03-21T04:30:34.297776"
   },
   "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-17T04:32:28.788505"
+    "timestamp": "2026-03-25T04:38:10.157956"
   },
   "https://a16z.simplecast.com/episodes/whats-missing-between-llms-and-agi-vishal-misra-martin-casado-YRValfqT": {
     "count": 3,
@@ -2700,9 +2700,9 @@
     "timestamp": "2026-03-22T04:41:44.412443"
   },
   "https://a16z.simplecast.com/episodes/inside-palantir-building-software-that-matters-with-shyam-sankar-mSRYC1eQ": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-24T04:23:24.118914"
+    "timestamp": "2026-03-25T04:24:52.092859"
   },
   "https://greylock.com/portfolio-news/a-new-paradigm-in-human-machine-interaction/": {
     "count": 3,
@@ -2745,9 +2745,9 @@
     "timestamp": "2026-03-22T04:41:09.359433"
   },
   "https://greylock.com/portfolio-news/bringing-specialty-care-everywhere/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-24T04:24:13.418486"
+    "timestamp": "2026-03-25T04:25:42.062408"
   },
   "https://www.saastr.com/you-have-all-the-power-as-a-hot-ai-founder-just-dont-accidentally-push-vcs-into-maybe-not/": {
     "count": 2,
@@ -2760,19 +2760,19 @@
     "timestamp": "2026-03-23T04:46:15.405594"
   },
   "https://a16z.simplecast.com/episodes/why-every-satellite-needs-earth-northwood-ceo-on-a16z-sPoRUFws": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-24T04:23:24.101000"
+    "timestamp": "2026-03-25T04:24:52.087592"
   },
   "https://greylock.com/portfolio-news/instant-collaborative-developer-environments/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-24T04:24:13.329330"
+    "timestamp": "2026-03-25T04:25:42.048798"
   },
   "https://www.saastr.com/the-trust-objection-to-ai-sales-execs-doesnt-hold-up-the-way-you-think-it-does/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-24T04:39:28.051692"
+    "timestamp": "2026-03-25T04:36:49.311103"
   },
   "https://www.saastr.com/dear-saastr-should-i-use-an-ai-sdr-before-i-have-a-working-human-sdr-motion/": {
     "count": 1,
@@ -2780,8 +2780,43 @@
     "timestamp": "2026-03-24T04:39:28.054583"
   },
   "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-25T04:38:09.968339"
+  },
+  "https://a16z.simplecast.com/episodes/the-missing-power-layer-of-modern-warfare-tbo9oBnG": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-24T04:47:49.491351"
+    "timestamp": "2026-03-25T04:24:52.068861"
+  },
+  "https://greylock.com/portfolio-news/exchange-infrastructure-for-the-internet/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-25T04:25:41.948930"
+  },
+  "https://www.saastr.com/you-cant-train-an-ai-agent-and-then-just-go-away-we-did-and-it-fell-off-the-rails/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-25T04:36:49.589918"
+  },
+  "https://www.saastr.com/5-ways-to-turn-your-support-data-into-a-customer-acquisition-channel-with-happyfoxs-founder-ceo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-25T04:36:49.653970"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-25T04:38:10.180568"
+  },
+  "https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-25T04:40:20.111738"
+  },
+  "https://stripe.com/blog/how-stripe-radar-helps-prevent-free-trial-abuse": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-25T04:40:20.653144"
   }
 }
