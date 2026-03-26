@@ -2760,14 +2760,14 @@
     "timestamp": "2026-03-23T04:46:15.405594"
   },
   "https://a16z.simplecast.com/episodes/why-every-satellite-needs-earth-northwood-ceo-on-a16z-sPoRUFws": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-25T04:24:52.087592"
+    "timestamp": "2026-03-26T04:36:22.757511"
   },
   "https://greylock.com/portfolio-news/instant-collaborative-developer-environments/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-25T04:25:42.048798"
+    "timestamp": "2026-03-26T04:37:11.685461"
   },
   "https://www.saastr.com/the-trust-objection-to-ai-sales-execs-doesnt-hold-up-the-way-you-think-it-does/": {
     "count": 2,
@@ -2785,14 +2785,14 @@
     "timestamp": "2026-03-25T04:38:09.968339"
   },
   "https://a16z.simplecast.com/episodes/the-missing-power-layer-of-modern-warfare-tbo9oBnG": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-25T04:24:52.068861"
+    "timestamp": "2026-03-26T04:36:22.746713"
   },
   "https://greylock.com/portfolio-news/exchange-infrastructure-for-the-internet/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-25T04:25:41.948930"
+    "timestamp": "2026-03-26T04:37:11.536693"
   },
   "https://www.saastr.com/you-cant-train-an-ai-agent-and-then-just-go-away-we-did-and-it-fell-off-the-rails/": {
     "count": 1,
@@ -2805,18 +2805,63 @@
     "timestamp": "2026-03-25T04:36:49.653970"
   },
   "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-25T04:38:10.180568"
+    "timestamp": "2026-03-26T05:04:13.510098"
   },
   "https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss----53c7c27702d5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-25T04:40:20.111738"
+    "timestamp": "2026-03-26T05:04:55.351909"
   },
   "https://stripe.com/blog/how-stripe-radar-helps-prevent-free-trial-abuse": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T05:04:56.123417"
+  },
+  "https://a16z.simplecast.com/episodes/submarines-and-the-future-of-defense-manufacturing-KGko_EJ6": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-25T04:40:20.653144"
+    "timestamp": "2026-03-26T04:36:22.732803"
+  },
+  "https://greylock.com/portfolio-news/baseten-self-serve-apps-for-ml/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T04:37:11.682525"
+  },
+  "https://hunterwalk.com/2026/03/25/before-you-automate-it-ask-whether-you-should-even-be-doing-it-in-the-first-place/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T05:00:59.197150"
+  },
+  "https://www.saastr.com/dear-saastr-how-long-does-it-take-to-deploy-an-ai-sdr/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T05:00:59.979498"
+  },
+  "https://www.saastr.com/five-ai-agent-vendors-asked-us-to-try-their-product-this-week-one-got-deployed-heres-the-difference/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T05:01:00.111062"
+  },
+  "https://www.saastr.com/the-saas-rout-of-2026-is-even-worse-than-you-think-for-the-first-time-ever-software-now-trades-at-a-discount-to-the-sp-500/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T05:01:00.223228"
+  },
+  "https://openai.com/index/coderabbit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T05:03:28.125609"
+  },
+  "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T05:04:13.452815"
+  },
+  "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-26T05:04:13.506920"
   }
 }
