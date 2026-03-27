@@ -2785,14 +2785,14 @@
     "timestamp": "2026-03-25T04:38:09.968339"
   },
   "https://a16z.simplecast.com/episodes/the-missing-power-layer-of-modern-warfare-tbo9oBnG": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T04:36:22.746713"
+    "timestamp": "2026-03-27T04:37:05.898225"
   },
   "https://greylock.com/portfolio-news/exchange-infrastructure-for-the-internet/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T04:37:11.536693"
+    "timestamp": "2026-03-27T04:38:00.586877"
   },
   "https://www.saastr.com/you-cant-train-an-ai-agent-and-then-just-go-away-we-did-and-it-fell-off-the-rails/": {
     "count": 1,
@@ -2810,24 +2810,24 @@
     "timestamp": "2026-03-26T05:04:13.510098"
   },
   "https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T05:04:55.351909"
+    "timestamp": "2026-03-27T05:08:29.466909"
   },
   "https://stripe.com/blog/how-stripe-radar-helps-prevent-free-trial-abuse": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T05:04:56.123417"
+    "timestamp": "2026-03-27T05:08:30.274010"
   },
   "https://a16z.simplecast.com/episodes/submarines-and-the-future-of-defense-manufacturing-KGko_EJ6": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T04:36:22.732803"
+    "timestamp": "2026-03-27T04:37:05.920548"
   },
   "https://greylock.com/portfolio-news/baseten-self-serve-apps-for-ml/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T04:37:11.682525"
+    "timestamp": "2026-03-27T04:38:00.741995"
   },
   "https://hunterwalk.com/2026/03/25/before-you-automate-it-ask-whether-you-should-even-be-doing-it-in-the-first-place/": {
     "count": 1,
@@ -2855,13 +2855,48 @@
     "timestamp": "2026-03-26T05:03:28.125609"
   },
   "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T05:04:13.452815"
+    "timestamp": "2026-03-27T05:05:55.133433"
   },
   "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-26T05:04:13.506920"
+  },
+  "https://a16z.simplecast.com/episodes/security-resilience-and-the-future-of-mobile-infrastructure-FE05DDD_": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-27T04:37:05.917609"
+  },
+  "https://greylock.com/portfolio-news/a-human-centric-path-to-agi/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-27T04:38:00.744906"
+  },
+  "https://www.saastr.com/our-ai-customer-success-agent-is-working-harder-than-95-of-human-csms-ive-worked-with-maybe-more-than-95/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-27T05:00:00.571581"
+  },
+  "https://www.saastr.com/20vc-x-saastr-this-week-anthropic-is-eating-openais-enterprise-lunch-figmas-real-problem-isnt-stitch-and-the-unicorn-math-nobody-wants-to-talk-about/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-27T05:00:00.602052"
+  },
+  "https://www.saastr.com/fasterleanericoniq/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-27T05:00:00.604957"
+  },
+  "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-27T05:05:55.012925"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-27T05:05:55.139832"
   }
 }
