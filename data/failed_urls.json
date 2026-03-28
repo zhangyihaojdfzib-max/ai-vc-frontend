@@ -2305,9 +2305,9 @@
     "timestamp": "2026-03-16T05:07:13.669081"
   },
   "https://openai.com/index/openai-research-assistant/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-10T04:38:16.426673"
+    "timestamp": "2026-03-28T04:40:20.973202"
   },
   "https://blogs.nvidia.com/blog/abb-robotics-omniverse/": {
     "count": 1,
@@ -2820,14 +2820,14 @@
     "timestamp": "2026-03-27T05:08:30.274010"
   },
   "https://a16z.simplecast.com/episodes/submarines-and-the-future-of-defense-manufacturing-KGko_EJ6": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-27T04:37:05.920548"
+    "timestamp": "2026-03-28T04:24:37.701280"
   },
   "https://greylock.com/portfolio-news/baseten-self-serve-apps-for-ml/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-27T04:38:00.741995"
+    "timestamp": "2026-03-28T04:25:19.766246"
   },
   "https://hunterwalk.com/2026/03/25/before-you-automate-it-ask-whether-you-should-even-be-doing-it-in-the-first-place/": {
     "count": 1,
@@ -2865,14 +2865,14 @@
     "timestamp": "2026-03-26T05:04:13.506920"
   },
   "https://a16z.simplecast.com/episodes/security-resilience-and-the-future-of-mobile-infrastructure-FE05DDD_": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-27T04:37:05.917609"
+    "timestamp": "2026-03-28T04:24:37.711012"
   },
   "https://greylock.com/portfolio-news/a-human-centric-path-to-agi/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-27T04:38:00.744906"
+    "timestamp": "2026-03-28T04:25:19.623130"
   },
   "https://www.saastr.com/our-ai-customer-success-agent-is-working-harder-than-95-of-human-csms-ive-worked-with-maybe-more-than-95/": {
     "count": 1,
@@ -2898,5 +2898,30 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-27T05:05:55.139832"
+  },
+  "https://a16z.simplecast.com/episodes/the-spacex-and-tesla-playbook-for-hard-tech-startups-1wPtKHVt": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-28T04:24:37.686096"
+  },
+  "https://greylock.com/portfolio-news/brazils-b2b-marketplace-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-28T04:25:19.762766"
+  },
+  "https://www.saastr.com/how-to-build-a-highly-efficient-smb-sales-machine-with-ai-and-automation-7-2x-bookings-to-comp-with-mangomints-vp-sales/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-28T04:40:11.671150"
+  },
+  "https://www.saastr.com/the-danger-zone-and-dead-zone-of-b2b-growth/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-28T04:40:11.995508"
+  },
+  "https://www.saastr.com/dear-saastr-growth-has-slowed-for-2-years-now-what-can-i-do-to-reignite-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-28T04:40:12.028175"
   }
 }
