@@ -2215,9 +2215,9 @@
     "timestamp": "2026-03-08T04:34:01.911368"
   },
   "https://openai.com/index/openai-support-model/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-07T04:29:07.074373"
+    "timestamp": "2026-03-29T05:00:16.985778"
   },
   "https://greylock.com/portfolio-news/congrats-blend-nyse-blnd/": {
     "count": 3,
@@ -2305,9 +2305,9 @@
     "timestamp": "2026-03-16T05:07:13.669081"
   },
   "https://openai.com/index/openai-research-assistant/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-28T04:40:20.973202"
+    "timestamp": "2026-03-29T05:00:07.908436"
   },
   "https://blogs.nvidia.com/blog/abb-robotics-omniverse/": {
     "count": 1,
@@ -2395,9 +2395,9 @@
     "timestamp": "2026-03-12T04:33:11.737821"
   },
   "https://openai.com/index/openai-contract-data-agent/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-12T04:35:17.850212"
+    "timestamp": "2026-03-29T05:00:25.547295"
   },
   "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/": {
     "count": 3,
@@ -2870,9 +2870,9 @@
     "timestamp": "2026-03-28T04:24:37.711012"
   },
   "https://greylock.com/portfolio-news/a-human-centric-path-to-agi/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-28T04:25:19.623130"
+    "timestamp": "2026-03-29T04:42:10.523223"
   },
   "https://www.saastr.com/our-ai-customer-success-agent-is-working-harder-than-95-of-human-csms-ive-worked-with-maybe-more-than-95/": {
     "count": 1,
@@ -2905,9 +2905,9 @@
     "timestamp": "2026-03-28T04:24:37.686096"
   },
   "https://greylock.com/portfolio-news/brazils-b2b-marketplace-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-28T04:25:19.762766"
+    "timestamp": "2026-03-29T04:42:10.370945"
   },
   "https://www.saastr.com/how-to-build-a-highly-efficient-smb-sales-machine-with-ai-and-automation-7-2x-bookings-to-comp-with-mangomints-vp-sales/": {
     "count": 1,
@@ -2923,5 +2923,25 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-03-28T04:40:12.028175"
+  },
+  "https://greylock.com/portfolio-news/a-declarative-approach-to-ml/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-29T04:42:10.520275"
+  },
+  "https://www.saastr.com/what-the-co-founder-and-cto-of-fal-learned-building-an-ai-native-business-from-scratch/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-29T04:59:59.881626"
+  },
+  "https://www.saastr.com/dear-saastr-buyers-keep-pushing-for-shorter-contracts-should-i-give-in/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-29T05:00:00.218776"
+  },
+  "https://www.saastr.com/dear-saastr-what-should-i-know-before-rolling-out-our-first-ai-sdr/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-29T05:00:00.246233"
   }
 }
