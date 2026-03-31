@@ -2345,9 +2345,9 @@
     "timestamp": "2026-03-11T04:20:11.347864"
   },
   "https://openai.com/index/gpt-5-amgen/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-30T05:17:29.105478"
+    "timestamp": "2026-03-31T05:01:12.921867"
   },
   "https://blogs.nvidia.com/blog/gdc-2026-virtual-game-development/": {
     "count": 3,
@@ -2855,9 +2855,9 @@
     "timestamp": "2026-03-26T05:03:28.125609"
   },
   "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-27T05:05:55.133433"
+    "timestamp": "2026-03-31T05:01:20.605790"
   },
   "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/": {
     "count": 1,
@@ -2865,9 +2865,9 @@
     "timestamp": "2026-03-26T05:04:13.506920"
   },
   "https://a16z.simplecast.com/episodes/security-resilience-and-the-future-of-mobile-infrastructure-FE05DDD_": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-28T04:24:37.711012"
+    "timestamp": "2026-03-31T04:39:33.607452"
   },
   "https://greylock.com/portfolio-news/a-human-centric-path-to-agi/": {
     "count": 3,
@@ -2890,19 +2890,19 @@
     "timestamp": "2026-03-27T05:00:00.604957"
   },
   "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-27T05:05:55.012925"
+    "timestamp": "2026-03-31T05:01:20.608854"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-27T05:05:55.139832"
+    "timestamp": "2026-03-31T05:01:20.518936"
   },
   "https://a16z.simplecast.com/episodes/the-spacex-and-tesla-playbook-for-hard-tech-startups-1wPtKHVt": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-28T04:24:37.686096"
+    "timestamp": "2026-03-31T04:39:33.593967"
   },
   "https://greylock.com/portfolio-news/brazils-b2b-marketplace-2/": {
     "count": 3,
@@ -2925,9 +2925,9 @@
     "timestamp": "2026-03-28T04:40:12.028175"
   },
   "https://greylock.com/portfolio-news/a-declarative-approach-to-ml/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-30T04:41:31.287229"
+    "timestamp": "2026-03-31T04:40:13.195701"
   },
   "https://www.saastr.com/what-the-co-founder-and-cto-of-fal-learned-building-an-ai-native-business-from-scratch/": {
     "count": 2,
@@ -2945,9 +2945,9 @@
     "timestamp": "2026-03-30T05:17:21.961867"
   },
   "https://greylock.com/portfolio-news/supercharging-productivity/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-30T04:41:31.226130"
+    "timestamp": "2026-03-31T04:40:13.046738"
   },
   "https://greylock.com/portfolio-news/scalable-least-privilege/": {
     "count": 1,
@@ -2955,9 +2955,9 @@
     "timestamp": "2026-03-30T04:41:31.649689"
   },
   "https://greylock.com/portfolio-news/collaborative-video-editing/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-30T04:41:31.705177"
+    "timestamp": "2026-03-31T04:40:13.198750"
   },
   "https://www.saastr.com/its-just-easier-to-work-with-ai-agents-and-thats-why-2027-worries-me/": {
     "count": 1,
@@ -2965,9 +2965,9 @@
     "timestamp": "2026-03-30T05:17:21.348683"
   },
   "https://www.saastr.com/saastr-ai-annual-2026-attendance-is-143-of-last-year-sponsor-last-minute-to-crush-your-1h2026-plan/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-30T05:17:21.737527"
+    "timestamp": "2026-03-31T05:00:14.901580"
   },
   "https://www.saastr.com/redpoint-latest/": {
     "count": 1,
@@ -2975,13 +2975,28 @@
     "timestamp": "2026-03-30T05:17:21.744199"
   },
   "https://openai.com/index/gpt-5-cursor/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-30T05:17:31.162053"
+    "timestamp": "2026-03-31T05:01:06.240403"
   },
   "https://openai.com/index/gpt-5-coding-design/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-31T05:00:59.519774"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-on-evaluating-founders-and-ais-consumer-surplus-Gu808y3s": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-30T05:17:33.215692"
+    "timestamp": "2026-03-31T04:39:33.610371"
+  },
+  "https://www.saastr.com/saastr-ai-app-of-the-week-reevo-the-500m-bet-that-your-entire-gtm-stack-should-be-one-platform/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-31T05:00:15.245147"
+  },
+  "https://www.saastr.com/i-vibe-coded-10-apps-used-almost-a-million-times-then-i-had-to-stop-for-90-days/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-03-31T05:00:15.251095"
   }
 }
