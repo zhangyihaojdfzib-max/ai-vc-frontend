@@ -2890,19 +2890,19 @@
     "timestamp": "2026-03-27T05:00:00.604957"
   },
   "https://blogs.nvidia.com/blog/gtc-2026-virtual-worlds-physical-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T05:01:20.608854"
+    "timestamp": "2026-04-01T05:13:22.354633"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T05:01:20.518936"
+    "timestamp": "2026-04-01T05:13:22.267814"
   },
   "https://a16z.simplecast.com/episodes/the-spacex-and-tesla-playbook-for-hard-tech-startups-1wPtKHVt": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T04:39:33.593967"
+    "timestamp": "2026-04-01T04:50:12.906364"
   },
   "https://greylock.com/portfolio-news/brazils-b2b-marketplace-2/": {
     "count": 3,
@@ -2945,19 +2945,19 @@
     "timestamp": "2026-03-30T05:17:21.961867"
   },
   "https://greylock.com/portfolio-news/supercharging-productivity/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T04:40:13.046738"
+    "timestamp": "2026-04-01T04:51:44.652330"
   },
   "https://greylock.com/portfolio-news/scalable-least-privilege/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-03-30T04:41:31.649689"
-  },
-  "https://greylock.com/portfolio-news/collaborative-video-editing/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T04:40:13.198750"
+    "timestamp": "2026-04-01T04:51:44.702044"
+  },
+  "https://greylock.com/portfolio-news/collaborative-video-editing/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-01T04:51:44.704946"
   },
   "https://www.saastr.com/its-just-easier-to-work-with-ai-agents-and-thats-why-2027-worries-me/": {
     "count": 1,
@@ -2975,28 +2975,43 @@
     "timestamp": "2026-03-30T05:17:21.744199"
   },
   "https://openai.com/index/gpt-5-cursor/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T05:01:06.240403"
+    "timestamp": "2026-04-01T05:12:17.433079"
   },
   "https://openai.com/index/gpt-5-coding-design/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T05:00:59.519774"
+    "timestamp": "2026-04-01T05:12:10.605230"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-evaluating-founders-and-ais-consumer-surplus-Gu808y3s": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T04:39:33.610371"
+    "timestamp": "2026-04-01T04:50:12.895810"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-reevo-the-500m-bet-that-your-entire-gtm-stack-should-be-one-platform/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T05:00:15.245147"
+    "timestamp": "2026-04-01T05:11:45.777307"
   },
   "https://www.saastr.com/i-vibe-coded-10-apps-used-almost-a-million-times-then-i-had-to-stop-for-90-days/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-01T05:11:46.124715"
+  },
+  "https://a16z.simplecast.com/episodes/how-radiant-and-heron-are-rethinking-power-generation-and-delivery-M1HRtAN7": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-31T05:00:15.251095"
+    "timestamp": "2026-04-01T04:50:12.882355"
+  },
+  "https://www.saastr.com/aivpmarketingsawit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-01T05:11:46.121531"
+  },
+  "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-01T05:13:22.124087"
   }
 }
