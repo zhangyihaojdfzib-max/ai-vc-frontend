@@ -2950,9 +2950,9 @@
     "timestamp": "2026-04-01T04:51:44.652330"
   },
   "https://greylock.com/portfolio-news/scalable-least-privilege/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-01T04:51:44.702044"
+    "timestamp": "2026-04-02T04:33:43.322096"
   },
   "https://greylock.com/portfolio-news/collaborative-video-editing/": {
     "count": 3,
@@ -2985,9 +2985,9 @@
     "timestamp": "2026-04-01T05:12:10.605230"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-evaluating-founders-and-ais-consumer-surplus-Gu808y3s": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-01T04:50:12.895810"
+    "timestamp": "2026-04-02T04:33:11.012946"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-reevo-the-500m-bet-that-your-entire-gtm-stack-should-be-one-platform/": {
     "count": 2,
@@ -3000,18 +3000,58 @@
     "timestamp": "2026-04-01T05:11:46.124715"
   },
   "https://a16z.simplecast.com/episodes/how-radiant-and-heron-are-rethinking-power-generation-and-delivery-M1HRtAN7": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-01T04:50:12.882355"
+    "timestamp": "2026-04-02T04:33:10.997935"
   },
   "https://www.saastr.com/aivpmarketingsawit/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-01T05:11:46.121531"
+    "timestamp": "2026-04-02T04:57:52.583833"
   },
   "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-04-01T05:13:22.124087"
+  },
+  "https://a16z.simplecast.com/episodes/what-happens-when-a-public-company-goes-all-in-on-ai-cUCWrP64": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-02T04:33:11.010051"
+  },
+  "https://greylock.com/portfolio-news/building-blocks-for-tokenized-media/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-02T04:33:43.170049"
+  },
+  "https://greylock.com/portfolio-news/magic-eden/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-02T04:33:43.360655"
+  },
+  "https://hunterwalk.com/2026/04/01/having-said-that-its-not-a-company-that-id-start-today-my-bar-for-working-on-meaningful-problems-has-gone-up-since-i-was-24-dan-teran-on-evolving-from-a-founder-to-an/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-02T04:57:52.085718"
+  },
+  "https://www.saastr.com/grow-or-die/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-02T04:57:52.846985"
+  },
+  "https://www.saastr.com/5-honest-lessons-on-how-ai-is-actually-rewiring-b2b-sales-from-salesforce-momentum-and-mangomint/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-02T04:57:52.895965"
+  },
+  "https://openai.com/index/my-dog-the-math-tutor/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-02T04:58:22.780339"
+  },
+  "https://openai.com/index/o1-quantum-physics/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-02T04:58:30.230391"
   }
 }
