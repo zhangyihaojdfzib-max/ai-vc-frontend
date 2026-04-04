@@ -2585,9 +2585,9 @@
     "timestamp": "2026-03-20T04:17:42.413057"
   },
   "https://a16z.simplecast.com/episodes/what-comes-after-chatgpt-the-mother-of-imagenet-predicts-the-future-N6cF4ZpS": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-18T04:17:05.710825"
+    "timestamp": "2026-04-04T04:10:18.832683"
   },
   "https://greylock.com/portfolio-news/payroll-powered-financial-solutions/": {
     "count": 3,
@@ -2805,9 +2805,9 @@
     "timestamp": "2026-03-25T04:36:49.653970"
   },
   "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T05:04:13.510098"
+    "timestamp": "2026-04-04T04:27:39.677131"
   },
   "https://medium.com/airbnb-engineering/what-covid-did-to-our-forecasting-models-and-what-we-built-to-handle-the-next-shock-ccbf0e1f7fa9?source=rss----53c7c27702d5---4": {
     "count": 3,
@@ -2860,9 +2860,9 @@
     "timestamp": "2026-03-31T05:01:20.605790"
   },
   "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-03-26T05:04:13.506920"
+    "timestamp": "2026-04-04T04:27:39.550121"
   },
   "https://a16z.simplecast.com/episodes/security-resilience-and-the-future-of-mobile-infrastructure-FE05DDD_": {
     "count": 3,
@@ -3010,24 +3010,24 @@
     "timestamp": "2026-04-02T04:57:52.583833"
   },
   "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:58:10.073728"
+    "timestamp": "2026-04-04T04:27:39.349456"
   },
   "https://a16z.simplecast.com/episodes/what-happens-when-a-public-company-goes-all-in-on-ai-cUCWrP64": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:34:00.135944"
+    "timestamp": "2026-04-04T04:10:18.788210"
   },
   "https://greylock.com/portfolio-news/building-blocks-for-tokenized-media/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:34:31.864299"
+    "timestamp": "2026-04-04T04:10:54.082111"
   },
   "https://greylock.com/portfolio-news/magic-eden/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:34:31.791189"
+    "timestamp": "2026-04-04T04:10:54.065712"
   },
   "https://hunterwalk.com/2026/04/01/having-said-that-its-not-a-company-that-id-start-today-my-bar-for-working-on-meaningful-problems-has-gone-up-since-i-was-24-dan-teran-on-evolving-from-a-founder-to-an/": {
     "count": 1,
@@ -3045,63 +3045,103 @@
     "timestamp": "2026-04-02T04:57:52.895965"
   },
   "https://openai.com/index/my-dog-the-math-tutor/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:56:56.623680"
+    "timestamp": "2026-04-04T04:27:28.623357"
   },
   "https://openai.com/index/o1-quantum-physics/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:56:46.605073"
+    "timestamp": "2026-04-04T04:27:30.679160"
   },
   "https://a16z.simplecast.com/episodes/alex-blania-on-proof-of-human-and-building-worlds-identity-network-7K52fNFN": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:34:00.151404"
+    "timestamp": "2026-04-04T04:10:18.765644"
   },
   "https://greylock.com/portfolio-news/visibility-and-optimization-for-cloud-data/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:34:31.903333"
+    "timestamp": "2026-04-04T04:10:53.603605"
   },
   "https://www.saastr.com/even-the-best-agencies-eventually-run-their-course-the-best-ai-agents-wont/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:56:37.553845"
+    "timestamp": "2026-04-04T04:27:23.413862"
   },
   "https://www.saastr.com/20vc-x-saastr-anthropics-10-trillion-parameter-leak-openai-kills-sora-masas-40b-bridge-loan-and-why-the-cybersecurity-panic-is-backwards/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:56:37.880062"
+    "timestamp": "2026-04-04T04:27:22.874679"
   },
   "https://www.saastr.com/revenuecat-grew-40-last-month-alone-why-ai-tailwinds-you-gotta-find-yours/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:56:37.883190"
+    "timestamp": "2026-04-04T04:27:23.599804"
   },
   "https://openai.com/index/o1-coding/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:57:03.561341"
+    "timestamp": "2026-04-04T04:27:26.568033"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:58:10.025104"
+    "timestamp": "2026-04-04T04:27:39.243491"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T04:58:10.117104"
+    "timestamp": "2026-04-04T04:27:39.410038"
   },
   "https://medium.com/airbnb-engineering/my-journey-to-airbnb-jonathan-woodard-7efae28d7fa9?source=rss----53c7c27702d5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T05:02:14.230857"
+    "timestamp": "2026-04-04T04:29:04.703980"
   },
   "https://stripe.com/blog/shoptalk-2026": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-04T04:29:05.583289"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-winters-and-agent-breakthroughs-fsdC0VvN": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-03T05:02:14.799746"
+    "timestamp": "2026-04-04T04:10:18.795120"
+  },
+  "https://a16z.simplecast.com/episodes/the-psychology-every-founder-needs-right-now-a16z-gp-reveals-secrets-to-success-MQMWIdcC": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-04T04:10:18.871823"
+  },
+  "https://greylock.com/portfolio-news/powering-distributed-commerce/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-04T04:10:54.229715"
+  },
+  "https://greylock.com/portfolio-news/runtime-cloud-security/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-04T04:10:54.556425"
+  },
+  "https://www.saastr.com/4000-pitch-decks-later-what-the-saastr-ai-vc-analyzer-actually-does-and-what-its-taught-us-about-fundraising-in-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-04T04:27:23.198966"
+  },
+  "https://www.saastr.com/how-we-built-our-ai-vp-of-customer-success-qbee-and-how-you-can-build-yours/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-04T04:27:23.243327"
+  },
+  "https://openai.com/index/deep-research/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-04T04:27:32.738788"
+  },
+  "https://openai.com/index/ten-tiny-canvases/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-04T04:27:34.789458"
   }
 }
