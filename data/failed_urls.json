@@ -3145,14 +3145,14 @@
     "timestamp": "2026-04-06T04:43:52.861811"
   },
   "https://greylock.com/portfolio-news/bedrock-security/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:40:04.888581"
+    "timestamp": "2026-04-06T04:48:38.491658"
   },
   "https://greylock.com/portfolio-news/the-modern-pricing-platform/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:40:05.424669"
+    "timestamp": "2026-04-06T04:48:38.324145"
   },
   "https://www.saastr.com/every-scale-company-should-be-looking-at-deals-like-openai-tbpn-heres-why/": {
     "count": 2,
@@ -3185,9 +3185,9 @@
     "timestamp": "2026-04-05T04:46:41.359110"
   },
   "https://greylock.com/portfolio-news/the-data-framework-for-llms/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:40:05.370028"
+    "timestamp": "2026-04-06T04:48:38.488677"
   },
   "https://www.saastr.com/we-can-never-go-back-to-working-without-ai-agents/": {
     "count": 1,
@@ -3200,8 +3200,8 @@
     "timestamp": "2026-04-06T04:43:47.533218"
   },
   "https://openai.com/index/navigating-health-questions/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:43:59.037546"
+    "timestamp": "2026-04-06T04:54:11.698540"
   }
 }
