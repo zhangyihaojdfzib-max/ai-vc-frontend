@@ -3115,14 +3115,14 @@
     "timestamp": "2026-04-04T04:10:18.871823"
   },
   "https://greylock.com/portfolio-news/powering-distributed-commerce/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:33:22.772330"
+    "timestamp": "2026-04-06T04:40:05.174647"
   },
   "https://greylock.com/portfolio-news/runtime-cloud-security/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:33:22.840666"
+    "timestamp": "2026-04-06T04:40:04.813533"
   },
   "https://www.saastr.com/4000-pitch-decks-later-what-the-saastr-ai-vc-analyzer-actually-does-and-what-its-taught-us-about-fundraising-in-2026/": {
     "count": 2,
@@ -3135,53 +3135,73 @@
     "timestamp": "2026-04-05T04:46:25.369206"
   },
   "https://openai.com/index/deep-research/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:46:34.651137"
+    "timestamp": "2026-04-06T04:43:54.921344"
   },
   "https://openai.com/index/ten-tiny-canvases/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:46:32.589418"
+    "timestamp": "2026-04-06T04:43:52.861811"
   },
   "https://greylock.com/portfolio-news/bedrock-security/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:33:23.368266"
+    "timestamp": "2026-04-06T04:40:04.888581"
   },
   "https://greylock.com/portfolio-news/the-modern-pricing-platform/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:33:23.459583"
+    "timestamp": "2026-04-06T04:40:05.424669"
   },
   "https://www.saastr.com/every-scale-company-should-be-looking-at-deals-like-openai-tbpn-heres-why/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:46:24.887696"
+    "timestamp": "2026-04-06T04:43:47.701595"
   },
   "https://www.saastr.com/cioreplaceai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:46:25.048313"
+    "timestamp": "2026-04-06T04:43:47.177600"
   },
   "https://www.saastr.com/did-it-ever-take-you-a-year-to-close-a-sale/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:46:25.206368"
+    "timestamp": "2026-04-06T04:43:47.875784"
   },
   "https://openai.com/index/fishing-for-first-timers/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:46:28.454674"
+    "timestamp": "2026-04-06T04:43:50.804278"
   },
   "https://openai.com/index/o1-genetics/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:46:36.707794"
+    "timestamp": "2026-04-06T04:43:56.974763"
   },
   "https://blogs.nvidia.com/blog/national-robotics-week-2026/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-04-05T04:46:41.359110"
+  },
+  "https://greylock.com/portfolio-news/the-data-framework-for-llms/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-06T04:40:05.370028"
+  },
+  "https://www.saastr.com/we-can-never-go-back-to-working-without-ai-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-06T04:43:47.484622"
+  },
+  "https://www.saastr.com/come-to-saastr-ai-annual-in-may-and-well-teach-you-how-to-build-an-ai-vp-of-marketing-for-real/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-06T04:43:47.533218"
+  },
+  "https://openai.com/index/navigating-health-questions/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-06T04:43:59.037546"
   }
 }
