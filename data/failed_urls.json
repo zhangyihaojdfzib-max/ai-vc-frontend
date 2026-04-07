@@ -2585,9 +2585,9 @@
     "timestamp": "2026-03-20T04:17:42.413057"
   },
   "https://a16z.simplecast.com/episodes/what-comes-after-chatgpt-the-mother-of-imagenet-predicts-the-future-N6cF4ZpS": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-04T04:10:18.832683"
+    "timestamp": "2026-04-07T04:28:24.524724"
   },
   "https://greylock.com/portfolio-news/payroll-powered-financial-solutions/": {
     "count": 3,
@@ -3055,9 +3055,9 @@
     "timestamp": "2026-04-04T04:27:30.679160"
   },
   "https://a16z.simplecast.com/episodes/alex-blania-on-proof-of-human-and-building-worlds-identity-network-7K52fNFN": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-04T04:10:18.765644"
+    "timestamp": "2026-04-07T04:28:24.448341"
   },
   "https://greylock.com/portfolio-news/visibility-and-optimization-for-cloud-data/": {
     "count": 3,
@@ -3105,14 +3105,14 @@
     "timestamp": "2026-04-05T04:46:43.666599"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-winters-and-agent-breakthroughs-fsdC0VvN": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-04T04:10:18.795120"
+    "timestamp": "2026-04-07T04:28:24.422977"
   },
   "https://a16z.simplecast.com/episodes/the-psychology-every-founder-needs-right-now-a16z-gp-reveals-secrets-to-success-MQMWIdcC": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-04T04:10:18.871823"
+    "timestamp": "2026-04-07T04:28:24.529052"
   },
   "https://greylock.com/portfolio-news/powering-distributed-commerce/": {
     "count": 3,
@@ -3160,9 +3160,9 @@
     "timestamp": "2026-04-06T04:43:47.701595"
   },
   "https://www.saastr.com/cioreplaceai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:43:47.177600"
+    "timestamp": "2026-04-07T04:42:04.227640"
   },
   "https://www.saastr.com/did-it-ever-take-you-a-year-to-close-a-sale/": {
     "count": 2,
@@ -3180,28 +3180,83 @@
     "timestamp": "2026-04-06T04:43:56.974763"
   },
   "https://blogs.nvidia.com/blog/national-robotics-week-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-05T04:46:41.359110"
+    "timestamp": "2026-04-07T04:42:56.357307"
   },
   "https://greylock.com/portfolio-news/the-data-framework-for-llms/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:48:38.488677"
+    "timestamp": "2026-04-07T04:29:56.229509"
   },
   "https://www.saastr.com/we-can-never-go-back-to-working-without-ai-agents/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:43:47.484622"
-  },
-  "https://www.saastr.com/come-to-saastr-ai-annual-in-may-and-well-teach-you-how-to-build-an-ai-vp-of-marketing-for-real/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:43:47.533218"
-  },
-  "https://openai.com/index/navigating-health-questions/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-06T04:54:11.698540"
+    "timestamp": "2026-04-07T04:42:04.054242"
+  },
+  "https://www.saastr.com/come-to-saastr-ai-annual-in-may-and-well-teach-you-how-to-build-an-ai-vp-of-marketing-for-real/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:42:03.511549"
+  },
+  "https://openai.com/index/navigating-health-questions/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:42:30.103587"
+  },
+  "https://a16z.simplecast.com/episodes/peter-yang-on-small-teams-coding-agents-and-why-human-ambition-has-no-ceiling-SscRoe6s": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:28:24.444007"
+  },
+  "https://greylock.com/portfolio-news/next-generation-application-security/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:29:56.079383"
+  },
+  "https://greylock.com/portfolio-news/ai-co-pilot-for-compliance-teams/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:29:56.225719"
+  },
+  "https://greylock.com/portfolio-news/congrats-rockset/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:29:56.626131"
+  },
+  "https://greylock.com/portfolio-news/friends-not-followers/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:29:56.873944"
+  },
+  "https://www.saastr.com/its-sunday-on-slack-no-one-told-our-ai-agents-they-didnt-have-to-check-in/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:42:03.725726"
+  },
+  "https://www.saastr.com/openais-122b-vc-round-is-vendor-deals-contingent-capital-and-a-guaranteed-return-it-arguably-cant-afford/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:42:03.869188"
+  },
+  "https://openai.com/index/gpt-5-medical-research/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:42:23.935953"
+  },
+  "https://openai.com/index/gpt-5-first-look/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:42:25.994543"
+  },
+  "https://openai.com/index/gpt-5-creative-writing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:42:28.043292"
+  },
+  "https://openai.com/index/small-business-stories/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-07T04:42:32.164647"
   }
 }
