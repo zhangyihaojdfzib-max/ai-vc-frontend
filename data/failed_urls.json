@@ -3105,14 +3105,14 @@
     "timestamp": "2026-04-05T04:46:43.666599"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-winters-and-agent-breakthroughs-fsdC0VvN": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:28:24.422977"
+    "timestamp": "2026-04-08T04:31:16.034847"
   },
   "https://a16z.simplecast.com/episodes/the-psychology-every-founder-needs-right-now-a16z-gp-reveals-secrets-to-success-MQMWIdcC": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:28:24.529052"
+    "timestamp": "2026-04-08T04:31:16.251416"
   },
   "https://greylock.com/portfolio-news/powering-distributed-commerce/": {
     "count": 3,
@@ -3180,9 +3180,9 @@
     "timestamp": "2026-04-06T04:43:56.974763"
   },
   "https://blogs.nvidia.com/blog/national-robotics-week-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:42:56.357307"
+    "timestamp": "2026-04-08T04:37:05.246971"
   },
   "https://greylock.com/portfolio-news/the-data-framework-for-llms/": {
     "count": 3,
@@ -3205,58 +3205,113 @@
     "timestamp": "2026-04-07T04:42:30.103587"
   },
   "https://a16z.simplecast.com/episodes/peter-yang-on-small-teams-coding-agents-and-why-human-ambition-has-no-ceiling-SscRoe6s": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:28:24.444007"
+    "timestamp": "2026-04-08T04:31:16.028802"
   },
   "https://greylock.com/portfolio-news/next-generation-application-security/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:29:56.079383"
+    "timestamp": "2026-04-08T04:32:15.971699"
   },
   "https://greylock.com/portfolio-news/ai-co-pilot-for-compliance-teams/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:29:56.225719"
+    "timestamp": "2026-04-08T04:32:15.897968"
   },
   "https://greylock.com/portfolio-news/congrats-rockset/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:29:56.626131"
+    "timestamp": "2026-04-08T04:32:15.529318"
   },
   "https://greylock.com/portfolio-news/friends-not-followers/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:29:56.873944"
+    "timestamp": "2026-04-08T04:32:15.854754"
   },
   "https://www.saastr.com/its-sunday-on-slack-no-one-told-our-ai-agents-they-didnt-have-to-check-in/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:42:03.725726"
+    "timestamp": "2026-04-08T04:36:29.497561"
   },
   "https://www.saastr.com/openais-122b-vc-round-is-vendor-deals-contingent-capital-and-a-guaranteed-return-it-arguably-cant-afford/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:42:03.869188"
+    "timestamp": "2026-04-08T04:36:29.542859"
   },
   "https://openai.com/index/gpt-5-medical-research/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:42:23.935953"
+    "timestamp": "2026-04-08T04:36:51.079512"
   },
   "https://openai.com/index/gpt-5-first-look/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:42:25.994543"
+    "timestamp": "2026-04-08T04:36:53.178624"
   },
   "https://openai.com/index/gpt-5-creative-writing/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:42:28.043292"
+    "timestamp": "2026-04-08T04:36:55.312288"
   },
   "https://openai.com/index/small-business-stories/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:36:57.421924"
+  },
+  "https://a16z.simplecast.com/episodes/balaji-on-why-ai-raises-the-cost-of-verification-zv_t3DDF": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-07T04:42:32.164647"
+    "timestamp": "2026-04-08T04:31:16.009615"
+  },
+  "https://a16z.simplecast.com/episodes/why-ai-moats-still-matter-and-how-theyve-changed-eTFWb__9": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:31:16.245214"
+  },
+  "https://greylock.com/portfolio-news/warpstream/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:32:16.214063"
+  },
+  "https://review.firstround.com/inside-warps-coding-by-prompt-mandate-and-how-the-ceo-follows-it-too/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:36:18.426400"
+  },
+  "https://review.firstround.com/idea-validation-tactics-they-wont-teach-you-in-business-school/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:36:20.744006"
+  },
+  "https://www.saastr.com/anthropic-just-passed-openai-in-revenue-while-spending-4x-less-to-train-their-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:36:28.752487"
+  },
+  "https://www.saastr.com/how-databricks-sells-to-dozens-of-industries-without-building-a-single-vertical-product/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:36:28.930957"
+  },
+  "https://www.saastr.com/which-crm-should-you-use-in-2026-2027-follow-the-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:36:29.125300"
+  },
+  "https://openai.com/index/sora-lyndon-barrois/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:36:59.527405"
+  },
+  "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:37:41.086198"
+  },
+  "https://stripe.com/blog/global-checkout-trends": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-08T04:37:41.790537"
   }
 }
