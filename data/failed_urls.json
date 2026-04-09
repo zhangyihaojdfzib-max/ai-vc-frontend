@@ -3205,29 +3205,29 @@
     "timestamp": "2026-04-07T04:42:30.103587"
   },
   "https://a16z.simplecast.com/episodes/peter-yang-on-small-teams-coding-agents-and-why-human-ambition-has-no-ceiling-SscRoe6s": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:31:16.028802"
+    "timestamp": "2026-04-09T04:27:45.268015"
   },
   "https://greylock.com/portfolio-news/next-generation-application-security/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:32:15.971699"
+    "timestamp": "2026-04-09T04:29:36.870245"
   },
   "https://greylock.com/portfolio-news/ai-co-pilot-for-compliance-teams/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:32:15.897968"
+    "timestamp": "2026-04-09T04:29:36.833097"
   },
   "https://greylock.com/portfolio-news/congrats-rockset/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:32:15.529318"
+    "timestamp": "2026-04-09T04:29:36.865196"
   },
   "https://greylock.com/portfolio-news/friends-not-followers/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:32:15.854754"
+    "timestamp": "2026-04-09T04:29:37.290664"
   },
   "https://www.saastr.com/its-sunday-on-slack-no-one-told-our-ai-agents-they-didnt-have-to-check-in/": {
     "count": 2,
@@ -3240,64 +3240,64 @@
     "timestamp": "2026-04-08T04:36:29.542859"
   },
   "https://openai.com/index/gpt-5-medical-research/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:51.079512"
+    "timestamp": "2026-04-09T04:30:24.089471"
   },
   "https://openai.com/index/gpt-5-first-look/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:53.178624"
+    "timestamp": "2026-04-09T04:30:26.181716"
   },
   "https://openai.com/index/gpt-5-creative-writing/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:55.312288"
+    "timestamp": "2026-04-09T04:30:28.262279"
   },
   "https://openai.com/index/small-business-stories/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:57.421924"
+    "timestamp": "2026-04-09T04:30:30.375568"
   },
   "https://a16z.simplecast.com/episodes/balaji-on-why-ai-raises-the-cost-of-verification-zv_t3DDF": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:31:16.009615"
+    "timestamp": "2026-04-09T04:27:45.262569"
   },
   "https://a16z.simplecast.com/episodes/why-ai-moats-still-matter-and-how-theyve-changed-eTFWb__9": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:31:16.245214"
+    "timestamp": "2026-04-09T04:27:45.457630"
   },
   "https://greylock.com/portfolio-news/warpstream/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:32:16.214063"
+    "timestamp": "2026-04-09T04:29:37.260914"
   },
   "https://review.firstround.com/inside-warps-coding-by-prompt-mandate-and-how-the-ceo-follows-it-too/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:18.426400"
+    "timestamp": "2026-04-09T04:29:39.598250"
   },
   "https://review.firstround.com/idea-validation-tactics-they-wont-teach-you-in-business-school/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:20.744006"
+    "timestamp": "2026-04-09T04:29:41.886148"
   },
   "https://www.saastr.com/anthropic-just-passed-openai-in-revenue-while-spending-4x-less-to-train-their-models/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:28.752487"
+    "timestamp": "2026-04-09T04:29:57.140654"
   },
   "https://www.saastr.com/how-databricks-sells-to-dozens-of-industries-without-building-a-single-vertical-product/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:28.930957"
+    "timestamp": "2026-04-09T04:29:57.075927"
   },
   "https://www.saastr.com/which-crm-should-you-use-in-2026-2027-follow-the-agents/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:36:29.125300"
+    "timestamp": "2026-04-09T04:29:56.705460"
   },
   "https://openai.com/index/sora-lyndon-barrois/": {
     "count": 1,
@@ -3305,13 +3305,53 @@
     "timestamp": "2026-04-08T04:36:59.527405"
   },
   "https://medium.com/airbnb-engineering/building-a-high-volume-metrics-pipeline-with-opentelemetry-and-vmagent-c714d6910b45?source=rss----53c7c27702d5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:37:41.086198"
+    "timestamp": "2026-04-09T04:36:38.792312"
   },
   "https://stripe.com/blog/global-checkout-trends": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-09T04:36:39.523376"
+  },
+  "https://a16z.simplecast.com/episodes/the-agent-era-building-software-beyond-chat-with-box-ceo-aaron-levie-_HvhmObj": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-08T04:37:41.790537"
+    "timestamp": "2026-04-09T04:27:45.248972"
+  },
+  "https://a16z.simplecast.com/episodes/how-to-lead-ben-horowitz-on-my-first-million-hZ9jj4__": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-09T04:27:45.523391"
+  },
+  "https://review.firstround.com/why-sierra-built-a-design-partnership-program-on-hard-mode/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-09T04:29:44.161584"
+  },
+  "https://review.firstround.com/how-brex-is-building-an-ai-first-operations-org/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-09T04:29:46.441772"
+  },
+  "https://review.firstround.com/what-your-startup-does-and-doesnt-need-to-come-out-of-stealth/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-09T04:29:48.710351"
+  },
+  "https://www.saastr.com/weve-deployed-20-ai-agents-here-are-the-10-mistakes-almost-everyone-makes/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-09T04:29:56.649413"
+  },
+  "https://www.saastr.com/5-interesting-learnings-from-samsara-at-1-9-billion-in-arr/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-09T04:29:56.709459"
+  },
+  "https://openai.com/index/sora-minne-atairu/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-09T04:30:32.507045"
   }
 }
