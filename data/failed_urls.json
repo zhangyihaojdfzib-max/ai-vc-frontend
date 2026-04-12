@@ -3430,19 +3430,19 @@
     "timestamp": "2026-04-11T04:14:34.887413"
   },
   "https://greylock.com/portfolio-news/introducing-resolve/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-12T04:41:59.458462"
+    "timestamp": "2026-04-12T04:50:10.977515"
   },
   "https://www.usv.com/writing/2026/04/tasklet/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-12T04:42:00.166019"
+    "timestamp": "2026-04-12T04:50:11.635764"
   },
   "https://review.firstround.com/scale-smarter-not-bigger-inside-linktrees-internal-ai-adoption-playbook-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-12T04:42:01.566311"
+    "timestamp": "2026-04-12T04:50:19.565914"
   },
   "https://www.saastr.com/the-top-10-reasons-your-ai-agent-implementation-is-failing/": {
     "count": 2,
@@ -3455,9 +3455,9 @@
     "timestamp": "2026-04-12T04:42:18.424924"
   },
   "https://openai.com/index/introducing-chatgpt-health/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-12T04:42:25.177614"
+    "timestamp": "2026-04-12T04:50:53.353009"
   },
   "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/": {
     "count": 2,
@@ -3465,14 +3465,14 @@
     "timestamp": "2026-04-12T04:42:27.261798"
   },
   "https://review.firstround.com/how-to-use-your-industry-outsider-status-to-your-advantage/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-12T04:42:03.830663"
+    "timestamp": "2026-04-12T04:50:26.391335"
   },
   "https://review.firstround.com/dont-ship-your-pitch-deck-to-your-website/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-12T04:42:06.061812"
+    "timestamp": "2026-04-12T04:50:33.156795"
   },
   "https://review.firstround.com/inside-owners-zigzag-path-to-a-billion-dollar-business/": {
     "count": 1,
@@ -3495,13 +3495,23 @@
     "timestamp": "2026-04-12T04:42:18.216857"
   },
   "https://openai.com/index/introducing-gpt-5-3-codex-spark/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-12T04:42:29.358236"
+    "timestamp": "2026-04-12T04:51:45.882286"
   },
   "https://openai.com/index/ai-mental-health-research-grants/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-04-12T04:42:31.449408"
+  },
+  "https://greylock.com/greymatter/code-smarter-not-harder/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:50:10.827286"
+  },
+  "https://greylock.com/greymatter/vertical-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:50:10.981194"
   }
 }
