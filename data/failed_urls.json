@@ -3360,29 +3360,29 @@
     "timestamp": "2026-04-11T04:14:34.750052"
   },
   "https://greylock.com/portfolio-news/pepper-food-distributors/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:37.152431"
+    "timestamp": "2026-04-12T04:41:58.580950"
   },
   "https://greylock.com/greymatter/chronosphere-is-making-the-observability-platform-built-for-control/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:37.142338"
+    "timestamp": "2026-04-12T04:41:58.409078"
   },
   "https://greylock.com/portfolio-news/congrats-warpstream-and-confluent-on-joining-forces/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:37.612345"
+    "timestamp": "2026-04-12T04:41:59.483942"
   },
   "https://greylock.com/greymatter/orb-helps-companies-ship-pricing-as-fast-as-product/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:37.046347"
+    "timestamp": "2026-04-12T04:41:58.618278"
   },
   "https://www.saastr.com/20vc-x-saastr-anthropic-hit-30-billion-and-training-costs-a-quarter-of-openais-spacex-files-at-1-75-trillion-and-why-the-big-three-will-dwarf-every-ipo-of-the-last-25-years-combined/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:21:10.845736"
+    "timestamp": "2026-04-12T04:42:18.674279"
   },
   "https://www.saastr.com/meet-the-leaders-of-the-agentic-crm-revolution-at-saastr-ai-annual-2026/": {
     "count": 2,
@@ -3395,9 +3395,9 @@
     "timestamp": "2026-04-11T04:21:11.257300"
   },
   "https://openai.com/index/sora-vallee-duhamel/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:21:32.608102"
+    "timestamp": "2026-04-12T04:42:23.084707"
   },
   "https://openai.com/index/next-phase-of-enterprise-ai/": {
     "count": 1,
@@ -3430,38 +3430,78 @@
     "timestamp": "2026-04-11T04:14:34.887413"
   },
   "https://greylock.com/portfolio-news/introducing-resolve/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:37.683417"
+    "timestamp": "2026-04-12T04:41:59.458462"
   },
   "https://www.usv.com/writing/2026/04/tasklet/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:38.401431"
+    "timestamp": "2026-04-12T04:42:00.166019"
   },
   "https://review.firstround.com/scale-smarter-not-bigger-inside-linktrees-internal-ai-adoption-playbook-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:20:59.447301"
+    "timestamp": "2026-04-12T04:42:01.566311"
   },
   "https://www.saastr.com/the-top-10-reasons-your-ai-agent-implementation-is-failing/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:21:10.671664"
+    "timestamp": "2026-04-12T04:42:18.176575"
   },
   "https://www.saastr.com/the-big-3-ipos-will-dwarf-everything-else-since-2000-combined/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:21:11.027947"
+    "timestamp": "2026-04-12T04:42:18.424924"
   },
   "https://openai.com/index/introducing-chatgpt-health/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:21:38.894813"
+    "timestamp": "2026-04-12T04:42:25.177614"
   },
   "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:42:27.261798"
+  },
+  "https://review.firstround.com/how-to-use-your-industry-outsider-status-to-your-advantage/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:21:40.970307"
+    "timestamp": "2026-04-12T04:42:03.830663"
+  },
+  "https://review.firstround.com/dont-ship-your-pitch-deck-to-your-website/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:42:06.061812"
+  },
+  "https://review.firstround.com/inside-owners-zigzag-path-to-a-billion-dollar-business/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:42:08.288781"
+  },
+  "https://review.firstround.com/why-linear-puts-craft-above-all-metrics/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:42:10.523830"
+  },
+  "https://www.saastr.com/databricks-only-19-of-organizations-have-deployed-ai-agents-but-theyre-already-creating-97-of-databases/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:42:17.802471"
+  },
+  "https://www.saastr.com/the-leading-public-software-companies-are-now-down-50-in-the-last-6-months/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:42:18.216857"
+  },
+  "https://openai.com/index/introducing-gpt-5-3-codex-spark/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:42:29.358236"
+  },
+  "https://openai.com/index/ai-mental-health-research-grants/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-12T04:42:31.449408"
   }
 }
