@@ -3400,9 +3400,9 @@
     "timestamp": "2026-04-12T04:42:23.084707"
   },
   "https://openai.com/index/next-phase-of-enterprise-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:58:16.683132"
+    "timestamp": "2026-04-13T05:19:33.382224"
   },
   "https://openai.com/index/updating-model-spec-with-teen-protections/": {
     "count": 2,
@@ -3475,14 +3475,14 @@
     "timestamp": "2026-04-13T04:57:52.681235"
   },
   "https://review.firstround.com/inside-owners-zigzag-path-to-a-billion-dollar-business/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:57:54.874890"
+    "timestamp": "2026-04-13T05:17:39.979090"
   },
   "https://review.firstround.com/why-linear-puts-craft-above-all-metrics/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:57:57.069107"
+    "timestamp": "2026-04-13T05:17:46.532871"
   },
   "https://www.saastr.com/databricks-only-19-of-organizations-have-deployed-ai-agents-but-theyre-already-creating-97-of-databases/": {
     "count": 2,
@@ -3505,19 +3505,19 @@
     "timestamp": "2026-04-13T04:58:14.624467"
   },
   "https://greylock.com/greymatter/code-smarter-not-harder/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:53:36.603369"
+    "timestamp": "2026-04-13T05:17:33.663272"
   },
   "https://greylock.com/greymatter/vertical-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:53:36.610794"
+    "timestamp": "2026-04-13T05:17:33.854748"
   },
   "https://greylock.com/core-talent/building-your-best-team/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:53:36.556467"
+    "timestamp": "2026-04-13T05:17:33.885503"
   },
   "https://greylock.com/press/greylock-backed-resolve-ai-raises-35-million-in-seed-funding-to-help-engineers/": {
     "count": 1,
@@ -3525,9 +3525,9 @@
     "timestamp": "2026-04-13T04:53:37.612909"
   },
   "https://review.firstround.com/how-carta-saves-3-500-hours-per-month-using-ai-agents/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:57:59.279797"
+    "timestamp": "2026-04-13T05:17:53.072066"
   },
   "https://www.saastr.com/i-love-canva-its-cheap-i-might-cancel-anyway-because-of-ai-and-thats-a-warning-for-every-b2b-vendor/": {
     "count": 1,
