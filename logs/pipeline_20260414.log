@@ -1,0 +1,280 @@
+2026-04-14 04:40:46,937 - INFO - 项目根目录: /home/runner/work/ai-vc-frontend/ai-vc-frontend
+2026-04-14 04:40:46,937 - INFO - 配置文件: /home/runner/work/ai-vc-frontend/ai-vc-frontend/data/sources.yaml
+2026-04-14 04:40:46,984 - INFO - ============================================================
+2026-04-14 04:40:46,984 - INFO - 开始处理 - 2026-04-14 04:40:46
+2026-04-14 04:40:46,984 - INFO - 参数: source=None, max=5, workers=3
+2026-04-14 04:40:46,984 - INFO - ============================================================
+2026-04-14 04:40:46,984 - INFO - 处理源: Y Combinator
+2026-04-14 04:40:47,495 - INFO - [ycombinator] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:40:47,496 - INFO -   没有新文章
+2026-04-14 04:40:47,497 - INFO - 处理源: Andreessen Horowitz (a16z)
+2026-04-14 04:40:49,991 - INFO - [a16z] 从RSS获取 5 篇待处理文章（共 910 篇未处理）
+2026-04-14 04:40:49,996 - INFO -   [1/5] Building Agents at Home: Parenting, Work, and Bene...
+2026-04-14 04:40:49,997 - INFO -   [2/5] What Running Windows at Microsoft Taught Steven Si...
+2026-04-14 04:40:49,998 - INFO -   [3/5] Who Controls AI Acceleration? Vitalik Buterin and ...
+2026-04-14 04:40:50,253 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:50,261 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:50,267 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:50,378 - INFO -   [4/5] The $700 Billion AI Productivity Problem No One's ...
+2026-04-14 04:40:50,537 - INFO -   [5/5] How OpenAI Builds for 800 Million Weekly Users: Mo...
+2026-04-14 04:40:50,569 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:50,703 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:51,030 - INFO - 处理源: 红杉资本 (Sequoia)
+2026-04-14 04:40:51,851 - INFO - [sequoia] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:40:51,852 - INFO -   没有新文章
+2026-04-14 04:40:51,852 - INFO - 处理源: Greylock Partners
+2026-04-14 04:40:52,103 - INFO - [greylock] 从Sitemap获取 5 篇待处理文章（共 138 篇未处理）
+2026-04-14 04:40:52,105 - INFO -   [1/5] ...
+2026-04-14 04:40:52,105 - INFO -   [2/5] ...
+2026-04-14 04:40:52,106 - INFO -   [3/5] ...
+2026-04-14 04:40:52,447 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:52,582 - INFO -   [4/5] ...
+2026-04-14 04:40:52,934 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:53,024 - INFO -   [5/5] ...
+2026-04-14 04:40:53,353 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:53,374 - ERROR - 内容提取失败: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/technology/artificial-intelligence/greylock-backed-resolve-ai-raises-35-million-seed-funding-help-engineers-2024-10-01/
+2026-04-14 04:40:53,376 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:53,401 - ERROR - 内容提取失败: HTTPSConnectionPool(host='news.greylock.com', port=443): Max retries exceeded with url: /welcome-holly-rose-faith-as-greylocks-executive-talent-partner-705f29078172 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
+2026-04-14 04:40:53,401 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:53,820 - INFO - 处理源: Union Square Ventures
+2026-04-14 04:40:54,222 - INFO - [usv] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:40:54,223 - INFO -   没有新文章
+2026-04-14 04:40:54,223 - INFO - 处理源: Unusual Ventures
+2026-04-14 04:40:54,703 - INFO - [unusual-ventures] Feed未更新 (304)
+2026-04-14 04:40:54,704 - INFO -   没有新文章
+2026-04-14 04:40:54,704 - INFO - 处理源: First Round Review
+2026-04-14 04:40:54,860 - WARNING - [Playwright] 初始化失败: name 'Page' is not defined
+2026-04-14 04:40:55,330 - INFO - [first-round-review] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:40:55,502 - INFO - [first-round-review] 从Sitemap获取 5 篇待处理文章（共 753 篇未处理）
+2026-04-14 04:40:55,504 - INFO -   [1/5] ...
+2026-04-14 04:40:55,697 - INFO -     提取: 2 文本块, 0 图片
+2026-04-14 04:40:55,698 - WARNING -     内容获取失败，跳过
+2026-04-14 04:40:57,824 - INFO -   [2/5] ...
+2026-04-14 04:40:58,137 - INFO -     提取: 2 文本块, 0 图片
+2026-04-14 04:40:58,138 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:00,438 - INFO -   [3/5] ...
+2026-04-14 04:41:00,691 - INFO -     提取: 2 文本块, 0 图片
+2026-04-14 04:41:00,692 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:02,772 - INFO -   [4/5] ...
+2026-04-14 04:41:03,048 - INFO -     提取: 2 文本块, 0 图片
+2026-04-14 04:41:03,049 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:05,052 - INFO -   [5/5] ...
+2026-04-14 04:41:05,327 - INFO -     提取: 2 文本块, 0 图片
+2026-04-14 04:41:05,328 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:07,331 - INFO - 处理源: NFX
+2026-04-14 04:41:07,777 - INFO - [nfx] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:07,778 - INFO -   没有新文章
+2026-04-14 04:41:07,778 - INFO - 处理源: Point Nine Capital
+2026-04-14 04:41:08,078 - INFO - [point-nine] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:08,079 - INFO -   没有新文章
+2026-04-14 04:41:08,079 - INFO - 处理源: Boldstart Ventures
+2026-04-14 04:41:08,789 - INFO - [boldstart] Feed未更新 (304)
+2026-04-14 04:41:08,790 - INFO -   没有新文章
+2026-04-14 04:41:08,791 - INFO - 处理源: Paul Graham
+2026-04-14 04:41:09,105 - INFO - [paul-graham] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:09,105 - INFO -   没有新文章
+2026-04-14 04:41:09,105 - INFO - 处理源: Benedict Evans
+2026-04-14 04:41:09,352 - INFO - [benedict-evans] Feed未更新 (304)
+2026-04-14 04:41:09,353 - INFO -   没有新文章
+2026-04-14 04:41:09,353 - INFO - 处理源: Fred Wilson (AVC)
+2026-04-14 04:41:11,707 - INFO - [fred-wilson] Feed未更新 (304)
+2026-04-14 04:41:11,708 - INFO -   没有新文章
+2026-04-14 04:41:11,708 - INFO - 处理源: Brad Feld
+2026-04-14 04:41:11,905 - INFO - [brad-feld] Feed未更新 (304)
+2026-04-14 04:41:11,906 - INFO -   没有新文章
+2026-04-14 04:41:11,906 - INFO - 处理源: Bill Gurley
+2026-04-14 04:41:12,049 - INFO - [bill-gurley] Feed未更新 (304)
+2026-04-14 04:41:12,050 - INFO -   没有新文章
+2026-04-14 04:41:12,050 - INFO - 处理源: Andrew Chen
+2026-04-14 04:41:12,389 - INFO - [andrew-chen] Feed未更新 (304)
+2026-04-14 04:41:12,391 - INFO -   没有新文章
+2026-04-14 04:41:12,391 - INFO - 处理源: Hunter Walk
+2026-04-14 04:41:12,497 - INFO - [hunter-walk] Feed未更新 (304)
+2026-04-14 04:41:12,498 - INFO -   没有新文章
+2026-04-14 04:41:12,498 - INFO - 处理源: Jason Lemkin (SaaStr)
+2026-04-14 04:41:12,835 - INFO - [saastr] 从RSS获取 5 篇待处理文章（共 9 篇未处理）
+2026-04-14 04:41:12,837 - INFO -   [1/5] Come Join Us at the 2026 SaaStr AI CMO Summit on M...
+2026-04-14 04:41:12,837 - INFO -   [2/5] Why No One Has Enough FDEs, Why CS Can’t Fill The ...
+2026-04-14 04:41:12,837 - INFO -   [3/5] 250 No-Cost Passes to SaaStr AI Annual for the Nex...
+2026-04-14 04:41:13,038 - ERROR - 内容提取失败: 429 Client Error: Too Many Requests for url: https://www.saastr.com/why-no-one-has-enough-fdes-why-cs-cant-fill-the-gaps-and-why-agents-most-cant-deploy-themselves-today/
+2026-04-14 04:41:13,039 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:13,099 - INFO -   [4/5] I Love Canva. It’s Cheap. I Might Cancel Anyway Be...
+2026-04-14 04:41:13,174 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:13,290 - INFO -   [5/5] The Leading Public Software Companies Are Now Down...
+2026-04-14 04:41:13,314 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:13,480 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:13,684 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:13,695 - INFO - 处理源: Tomasz Tunguz
+2026-04-14 04:41:13,898 - INFO - [tomasz-tunguz] 从RSS获取 1 篇待处理文章（共 1 篇未处理）
+2026-04-14 04:41:13,899 - INFO -   [1/1] The Beginning of Scarcity in AI...
+2026-04-14 04:41:14,677 - INFO -     提取: 9 文本块, 1 图片
+2026-04-14 04:41:14,679 - INFO -     开始翻译正文（2156 字符）...
+2026-04-14 04:41:14,679 - INFO -     翻译第 1/1 段...
+2026-04-14 04:41:29,127 - INFO -     生成元数据...
+2026-04-14 04:41:35,582 - INFO -     ✓ 生成文章: 2026-04-13-tomasz-tunguz-284c17f9.md
+2026-04-14 04:41:35,584 - INFO - 处理源: OpenAI
+2026-04-14 04:41:36,137 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:36,485 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:36,950 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:37,177 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:37,427 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:37,732 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:37,971 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:38,351 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:38,622 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:38,971 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:39,274 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:39,494 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:39,713 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:39,951 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:40,199 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:40,618 - INFO - [openai] 从Sitemap获取 5 篇待处理文章（共 179 篇未处理）
+2026-04-14 04:41:40,621 - INFO -   [1/5] ...
+2026-04-14 04:41:40,713 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://openai.com/index/put-ai-to-work-for-your-product-team/
+2026-04-14 04:41:40,714 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:42,717 - INFO -   [2/5] ...
+2026-04-14 04:41:42,821 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://openai.com/index/updating-model-spec-with-teen-protections/
+2026-04-14 04:41:42,822 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:44,825 - INFO -   [3/5] ...
+2026-04-14 04:41:44,935 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://openai.com/index/teen-safety-freedom-and-privacy/
+2026-04-14 04:41:44,936 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:46,939 - INFO -   [4/5] ...
+2026-04-14 04:41:47,032 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://openai.com/index/introducing-the-teen-safety-blueprint/
+2026-04-14 04:41:47,033 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:49,036 - INFO -   [5/5] ...
+2026-04-14 04:41:49,138 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://openai.com/index/our-approach-to-age-prediction/
+2026-04-14 04:41:49,139 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:51,142 - INFO - 处理源: Anthropic
+2026-04-14 04:41:51,431 - INFO - [anthropic] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:51,432 - INFO -   没有新文章
+2026-04-14 04:41:51,432 - INFO - 处理源: Google DeepMind
+2026-04-14 04:41:51,823 - INFO - [deepmind] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:51,824 - INFO -   没有新文章
+2026-04-14 04:41:51,824 - INFO - 处理源: Google AI Blog
+2026-04-14 04:41:52,751 - INFO - [google-ai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:52,753 - INFO -   没有新文章
+2026-04-14 04:41:52,753 - INFO - 处理源: Microsoft Research
+2026-04-14 04:41:53,654 - INFO - [microsoft-research] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:53,655 - INFO -   没有新文章
+2026-04-14 04:41:53,655 - INFO - 处理源: NVIDIA AI Blog
+2026-04-14 04:41:53,926 - INFO - [nvidia-ai] 从RSS获取 1 篇待处理文章（共 1 篇未处理）
+2026-04-14 04:41:53,928 - INFO -   [1/1] Strength and Destiny Collide: ‘Samson: A Tyndalsto...
+2026-04-14 04:41:54,143 - WARNING -     内容获取失败，跳过
+2026-04-14 04:41:54,147 - INFO - 处理源: Hugging Face Blog
+2026-04-14 04:41:54,297 - INFO - [huggingface] Feed未更新 (304)
+2026-04-14 04:41:54,298 - INFO -   没有新文章
+2026-04-14 04:41:54,298 - INFO - 处理源: Berkeley AI Research (BAIR)
+2026-04-14 04:41:54,584 - INFO - [berkeley-ai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:54,585 - INFO -   没有新文章
+2026-04-14 04:41:54,585 - INFO - 处理源: Stanford HAI
+2026-04-14 04:41:54,769 - INFO - [stanford-hai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:54,770 - INFO -   没有新文章
+2026-04-14 04:41:54,770 - INFO - 处理源: LangChain Blog
+2026-04-14 04:41:55,347 - INFO - [langchain] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:55,348 - INFO -   没有新文章
+2026-04-14 04:41:55,348 - INFO - 处理源: Replicate Blog
+2026-04-14 04:41:55,555 - INFO - [replicate] Feed未更新 (304)
+2026-04-14 04:41:55,556 - INFO -   没有新文章
+2026-04-14 04:41:55,556 - INFO - 处理源: Airbnb Engineering
+2026-04-14 04:41:55,883 - INFO - [airbnb-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:55,884 - INFO -   没有新文章
+2026-04-14 04:41:55,884 - INFO - 处理源: Stripe Blog
+2026-04-14 04:41:56,053 - INFO - [stripe-blog] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:41:56,054 - INFO -   没有新文章
+2026-04-14 04:41:56,055 - INFO - 处理源: Cloudflare Blog
+2026-04-14 04:41:56,534 - INFO - [cloudflare-blog] 从RSS获取 4 篇待处理文章（共 4 篇未处理）
+2026-04-14 04:41:56,536 - INFO -   [1/4] Building a CLI for all of Cloudflare...
+2026-04-14 04:41:56,536 - INFO -   [2/4] Durable Objects in Dynamic Workers: Give each AI-g...
+2026-04-14 04:41:56,537 - INFO -   [3/4] Agents have their own computers with Sandboxes GA...
+2026-04-14 04:41:57,197 - INFO -     提取: 38 文本块, 1 图片
+2026-04-14 04:41:57,198 - INFO -     开始翻译正文（11648 字符）...
+2026-04-14 04:41:57,198 - INFO -     翻译第 1/2 段...
+2026-04-14 04:41:57,214 - INFO -     提取: 70 文本块, 1 图片
+2026-04-14 04:41:57,215 - INFO -     开始翻译正文（15322 字符）...
+2026-04-14 04:41:57,215 - INFO -     翻译第 1/2 段...
+2026-04-14 04:41:57,282 - INFO -     提取: 36 文本块, 1 图片
+2026-04-14 04:41:57,284 - INFO -     开始翻译正文（9634 字符）...
+2026-04-14 04:41:57,284 - INFO -     翻译第 1/2 段...
+2026-04-14 04:42:38,898 - INFO -     翻译第 2/2 段...
+2026-04-14 04:42:39,629 - INFO -     翻译第 2/2 段...
+2026-04-14 04:42:43,578 - INFO -     翻译第 2/2 段...
+2026-04-14 04:42:51,240 - INFO -     生成元数据...
+2026-04-14 04:42:57,756 - INFO -     ✓ 生成文章: 2026-04-13-cloudflare-blog-d1cb113d.md
+2026-04-14 04:42:57,758 - INFO -   [4/4] Dynamic, identity-aware, and secure Sandbox auth...
+2026-04-14 04:42:58,444 - INFO -     提取: 62 文本块, 1 图片
+2026-04-14 04:42:58,445 - INFO -     开始翻译正文（17337 字符）...
+2026-04-14 04:42:58,445 - INFO -     翻译第 1/3 段...
+2026-04-14 04:43:04,122 - INFO -     生成元数据...
+2026-04-14 04:43:10,771 - INFO -     ✓ 生成文章: 2026-04-13-cloudflare-blog-09d7d912.md
+2026-04-14 04:43:24,202 - INFO -     生成元数据...
+2026-04-14 04:43:30,405 - INFO -     ✓ 生成文章: 2026-04-13-cloudflare-blog-eb33bc5f.md
+2026-04-14 04:43:41,939 - INFO -     翻译第 2/3 段...
+2026-04-14 04:44:30,613 - INFO -     翻译第 3/3 段...
+2026-04-14 04:44:41,925 - INFO -     生成元数据...
+2026-04-14 04:44:49,072 - INFO -     ✓ 生成文章: 2026-04-13-cloudflare-blog-f0079e3b.md
+2026-04-14 04:44:49,074 - INFO - 处理源: Vercel Blog
+2026-04-14 04:44:50,831 - INFO - [vercel-blog] 从RSS获取 5 篇待处理文章（共 1046 篇未处理）
+2026-04-14 04:44:50,835 - INFO -   [1/5] The AI Cloud: A unified platform for AI workloads...
+2026-04-14 04:44:50,835 - INFO -   [2/5] Vercel Blob now available in all Vercel Regions...
+2026-04-14 04:44:50,837 - INFO -   [3/5] v0 Platform API now in beta...
+2026-04-14 04:44:52,051 - INFO -     提取: 7 文本块, 2 图片
+2026-04-14 04:44:52,053 - INFO -     开始翻译正文（868 字符）...
+2026-04-14 04:44:52,053 - INFO -     翻译第 1/1 段...
+2026-04-14 04:44:52,335 - INFO -     提取: 6 文本块, 2 图片
+2026-04-14 04:44:52,336 - INFO -     开始翻译正文（527 字符）...
+2026-04-14 04:44:52,336 - INFO -     翻译第 1/1 段...
+2026-04-14 04:44:55,841 - INFO -     提取: 62 文本块, 20 图片
+2026-04-14 04:44:55,843 - INFO -     开始翻译正文（14609 字符）...
+2026-04-14 04:44:55,843 - INFO -     翻译第 1/2 段...
+2026-04-14 04:44:57,296 - INFO -     生成元数据...
+2026-04-14 04:44:58,073 - INFO -     生成元数据...
+2026-04-14 04:45:02,713 - INFO -     ✓ 生成文章: 2025-07-10-vercel-blog-450959c9.md
+2026-04-14 04:45:02,715 - INFO -   [4/5] Web Application Firewall control now available wit...
+2026-04-14 04:45:03,269 - INFO -     提取: 10 文本块, 0 图片
+2026-04-14 04:45:03,271 - INFO -     开始翻译正文（1323 字符）...
+2026-04-14 04:45:03,271 - INFO -     翻译第 1/1 段...
+2026-04-14 04:45:04,747 - INFO -     ✓ 生成文章: 2025-07-09-vercel-blog-f6249b6b.md
+2026-04-14 04:45:04,749 - INFO -   [5/5] Inngest joins the Vercel Marketplace...
+2026-04-14 04:45:05,745 - INFO -     提取: 6 文本块, 2 图片
+2026-04-14 04:45:05,746 - INFO -     开始翻译正文（791 字符）...
+2026-04-14 04:45:05,747 - INFO -     翻译第 1/1 段...
+2026-04-14 04:45:11,935 - INFO -     生成元数据...
+2026-04-14 04:45:14,385 - INFO -     生成元数据...
+2026-04-14 04:45:18,827 - INFO -     ✓ 生成文章: 2025-07-09-vercel-blog-08ab1d34.md
+2026-04-14 04:45:20,875 - INFO -     ✓ 生成文章: 2025-07-09-vercel-blog-386702a4.md
+2026-04-14 04:45:41,294 - INFO -     翻译第 2/2 段...
+2026-04-14 04:46:21,403 - INFO -     生成元数据...
+2026-04-14 04:46:27,476 - INFO -     ✓ 生成文章: 2025-07-10-vercel-blog-bb65f755.md
+2026-04-14 04:46:27,478 - INFO - 处理源: Databricks Blog
+2026-04-14 04:46:27,706 - INFO - [databricks-blog] 从RSS获取 2 篇待处理文章（共 2 篇未处理）
+2026-04-14 04:46:27,707 - INFO -   [1/2] Lovable + Databricks: Build Data-Driven Apps at th...
+2026-04-14 04:46:27,707 - INFO -   [2/2] What is Agentic Analytics?...
+2026-04-14 04:46:28,175 - INFO -     提取: 9 文本块, 0 图片
+2026-04-14 04:46:28,176 - INFO -     开始翻译正文（2632 字符）...
+2026-04-14 04:46:28,176 - INFO -     翻译第 1/1 段...
+2026-04-14 04:46:28,398 - INFO -     提取: 165 文本块, 0 图片
+2026-04-14 04:46:28,399 - INFO -     开始翻译正文（36404 字符）...
+2026-04-14 04:46:28,400 - INFO -     翻译第 1/5 段...
+2026-04-14 04:46:42,714 - INFO -     生成元数据...
+2026-04-14 04:46:48,578 - INFO -     ✓ 生成文章: 2026-04-13-databricks-blog-6acb3d26.md
+2026-04-14 04:47:04,519 - INFO -     翻译第 2/5 段...
+2026-04-14 04:47:41,299 - INFO -     翻译第 3/5 段...
+2026-04-14 04:48:17,396 - INFO -     翻译第 4/5 段...
+2026-04-14 04:48:51,325 - INFO -     翻译第 5/5 段...
+2026-04-14 04:49:16,688 - INFO -     生成元数据...
+2026-04-14 04:49:22,261 - INFO -     ✓ 生成文章: 2026-04-10-databricks-blog-5d501956.md
+2026-04-14 04:49:22,263 - INFO - 处理源: Spotify Engineering
+2026-04-14 04:49:22,617 - INFO - [spotify-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:49:22,618 - INFO -   没有新文章
+2026-04-14 04:49:22,618 - INFO - 处理源: DoorDash Engineering
+2026-04-14 04:49:22,852 - INFO - [doordash-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:49:22,853 - INFO -   没有新文章
+2026-04-14 04:49:22,853 - INFO - 处理源: Discord Engineering
+2026-04-14 04:49:23,011 - INFO - [discord-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:49:23,013 - INFO -   没有新文章
+2026-04-14 04:49:23,013 - INFO - 处理源: Supabase Blog
+2026-04-14 04:49:23,230 - INFO - [supabase-blog] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-04-14 04:49:23,230 - INFO -   没有新文章
+2026-04-14 04:49:23,230 - INFO - ============================================================
+2026-04-14 04:49:23,230 - INFO - 处理完成！共处理 12 篇文章
+2026-04-14 04:49:23,230 - INFO - ============================================================

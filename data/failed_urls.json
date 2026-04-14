@@ -3355,9 +3355,9 @@
     "timestamp": "2026-04-11T04:21:36.796873"
   },
   "https://a16z.simplecast.com/episodes/who-controls-ai-acceleration-vitalik-buterin-and-guillaume-verdon-debate-KT8QsnrV": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:34.750052"
+    "timestamp": "2026-04-14T04:40:50.253575"
   },
   "https://greylock.com/portfolio-news/pepper-food-distributors/": {
     "count": 3,
@@ -3405,14 +3405,14 @@
     "timestamp": "2026-04-13T05:19:33.382224"
   },
   "https://openai.com/index/updating-model-spec-with-teen-protections/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:58:18.737515"
+    "timestamp": "2026-04-14T04:41:42.822463"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-samson-a-tyndalston-story/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:21:47.841857"
+    "timestamp": "2026-04-14T04:41:54.143887"
   },
   "https://replicate.com/blog/replicate-scaffold": {
     "count": 2,
@@ -3420,14 +3420,14 @@
     "timestamp": "2026-04-11T04:21:50.083192"
   },
   "https://a16z.simplecast.com/episodes/what-running-windows-at-microsoft-taught-steven-sinofsky-about-apple-hDzslODI": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:34.722044"
+    "timestamp": "2026-04-14T04:40:50.378435"
   },
   "https://a16z.simplecast.com/episodes/the-700-billion-ai-productivity-problem-no-ones-talking-about-Teh8ToO6": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-11T04:14:34.887413"
+    "timestamp": "2026-04-14T04:40:50.714284"
   },
   "https://greylock.com/portfolio-news/introducing-resolve/": {
     "count": 3,
@@ -3490,9 +3490,9 @@
     "timestamp": "2026-04-13T04:58:06.884427"
   },
   "https://www.saastr.com/the-leading-public-software-companies-are-now-down-50-in-the-last-6-months/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:58:06.728872"
+    "timestamp": "2026-04-14T04:41:13.684289"
   },
   "https://openai.com/index/introducing-gpt-5-3-codex-spark/": {
     "count": 3,
@@ -3515,33 +3515,108 @@
     "timestamp": "2026-04-13T05:17:33.854748"
   },
   "https://greylock.com/core-talent/building-your-best-team/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T05:17:33.885503"
+    "timestamp": "2026-04-14T04:40:52.447238"
   },
   "https://greylock.com/press/greylock-backed-resolve-ai-raises-35-million-in-seed-funding-to-help-engineers/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:53:37.612909"
-  },
-  "https://review.firstround.com/how-carta-saves-3-500-hours-per-month-using-ai-agents/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T05:17:53.072066"
+    "timestamp": "2026-04-14T04:40:53.500502"
+  },
+  "https://review.firstround.com/how-carta-saves-3-500-hours-per-month-using-ai-agents/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:40:55.698339"
   },
   "https://www.saastr.com/i-love-canva-its-cheap-i-might-cancel-anyway-because-of-ai-and-thats-a-warning-for-every-b2b-vendor/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:58:06.393123"
+    "timestamp": "2026-04-14T04:41:13.480984"
   },
   "https://www.saastr.com/250-no-cost-passes-to-saastr-ai-annual-for-the-next-generation-of-underrepresented-revenue-leaders-apply-now/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-13T04:58:06.723841"
+    "timestamp": "2026-04-14T04:41:13.179432"
   },
   "https://openai.com/index/mattels-iconic-brands/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-04-13T04:58:10.515856"
+  },
+  "https://a16z.simplecast.com/episodes/building-agents-at-home-parenting-work-and-benevolent-neglect-mKYG4LEo": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:40:50.537343"
+  },
+  "https://a16z.simplecast.com/episodes/how-openai-builds-for-800-million-weekly-users-model-specialization-and-fine-tuning-v_5pBldU": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:40:50.860644"
+  },
+  "https://greylock.com/marketing/julia-boorstin-when-women-lead/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:40:52.934372"
+  },
+  "https://greylock.com/marketing/startups-and-media-part-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:40:53.353676"
+  },
+  "https://greylock.com/firm-news/welcome-holly-rose-faith-as-greylocks-executive-talent-partner/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:40:53.670935"
+  },
+  "https://review.firstround.com/a-new-publication-from-first-round-applied-intelligence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:40:58.139014"
+  },
+  "https://review.firstround.com/stop-playing-customer-success-hero-heres-how-to-build-your-first-team/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:00.692396"
+  },
+  "https://review.firstround.com/founders-youre-missing-this-key-step-on-the-path-to-product-market-fit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:03.049663"
+  },
+  "https://review.firstround.com/how-to-avoid-a-co-founder-breakup-before-series-b/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:05.328606"
+  },
+  "https://www.saastr.com/why-no-one-has-enough-fdes-why-cs-cant-fill-the-gaps-and-why-agents-most-cant-deploy-themselves-today/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:13.039822"
+  },
+  "https://www.saastr.com/come-join-us-at-the-2026-saastr-ai-cmo-summit-our-4th-with-snowflake-cmo-denise-persson-and-150-of-the-top-b2b-marketing-leaders/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:13.314182"
+  },
+  "https://openai.com/index/put-ai-to-work-for-your-product-team/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:40.714604"
+  },
+  "https://openai.com/index/teen-safety-freedom-and-privacy/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:44.936461"
+  },
+  "https://openai.com/index/introducing-the-teen-safety-blueprint/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:47.033714"
+  },
+  "https://openai.com/index/our-approach-to-age-prediction/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-14T04:41:49.139251"
   }
 }
