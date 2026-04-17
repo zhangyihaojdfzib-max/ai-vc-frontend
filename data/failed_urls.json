@@ -3585,9 +3585,9 @@
     "timestamp": "2026-04-16T04:52:32.025480"
   },
   "https://review.firstround.com/how-to-avoid-a-co-founder-breakup-before-series-b/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-15T04:41:23.624604"
+    "timestamp": "2026-04-17T04:44:25.821435"
   },
   "https://www.saastr.com/why-no-one-has-enough-fdes-why-cs-cant-fill-the-gaps-and-why-agents-most-cant-deploy-themselves-today/": {
     "count": 2,
@@ -3620,14 +3620,14 @@
     "timestamp": "2026-04-14T04:41:49.139251"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-ai-infrastructure-economics-and-the-new-laws-of-software-UjwFC_OO": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:47:06.891721"
+    "timestamp": "2026-04-17T04:44:22.090829"
   },
   "https://greylock.com/portfolio-news/our-investment-in-coinbase/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:47:39.605417"
+    "timestamp": "2026-04-17T04:44:23.542683"
   },
   "https://www.saastr.com/anthropic-only-has-5000-employees-almost-no-one-has-ever-been-this-efficient-thats-by-choice/": {
     "count": 2,
@@ -3645,29 +3645,29 @@
     "timestamp": "2026-04-16T04:53:09.051217"
   },
   "https://openai.com/index/people-first-ai-fund/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:53:11.112634"
+    "timestamp": "2026-04-17T04:44:46.650418"
   },
   "https://medium.com/airbnb-engineering/privacy-first-connections-empowering-social-experiences-at-airbnb-d7dec59ef960?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T05:00:13.524079"
+    "timestamp": "2026-04-17T04:49:39.242027"
   },
   "https://a16z.simplecast.com/episodes/replits-ceo-on-vibe-coding-wealth-building-and-what-most-people-get-wrong-about-ai-YIXmaTPH": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:47:06.912023"
+    "timestamp": "2026-04-17T04:44:22.062434"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-why-open-source-ai-will-determine-americas-future-kn8ZWyJb": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:47:07.046234"
+    "timestamp": "2026-04-17T04:44:22.140258"
   },
   "https://greylock.com/firm-news/welcome-neiman-mathew/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:47:37.885287"
+    "timestamp": "2026-04-17T04:44:23.142915"
   },
   "https://www.saastr.com/5-interesting-learnings-from-klaviyo-at-1-2-billion-in-arr-32-growth-110-nrr-and-somehow-only-4x-revenue/": {
     "count": 1,
@@ -3675,28 +3675,108 @@
     "timestamp": "2026-04-16T04:52:39.176731"
   },
   "https://www.saastr.com/our-1-25-humans-20-ai-agents-closed-140-of-what-our-all-human-sales-team-did-last-year-but-im-not-sure-thats-the-real-story/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:52:39.477381"
+    "timestamp": "2026-04-17T04:44:42.200401"
   },
   "https://www.saastr.com/introducing-the-agents-a-new-weekly-show-where-we-share-everything-happening-with-our-20-ai-agents-in-production-the-good-the-bad-and-the-broken/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:52:39.553760"
+    "timestamp": "2026-04-17T04:44:42.021002"
   },
   "https://openai.com/index/people-first-ai-fund-grantees/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:53:06.998385"
+    "timestamp": "2026-04-17T04:44:48.730361"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:54:18.860475"
+    "timestamp": "2026-04-17T04:46:24.698855"
   },
   "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:46:24.695129"
+  },
+  "https://a16z.simplecast.com/episodes/technology-culture-and-the-next-ai-interface-with-signull-4oQgR1i2": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:54:18.958342"
+    "timestamp": "2026-04-17T04:44:22.085017"
+  },
+  "https://a16z.simplecast.com/episodes/the-secret-marketing-strategy-that-built-a16z-from-zero-to-legendary-vc-firm-PXH21e_P": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:22.189870"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-aurora-a-safe-path-to-scale-autonomous-vehicles/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:23.550865"
+  },
+  "https://greylock.com/firm-news/welcome-glen-evans-as-vice-president-of-core-talent/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:23.725613"
+  },
+  "https://greylock.com/greymatter/notable-health-modernizing-the-medical-experience/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:24.213907"
+  },
+  "https://review.firstround.com/the-trap-of-weak-product-market-fit-lessons-from-mercurys-founder/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:28.041163"
+  },
+  "https://review.firstround.com/when-founders-should-quit-as-head-of-product-and-hire-the-first-pm/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:30.253919"
+  },
+  "https://review.firstround.com/how-a-high-school-dropout-built-one-of-the-worlds-most-used-developer-tools/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:32.451102"
+  },
+  "https://review.firstround.com/the-other-pmf-how-personality-message-fit-helps-founders-communicate-better/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:34.621942"
+  },
+  "https://www.saastr.com/the-top-10-most-popular-sessions-at-saastr-ai-annual-2026-so-far-may-12-14-in-sf-bay/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:41.525120"
+  },
+  "https://www.saastr.com/20vc-x-saastr-i-dont-buy-dario-anymore-mythos-withheld-over-zero-days-metas-muse-spark-gets-back-in-the-game-spacex-at-2t-on-108x-revenue-and-why-60-agents-are-the-slow-death-sp/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:41.639175"
+  },
+  "https://www.saastr.com/vc-in-2026-75-of-all-the-money-is-going-to-just-5-funds-and-just-5-startups/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:41.833319"
+  },
+  "https://openai.com/index/openai-deutschland/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:50.815189"
+  },
+  "https://openai.com/index/expanding-economic-opportunity-with-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:52.885256"
+  },
+  "https://openai.com/index/openai-lp/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:44:54.953966"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-17T04:46:24.645481"
   }
 }
