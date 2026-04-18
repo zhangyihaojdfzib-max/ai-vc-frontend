@@ -3640,9 +3640,9 @@
     "timestamp": "2026-04-16T04:52:39.775520"
   },
   "https://openai.com/index/nonprofit-commission-report/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-16T04:53:09.051217"
+    "timestamp": "2026-04-18T04:34:58.285137"
   },
   "https://openai.com/index/people-first-ai-fund/": {
     "count": 3,
@@ -3655,19 +3655,19 @@
     "timestamp": "2026-04-17T04:49:39.242027"
   },
   "https://a16z.simplecast.com/episodes/replits-ceo-on-vibe-coding-wealth-building-and-what-most-people-get-wrong-about-ai-YIXmaTPH": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:22.062434"
+    "timestamp": "2026-04-18T04:26:25.672857"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-why-open-source-ai-will-determine-americas-future-kn8ZWyJb": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:22.140258"
+    "timestamp": "2026-04-18T04:26:25.813056"
   },
   "https://greylock.com/firm-news/welcome-neiman-mathew/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:23.142915"
+    "timestamp": "2026-04-18T04:26:27.488162"
   },
   "https://www.saastr.com/5-interesting-learnings-from-klaviyo-at-1-2-billion-in-arr-32-growth-110-nrr-and-somehow-only-4x-revenue/": {
     "count": 1,
@@ -3685,9 +3685,9 @@
     "timestamp": "2026-04-17T04:44:42.021002"
   },
   "https://openai.com/index/people-first-ai-fund-grantees/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:48.730361"
+    "timestamp": "2026-04-18T04:35:00.344973"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/": {
     "count": 2,
@@ -3700,64 +3700,64 @@
     "timestamp": "2026-04-17T04:46:24.695129"
   },
   "https://a16z.simplecast.com/episodes/technology-culture-and-the-next-ai-interface-with-signull-4oQgR1i2": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:22.085017"
+    "timestamp": "2026-04-18T04:26:25.677075"
   },
   "https://a16z.simplecast.com/episodes/the-secret-marketing-strategy-that-built-a16z-from-zero-to-legendary-vc-firm-PXH21e_P": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:22.189870"
+    "timestamp": "2026-04-18T04:26:25.801248"
   },
   "https://greylock.com/portfolio-news/our-investment-in-aurora-a-safe-path-to-scale-autonomous-vehicles/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:23.550865"
+    "timestamp": "2026-04-18T04:26:27.782261"
   },
   "https://greylock.com/firm-news/welcome-glen-evans-as-vice-president-of-core-talent/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:23.725613"
+    "timestamp": "2026-04-18T04:26:27.858277"
   },
   "https://greylock.com/greymatter/notable-health-modernizing-the-medical-experience/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:24.213907"
+    "timestamp": "2026-04-18T04:26:27.844808"
   },
   "https://review.firstround.com/the-trap-of-weak-product-market-fit-lessons-from-mercurys-founder/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:28.041163"
+    "timestamp": "2026-04-18T04:33:55.394712"
   },
   "https://review.firstround.com/when-founders-should-quit-as-head-of-product-and-hire-the-first-pm/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:30.253919"
+    "timestamp": "2026-04-18T04:33:57.569308"
   },
   "https://review.firstround.com/how-a-high-school-dropout-built-one-of-the-worlds-most-used-developer-tools/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:32.451102"
+    "timestamp": "2026-04-18T04:33:59.769567"
   },
   "https://review.firstround.com/the-other-pmf-how-personality-message-fit-helps-founders-communicate-better/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:34.621942"
+    "timestamp": "2026-04-18T04:34:01.969768"
   },
   "https://www.saastr.com/the-top-10-most-popular-sessions-at-saastr-ai-annual-2026-so-far-may-12-14-in-sf-bay/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:41.525120"
+    "timestamp": "2026-04-18T04:34:54.574712"
   },
   "https://www.saastr.com/20vc-x-saastr-i-dont-buy-dario-anymore-mythos-withheld-over-zero-days-metas-muse-spark-gets-back-in-the-game-spacex-at-2t-on-108x-revenue-and-why-60-agents-are-the-slow-death-sp/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:41.639175"
+    "timestamp": "2026-04-18T04:34:54.360808"
   },
   "https://www.saastr.com/vc-in-2026-75-of-all-the-money-is-going-to-just-5-funds-and-just-5-startups/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:41.833319"
+    "timestamp": "2026-04-18T04:34:54.752550"
   },
   "https://openai.com/index/openai-deutschland/": {
     "count": 1,
@@ -3778,5 +3778,40 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-04-17T04:46:24.645481"
+  },
+  "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-18T04:26:25.664269"
+  },
+  "https://greylock.com/greymatter/wisetack-fintech-for-the-real-world/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-18T04:26:28.153913"
+  },
+  "https://www.saastr.com/why-so-many-are-struggling-in-the-ai-era-they-are-shipping-60-solutions/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-18T04:34:53.977557"
+  },
+  "https://www.saastr.com/10-live-vibe-coding-classes-at-saastr-ai-annual-2026-taught-by-replit-because-waiting-on-engineering-is-over/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-18T04:34:54.313927"
+  },
+  "https://openai.com/index/amazon-partnership/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-18T04:35:02.416805"
+  },
+  "https://openai.com/index/scaling-ai-for-everyone/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-18T04:35:04.477990"
+  },
+  "https://openai.com/index/openai-to-acquire-promptfoo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-18T04:35:06.531543"
   }
 }
