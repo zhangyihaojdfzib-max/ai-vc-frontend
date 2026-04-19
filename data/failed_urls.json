@@ -3785,9 +3785,9 @@
     "timestamp": "2026-04-18T04:26:25.664269"
   },
   "https://greylock.com/greymatter/wisetack-fintech-for-the-real-world/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:46:51.495525"
+    "timestamp": "2026-04-19T04:54:21.305733"
   },
   "https://www.saastr.com/why-so-many-are-struggling-in-the-ai-era-they-are-shipping-60-solutions/": {
     "count": 2,
@@ -3815,14 +3815,14 @@
     "timestamp": "2026-04-19T04:47:33.645128"
   },
   "https://greylock.com/greymatter/notable-healthcare-ai-pranay-kapadia/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:46:51.579537"
+    "timestamp": "2026-04-19T04:54:21.301705"
   },
   "https://review.firstround.com/the-process-ive-used-to-name-dozens-of-companies/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:47:01.433205"
+    "timestamp": "2026-04-19T04:54:28.089092"
   },
   "https://www.saastr.com/salesforce-just-launched-headless-for-ai-agents-weve-already-been-living-it-for-6-months/": {
     "count": 1,
@@ -3843,5 +3843,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-04-19T04:47:37.777700"
+  },
+  "https://greylock.com/greymatter/guided-by-experts/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-19T04:54:21.219937"
   }
 }
