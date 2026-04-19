@@ -3710,39 +3710,39 @@
     "timestamp": "2026-04-18T04:26:25.801248"
   },
   "https://greylock.com/portfolio-news/our-investment-in-aurora-a-safe-path-to-scale-autonomous-vehicles/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:26:27.782261"
+    "timestamp": "2026-04-19T04:46:50.895926"
   },
   "https://greylock.com/firm-news/welcome-glen-evans-as-vice-president-of-core-talent/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:26:27.858277"
+    "timestamp": "2026-04-19T04:46:50.901121"
   },
   "https://greylock.com/greymatter/notable-health-modernizing-the-medical-experience/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:26:27.844808"
+    "timestamp": "2026-04-19T04:46:50.849559"
   },
   "https://review.firstround.com/the-trap-of-weak-product-market-fit-lessons-from-mercurys-founder/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:33:55.394712"
+    "timestamp": "2026-04-19T04:46:52.790548"
   },
   "https://review.firstround.com/when-founders-should-quit-as-head-of-product-and-hire-the-first-pm/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:33:57.569308"
+    "timestamp": "2026-04-19T04:46:54.969258"
   },
   "https://review.firstround.com/how-a-high-school-dropout-built-one-of-the-worlds-most-used-developer-tools/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:33:59.769567"
+    "timestamp": "2026-04-19T04:46:57.138727"
   },
   "https://review.firstround.com/the-other-pmf-how-personality-message-fit-helps-founders-communicate-better/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:34:01.969768"
+    "timestamp": "2026-04-19T04:46:59.296895"
   },
   "https://www.saastr.com/the-top-10-most-popular-sessions-at-saastr-ai-annual-2026-so-far-may-12-14-in-sf-bay/": {
     "count": 2,
@@ -3750,9 +3750,9 @@
     "timestamp": "2026-04-18T04:34:54.574712"
   },
   "https://www.saastr.com/20vc-x-saastr-i-dont-buy-dario-anymore-mythos-withheld-over-zero-days-metas-muse-spark-gets-back-in-the-game-spacex-at-2t-on-108x-revenue-and-why-60-agents-are-the-slow-death-sp/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:34:54.360808"
+    "timestamp": "2026-04-19T04:47:25.805824"
   },
   "https://www.saastr.com/vc-in-2026-75-of-all-the-money-is-going-to-just-5-funds-and-just-5-startups/": {
     "count": 2,
@@ -3785,33 +3785,63 @@
     "timestamp": "2026-04-18T04:26:25.664269"
   },
   "https://greylock.com/greymatter/wisetack-fintech-for-the-real-world/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:26:28.153913"
+    "timestamp": "2026-04-19T04:46:51.495525"
   },
   "https://www.saastr.com/why-so-many-are-struggling-in-the-ai-era-they-are-shipping-60-solutions/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:34:53.977557"
+    "timestamp": "2026-04-19T04:47:25.617807"
   },
   "https://www.saastr.com/10-live-vibe-coding-classes-at-saastr-ai-annual-2026-taught-by-replit-because-waiting-on-engineering-is-over/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:34:54.313927"
+    "timestamp": "2026-04-19T04:47:25.381435"
   },
   "https://openai.com/index/amazon-partnership/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:35:02.416805"
+    "timestamp": "2026-04-19T04:47:29.537618"
   },
   "https://openai.com/index/scaling-ai-for-everyone/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:35:04.477990"
+    "timestamp": "2026-04-19T04:47:31.594082"
   },
   "https://openai.com/index/openai-to-acquire-promptfoo/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-19T04:47:33.645128"
+  },
+  "https://greylock.com/greymatter/notable-healthcare-ai-pranay-kapadia/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:35:06.531543"
+    "timestamp": "2026-04-19T04:46:51.579537"
+  },
+  "https://review.firstround.com/the-process-ive-used-to-name-dozens-of-companies/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-19T04:47:01.433205"
+  },
+  "https://www.saastr.com/salesforce-just-launched-headless-for-ai-agents-weve-already-been-living-it-for-6-months/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-19T04:47:25.077393"
+  },
+  "https://www.saastr.com/topfromagentsnoleadleft/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-19T04:47:25.432176"
+  },
+  "https://openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-19T04:47:35.711012"
+  },
+  "https://openai.com/index/economic-impacts/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-19T04:47:37.777700"
   }
 }
