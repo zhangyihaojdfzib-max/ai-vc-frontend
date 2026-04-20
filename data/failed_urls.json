@@ -3700,14 +3700,14 @@
     "timestamp": "2026-04-17T04:46:24.695129"
   },
   "https://a16z.simplecast.com/episodes/technology-culture-and-the-next-ai-interface-with-signull-4oQgR1i2": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:26:25.677075"
+    "timestamp": "2026-04-20T04:53:19.120156"
   },
   "https://a16z.simplecast.com/episodes/the-secret-marketing-strategy-that-built-a16z-from-zero-to-legendary-vc-firm-PXH21e_P": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:26:25.801248"
+    "timestamp": "2026-04-20T04:53:19.234082"
   },
   "https://greylock.com/portfolio-news/our-investment-in-aurora-a-safe-path-to-scale-autonomous-vehicles/": {
     "count": 3,
@@ -3765,9 +3765,9 @@
     "timestamp": "2026-04-17T04:44:50.815189"
   },
   "https://openai.com/index/expanding-economic-opportunity-with-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:52.885256"
+    "timestamp": "2026-04-20T04:59:08.033079"
   },
   "https://openai.com/index/openai-lp/": {
     "count": 1,
@@ -3780,9 +3780,9 @@
     "timestamp": "2026-04-17T04:46:24.645481"
   },
   "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-18T04:26:25.664269"
+    "timestamp": "2026-04-20T04:53:19.134660"
   },
   "https://greylock.com/greymatter/wisetack-fintech-for-the-real-world/": {
     "count": 3,
@@ -3795,9 +3795,9 @@
     "timestamp": "2026-04-19T04:47:25.617807"
   },
   "https://www.saastr.com/10-live-vibe-coding-classes-at-saastr-ai-annual-2026-taught-by-replit-because-waiting-on-engineering-is-over/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:47:25.381435"
+    "timestamp": "2026-04-20T04:58:45.914363"
   },
   "https://openai.com/index/amazon-partnership/": {
     "count": 2,
@@ -3815,38 +3815,88 @@
     "timestamp": "2026-04-19T04:47:33.645128"
   },
   "https://greylock.com/greymatter/notable-healthcare-ai-pranay-kapadia/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:54:21.301705"
+    "timestamp": "2026-04-20T04:53:20.341313"
   },
   "https://review.firstround.com/the-process-ive-used-to-name-dozens-of-companies/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:54:28.089092"
+    "timestamp": "2026-04-20T04:53:45.884170"
   },
   "https://www.saastr.com/salesforce-just-launched-headless-for-ai-agents-weve-already-been-living-it-for-6-months/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:47:25.077393"
+    "timestamp": "2026-04-20T04:58:45.136409"
   },
   "https://www.saastr.com/topfromagentsnoleadleft/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:47:25.432176"
+    "timestamp": "2026-04-20T04:58:45.734489"
   },
   "https://openai.com/index/adebayo-ogunlesi-joins-openais-board-of-directors/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:47:35.711012"
+    "timestamp": "2026-04-20T04:58:59.773665"
   },
   "https://openai.com/index/economic-impacts/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:47:37.777700"
+    "timestamp": "2026-04-20T04:59:01.839670"
   },
   "https://greylock.com/greymatter/guided-by-experts/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:53:20.543706"
+  },
+  "https://a16z.simplecast.com/episodes/network-effects-ai-costs-and-the-future-of-consumer-investing-with-anish-acharya-on-the-kevin-rose-show-qd4UBcAL": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-19T04:54:21.219937"
+    "timestamp": "2026-04-20T04:53:19.147311"
+  },
+  "https://a16z.simplecast.com/episodes/how-marc-andreessen-actually-uses-ai-Se9zgnOK": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:53:19.227013"
+  },
+  "https://greylock.com/firm-news/the-legacy-of-dave-swensen/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:53:20.440213"
+  },
+  "https://greylock.com/greymatter/strategy-at-scale/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:53:21.101125"
+  },
+  "https://greylock.com/greymatter/the-new-computing-paradigm/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:53:21.247411"
+  },
+  "https://review.firstround.com/listen-how-this-two-time-billion-dollar-founder-wins-in-the-enterprise/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:58:38.492788"
+  },
+  "https://www.saastr.com/our-ai-vp-of-marketing-shipped-a-new-plan-this-morning-its-saturday/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:58:45.465188"
+  },
+  "https://www.saastr.com/ai-coding-can-turn-an-18-month-headstart-into-a-weekend-ahead-of-your-competitor/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:58:45.520767"
+  },
+  "https://openai.com/index/announcing-the-stargate-project/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:59:03.905108"
+  },
+  "https://openai.com/index/introducing-openai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-20T04:59:05.971533"
   }
 }
