@@ -3690,14 +3690,14 @@
     "timestamp": "2026-04-18T04:35:00.344973"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:46:24.698855"
+    "timestamp": "2026-04-21T05:03:38.258400"
   },
   "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:46:24.695129"
+    "timestamp": "2026-04-21T05:03:38.180847"
   },
   "https://a16z.simplecast.com/episodes/technology-culture-and-the-next-ai-interface-with-signull-4oQgR1i2": {
     "count": 3,
@@ -3765,9 +3765,9 @@
     "timestamp": "2026-04-17T04:44:50.815189"
   },
   "https://openai.com/index/expanding-economic-opportunity-with-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T04:59:08.033079"
+    "timestamp": "2026-04-21T04:56:35.010543"
   },
   "https://openai.com/index/openai-lp/": {
     "count": 1,
@@ -3775,14 +3775,14 @@
     "timestamp": "2026-04-17T04:44:54.953966"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:46:24.645481"
-  },
-  "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T04:53:19.134660"
+    "timestamp": "2026-04-21T05:03:37.879016"
+  },
+  "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:44:00.510923"
   },
   "https://greylock.com/greymatter/wisetack-fintech-for-the-real-world/": {
     "count": 3,
@@ -3850,44 +3850,44 @@
     "timestamp": "2026-04-20T05:16:46.893293"
   },
   "https://a16z.simplecast.com/episodes/network-effects-ai-costs-and-the-future-of-consumer-investing-with-anish-acharya-on-the-kevin-rose-show-qd4UBcAL": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T04:53:19.147311"
+    "timestamp": "2026-04-21T04:44:00.505326"
   },
   "https://a16z.simplecast.com/episodes/how-marc-andreessen-actually-uses-ai-Se9zgnOK": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T04:53:19.227013"
+    "timestamp": "2026-04-21T04:44:00.556868"
   },
   "https://greylock.com/firm-news/the-legacy-of-dave-swensen/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T05:16:46.889699"
+    "timestamp": "2026-04-21T04:44:01.709040"
   },
   "https://greylock.com/greymatter/strategy-at-scale/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T05:16:46.821059"
+    "timestamp": "2026-04-21T04:44:01.575440"
   },
   "https://greylock.com/greymatter/the-new-computing-paradigm/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T04:53:21.247411"
-  },
-  "https://review.firstround.com/listen-how-this-two-time-billion-dollar-founder-wins-in-the-enterprise/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T05:16:52.340176"
+    "timestamp": "2026-04-21T04:44:01.752533"
+  },
+  "https://review.firstround.com/listen-how-this-two-time-billion-dollar-founder-wins-in-the-enterprise/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:44:03.727988"
   },
   "https://www.saastr.com/our-ai-vp-of-marketing-shipped-a-new-plan-this-morning-its-saturday/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T04:58:45.465188"
+    "timestamp": "2026-04-21T04:55:53.586934"
   },
   "https://www.saastr.com/ai-coding-can-turn-an-18-month-headstart-into-a-weekend-ahead-of-your-competitor/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T04:58:45.520767"
+    "timestamp": "2026-04-21T04:55:53.399461"
   },
   "https://openai.com/index/announcing-the-stargate-project/": {
     "count": 1,
@@ -3895,8 +3895,68 @@
     "timestamp": "2026-04-20T04:59:03.905108"
   },
   "https://openai.com/index/introducing-openai/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:56:32.935746"
+  },
+  "https://a16z.simplecast.com/episodes/rethinking-git-for-the-age-of-coding-agents-with-github-cofounder-scott-chacon-LGXF9DcJ": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-20T04:59:05.971533"
+    "timestamp": "2026-04-21T04:44:00.482099"
+  },
+  "https://a16z.simplecast.com/episodes/the-2045-superintelligence-timeline-epoch-ais-data-driven-forecast-RWynVxSF": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:44:00.601440"
+  },
+  "https://greylock.com/greymatter/bnpl-for-businesses/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:44:02.139319"
+  },
+  "https://greylock.com/greymatter/flexibility-on-demand/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:44:02.258099"
+  },
+  "https://www.saastr.com/its-not-just-you-customers-are-asking-for-shorter-and-shorter-contracts-in-the-age-of-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:55:52.791697"
+  },
+  "https://www.saastr.com/50-of-saastr-ai-annual-2026-attendees-run-the-company/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:55:53.140170"
+  },
+  "https://www.saastr.com/no-lead-left-behind-the-simplest-and-most-important-reason-ai-agents-work-in-gtm/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:55:53.208780"
+  },
+  "https://openai.com/index/distill/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:56:37.074442"
+  },
+  "https://openai.com/index/chatgpt-for-veterans/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:56:39.173255"
+  },
+  "https://openai.com/index/openai-supporters/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T04:56:41.263088"
+  },
+  "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T05:03:37.684141"
+  },
+  "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-21T05:03:37.929512"
   }
 }
