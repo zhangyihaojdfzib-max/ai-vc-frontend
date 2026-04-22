@@ -3775,9 +3775,9 @@
     "timestamp": "2026-04-17T04:44:54.953966"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T05:03:37.879016"
+    "timestamp": "2026-04-22T04:55:36.362790"
   },
   "https://a16z.simplecast.com/episodes/from-models-to-mobility-building-waymo-with-dmitri-dolgov-p2z80L_O": {
     "count": 3,
@@ -3850,14 +3850,14 @@
     "timestamp": "2026-04-20T05:16:46.893293"
   },
   "https://a16z.simplecast.com/episodes/network-effects-ai-costs-and-the-future-of-consumer-investing-with-anish-acharya-on-the-kevin-rose-show-qd4UBcAL": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:44:00.505326"
+    "timestamp": "2026-04-22T04:41:44.903325"
   },
   "https://a16z.simplecast.com/episodes/how-marc-andreessen-actually-uses-ai-Se9zgnOK": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:44:00.556868"
+    "timestamp": "2026-04-22T04:41:45.097441"
   },
   "https://greylock.com/firm-news/the-legacy-of-dave-swensen/": {
     "count": 3,
@@ -3870,9 +3870,9 @@
     "timestamp": "2026-04-21T04:44:01.575440"
   },
   "https://greylock.com/greymatter/the-new-computing-paradigm/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:44:01.752533"
+    "timestamp": "2026-04-22T04:41:46.063985"
   },
   "https://review.firstround.com/listen-how-this-two-time-billion-dollar-founder-wins-in-the-enterprise/": {
     "count": 3,
@@ -3900,39 +3900,39 @@
     "timestamp": "2026-04-21T04:56:32.935746"
   },
   "https://a16z.simplecast.com/episodes/rethinking-git-for-the-age-of-coding-agents-with-github-cofounder-scott-chacon-LGXF9DcJ": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:44:00.482099"
+    "timestamp": "2026-04-22T04:41:44.887652"
   },
   "https://a16z.simplecast.com/episodes/the-2045-superintelligence-timeline-epoch-ais-data-driven-forecast-RWynVxSF": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:44:00.601440"
+    "timestamp": "2026-04-22T04:41:45.132347"
   },
   "https://greylock.com/greymatter/bnpl-for-businesses/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:44:02.139319"
+    "timestamp": "2026-04-22T04:41:45.852074"
   },
   "https://greylock.com/greymatter/flexibility-on-demand/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:44:02.258099"
+    "timestamp": "2026-04-22T04:41:46.029604"
   },
   "https://www.saastr.com/its-not-just-you-customers-are-asking-for-shorter-and-shorter-contracts-in-the-age-of-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:55:52.791697"
+    "timestamp": "2026-04-22T04:55:18.350678"
   },
   "https://www.saastr.com/50-of-saastr-ai-annual-2026-attendees-run-the-company/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:55:53.140170"
+    "timestamp": "2026-04-22T04:55:17.981130"
   },
   "https://www.saastr.com/no-lead-left-behind-the-simplest-and-most-important-reason-ai-agents-work-in-gtm/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T04:55:53.208780"
+    "timestamp": "2026-04-22T04:55:18.190540"
   },
   "https://openai.com/index/distill/": {
     "count": 1,
@@ -3950,13 +3950,68 @@
     "timestamp": "2026-04-21T04:56:41.263088"
   },
   "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T05:03:37.684141"
+    "timestamp": "2026-04-22T04:55:36.333028"
   },
   "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:55:36.366320"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-monitoring-the-situation-and-the-future-of-media-SNdO3OIF": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-21T05:03:37.929512"
+    "timestamp": "2026-04-22T04:41:44.898617"
+  },
+  "https://greylock.com/greymatter/bringing-web3-to-the-world/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:41:46.410334"
+  },
+  "https://greylock.com/greymatter/cyber-stewards/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:41:46.707958"
+  },
+  "https://www.saastr.com/the-top-10-private-ai-companies-are-now-worth-more-than-every-public-saas-company-combined/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:55:17.660941"
+  },
+  "https://www.saastr.com/marketing-is-not-complicated-show-up-where-your-customers-are/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:55:18.014264"
+  },
+  "https://openai.com/index/introducing-chatgpt-images-2-0/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:55:22.823306"
+  },
+  "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:55:24.910420"
+  },
+  "https://openai.com/index/a-content-and-product-partnership-with-vox-media/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:55:27.002965"
+  },
+  "https://openai.com/index/1-million-businesses-putting-ai-to-work/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:55:29.125561"
+  },
+  "https://openai.com/index/accenture-partnership/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T04:55:31.215789"
+  },
+  "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-22T05:02:27.593613"
   }
 }
