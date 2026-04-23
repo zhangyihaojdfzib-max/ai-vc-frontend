@@ -3610,9 +3610,9 @@
     "timestamp": "2026-04-16T04:53:15.334858"
   },
   "https://openai.com/index/introducing-the-teen-safety-blueprint/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-15T04:41:55.085703"
+    "timestamp": "2026-04-23T04:55:53.323490"
   },
   "https://openai.com/index/our-approach-to-age-prediction/": {
     "count": 1,
@@ -3770,9 +3770,9 @@
     "timestamp": "2026-04-21T04:56:35.010543"
   },
   "https://openai.com/index/openai-lp/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-17T04:44:54.953966"
+    "timestamp": "2026-04-23T04:55:55.374622"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-pragmata/": {
     "count": 3,
@@ -3900,24 +3900,24 @@
     "timestamp": "2026-04-21T04:56:32.935746"
   },
   "https://a16z.simplecast.com/episodes/rethinking-git-for-the-age-of-coding-agents-with-github-cofounder-scott-chacon-LGXF9DcJ": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:41:44.887652"
+    "timestamp": "2026-04-23T04:46:37.603142"
   },
   "https://a16z.simplecast.com/episodes/the-2045-superintelligence-timeline-epoch-ais-data-driven-forecast-RWynVxSF": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:41:45.132347"
+    "timestamp": "2026-04-23T04:46:37.699397"
   },
   "https://greylock.com/greymatter/bnpl-for-businesses/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:41:45.852074"
+    "timestamp": "2026-04-23T04:46:39.834149"
   },
   "https://greylock.com/greymatter/flexibility-on-demand/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:41:46.029604"
+    "timestamp": "2026-04-23T04:46:39.586576"
   },
   "https://www.saastr.com/its-not-just-you-customers-are-asking-for-shorter-and-shorter-contracts-in-the-age-of-ai/": {
     "count": 2,
@@ -3950,39 +3950,39 @@
     "timestamp": "2026-04-21T04:56:41.263088"
   },
   "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:55:36.333028"
+    "timestamp": "2026-04-23T04:57:36.360956"
   },
   "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:55:36.366320"
+    "timestamp": "2026-04-23T04:57:36.676913"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-monitoring-the-situation-and-the-future-of-media-SNdO3OIF": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:41:44.898617"
+    "timestamp": "2026-04-23T04:46:37.590283"
   },
   "https://greylock.com/greymatter/bringing-web3-to-the-world/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:41:46.410334"
+    "timestamp": "2026-04-23T04:46:40.549663"
   },
   "https://greylock.com/greymatter/cyber-stewards/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:41:46.707958"
+    "timestamp": "2026-04-23T04:46:39.829328"
   },
   "https://www.saastr.com/the-top-10-private-ai-companies-are-now-worth-more-than-every-public-saas-company-combined/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:55:17.660941"
+    "timestamp": "2026-04-23T04:55:15.362829"
   },
   "https://www.saastr.com/marketing-is-not-complicated-show-up-where-your-customers-are/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:55:18.014264"
+    "timestamp": "2026-04-23T04:55:15.274828"
   },
   "https://openai.com/index/introducing-chatgpt-images-2-0/": {
     "count": 1,
@@ -4010,8 +4010,58 @@
     "timestamp": "2026-04-22T04:55:31.215789"
   },
   "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T05:03:02.989376"
+  },
+  "https://a16z.simplecast.com/episodes/balaji-srinivasan-prove-correct-not-just-go-direct-2mZ_Tjdd": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T05:02:27.593613"
+    "timestamp": "2026-04-23T04:46:37.614921"
+  },
+  "https://a16z.simplecast.com/episodes/robinhood-ceo-how-we-survived-gamestop-built-11-100m-businesses-d5kXUtHt": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:46:37.721550"
+  },
+  "https://greylock.com/greymatter/jumpstarting-data-centric-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:46:40.299243"
+  },
+  "https://www.saastr.com/agents002deletedus/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:55:14.596959"
+  },
+  "https://www.saastr.com/the-real-reason-b2b-stocks-are-crashing-in-2026-the-software-just-isnt-good-enough-for-the-ai-age-not-anymore/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:55:14.781741"
+  },
+  "https://www.saastr.com/learning-to-vibe-code-at-saastr-ai-annual-2026-build-it-ship-it-vibe-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:55:15.001341"
+  },
+  "https://openai.com/index/openai-en-france/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:55:51.273813"
+  },
+  "https://openai.com/index/japan-economic-blueprint/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:55:57.420095"
+  },
+  "https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:55:59.473837"
+  },
+  "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-23T04:57:36.355841"
   }
 }
