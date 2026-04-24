@@ -3960,19 +3960,19 @@
     "timestamp": "2026-04-23T04:57:36.676913"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-monitoring-the-situation-and-the-future-of-media-SNdO3OIF": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:46:37.590283"
+    "timestamp": "2026-04-24T04:50:21.908454"
   },
   "https://greylock.com/greymatter/bringing-web3-to-the-world/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:46:40.549663"
+    "timestamp": "2026-04-24T04:50:22.993423"
   },
   "https://greylock.com/greymatter/cyber-stewards/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:46:39.829328"
+    "timestamp": "2026-04-24T04:50:23.422342"
   },
   "https://www.saastr.com/the-top-10-private-ai-companies-are-now-worth-more-than-every-public-saas-company-combined/": {
     "count": 2,
@@ -4010,34 +4010,34 @@
     "timestamp": "2026-04-22T04:55:31.215789"
   },
   "https://medium.com/airbnb-engineering/building-a-fault-tolerant-metrics-storage-system-at-airbnb-26a01a6e7017?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T05:03:02.989376"
+    "timestamp": "2026-04-24T04:57:05.314356"
   },
   "https://a16z.simplecast.com/episodes/balaji-srinivasan-prove-correct-not-just-go-direct-2mZ_Tjdd": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:46:37.614921"
+    "timestamp": "2026-04-24T04:50:21.895338"
   },
   "https://a16z.simplecast.com/episodes/robinhood-ceo-how-we-survived-gamestop-built-11-100m-businesses-d5kXUtHt": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:46:37.721550"
+    "timestamp": "2026-04-24T04:50:22.007031"
   },
   "https://greylock.com/greymatter/jumpstarting-data-centric-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:46:40.299243"
+    "timestamp": "2026-04-24T04:50:23.074190"
   },
   "https://www.saastr.com/agents002deletedus/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:55:14.596959"
+    "timestamp": "2026-04-24T04:55:35.825682"
   },
   "https://www.saastr.com/the-real-reason-b2b-stocks-are-crashing-in-2026-the-software-just-isnt-good-enough-for-the-ai-age-not-anymore/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:55:14.781741"
+    "timestamp": "2026-04-24T04:55:36.015209"
   },
   "https://www.saastr.com/learning-to-vibe-code-at-saastr-ai-annual-2026-build-it-ship-it-vibe-it/": {
     "count": 1,
@@ -4060,8 +4060,78 @@
     "timestamp": "2026-04-23T04:55:59.473837"
   },
   "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:56:42.514249"
+  },
+  "https://a16z.simplecast.com/episodes/martin-shkreli-on-ai-pharma-and-what-actually-matters-MrpwiybP": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-23T04:57:36.355841"
+    "timestamp": "2026-04-24T04:50:21.877752"
+  },
+  "https://a16z.simplecast.com/episodes/can-community-banks-survive-the-next-svb-modernfi-ceo-paolo-bertolotti-and-former-comptroller-gene-ludwig-pmFbDbSP": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:50:22.013750"
+  },
+  "https://greylock.com/greymatter/rubrik-scaling-with-intuition/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:50:23.644934"
+  },
+  "https://greylock.com/greymatter/designed-with-purpose/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:50:23.665534"
+  },
+  "https://www.saastr.com/5-interesting-learnings-from-servicenow-at-14-7b-in-arr-22-growth-rule-of-54-and-still-a-14-stock-drop/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:55:35.184290"
+  },
+  "https://www.saastr.com/20vc-x-saastr-the-60b-cursor-deal-claude-design-comes-for-figma-and-why-ripplings-78-growth-at-1b-kills-the-saas-is-dead-meme/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:55:35.547297"
+  },
+  "https://www.saastr.com/who-gets-an-fde-and-who-doesnt-the-great-b2b-ai-debate-right-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:55:35.634145"
+  },
+  "https://openai.com/index/introducing-openai-frontier/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:55:55.431687"
+  },
+  "https://openai.com/index/scaling-codex-to-enterprises-worldwide/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:55:57.484222"
+  },
+  "https://openai.com/index/leadership-team-update/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:55:59.525170"
+  },
+  "https://openai.com/index/team-update/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:56:01.572955"
+  },
+  "https://openai.com/index/openai-scholars-2018-final-projects/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:56:03.614105"
+  },
+  "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:56:42.109106"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-24T04:56:42.331475"
   }
 }
