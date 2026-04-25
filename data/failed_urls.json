@@ -3985,9 +3985,9 @@
     "timestamp": "2026-04-23T04:55:15.274828"
   },
   "https://openai.com/index/introducing-chatgpt-images-2-0/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-22T04:55:22.823306"
+    "timestamp": "2026-04-25T04:34:34.943410"
   },
   "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/": {
     "count": 1,
@@ -4015,19 +4015,19 @@
     "timestamp": "2026-04-24T04:57:05.314356"
   },
   "https://a16z.simplecast.com/episodes/balaji-srinivasan-prove-correct-not-just-go-direct-2mZ_Tjdd": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:50:21.895338"
+    "timestamp": "2026-04-25T04:31:07.764120"
   },
   "https://a16z.simplecast.com/episodes/robinhood-ceo-how-we-survived-gamestop-built-11-100m-businesses-d5kXUtHt": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:50:22.007031"
+    "timestamp": "2026-04-25T04:31:07.940653"
   },
   "https://greylock.com/greymatter/jumpstarting-data-centric-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:50:23.074190"
+    "timestamp": "2026-04-25T04:31:09.983080"
   },
   "https://www.saastr.com/agents002deletedus/": {
     "count": 2,
@@ -4060,59 +4060,59 @@
     "timestamp": "2026-04-23T04:55:59.473837"
   },
   "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:56:42.514249"
+    "timestamp": "2026-04-25T04:35:20.020111"
   },
   "https://a16z.simplecast.com/episodes/martin-shkreli-on-ai-pharma-and-what-actually-matters-MrpwiybP": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:50:21.877752"
+    "timestamp": "2026-04-25T04:31:07.739435"
   },
   "https://a16z.simplecast.com/episodes/can-community-banks-survive-the-next-svb-modernfi-ceo-paolo-bertolotti-and-former-comptroller-gene-ludwig-pmFbDbSP": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:50:22.013750"
+    "timestamp": "2026-04-25T04:31:07.955998"
   },
   "https://greylock.com/greymatter/rubrik-scaling-with-intuition/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:50:23.644934"
+    "timestamp": "2026-04-25T04:31:10.021827"
   },
   "https://greylock.com/greymatter/designed-with-purpose/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:50:23.665534"
+    "timestamp": "2026-04-25T04:31:10.171944"
   },
   "https://www.saastr.com/5-interesting-learnings-from-servicenow-at-14-7b-in-arr-22-growth-rule-of-54-and-still-a-14-stock-drop/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:55:35.184290"
+    "timestamp": "2026-04-25T04:34:21.573987"
   },
   "https://www.saastr.com/20vc-x-saastr-the-60b-cursor-deal-claude-design-comes-for-figma-and-why-ripplings-78-growth-at-1b-kills-the-saas-is-dead-meme/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:55:35.547297"
+    "timestamp": "2026-04-25T04:34:21.113508"
   },
   "https://www.saastr.com/who-gets-an-fde-and-who-doesnt-the-great-b2b-ai-debate-right-now/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:55:35.634145"
+    "timestamp": "2026-04-25T04:34:21.352555"
   },
   "https://openai.com/index/introducing-openai-frontier/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:55:55.431687"
+    "timestamp": "2026-04-25T04:34:41.238522"
   },
   "https://openai.com/index/scaling-codex-to-enterprises-worldwide/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:55:57.484222"
+    "timestamp": "2026-04-25T04:34:39.142224"
   },
   "https://openai.com/index/leadership-team-update/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:55:59.525170"
+    "timestamp": "2026-04-25T04:34:43.330926"
   },
   "https://openai.com/index/team-update/": {
     "count": 1,
@@ -4125,13 +4125,43 @@
     "timestamp": "2026-04-24T04:56:03.614105"
   },
   "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:56:42.109106"
+    "timestamp": "2026-04-25T04:35:20.029526"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-25T04:35:20.025561"
+  },
+  "https://a16z.simplecast.com/episodes/ai-inside-the-enterprise-0LPmCf9V": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-24T04:56:42.331475"
+    "timestamp": "2026-04-25T04:31:07.758800"
+  },
+  "https://greylock.com/greymatter/three-trends-in-vc-backed-cloud/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-25T04:31:10.792730"
+  },
+  "https://greylock.com/greymatter/inflectionai-the-ai-friend-zone/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-25T04:31:10.906453"
+  },
+  "https://www.saastr.com/top-10-learnings-from-sapphire-ventures-2026-software-x-ai-report-80-100m-arr-ai-startups-the-ultra-round-is-the-new-normal-and-enterprise-is-50-of-vc-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-25T04:34:20.732930"
+  },
+  "https://www.saastr.com/medallia-is-just-the-opening-act-heres-the-list-of-pe-saas-deals-most-at-risk/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-25T04:34:21.127183"
+  },
+  "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-25T04:34:37.049018"
   }
 }
