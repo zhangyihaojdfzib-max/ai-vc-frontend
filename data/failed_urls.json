@@ -3985,9 +3985,9 @@
     "timestamp": "2026-04-23T04:55:15.274828"
   },
   "https://openai.com/index/introducing-chatgpt-images-2-0/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:34:34.943410"
+    "timestamp": "2026-04-26T04:58:00.796282"
   },
   "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence/": {
     "count": 1,
@@ -4075,14 +4075,14 @@
     "timestamp": "2026-04-25T04:31:07.955998"
   },
   "https://greylock.com/greymatter/rubrik-scaling-with-intuition/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:31:10.021827"
+    "timestamp": "2026-04-26T04:54:25.585906"
   },
   "https://greylock.com/greymatter/designed-with-purpose/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:31:10.171944"
+    "timestamp": "2026-04-26T04:54:25.590936"
   },
   "https://www.saastr.com/5-interesting-learnings-from-servicenow-at-14-7b-in-arr-22-growth-rule-of-54-and-still-a-14-stock-drop/": {
     "count": 2,
@@ -4090,9 +4090,9 @@
     "timestamp": "2026-04-25T04:34:21.573987"
   },
   "https://www.saastr.com/20vc-x-saastr-the-60b-cursor-deal-claude-design-comes-for-figma-and-why-ripplings-78-growth-at-1b-kills-the-saas-is-dead-meme/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:34:21.113508"
+    "timestamp": "2026-04-26T04:57:55.239460"
   },
   "https://www.saastr.com/who-gets-an-fde-and-who-doesnt-the-great-b2b-ai-debate-right-now/": {
     "count": 2,
@@ -4100,19 +4100,19 @@
     "timestamp": "2026-04-25T04:34:21.352555"
   },
   "https://openai.com/index/introducing-openai-frontier/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:34:41.238522"
+    "timestamp": "2026-04-26T04:58:04.882087"
   },
   "https://openai.com/index/scaling-codex-to-enterprises-worldwide/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:34:39.142224"
+    "timestamp": "2026-04-26T04:57:58.746034"
   },
   "https://openai.com/index/leadership-team-update/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:34:43.330926"
+    "timestamp": "2026-04-26T04:58:06.933365"
   },
   "https://openai.com/index/team-update/": {
     "count": 1,
@@ -4140,28 +4140,43 @@
     "timestamp": "2026-04-25T04:31:07.758800"
   },
   "https://greylock.com/greymatter/three-trends-in-vc-backed-cloud/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:31:10.792730"
+    "timestamp": "2026-04-26T04:54:25.560555"
   },
   "https://greylock.com/greymatter/inflectionai-the-ai-friend-zone/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:31:10.906453"
+    "timestamp": "2026-04-26T04:54:26.645390"
   },
   "https://www.saastr.com/top-10-learnings-from-sapphire-ventures-2026-software-x-ai-report-80-100m-arr-ai-startups-the-ultra-round-is-the-new-normal-and-enterprise-is-50-of-vc-now/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:34:20.732930"
+    "timestamp": "2026-04-26T04:57:55.064467"
   },
   "https://www.saastr.com/medallia-is-just-the-opening-act-heres-the-list-of-pe-saas-deals-most-at-risk/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:34:21.127183"
+    "timestamp": "2026-04-26T04:57:54.873598"
   },
   "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-26T04:58:02.838897"
+  },
+  "https://greylock.com/greymatter/the-big-4-era/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:34:37.049018"
+    "timestamp": "2026-04-26T04:54:26.339731"
+  },
+  "https://www.saastr.com/if-you-are-at-scale-you-now-have-2-full-time-jobs-keep-your-installed-base-happy-and-win-the-ai-agent-war-in-your-space/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-26T04:57:54.512799"
+  },
+  "https://www.saastr.com/a-terrible-terrible-week-in-software-stocks-but-not-necessarily-a-terrible-12-months/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-26T04:57:54.849862"
   }
 }
