@@ -4155,9 +4155,9 @@
     "timestamp": "2026-04-26T04:57:55.064467"
   },
   "https://www.saastr.com/medallia-is-just-the-opening-act-heres-the-list-of-pe-saas-deals-most-at-risk/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-26T04:57:54.873598"
+    "timestamp": "2026-04-27T05:23:18.501896"
   },
   "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock/": {
     "count": 2,
@@ -4165,18 +4165,73 @@
     "timestamp": "2026-04-26T04:58:02.838897"
   },
   "https://greylock.com/greymatter/the-big-4-era/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-26T05:14:59.704395"
+    "timestamp": "2026-04-27T05:17:34.278900"
   },
   "https://www.saastr.com/if-you-are-at-scale-you-now-have-2-full-time-jobs-keep-your-installed-base-happy-and-win-the-ai-agent-war-in-your-space/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-26T04:57:54.512799"
+    "timestamp": "2026-04-27T05:23:17.765767"
   },
   "https://www.saastr.com/a-terrible-terrible-week-in-software-stocks-but-not-necessarily-a-terrible-12-months/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:23:18.287739"
+  },
+  "https://greylock.com/firm-news/call-for-startups/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-26T04:57:54.849862"
+    "timestamp": "2026-04-27T05:17:34.328228"
+  },
+  "https://greylock.com/greymatter/the-rise-of-headless-commerce/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:17:34.332112"
+  },
+  "https://greylock.com/greymatter/the-next-cloud-data-platform/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:17:34.746141"
+  },
+  "https://greylock.com/greymatter/rockset-the-data-driven-future/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:17:34.762317"
+  },
+  "https://www.saastr.com/the-10-things-youll-leave-saastr-ai-annual-2026-knowing-how-to-do-that-you-dont-know-how-to-do-today/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:23:18.086946"
+  },
+  "https://www.saastr.com/top-10-takeaways-from-the-agents-002-lazy-agents-stealth-churn-and-why-60-solutions-are-dead/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:23:18.107934"
+  },
+  "https://openai.com/index/leadership-expansion-with-fidji-simo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:23:23.392333"
+  },
+  "https://openai.com/index/joint-statement-from-openai-and-microsoft/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:23:25.480010"
+  },
+  "https://openai.com/index/introducing-structured-outputs-in-the-api/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:23:27.578816"
+  },
+  "https://openai.com/index/introducing-stargate-uk/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:23:29.674009"
+  },
+  "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-27T05:23:31.780407"
   }
 }
