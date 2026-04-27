@@ -4180,14 +4180,14 @@
     "timestamp": "2026-04-27T05:23:18.287739"
   },
   "https://greylock.com/firm-news/call-for-startups/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:17:34.328228"
+    "timestamp": "2026-04-27T05:27:47.574223"
   },
   "https://greylock.com/greymatter/the-rise-of-headless-commerce/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:17:34.332112"
+    "timestamp": "2026-04-27T05:27:47.621867"
   },
   "https://greylock.com/greymatter/the-next-cloud-data-platform/": {
     "count": 1,
@@ -4195,9 +4195,9 @@
     "timestamp": "2026-04-27T05:17:34.746141"
   },
   "https://greylock.com/greymatter/rockset-the-data-driven-future/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:17:34.762317"
+    "timestamp": "2026-04-27T05:27:47.617688"
   },
   "https://www.saastr.com/the-10-things-youll-leave-saastr-ai-annual-2026-knowing-how-to-do-that-you-dont-know-how-to-do-today/": {
     "count": 1,
@@ -4220,9 +4220,9 @@
     "timestamp": "2026-04-27T05:23:25.480010"
   },
   "https://openai.com/index/introducing-structured-outputs-in-the-api/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:23:27.578816"
+    "timestamp": "2026-04-27T05:32:08.721906"
   },
   "https://openai.com/index/introducing-stargate-uk/": {
     "count": 1,
