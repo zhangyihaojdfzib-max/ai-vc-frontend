@@ -4065,14 +4065,14 @@
     "timestamp": "2026-04-25T04:35:20.020111"
   },
   "https://a16z.simplecast.com/episodes/martin-shkreli-on-ai-pharma-and-what-actually-matters-MrpwiybP": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:31:07.739435"
+    "timestamp": "2026-04-28T05:25:24.983611"
   },
   "https://a16z.simplecast.com/episodes/can-community-banks-survive-the-next-svb-modernfi-ceo-paolo-bertolotti-and-former-comptroller-gene-ludwig-pmFbDbSP": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:31:07.955998"
+    "timestamp": "2026-04-28T05:25:25.112710"
   },
   "https://greylock.com/greymatter/rubrik-scaling-with-intuition/": {
     "count": 3,
@@ -4125,19 +4125,19 @@
     "timestamp": "2026-04-24T04:56:03.614105"
   },
   "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:35:20.029526"
+    "timestamp": "2026-04-28T05:32:40.223648"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:35:20.025561"
+    "timestamp": "2026-04-28T05:32:40.303779"
   },
   "https://a16z.simplecast.com/episodes/ai-inside-the-enterprise-0LPmCf9V": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-25T04:31:07.758800"
+    "timestamp": "2026-04-28T05:25:24.989395"
   },
   "https://greylock.com/greymatter/three-trends-in-vc-backed-cloud/": {
     "count": 3,
@@ -4180,34 +4180,34 @@
     "timestamp": "2026-04-27T05:23:18.287739"
   },
   "https://greylock.com/firm-news/call-for-startups/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:27:47.574223"
+    "timestamp": "2026-04-28T05:25:39.268930"
   },
   "https://greylock.com/greymatter/the-rise-of-headless-commerce/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:27:47.621867"
+    "timestamp": "2026-04-28T05:25:39.273752"
   },
   "https://greylock.com/greymatter/the-next-cloud-data-platform/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:17:34.746141"
-  },
-  "https://greylock.com/greymatter/rockset-the-data-driven-future/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:27:47.617688"
+    "timestamp": "2026-04-28T05:25:39.637103"
+  },
+  "https://greylock.com/greymatter/rockset-the-data-driven-future/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:25:39.169852"
   },
   "https://www.saastr.com/the-10-things-youll-leave-saastr-ai-annual-2026-knowing-how-to-do-that-you-dont-know-how-to-do-today/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:23:18.086946"
+    "timestamp": "2026-04-28T05:31:10.885822"
   },
   "https://www.saastr.com/top-10-takeaways-from-the-agents-002-lazy-agents-stealth-churn-and-why-60-solutions-are-dead/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:23:18.107934"
+    "timestamp": "2026-04-28T05:31:11.074739"
   },
   "https://openai.com/index/leadership-expansion-with-fidji-simo/": {
     "count": 1,
@@ -4220,9 +4220,9 @@
     "timestamp": "2026-04-27T05:23:25.480010"
   },
   "https://openai.com/index/introducing-structured-outputs-in-the-api/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-27T05:32:08.721906"
+    "timestamp": "2026-04-28T05:31:54.488488"
   },
   "https://openai.com/index/introducing-stargate-uk/": {
     "count": 1,
@@ -4233,5 +4233,55 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-04-27T05:23:31.780407"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-on-venture-capital-and-ai-ciXyFDLc": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:25:24.963420"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-marc-andreessen-why-silicon-valley-turned-against-defense-and-how-were-fixing-it-aVPjuWj8": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:25:25.132006"
+  },
+  "https://greylock.com/press/greylock-leads-36-million-financing-for-cybersecurity-startup-seven-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:25:39.789392"
+  },
+  "https://www.saastr.com/gartner-software-spend-now-1-44-trillion-in-2026-revised-back-up-to-15-1-the-slowdown-never-came-are-you-grabbing-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:31:10.387722"
+  },
+  "https://www.saastr.com/the-first-44-speakers-for-saastr-ai-annual-2026-the-founders-and-operators-actually-shipping-ai-at-scale/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:31:10.513902"
+  },
+  "https://www.saastr.com/why-we-pay-salesforce-83-more-than-last-year-but-stopped-using-notion-entirely-the-ai-agent-seat-problem-is-real/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:31:10.622142"
+  },
+  "https://openai.com/index/shipping-sora-for-android-with-codex/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:31:46.162546"
+  },
+  "https://openai.com/index/our-principles/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:31:48.252681"
+  },
+  "https://openai.com/index/next-phase-of-microsoft-partnership/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:31:50.330773"
+  },
+  "https://openai.com/index/mixpanel-incident/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-04-28T05:31:52.405665"
   }
 }
