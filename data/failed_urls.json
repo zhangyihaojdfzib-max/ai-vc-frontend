@@ -4285,29 +4285,29 @@
     "timestamp": "2026-04-29T05:25:03.094249"
   },
   "https://a16z.simplecast.com/episodes/john-and-patrick-collison-on-stripes-growth-agent-commerce-and-the-future-of-software-qL68mjfo": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:25:19.086268"
+    "timestamp": "2026-05-01T05:37:04.491262"
   },
   "https://a16z.simplecast.com/episodes/emmett-shear-on-building-ai-that-actually-cares-beyond-control-and-steering-TRwfxH0r": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:25:19.343747"
+    "timestamp": "2026-05-01T05:37:04.643471"
   },
   "https://greylock.com/greymatter/the-zero-trust-strategy/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:25:21.211180"
+    "timestamp": "2026-05-01T05:37:22.012344"
   },
   "https://greylock.com/greymatter/building-cybersecurity-confidence/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:25:21.265563"
+    "timestamp": "2026-05-01T05:37:22.036025"
   },
   "https://greylock.com/portfolio-news/congratulations-rubrik-nyse-rbrk/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:25:21.645484"
+    "timestamp": "2026-05-01T05:37:21.799281"
   },
   "https://www.saastr.com/the-app-explosion-has-just-begun-yes-we-now-even-have-a-parking-pass-distribution-app/": {
     "count": 2,
@@ -4320,14 +4320,14 @@
     "timestamp": "2026-04-30T05:28:03.098537"
   },
   "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-29T05:25:34.637948"
+    "timestamp": "2026-05-01T05:45:11.538713"
   },
   "https://blogs.nvidia.com/blog/manufacturing-simulation-first/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-29T05:25:34.697511"
+    "timestamp": "2026-05-01T05:45:11.731137"
   },
   "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4": {
     "count": 1,
@@ -4335,9 +4335,9 @@
     "timestamp": "2026-04-29T05:26:31.239994"
   },
   "https://a16z.simplecast.com/episodes/the-shift-in-global-drug-development-Ch15YbK8": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:25:19.062170"
+    "timestamp": "2026-05-01T05:37:04.496481"
   },
   "https://www.saastr.com/i-need-agentic-email-claude-said-try-agentmail-so-i-did-and-never-looked-at-anything-else/": {
     "count": 1,
@@ -4345,23 +4345,68 @@
     "timestamp": "2026-04-30T05:28:02.430818"
   },
   "https://www.saastr.com/our-salesforce-bill-went-up-80-marketo-cant-honor-its-own-unsubscribes-and-we-stealth-churned-off-notion-the-agents-003/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:28:02.528386"
+    "timestamp": "2026-05-01T05:41:56.786205"
   },
   "https://www.saastr.com/we-vibe-coded-our-own-ai-vp-of-marketing-and-customer-success-platform-two-vendors-just-lost-20k-each-and-theyll-never-know-why/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:28:02.535051"
+    "timestamp": "2026-05-01T05:41:56.941376"
   },
   "https://stripe.com/blog/giving-agents-the-ability-to-pay": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:32:09.277194"
+    "timestamp": "2026-05-01T05:45:14.014876"
   },
   "https://stripe.com/blog/everything-we-announced-at-sessions-2026": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:45:14.430930"
+  },
+  "https://a16z.simplecast.com/episodes/workdays-last-workday-ai-and-the-future-of-enterprise-software-wLoOJbG1": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-04-30T05:32:09.624331"
+    "timestamp": "2026-05-01T05:37:04.471742"
+  },
+  "https://a16z.simplecast.com/episodes/the-brutal-truth-about-biotech-why-2b-per-drug-is-killing-innovation-T3mrzJXR": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:37:04.637290"
+  },
+  "https://greylock.com/greymatter/the-godfather-of-israeli-cybersecurity/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:37:22.266753"
+  },
+  "https://greylock.com/greymatter/chronosphere/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:37:22.389768"
+  },
+  "https://www.saastr.com/20vc-x-saastr-when-the-agents-pick-the-models-openai-comes-back-to-life-and-thoma-bravo-just-wiped-out-5-1b-on-medallia/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:41:56.275579"
+  },
+  "https://www.saastr.com/our-ai-agents-drove-40-of-our-attendance-growth-at-saastr-ai-annual-2026-heres-what-that-actually-means/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:41:56.573867"
+  },
+  "https://www.saastr.com/salesforce-has-quietly-cut-55-of-its-sf-office-since-2019-openai-anthropic-took-more-than-all-of-it-back/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:41:56.622981"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:45:11.399522"
+  },
+  "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-01T05:45:11.534497"
   }
 }
