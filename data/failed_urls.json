@@ -4375,14 +4375,14 @@
     "timestamp": "2026-05-02T04:54:34.148688"
   },
   "https://greylock.com/greymatter/the-godfather-of-israeli-cybersecurity/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:35.967711"
+    "timestamp": "2026-05-02T05:14:28.156062"
   },
   "https://greylock.com/greymatter/chronosphere/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:35.928562"
+    "timestamp": "2026-05-02T05:14:28.301933"
   },
   "https://www.saastr.com/20vc-x-saastr-when-the-agents-pick-the-models-openai-comes-back-to-life-and-thoma-bravo-just-wiped-out-5-1b-on-medallia/": {
     "count": 2,
@@ -4420,9 +4420,9 @@
     "timestamp": "2026-05-02T04:54:34.152797"
   },
   "https://greylock.com/greymatter/secure-by-design/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:36.048200"
+    "timestamp": "2026-05-02T05:14:28.312983"
   },
   "https://greylock.com/marketing/startups-and-media-pt-1/": {
     "count": 1,
