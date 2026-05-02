@@ -4335,9 +4335,9 @@
     "timestamp": "2026-04-29T05:26:31.239994"
   },
   "https://a16z.simplecast.com/episodes/the-shift-in-global-drug-development-Ch15YbK8": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:37:04.496481"
+    "timestamp": "2026-05-02T04:54:33.998704"
   },
   "https://www.saastr.com/i-need-agentic-email-claude-said-try-agentmail-so-i-did-and-never-looked-at-anything-else/": {
     "count": 1,
@@ -4355,49 +4355,49 @@
     "timestamp": "2026-05-01T05:41:56.941376"
   },
   "https://stripe.com/blog/giving-agents-the-ability-to-pay": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:45:14.014876"
+    "timestamp": "2026-05-02T04:58:50.991287"
   },
   "https://stripe.com/blog/everything-we-announced-at-sessions-2026": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:45:14.430930"
+    "timestamp": "2026-05-02T04:58:51.413730"
   },
   "https://a16z.simplecast.com/episodes/workdays-last-workday-ai-and-the-future-of-enterprise-software-wLoOJbG1": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:37:04.471742"
+    "timestamp": "2026-05-02T04:54:33.986713"
   },
   "https://a16z.simplecast.com/episodes/the-brutal-truth-about-biotech-why-2b-per-drug-is-killing-innovation-T3mrzJXR": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:37:04.637290"
+    "timestamp": "2026-05-02T04:54:34.148688"
   },
   "https://greylock.com/greymatter/the-godfather-of-israeli-cybersecurity/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:37:22.266753"
+    "timestamp": "2026-05-02T04:54:35.967711"
   },
   "https://greylock.com/greymatter/chronosphere/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:37:22.389768"
+    "timestamp": "2026-05-02T04:54:35.928562"
   },
   "https://www.saastr.com/20vc-x-saastr-when-the-agents-pick-the-models-openai-comes-back-to-life-and-thoma-bravo-just-wiped-out-5-1b-on-medallia/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:41:56.275579"
+    "timestamp": "2026-05-02T04:56:53.587629"
   },
   "https://www.saastr.com/our-ai-agents-drove-40-of-our-attendance-growth-at-saastr-ai-annual-2026-heres-what-that-actually-means/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:41:56.573867"
+    "timestamp": "2026-05-02T04:56:54.120349"
   },
   "https://www.saastr.com/salesforce-has-quietly-cut-55-of-its-sf-office-since-2019-openai-anthropic-took-more-than-all-of-it-back/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:41:56.622981"
+    "timestamp": "2026-05-02T04:56:54.289703"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/": {
     "count": 1,
@@ -4408,5 +4408,40 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-01T05:45:11.534497"
+  },
+  "https://a16z.simplecast.com/episodes/balaji-and-taylor-lorenz-on-ai-and-media-MLvSb1Kh": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-02T04:54:33.981360"
+  },
+  "https://a16z.simplecast.com/episodes/the-frontier-of-spatial-intelligence-with-fei-fei-li-hady-3ht-X2ETxojd": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-02T04:54:34.152797"
+  },
+  "https://greylock.com/greymatter/secure-by-design/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-02T04:54:36.048200"
+  },
+  "https://greylock.com/marketing/startups-and-media-pt-1/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-02T04:54:36.533380"
+  },
+  "https://greylock.com/greymatter/the-state-of-enterprise-software/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-02T04:54:36.917047"
+  },
+  "https://www.saastr.com/yes-many-software-leaders-have-moats-no-thats-not-enough/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-02T04:56:53.824226"
+  },
+  "https://www.saastr.com/atlassian-and-twilio-crush-the-quarter-accelerate-is-the-saaspocalypse-over/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-02T04:56:53.927629"
   }
 }
