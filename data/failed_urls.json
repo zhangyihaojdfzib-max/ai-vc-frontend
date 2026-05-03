@@ -4385,14 +4385,14 @@
     "timestamp": "2026-05-02T05:14:28.301933"
   },
   "https://www.saastr.com/20vc-x-saastr-when-the-agents-pick-the-models-openai-comes-back-to-life-and-thoma-bravo-just-wiped-out-5-1b-on-medallia/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:56:53.587629"
+    "timestamp": "2026-05-03T05:40:01.488954"
   },
   "https://www.saastr.com/our-ai-agents-drove-40-of-our-attendance-growth-at-saastr-ai-annual-2026-heres-what-that-actually-means/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:56:54.120349"
+    "timestamp": "2026-05-03T05:40:01.654546"
   },
   "https://www.saastr.com/salesforce-has-quietly-cut-55-of-its-sf-office-since-2019-openai-anthropic-took-more-than-all-of-it-back/": {
     "count": 2,
@@ -4420,28 +4420,43 @@
     "timestamp": "2026-05-02T04:54:34.152797"
   },
   "https://greylock.com/greymatter/secure-by-design/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T05:14:28.312983"
+    "timestamp": "2026-05-03T05:24:47.575987"
   },
   "https://greylock.com/marketing/startups-and-media-pt-1/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:36.533380"
+    "timestamp": "2026-05-03T05:24:47.549156"
   },
   "https://greylock.com/greymatter/the-state-of-enterprise-software/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:36.917047"
+    "timestamp": "2026-05-03T05:24:47.948398"
   },
   "https://www.saastr.com/yes-many-software-leaders-have-moats-no-thats-not-enough/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:56:53.824226"
+    "timestamp": "2026-05-03T05:40:01.269030"
   },
   "https://www.saastr.com/atlassian-and-twilio-crush-the-quarter-accelerate-is-the-saaspocalypse-over/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-03T05:40:01.091934"
+  },
+  "https://greylock.com/greymatter/bringing-defi-lending-mainstream/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:56:53.927629"
+    "timestamp": "2026-05-03T05:24:47.897320"
+  },
+  "https://greylock.com/greymatter/frameworks-for-driving-sustainable-growth/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-03T05:24:48.165922"
+  },
+  "https://www.saastr.com/the-simplest-way-to-make-your-product-more-agentic-this-month-make-sure-your-api-is-actually-agent-friendly-it-probably-isnt/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-03T05:40:01.098304"
   }
 }
