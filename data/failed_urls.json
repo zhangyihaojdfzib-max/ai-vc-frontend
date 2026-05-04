@@ -4425,38 +4425,53 @@
     "timestamp": "2026-05-03T05:24:47.575987"
   },
   "https://greylock.com/marketing/startups-and-media-pt-1/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-03T05:24:47.549156"
+    "timestamp": "2026-05-04T05:28:39.370573"
   },
   "https://greylock.com/greymatter/the-state-of-enterprise-software/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-03T05:24:47.948398"
+    "timestamp": "2026-05-04T05:28:39.451785"
   },
   "https://www.saastr.com/yes-many-software-leaders-have-moats-no-thats-not-enough/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-03T05:40:01.269030"
+    "timestamp": "2026-05-04T05:44:07.457657"
   },
   "https://www.saastr.com/atlassian-and-twilio-crush-the-quarter-accelerate-is-the-saaspocalypse-over/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-03T05:40:01.091934"
+    "timestamp": "2026-05-04T05:44:07.214500"
   },
   "https://greylock.com/greymatter/bringing-defi-lending-mainstream/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-03T05:24:47.897320"
+    "timestamp": "2026-05-04T05:28:39.961530"
   },
   "https://greylock.com/greymatter/frameworks-for-driving-sustainable-growth/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-03T05:24:48.165922"
+    "timestamp": "2026-05-04T05:28:39.756915"
   },
   "https://www.saastr.com/the-simplest-way-to-make-your-product-more-agentic-this-month-make-sure-your-api-is-actually-agent-friendly-it-probably-isnt/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-04T05:44:07.000400"
+  },
+  "https://greylock.com/greymatter/practical-innovation/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-03T05:40:01.098304"
+    "timestamp": "2026-05-04T05:28:39.965856"
+  },
+  "https://www.saastr.com/why-does-no-one-in-ai-have-support/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-04T05:44:06.790786"
+  },
+  "https://www.saastr.com/dear-saastr-im-joining-a-b2b-startup-at-3m-arr-as-vp-of-sales-what-should-i-do-first/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-04T05:44:07.585483"
   }
 }
