@@ -4365,14 +4365,14 @@
     "timestamp": "2026-05-02T04:58:51.413730"
   },
   "https://a16z.simplecast.com/episodes/workdays-last-workday-ai-and-the-future-of-enterprise-software-wLoOJbG1": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:33.986713"
+    "timestamp": "2026-05-05T04:55:50.875835"
   },
   "https://a16z.simplecast.com/episodes/the-brutal-truth-about-biotech-why-2b-per-drug-is-killing-innovation-T3mrzJXR": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:34.148688"
+    "timestamp": "2026-05-05T04:55:51.011546"
   },
   "https://greylock.com/greymatter/the-godfather-of-israeli-cybersecurity/": {
     "count": 3,
@@ -4410,14 +4410,14 @@
     "timestamp": "2026-05-01T05:45:11.534497"
   },
   "https://a16z.simplecast.com/episodes/balaji-and-taylor-lorenz-on-ai-and-media-MLvSb1Kh": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:33.981360"
+    "timestamp": "2026-05-05T04:55:50.853219"
   },
   "https://a16z.simplecast.com/episodes/the-frontier-of-spatial-intelligence-with-fei-fei-li-hady-3ht-X2ETxojd": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-02T04:54:34.152797"
+    "timestamp": "2026-05-05T04:55:51.078668"
   },
   "https://greylock.com/greymatter/secure-by-design/": {
     "count": 3,
@@ -4445,33 +4445,53 @@
     "timestamp": "2026-05-04T05:44:07.214500"
   },
   "https://greylock.com/greymatter/bringing-defi-lending-mainstream/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-04T05:28:39.961530"
+    "timestamp": "2026-05-05T04:55:51.893307"
   },
   "https://greylock.com/greymatter/frameworks-for-driving-sustainable-growth/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-04T05:28:39.756915"
+    "timestamp": "2026-05-05T04:55:52.403561"
   },
   "https://www.saastr.com/the-simplest-way-to-make-your-product-more-agentic-this-month-make-sure-your-api-is-actually-agent-friendly-it-probably-isnt/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-04T05:44:07.000400"
+    "timestamp": "2026-05-05T05:05:30.396779"
   },
   "https://greylock.com/greymatter/practical-innovation/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-04T05:28:39.965856"
+    "timestamp": "2026-05-05T04:55:51.969274"
   },
   "https://www.saastr.com/why-does-no-one-in-ai-have-support/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-04T05:44:06.790786"
+    "timestamp": "2026-05-05T05:05:30.169392"
   },
   "https://www.saastr.com/dear-saastr-im-joining-a-b2b-startup-at-3m-arr-as-vp-of-sales-what-should-i-do-first/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-04T05:44:07.585483"
+  },
+  "https://a16z.simplecast.com/episodes/sarah-rogers-free-speech-ai-diplomacy-and-what-america-owes-its-allies-DE_Sv7Ni": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-05T04:55:50.883504"
+  },
+  "https://www.saastr.com/palantir-q1-2026-has-broken-the-enterprise-software-mold-again-revenue-accelerates-to-85-at-6b-arr/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-05T05:05:29.511143"
+  },
+  "https://www.saastr.com/high-grr-is-great-but-it-can-also-mask-decay-a-real-risk-for-servicenow-and-workday-in-particular/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-05T05:05:29.911131"
+  },
+  "https://www.saastr.com/we-just-crossed-1000000-startup-valuations-on-our-free-saastr-ai-vc-tools/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-05T05:05:29.961712"
   }
 }
