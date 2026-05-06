@@ -4320,14 +4320,14 @@
     "timestamp": "2026-04-30T05:28:03.098537"
   },
   "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:45:11.538713"
+    "timestamp": "2026-05-06T05:27:34.779821"
   },
   "https://blogs.nvidia.com/blog/manufacturing-simulation-first/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:45:11.731137"
+    "timestamp": "2026-05-06T05:27:34.871506"
   },
   "https://medium.com/airbnb-engineering/skipper-building-airbnbs-embedded-workflow-engine-f6c34552146f?source=rss----53c7c27702d5---4": {
     "count": 1,
@@ -4400,24 +4400,24 @@
     "timestamp": "2026-05-02T04:56:54.289703"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-may-2026-games-list/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:45:11.399522"
+    "timestamp": "2026-05-06T05:27:34.473272"
   },
   "https://blogs.nvidia.com/blog/what-openclaw-agents-mean-for-every-organization/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-01T05:45:11.534497"
+    "timestamp": "2026-05-06T05:27:34.574067"
   },
   "https://a16z.simplecast.com/episodes/balaji-and-taylor-lorenz-on-ai-and-media-MLvSb1Kh": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-05T04:55:50.853219"
+    "timestamp": "2026-05-06T05:23:16.297265"
   },
   "https://a16z.simplecast.com/episodes/the-frontier-of-spatial-intelligence-with-fei-fei-li-hady-3ht-X2ETxojd": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-05T04:55:51.078668"
+    "timestamp": "2026-05-06T05:23:16.535109"
   },
   "https://greylock.com/greymatter/secure-by-design/": {
     "count": 3,
@@ -4475,28 +4475,83 @@
     "timestamp": "2026-05-04T05:44:07.585483"
   },
   "https://a16z.simplecast.com/episodes/sarah-rogers-free-speech-ai-diplomacy-and-what-america-owes-its-allies-DE_Sv7Ni": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-05T04:55:50.883504"
+    "timestamp": "2026-05-06T05:23:16.305311"
   },
   "https://www.saastr.com/palantir-q1-2026-has-broken-the-enterprise-software-mold-again-revenue-accelerates-to-85-at-6b-arr/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-05T05:05:29.511143"
+    "timestamp": "2026-05-06T05:24:38.217011"
   },
   "https://www.saastr.com/high-grr-is-great-but-it-can-also-mask-decay-a-real-risk-for-servicenow-and-workday-in-particular/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-05T05:05:29.911131"
+    "timestamp": "2026-05-06T05:24:38.506057"
   },
   "https://www.saastr.com/we-just-crossed-1000000-startup-valuations-on-our-free-saastr-ai-vc-tools/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-05T05:05:29.961712"
+    "timestamp": "2026-05-06T05:24:38.667052"
   },
   "https://greylock.com/press/crowdstrike-chief-fbi-agent-and-others-discuss-spies-threats-and-deepfakes-at-wsj-tech-live-cybersecurity/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:23:18.250106"
+  },
+  "https://a16z.simplecast.com/episodes/building-blackstone-backing-costco-with-tony-james-TqmmrXcA": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-05T05:18:17.473537"
+    "timestamp": "2026-05-06T05:23:16.274307"
+  },
+  "https://a16z.simplecast.com/episodes/rocket-mortgage-ceo-heres-how-to-fix-the-housing-crisis-XneG8bDL": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:23:16.515557"
+  },
+  "https://greylock.com/portfolio-news/introducing-altara-ai-for-the-physical-sciences/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:23:17.915795"
+  },
+  "https://greylock.com/press/abnormal-security-raises-250-million-eyes-ipo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:23:18.276541"
+  },
+  "https://review.firstround.com/inside-figmas-human-centered-approach-to-building-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:23:33.459149"
+  },
+  "https://review.firstround.com/how-to-build-and-grow-the-human-side-of-your-engineering-org/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:24:24.447558"
+  },
+  "https://review.firstround.com/how-to-make-craft-your-moat/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:24:26.708767"
+  },
+  "https://review.firstround.com/thinking-about-becoming-a-founder-heres-how-to-emotionally-prepare/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:24:28.962078"
+  },
+  "https://www.saastr.com/the-top-10-best-reasons-to-come-last-minute-to-saastr-ai-annual-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:24:37.920667"
+  },
+  "https://www.saastr.com/254-thats-what-it-cost-us-to-run-our-two-ai-vps-last-month/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:24:38.319167"
+  },
+  "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-06T05:27:34.569101"
   }
 }
