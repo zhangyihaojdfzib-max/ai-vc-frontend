@@ -4500,14 +4500,14 @@
     "timestamp": "2026-05-07T05:26:01.175606"
   },
   "https://a16z.simplecast.com/episodes/building-blackstone-backing-costco-with-tony-james-TqmmrXcA": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:25:59.471905"
+    "timestamp": "2026-05-08T04:49:54.794095"
   },
   "https://a16z.simplecast.com/episodes/rocket-mortgage-ceo-heres-how-to-fix-the-housing-crisis-XneG8bDL": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:25:59.629133"
+    "timestamp": "2026-05-08T04:49:54.904566"
   },
   "https://greylock.com/portfolio-news/introducing-altara-ai-for-the-physical-sciences/": {
     "count": 3,
@@ -4535,9 +4535,9 @@
     "timestamp": "2026-05-07T05:36:47.232055"
   },
   "https://review.firstround.com/thinking-about-becoming-a-founder-heres-how-to-emotionally-prepare/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-06T05:24:28.962078"
+    "timestamp": "2026-05-08T04:49:59.593551"
   },
   "https://www.saastr.com/the-top-10-best-reasons-to-come-last-minute-to-saastr-ai-annual-2026/": {
     "count": 2,
@@ -4550,19 +4550,19 @@
     "timestamp": "2026-05-07T05:28:02.568533"
   },
   "https://blogs.nvidia.com/blog/servicenow-autonomous-ai-agents-enterprises/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:30:32.827550"
+    "timestamp": "2026-05-08T04:52:27.508454"
   },
   "https://a16z.simplecast.com/episodes/the-new-space-race-nasa-artemis-and-the-race-to-the-moon-PgJ89xUm": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:25:59.446144"
+    "timestamp": "2026-05-08T04:49:54.775634"
   },
   "https://a16z.simplecast.com/episodes/grant-lee-building-gammas-ai-presentation-company-to-100-million-users-v_Sxqjj_": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:25:59.649878"
+    "timestamp": "2026-05-08T04:49:54.911743"
   },
   "https://greylock.com/press/how-rubriks-ipo-paid-off-big-for-greylock-vc-asheem-chandna/": {
     "count": 1,
@@ -4570,23 +4570,93 @@
     "timestamp": "2026-05-07T05:26:01.374089"
   },
   "https://greylock.com/press/how-these-software-as-a-service-startups-are-making-life-harder-for-everyone-else/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:26:01.775393"
+    "timestamp": "2026-05-08T04:49:56.370631"
   },
   "https://www.saastr.com/want-to-know-how-any-b2b-company-is-really-doing-follow-the-net-new-customer-growth/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:28:01.834421"
+    "timestamp": "2026-05-08T04:50:15.472597"
   },
   "https://www.saastr.com/tragedy-apps-database-deletions-ai-pr-pitches-i-block-on-sight-and-why-were-hiring-a-marketer-to-report-to-an-ai-agent-the-agents-004-is-out/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:28:02.108336"
+    "timestamp": "2026-05-08T04:50:15.276936"
   },
   "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:52:27.341395"
+  },
+  "https://a16z.simplecast.com/episodes/crypto-fund-5-we-raised-22b-heres-why-___CC391": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-07T05:30:33.001271"
+    "timestamp": "2026-05-08T04:49:54.807378"
+  },
+  "https://greylock.com/press/digitization-of-enterprise-software-sales/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:49:56.859611"
+  },
+  "https://greylock.com/press/how-to-fundraise-in-a-pandemic-and-in-every-environment-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:49:57.131295"
+  },
+  "https://greylock.com/press/where-does-ai-go-next-3/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:49:57.755253"
+  },
+  "https://greylock.com/press/how-to-win-the-startup-war-for-talent-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:49:58.398550"
+  },
+  "https://review.firstround.com/how-to-spot-the-wrong-customer-before-they-burn-your-roadmap/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:50:01.840654"
+  },
+  "https://review.firstround.com/how-to-hang-on-to-conviction-in-an-emerging-market-brazes-long-game-to-pmf/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:50:04.085932"
+  },
+  "https://review.firstround.com/rent-an-exec-should-you-hire-a-fractional-leader/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:50:06.288667"
+  },
+  "https://review.firstround.com/can-you-be-a-good-micromanager/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:50:08.490444"
+  },
+  "https://www.saastr.com/dau-wau-and-mau-are-the-new-lighthouse-metric-in-b2b-ai-harveys-a-great-case-study/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:50:14.712638"
+  },
+  "https://www.saastr.com/20vc-x-saastr-the-most-aggressive-quarter-in-american-capitalism-palantirs-rule-of-145-and-why-brian-armstrong-just-killed-the-manager-of-managers/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:50:15.074014"
+  },
+  "https://www.saastr.com/our-ai-vp-of-customer-success-qbee-saved-us-70-of-the-human-hours-vs-2025-both-internally-and-with-external-teams-a-3x-multiplier/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:50:15.098249"
+  },
+  "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:52:27.265116"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-08T04:52:27.336645"
   }
 }
