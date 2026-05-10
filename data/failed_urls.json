@@ -4595,44 +4595,44 @@
     "timestamp": "2026-05-09T05:16:37.633220"
   },
   "https://greylock.com/press/digitization-of-enterprise-software-sales/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:16:48.568680"
+    "timestamp": "2026-05-10T05:32:09.992369"
   },
   "https://greylock.com/press/how-to-fundraise-in-a-pandemic-and-in-every-environment-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:16:48.942349"
+    "timestamp": "2026-05-10T05:32:10.918683"
   },
   "https://greylock.com/press/where-does-ai-go-next-3/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:16:49.211715"
+    "timestamp": "2026-05-10T05:32:10.616896"
   },
   "https://greylock.com/press/how-to-win-the-startup-war-for-talent-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:16:50.046611"
+    "timestamp": "2026-05-10T05:32:11.652470"
   },
   "https://review.firstround.com/how-to-spot-the-wrong-customer-before-they-burn-your-roadmap/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:16:53.589647"
+    "timestamp": "2026-05-10T05:32:14.367048"
   },
   "https://review.firstround.com/how-to-hang-on-to-conviction-in-an-emerging-market-brazes-long-game-to-pmf/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:16:55.786317"
+    "timestamp": "2026-05-10T05:32:16.620310"
   },
   "https://review.firstround.com/rent-an-exec-should-you-hire-a-fractional-leader/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:16:57.965371"
+    "timestamp": "2026-05-10T05:32:18.882165"
   },
   "https://review.firstround.com/can-you-be-a-good-micromanager/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:17:00.258034"
+    "timestamp": "2026-05-10T05:32:21.136832"
   },
   "https://www.saastr.com/dau-wau-and-mau-are-the-new-lighthouse-metric-in-b2b-ai-harveys-a-great-case-study/": {
     "count": 1,
@@ -4640,9 +4640,9 @@
     "timestamp": "2026-05-08T04:50:14.712638"
   },
   "https://www.saastr.com/20vc-x-saastr-the-most-aggressive-quarter-in-american-capitalism-palantirs-rule-of-145-and-why-brian-armstrong-just-killed-the-manager-of-managers/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:17:07.194398"
+    "timestamp": "2026-05-10T05:34:25.580504"
   },
   "https://www.saastr.com/our-ai-vp-of-customer-success-qbee-saved-us-70-of-the-human-hours-vs-2025-both-internally-and-with-external-teams-a-3x-multiplier/": {
     "count": 2,
@@ -4670,18 +4670,28 @@
     "timestamp": "2026-05-09T05:16:37.694055"
   },
   "https://www.saastr.com/397-view-growth-in-28-days-our-new-podcast-the-agents-seems-to-be-a-hit/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:17:06.559956"
+    "timestamp": "2026-05-10T05:34:25.505185"
   },
   "https://www.saastr.com/the-b2b-reacceleration-is-real-twilio-atlassian-and-palantir-just-proved-it-shopify-still-has-to/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:17:06.920651"
+    "timestamp": "2026-05-10T05:34:24.953860"
   },
   "https://www.saastr.com/saastr-ai-annual-2026-kicks-off-tuesday-heres-everything-you-need-to-know-before-you-get-here/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-10T05:34:25.176969"
+  },
+  "https://greylock.com/press/the-long-game-in-cybersecurity-2/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:17:06.993129"
+    "timestamp": "2026-05-10T05:32:12.359886"
+  },
+  "https://www.saastr.com/is10kavpmarketing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-10T05:34:24.796736"
   }
 }
