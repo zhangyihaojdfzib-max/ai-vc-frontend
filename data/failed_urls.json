@@ -4650,14 +4650,14 @@
     "timestamp": "2026-05-09T05:17:07.377165"
   },
   "https://blogs.nvidia.com/blog/energy-secretary-chris-wright-ian-buck/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:19:45.318457"
+    "timestamp": "2026-05-11T05:58:16.307112"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-gaijin-sso/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:19:45.449781"
+    "timestamp": "2026-05-11T05:58:16.342918"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-the-next-technology-era-aoL5sxwd": {
     "count": 1,
@@ -4670,28 +4670,63 @@
     "timestamp": "2026-05-09T05:16:37.694055"
   },
   "https://www.saastr.com/397-view-growth-in-28-days-our-new-podcast-the-agents-seems-to-be-a-hit/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-10T05:34:25.505185"
+    "timestamp": "2026-05-11T05:56:46.201359"
   },
   "https://www.saastr.com/the-b2b-reacceleration-is-real-twilio-atlassian-and-palantir-just-proved-it-shopify-still-has-to/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-10T05:34:24.953860"
+    "timestamp": "2026-05-11T05:56:46.015326"
   },
   "https://www.saastr.com/saastr-ai-annual-2026-kicks-off-tuesday-heres-everything-you-need-to-know-before-you-get-here/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-10T05:34:25.176969"
+    "timestamp": "2026-05-11T05:56:45.807856"
   },
   "https://greylock.com/press/the-long-game-in-cybersecurity-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-10T05:32:12.359886"
+    "timestamp": "2026-05-11T05:53:15.443831"
   },
   "https://www.saastr.com/is10kavpmarketing/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-11T05:56:45.786294"
+  },
+  "https://greylock.com/press/where-does-ai-go-next-2/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-10T05:34:24.796736"
+    "timestamp": "2026-05-11T05:53:15.734171"
+  },
+  "https://greylock.com/press/four-tasks-for-ceos-in-2023-leveraging-the-downturn/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-11T05:53:16.034065"
+  },
+  "https://greylock.com/press/instagram-competitor-lapse-raises-30-million-from-investors/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-11T05:53:16.461909"
+  },
+  "https://greylock.com/press/three-questions-every-enterprise-ai-startup-should-ask/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-11T05:53:17.085654"
+  },
+  "https://review.firstround.com/how-to-go-from-random-wins-to-repeatable-revenue/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-11T05:54:52.075878"
+  },
+  "https://www.saastr.com/salesforce-is-the-goat-of-b2b-it-got-to-31b-arr-in-19-years-anthropic-did-it-in-4-heres-why/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-11T05:56:45.419523"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-11T05:58:16.338505"
   }
 }
