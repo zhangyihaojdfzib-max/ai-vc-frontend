@@ -4660,14 +4660,14 @@
     "timestamp": "2026-05-11T05:58:16.342918"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-on-the-next-technology-era-aoL5sxwd": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:42:08.790104"
+    "timestamp": "2026-05-13T05:43:16.018293"
   },
   "https://a16z.simplecast.com/episodes/michael-truell-how-cursor-builds-at-the-speed-of-ai-Vxy6kxbi": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-09T05:16:37.694055"
+    "timestamp": "2026-05-13T05:43:16.112375"
   },
   "https://www.saastr.com/397-view-growth-in-28-days-our-new-podcast-the-agents-seems-to-be-a-hit/": {
     "count": 3,
@@ -4695,29 +4695,29 @@
     "timestamp": "2026-05-11T05:56:45.786294"
   },
   "https://greylock.com/press/where-does-ai-go-next-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:42:11.624988"
+    "timestamp": "2026-05-13T05:43:18.100444"
   },
   "https://greylock.com/press/four-tasks-for-ceos-in-2023-leveraging-the-downturn/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:42:11.286496"
+    "timestamp": "2026-05-13T05:43:18.425917"
   },
   "https://greylock.com/press/instagram-competitor-lapse-raises-30-million-from-investors/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-05-11T05:53:16.461909"
-  },
-  "https://greylock.com/press/three-questions-every-enterprise-ai-startup-should-ask/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-05-11T05:53:17.085654"
-  },
-  "https://review.firstround.com/how-to-go-from-random-wins-to-repeatable-revenue/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:42:21.795380"
+    "timestamp": "2026-05-13T05:43:18.860077"
+  },
+  "https://greylock.com/press/three-questions-every-enterprise-ai-startup-should-ask/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:43:18.094361"
+  },
+  "https://review.firstround.com/how-to-go-from-random-wins-to-repeatable-revenue/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:43:54.793743"
   },
   "https://www.saastr.com/salesforce-is-the-goat-of-b2b-it-got-to-31b-arr-in-19-years-anthropic-did-it-in-4-heres-why/": {
     "count": 1,
@@ -4725,14 +4725,14 @@
     "timestamp": "2026-05-11T05:56:45.419523"
   },
   "https://blogs.nvidia.com/blog/nvidia-ceo-carnegie-mellon-commencement-address/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:49:03.751825"
+    "timestamp": "2026-05-13T05:52:31.975997"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-builder-culture-in-the-age-of-ai-oE9pV1uI": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:42:08.785953"
+    "timestamp": "2026-05-13T05:43:16.026126"
   },
   "https://www.saastr.com/stop-discounting-start-deploying-the-new-way-to-close-deals-in-b2b-ai/": {
     "count": 1,
@@ -4740,18 +4740,58 @@
     "timestamp": "2026-05-12T05:46:27.098897"
   },
   "https://www.saastr.com/20-newly-added-saastr-ai-2026-sessions-and-workshops-you-dont-want-to-miss-from-coreweave-to-snowflake-to-the-cro-ai-of-stripe-starts-tomorrow/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:46:27.256541"
+    "timestamp": "2026-05-13T05:49:57.334141"
   },
   "https://www.saastr.com/5-interesting-learnings-from-monday-at-1-4-billion-in-arr-guidance-raised-stock-crushes-ndr-up-to-116-but-real-ai-revenue-still-ahead/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:46:27.420192"
+    "timestamp": "2026-05-13T05:49:57.517066"
   },
   "https://stripe.com/blog/vertical-saas-insights-sessions-2026": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:52:34.141578"
+  },
+  "https://a16z.simplecast.com/episodes/lloyd-blankfein-on-risk-crisis-and-leadership-v0_nsi13": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-12T05:50:34.509734"
+    "timestamp": "2026-05-13T05:43:15.997864"
+  },
+  "https://a16z.simplecast.com/episodes/a16zs-state-of-crypto-the-4-trillion-milestone-and-whats-next-EtsxSLNq": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:43:16.107441"
+  },
+  "https://greylock.com/press/generative-ai-doesnt-make-hardware-less-hard/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:43:19.229677"
+  },
+  "https://www.saastr.com/the-1-way-to-win-as-a-gtm-exec-in-the-age-of-ai-be-a-true-product-guru-know-your-space-10x-better-than-any-customer/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:49:56.814511"
+  },
+  "https://www.saastr.com/whos-winning-enterprise-ai-now-claude-up-128-gemini-up-48-openai-down-8-grok-still-a-rounding-error/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:49:57.091866"
+  },
+  "https://www.saastr.com/two-ai-vps-for-257-a-website-became-our-21st-agent-killed-a-4k-saas-app-in-60-minutes-the-agents-005-is-out/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:49:57.159011"
+  },
+  "https://www.tomtunguz.com/timing-sales-cashflows/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:49:58.270851"
+  },
+  "https://blogs.nvidia.com/blog/sap-specialized-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-13T05:52:31.890563"
   }
 }
