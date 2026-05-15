@@ -4755,34 +4755,34 @@
     "timestamp": "2026-05-14T05:50:07.970060"
   },
   "https://a16z.simplecast.com/episodes/lloyd-blankfein-on-risk-crisis-and-leadership-v0_nsi13": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:42:18.137594"
+    "timestamp": "2026-05-15T05:49:39.061033"
   },
   "https://a16z.simplecast.com/episodes/a16zs-state-of-crypto-the-4-trillion-milestone-and-whats-next-EtsxSLNq": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:42:18.257003"
+    "timestamp": "2026-05-15T05:49:39.066398"
   },
   "https://greylock.com/press/generative-ai-doesnt-make-hardware-less-hard/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:42:20.266189"
+    "timestamp": "2026-05-15T05:49:41.264587"
   },
   "https://www.saastr.com/the-1-way-to-win-as-a-gtm-exec-in-the-age-of-ai-be-a-true-product-guru-know-your-space-10x-better-than-any-customer/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:47:07.454903"
+    "timestamp": "2026-05-15T05:54:26.810887"
   },
   "https://www.saastr.com/whos-winning-enterprise-ai-now-claude-up-128-gemini-up-48-openai-down-8-grok-still-a-rounding-error/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:47:07.280396"
+    "timestamp": "2026-05-15T05:54:26.617420"
   },
   "https://www.saastr.com/two-ai-vps-for-257-a-website-became-our-21st-agent-killed-a-4k-saas-app-in-60-minutes-the-agents-005-is-out/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:47:07.296137"
+    "timestamp": "2026-05-15T05:54:26.062625"
   },
   "https://www.tomtunguz.com/timing-sales-cashflows/": {
     "count": 2,
@@ -4790,33 +4790,68 @@
     "timestamp": "2026-05-14T05:47:08.273989"
   },
   "https://blogs.nvidia.com/blog/sap-specialized-agents/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:49:49.752275"
+    "timestamp": "2026-05-15T05:56:27.212108"
   },
   "https://a16z.simplecast.com/episodes/energy-minerals-and-the-physical-stack-behind-ai-9rkc7PLj": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:42:18.131902"
+    "timestamp": "2026-05-15T05:49:38.790014"
   },
   "https://greylock.com/press/photo-app-lapse-raises-30m-series-a/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:42:20.870549"
+    "timestamp": "2026-05-15T05:49:41.033520"
   },
   "https://www.saastr.com/were-hiring-a-human-marketing-exec-to-report-to-10k-our-ai-vp-marketing-the-bottleneck-isnt-great-ideas-anymore/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:47:06.976399"
+    "timestamp": "2026-05-15T05:54:26.356996"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:49:49.575003"
+    "timestamp": "2026-05-15T05:56:27.052220"
   },
   "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-15T05:56:26.810545"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-your-only-job-is-right-product-right-time-PYh1Iyev": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-14T05:49:49.756493"
+    "timestamp": "2026-05-15T05:49:38.775291"
+  },
+  "https://a16z.simplecast.com/episodes/amjad-masad-adam-dangelo-how-far-are-we-from-agi-HC6s4wvT": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-15T05:49:39.288633"
+  },
+  "https://greylock.com/greymatter/systems-and-standards-of-gtm-excellence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-15T05:49:40.479938"
+  },
+  "https://greylock.com/firm-news/welcome-tom-levey/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-15T05:49:40.703309"
+  },
+  "https://greylock.com/greymatter/inventa-supplying-commerce-connections/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-15T05:49:41.021220"
+  },
+  "https://www.saastr.com/we-havent-had-a-great-cs-experience-in-years-but-our-fdes-have-been-incredible/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-15T05:54:26.440960"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-15T05:56:27.060548"
   }
 }
