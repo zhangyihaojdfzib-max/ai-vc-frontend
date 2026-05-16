@@ -4795,19 +4795,19 @@
     "timestamp": "2026-05-15T05:56:27.212108"
   },
   "https://a16z.simplecast.com/episodes/energy-minerals-and-the-physical-stack-behind-ai-9rkc7PLj": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:49:38.790014"
+    "timestamp": "2026-05-16T05:22:02.160107"
   },
   "https://greylock.com/press/photo-app-lapse-raises-30m-series-a/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:49:41.033520"
+    "timestamp": "2026-05-16T05:22:03.527624"
   },
   "https://www.saastr.com/were-hiring-a-human-marketing-exec-to-report-to-10k-our-ai-vp-marketing-the-bottleneck-isnt-great-ideas-anymore/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:54:26.356996"
+    "timestamp": "2026-05-16T05:27:20.072810"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/": {
     "count": 2,
@@ -4820,38 +4820,68 @@
     "timestamp": "2026-05-15T05:56:26.810545"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-your-only-job-is-right-product-right-time-PYh1Iyev": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:49:38.775291"
+    "timestamp": "2026-05-16T05:22:02.139156"
   },
   "https://a16z.simplecast.com/episodes/amjad-masad-adam-dangelo-how-far-are-we-from-agi-HC6s4wvT": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:49:39.288633"
+    "timestamp": "2026-05-16T05:22:02.211008"
   },
   "https://greylock.com/greymatter/systems-and-standards-of-gtm-excellence/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:49:40.479938"
+    "timestamp": "2026-05-16T05:22:03.344270"
   },
   "https://greylock.com/firm-news/welcome-tom-levey/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:49:40.703309"
+    "timestamp": "2026-05-16T05:22:03.275091"
   },
   "https://greylock.com/greymatter/inventa-supplying-commerce-connections/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:49:41.021220"
+    "timestamp": "2026-05-16T05:22:03.796313"
   },
   "https://www.saastr.com/we-havent-had-a-great-cs-experience-in-years-but-our-fdes-have-been-incredible/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:54:26.440960"
+    "timestamp": "2026-05-16T05:27:19.819564"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-15T05:56:27.060548"
+  },
+  "https://a16z.simplecast.com/episodes/vitalik-buterin-on-human-agency-in-the-ai-era-DY1OPgHD": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-16T05:22:02.166958"
+  },
+  "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-cure-all-disease-6i78kGXq": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-16T05:22:02.250582"
+  },
+  "https://greylock.com/press/the-evolution-of-a-startup-ceo-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-16T05:22:04.726729"
+  },
+  "https://www.saastr.com/figma-beats-raises-and-accelerates-boom-stock-rockets-12-but-it-still-trades-for-less-than-10x-arr/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-16T05:27:19.529421"
+  },
+  "https://www.saastr.com/yes-saastr-ai-annual-2026-crushed-it-but-we-had-to-rebuild-our-entire-customer-base-for-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-16T05:27:19.887741"
+  },
+  "https://www.saastr.com/dont-be-a-woe-is-me-founder-thats-always-a-recipe-for-failure/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-16T05:27:20.271575"
   }
 }
