@@ -4830,24 +4830,24 @@
     "timestamp": "2026-05-16T05:22:02.211008"
   },
   "https://greylock.com/greymatter/systems-and-standards-of-gtm-excellence/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:22:03.344270"
+    "timestamp": "2026-05-17T05:43:21.864752"
   },
   "https://greylock.com/firm-news/welcome-tom-levey/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:22:03.275091"
+    "timestamp": "2026-05-17T05:43:22.228054"
   },
   "https://greylock.com/greymatter/inventa-supplying-commerce-connections/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:22:03.796313"
+    "timestamp": "2026-05-17T05:43:22.307312"
   },
   "https://www.saastr.com/we-havent-had-a-great-cs-experience-in-years-but-our-fdes-have-been-incredible/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:27:19.819564"
+    "timestamp": "2026-05-17T05:47:58.036826"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/": {
     "count": 1,
@@ -4865,23 +4865,43 @@
     "timestamp": "2026-05-16T05:22:02.250582"
   },
   "https://greylock.com/press/the-evolution-of-a-startup-ceo-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:22:04.726729"
+    "timestamp": "2026-05-17T05:43:23.622330"
   },
   "https://www.saastr.com/figma-beats-raises-and-accelerates-boom-stock-rockets-12-but-it-still-trades-for-less-than-10x-arr/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:27:19.529421"
+    "timestamp": "2026-05-17T05:47:57.451793"
   },
   "https://www.saastr.com/yes-saastr-ai-annual-2026-crushed-it-but-we-had-to-rebuild-our-entire-customer-base-for-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:27:19.887741"
+    "timestamp": "2026-05-17T05:47:57.641805"
   },
   "https://www.saastr.com/dont-be-a-woe-is-me-founder-thats-always-a-recipe-for-failure/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-16T05:27:20.271575"
+  },
+  "https://greylock.com/greymatter/searching-with-purpose/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-17T05:43:22.816414"
+  },
+  "https://review.firstround.com/from-weekend-project-to-fortune-10-adoption/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-17T05:44:24.370796"
+  },
+  "https://www.saastr.com/magicalforecastai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-17T05:47:57.849314"
+  },
+  "https://www.saastr.com/dear-saastr-how-do-i-know-if-my-new-vp-of-marketing-is-going-to-make-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-17T05:47:58.222348"
   }
 }
