@@ -4865,9 +4865,9 @@
     "timestamp": "2026-05-16T05:22:02.250582"
   },
   "https://greylock.com/press/the-evolution-of-a-startup-ceo-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:43:23.622330"
+    "timestamp": "2026-05-17T05:53:11.384072"
   },
   "https://www.saastr.com/figma-beats-raises-and-accelerates-boom-stock-rockets-12-but-it-still-trades-for-less-than-10x-arr/": {
     "count": 2,
@@ -4885,14 +4885,14 @@
     "timestamp": "2026-05-16T05:27:20.271575"
   },
   "https://greylock.com/greymatter/searching-with-purpose/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:43:22.816414"
+    "timestamp": "2026-05-17T05:53:10.539775"
   },
   "https://review.firstround.com/from-weekend-project-to-fortune-10-adoption/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:44:24.370796"
+    "timestamp": "2026-05-17T05:53:18.887924"
   },
   "https://www.saastr.com/magicalforecastai/": {
     "count": 1,
@@ -4903,5 +4903,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-17T05:47:58.222348"
+  },
+  "https://greylock.com/greymatter/making-data-work/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-17T05:53:10.612239"
+  },
+  "https://openai.com/index/commonwealth-bank-of-australia/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-17T05:55:32.014558"
   }
 }
