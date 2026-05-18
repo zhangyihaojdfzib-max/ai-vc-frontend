@@ -4870,14 +4870,14 @@
     "timestamp": "2026-05-17T05:53:11.384072"
   },
   "https://www.saastr.com/figma-beats-raises-and-accelerates-boom-stock-rockets-12-but-it-still-trades-for-less-than-10x-arr/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:47:57.451793"
+    "timestamp": "2026-05-18T06:12:55.172885"
   },
   "https://www.saastr.com/yes-saastr-ai-annual-2026-crushed-it-but-we-had-to-rebuild-our-entire-customer-base-for-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:47:57.641805"
+    "timestamp": "2026-05-18T06:12:55.342541"
   },
   "https://www.saastr.com/dont-be-a-woe-is-me-founder-thats-always-a-recipe-for-failure/": {
     "count": 1,
@@ -4885,19 +4885,19 @@
     "timestamp": "2026-05-16T05:27:20.271575"
   },
   "https://greylock.com/greymatter/searching-with-purpose/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:53:10.539775"
+    "timestamp": "2026-05-18T06:06:51.121158"
   },
   "https://review.firstround.com/from-weekend-project-to-fortune-10-adoption/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:53:18.887924"
+    "timestamp": "2026-05-18T06:06:52.832307"
   },
   "https://www.saastr.com/magicalforecastai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:47:57.849314"
+    "timestamp": "2026-05-18T06:12:54.594602"
   },
   "https://www.saastr.com/dear-saastr-how-do-i-know-if-my-new-vp-of-marketing-is-going-to-make-it/": {
     "count": 1,
@@ -4905,13 +4905,38 @@
     "timestamp": "2026-05-17T05:47:58.222348"
   },
   "https://greylock.com/greymatter/making-data-work/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-17T05:53:10.612239"
+    "timestamp": "2026-05-18T06:06:51.115134"
   },
   "https://openai.com/index/commonwealth-bank-of-australia/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-17T05:55:32.014558"
+  },
+  "https://greylock.com/core-talent/building-your-talent-strategy/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-18T06:06:51.127059"
+  },
+  "https://greylock.com/exec-talent/holly-rose-faith-greylock-executive-reference-checklist/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-18T06:06:51.606815"
+  },
+  "https://greylock.com/firm-news/500m-for-seeds/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-18T06:06:51.655682"
+  },
+  "https://www.saastr.com/when-growth-slows-is-it-sales-fault-or-the-products-fault-the-answer-has-changed/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-18T06:12:54.881612"
+  },
+  "https://www.saastr.com/schmoozing-is-dead-agents-are-hitting-120-of-humans-and-growth-is-the-only-thing-that-matters-10-things-from-the-closing-qa-at-saastr-ai-annual-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-18T06:12:54.992369"
   }
 }
