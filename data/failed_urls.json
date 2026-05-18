@@ -4905,9 +4905,9 @@
     "timestamp": "2026-05-17T05:47:58.222348"
   },
   "https://greylock.com/greymatter/making-data-work/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:06:51.115134"
+    "timestamp": "2026-05-18T06:19:12.973296"
   },
   "https://openai.com/index/commonwealth-bank-of-australia/": {
     "count": 1,
@@ -4915,14 +4915,14 @@
     "timestamp": "2026-05-17T05:55:32.014558"
   },
   "https://greylock.com/core-talent/building-your-talent-strategy/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:06:51.127059"
+    "timestamp": "2026-05-18T06:19:12.979558"
   },
   "https://greylock.com/exec-talent/holly-rose-faith-greylock-executive-reference-checklist/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:06:51.606815"
+    "timestamp": "2026-05-18T06:19:12.773943"
   },
   "https://greylock.com/firm-news/500m-for-seeds/": {
     "count": 1,
@@ -4938,5 +4938,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-18T06:12:54.992369"
+  },
+  "https://openai.com/index/philips/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-18T06:23:54.524077"
+  },
+  "https://openai.com/index/eneos-materials/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-18T06:24:26.509108"
   }
 }
