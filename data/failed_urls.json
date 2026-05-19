@@ -4810,24 +4810,24 @@
     "timestamp": "2026-05-16T05:27:20.072810"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-hermes-agent-dgx-spark/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:56:27.052220"
+    "timestamp": "2026-05-19T06:11:13.065494"
   },
   "https://blogs.nvidia.com/blog/ineffable-intelligence-reinforcement-learning-infrastructure/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:56:26.810545"
+    "timestamp": "2026-05-19T06:11:12.926627"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-your-only-job-is-right-product-right-time-PYh1Iyev": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:22:02.139156"
+    "timestamp": "2026-05-19T06:01:00.186442"
   },
   "https://a16z.simplecast.com/episodes/amjad-masad-adam-dangelo-how-far-are-we-from-agi-HC6s4wvT": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:22:02.211008"
+    "timestamp": "2026-05-19T06:01:00.432138"
   },
   "https://greylock.com/greymatter/systems-and-standards-of-gtm-excellence/": {
     "count": 3,
@@ -4850,19 +4850,19 @@
     "timestamp": "2026-05-17T05:47:58.036826"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-subnautica-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-15T05:56:27.060548"
+    "timestamp": "2026-05-19T06:11:12.764254"
   },
   "https://a16z.simplecast.com/episodes/vitalik-buterin-on-human-agency-in-the-ai-era-DY1OPgHD": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:22:02.166958"
+    "timestamp": "2026-05-19T06:01:00.164130"
   },
   "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-cure-all-disease-6i78kGXq": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-16T05:22:02.250582"
+    "timestamp": "2026-05-19T06:01:00.445116"
   },
   "https://greylock.com/press/the-evolution-of-a-startup-ceo-2/": {
     "count": 3,
@@ -4895,9 +4895,9 @@
     "timestamp": "2026-05-18T06:06:52.832307"
   },
   "https://www.saastr.com/magicalforecastai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:12:54.594602"
+    "timestamp": "2026-05-19T06:08:57.242452"
   },
   "https://www.saastr.com/dear-saastr-how-do-i-know-if-my-new-vp-of-marketing-is-going-to-make-it/": {
     "count": 1,
@@ -4915,29 +4915,29 @@
     "timestamp": "2026-05-17T05:55:32.014558"
   },
   "https://greylock.com/core-talent/building-your-talent-strategy/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:19:12.979558"
+    "timestamp": "2026-05-19T06:01:02.394807"
   },
   "https://greylock.com/exec-talent/holly-rose-faith-greylock-executive-reference-checklist/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:19:12.773943"
+    "timestamp": "2026-05-19T06:01:02.238553"
   },
   "https://greylock.com/firm-news/500m-for-seeds/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:06:51.655682"
+    "timestamp": "2026-05-19T06:01:02.388585"
   },
   "https://www.saastr.com/when-growth-slows-is-it-sales-fault-or-the-products-fault-the-answer-has-changed/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:12:54.881612"
+    "timestamp": "2026-05-19T06:08:57.067122"
   },
   "https://www.saastr.com/schmoozing-is-dead-agents-are-hitting-120-of-humans-and-growth-is-the-only-thing-that-matters-10-things-from-the-closing-qa-at-saastr-ai-annual-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-18T06:12:54.992369"
+    "timestamp": "2026-05-19T06:08:56.882666"
   },
   "https://openai.com/index/philips/": {
     "count": 1,
@@ -4948,5 +4948,35 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-18T06:24:26.509108"
+  },
+  "https://a16z.simplecast.com/episodes/the-plan-to-make-american-crime-obsolete-kFoaNrAU": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-19T06:01:00.191615"
+  },
+  "https://greylock.com/greymatter/executing-successful-early-stage-sales-processes/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-19T06:01:02.887438"
+  },
+  "https://greylock.com/archive/introducing-nuro-robotics-for-everyday-life/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-19T06:01:02.987838"
+  },
+  "https://www.saastr.com/ai-is-on-fire-and-so-every-single-b2b-traffic-channel-is-up-yoy-for-saastr-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-19T06:08:56.511415"
+  },
+  "https://www.saastr.com/tired-vs-wired-4-trillion-in-ipos-coming-100b-in-ma-vibing-isnt-killing-salesforce-after-all-and-why-the-b2b-doomers-were-dead-wrong-mostly/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-19T06:08:56.724674"
+  },
+  "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-19T06:11:12.557392"
   }
 }
