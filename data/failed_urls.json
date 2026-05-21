@@ -4950,19 +4950,19 @@
     "timestamp": "2026-05-18T06:24:26.509108"
   },
   "https://a16z.simplecast.com/episodes/the-plan-to-make-american-crime-obsolete-kFoaNrAU": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:00:57.468315"
+    "timestamp": "2026-05-21T06:15:23.225767"
   },
   "https://greylock.com/greymatter/executing-successful-early-stage-sales-processes/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:00:59.745565"
+    "timestamp": "2026-05-21T06:15:24.606382"
   },
   "https://greylock.com/archive/introducing-nuro-robotics-for-everyday-life/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:00:59.982592"
+    "timestamp": "2026-05-21T06:15:24.804442"
   },
   "https://www.saastr.com/ai-is-on-fire-and-so-every-single-b2b-traffic-channel-is-up-yoy-for-saastr-ai/": {
     "count": 2,
@@ -4975,14 +4975,14 @@
     "timestamp": "2026-05-20T06:07:04.331404"
   },
   "https://blogs.nvidia.com/blog/dell-technologies-agent-enterprise-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:09:38.640482"
+    "timestamp": "2026-05-21T06:21:59.824759"
   },
   "https://a16z.simplecast.com/episodes/rebuilding-the-american-shipyard-fSxcCyxZ": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:00:57.495334"
+    "timestamp": "2026-05-21T06:15:23.221854"
   },
   "https://a16z.simplecast.com/episodes/seeing-the-future-from-ai-companions-to-personal-software-Fj9VrDbk": {
     "count": 1,
@@ -4990,9 +4990,9 @@
     "timestamp": "2026-05-20T06:00:57.654759"
   },
   "https://greylock.com/portfolio-news/airbnb-reflections/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:00:59.654347"
+    "timestamp": "2026-05-21T06:15:24.709130"
   },
   "https://greylock.com/portfolio-news/networkedusers/": {
     "count": 1,
@@ -5000,18 +5000,53 @@
     "timestamp": "2026-05-20T06:01:00.533310"
   },
   "https://www.saastr.com/the-new-ai-agent-api-report-card-tells-us-where-b2b-really-stands/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:07:04.634798"
+    "timestamp": "2026-05-21T06:20:47.191296"
   },
   "https://deepmind.google/blog/introducing-google-antigravity-2-0/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:09:12.052981"
+    "timestamp": "2026-05-21T06:21:39.369683"
   },
   "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-21T06:21:59.887463"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan-eafbidR1": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:09:38.397897"
+    "timestamp": "2026-05-21T06:15:23.228373"
+  },
+  "https://review.firstround.com/from-two-person-consultancy-to-4-2b-software-business-dbt-labs-path-to-pmf/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-21T06:15:32.608238"
+  },
+  "https://review.firstround.com/inside-superhumans-onboarding-strategy-from-human-led-to-self-serve/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-21T06:15:39.198146"
+  },
+  "https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-21T06:20:47.077276"
+  },
+  "https://www.saastr.com/5-interesting-learnings-from-hubspot-at-3-5b-in-arr-23-reported-growth-211m-in-buybacks-and-a-16-stock-drop/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-21T06:20:47.261657"
+  },
+  "https://openai.com/index/ramp/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-21T06:21:01.100512"
+  },
+  "https://openai.com/index/mixi/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-21T06:21:10.722258"
   }
 }
