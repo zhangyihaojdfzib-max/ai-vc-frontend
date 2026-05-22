@@ -4980,64 +4980,64 @@
     "timestamp": "2026-05-21T06:21:59.824759"
   },
   "https://a16z.simplecast.com/episodes/rebuilding-the-american-shipyard-fSxcCyxZ": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:15:23.221854"
+    "timestamp": "2026-05-22T06:00:00.834433"
   },
   "https://a16z.simplecast.com/episodes/seeing-the-future-from-ai-companions-to-personal-software-Fj9VrDbk": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:00:57.654759"
+    "timestamp": "2026-05-22T06:00:00.867632"
   },
   "https://greylock.com/portfolio-news/airbnb-reflections/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:15:24.709130"
+    "timestamp": "2026-05-22T06:00:57.433376"
   },
   "https://greylock.com/portfolio-news/networkedusers/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-20T06:01:00.533310"
+    "timestamp": "2026-05-22T06:00:57.826631"
   },
   "https://www.saastr.com/the-new-ai-agent-api-report-card-tells-us-where-b2b-really-stands/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:20:47.191296"
+    "timestamp": "2026-05-22T06:02:57.363560"
   },
   "https://deepmind.google/blog/introducing-google-antigravity-2-0/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:21:39.369683"
+    "timestamp": "2026-05-22T06:04:56.950831"
   },
   "https://blogs.nvidia.com/blog/google-cloud-developer-community-ai-builders/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:21:59.887463"
+    "timestamp": "2026-05-22T06:05:45.582439"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan-eafbidR1": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:15:23.228373"
+    "timestamp": "2026-05-22T06:00:00.825497"
   },
   "https://review.firstround.com/from-two-person-consultancy-to-4-2b-software-business-dbt-labs-path-to-pmf/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:15:32.608238"
+    "timestamp": "2026-05-22T06:00:59.934273"
   },
   "https://review.firstround.com/inside-superhumans-onboarding-strategy-from-human-led-to-self-serve/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:15:39.198146"
+    "timestamp": "2026-05-22T06:01:02.165626"
   },
   "https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:20:47.077276"
+    "timestamp": "2026-05-22T06:02:56.590159"
   },
   "https://www.saastr.com/5-interesting-learnings-from-hubspot-at-3-5b-in-arr-23-reported-growth-211m-in-buybacks-and-a-16-stock-drop/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-21T06:20:47.261657"
+    "timestamp": "2026-05-22T06:02:57.178690"
   },
   "https://openai.com/index/ramp/": {
     "count": 1,
@@ -5048,5 +5048,60 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-21T06:21:10.722258"
+  },
+  "https://a16z.simplecast.com/episodes/how-superhuman-took-over-silicon-valley-email-2C9E09yT": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:00:00.801938"
+  },
+  "https://a16z.simplecast.com/episodes/elevenlabs-ceo-why-voice-is-the-next-ai-interface-2A6c6cKy": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:00:00.884172"
+  },
+  "https://greylock.com/greymatter/deepfakes-and-the-new-era-of-social-engineering/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:00:57.498632"
+  },
+  "https://greylock.com/firm-news/greylocks-first-researcher-in-residence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:00:57.967706"
+  },
+  "https://greylock.com/firm-news/fund-16/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:00:58.279614"
+  },
+  "https://review.firstround.com/a-playbook-for-running-founder-led-growth/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:01:04.366499"
+  },
+  "https://review.firstround.com/2nd-test-a-seven-year-overnight-success-story-clays-path-to-pmf-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:02:37.264186"
+  },
+  "https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:02:56.953588"
+  },
+  "https://www.saastr.com/moderngtmleanerflatter/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:02:56.972436"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:05:45.338425"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:05:45.588125"
   }
 }
