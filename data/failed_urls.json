@@ -4995,9 +4995,9 @@
     "timestamp": "2026-05-22T06:00:57.433376"
   },
   "https://greylock.com/portfolio-news/networkedusers/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:57.826631"
+    "timestamp": "2026-05-22T06:13:04.144766"
   },
   "https://www.saastr.com/the-new-ai-agent-api-report-card-tells-us-where-b2b-really-stands/": {
     "count": 3,
@@ -5020,14 +5020,14 @@
     "timestamp": "2026-05-22T06:00:00.825497"
   },
   "https://review.firstround.com/from-two-person-consultancy-to-4-2b-software-business-dbt-labs-path-to-pmf/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:59.934273"
+    "timestamp": "2026-05-22T06:13:12.502605"
   },
   "https://review.firstround.com/inside-superhumans-onboarding-strategy-from-human-led-to-self-serve/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:01:02.165626"
+    "timestamp": "2026-05-22T06:13:18.916561"
   },
   "https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/": {
     "count": 2,
@@ -5060,14 +5060,14 @@
     "timestamp": "2026-05-22T06:00:00.884172"
   },
   "https://greylock.com/greymatter/deepfakes-and-the-new-era-of-social-engineering/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:57.498632"
+    "timestamp": "2026-05-22T06:13:04.013617"
   },
   "https://greylock.com/firm-news/greylocks-first-researcher-in-residence/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:57.967706"
+    "timestamp": "2026-05-22T06:13:04.139759"
   },
   "https://greylock.com/firm-news/fund-16/": {
     "count": 1,
@@ -5075,9 +5075,9 @@
     "timestamp": "2026-05-22T06:00:58.279614"
   },
   "https://review.firstround.com/a-playbook-for-running-founder-led-growth/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:01:04.366499"
+    "timestamp": "2026-05-22T06:13:24.977209"
   },
   "https://review.firstround.com/2nd-test-a-seven-year-overnight-success-story-clays-path-to-pmf-2/": {
     "count": 1,
@@ -5103,5 +5103,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-22T06:05:45.588125"
+  },
+  "https://openai.com/index/retool/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:14:14.636470"
+  },
+  "https://openai.com/index/paradigm/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-22T06:14:23.991627"
   }
 }
