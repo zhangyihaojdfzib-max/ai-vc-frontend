@@ -4985,9 +4985,9 @@
     "timestamp": "2026-05-22T06:00:00.834433"
   },
   "https://a16z.simplecast.com/episodes/seeing-the-future-from-ai-companions-to-personal-software-Fj9VrDbk": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:00.867632"
+    "timestamp": "2026-05-23T05:34:50.694925"
   },
   "https://greylock.com/portfolio-news/airbnb-reflections/": {
     "count": 3,
@@ -5015,9 +5015,9 @@
     "timestamp": "2026-05-22T06:05:45.582439"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan-eafbidR1": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:00.825497"
+    "timestamp": "2026-05-23T05:34:50.439854"
   },
   "https://review.firstround.com/from-two-person-consultancy-to-4-2b-software-business-dbt-labs-path-to-pmf/": {
     "count": 3,
@@ -5030,9 +5030,9 @@
     "timestamp": "2026-05-22T06:13:18.916561"
   },
   "https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:02:56.590159"
+    "timestamp": "2026-05-23T05:37:15.465707"
   },
   "https://www.saastr.com/5-interesting-learnings-from-hubspot-at-3-5b-in-arr-23-reported-growth-211m-in-buybacks-and-a-16-stock-drop/": {
     "count": 2,
@@ -5050,59 +5050,59 @@
     "timestamp": "2026-05-21T06:21:10.722258"
   },
   "https://a16z.simplecast.com/episodes/how-superhuman-took-over-silicon-valley-email-2C9E09yT": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:00.801938"
+    "timestamp": "2026-05-23T05:34:50.429782"
   },
   "https://a16z.simplecast.com/episodes/elevenlabs-ceo-why-voice-is-the-next-ai-interface-2A6c6cKy": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:00.884172"
+    "timestamp": "2026-05-23T05:34:50.700891"
   },
   "https://greylock.com/greymatter/deepfakes-and-the-new-era-of-social-engineering/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:13:04.013617"
+    "timestamp": "2026-05-23T05:34:52.134188"
   },
   "https://greylock.com/firm-news/greylocks-first-researcher-in-residence/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:13:04.139759"
+    "timestamp": "2026-05-23T05:34:52.126345"
   },
   "https://greylock.com/firm-news/fund-16/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:00:58.279614"
-  },
-  "https://review.firstround.com/a-playbook-for-running-founder-led-growth/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:13:24.977209"
+    "timestamp": "2026-05-23T05:34:52.098488"
+  },
+  "https://review.firstround.com/a-playbook-for-running-founder-led-growth/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-23T05:34:54.154153"
   },
   "https://review.firstround.com/2nd-test-a-seven-year-overnight-success-story-clays-path-to-pmf-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:02:37.264186"
+    "timestamp": "2026-05-23T05:34:56.464410"
   },
   "https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:02:56.953588"
+    "timestamp": "2026-05-23T05:37:14.649261"
   },
   "https://www.saastr.com/moderngtmleanerflatter/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:02:56.972436"
+    "timestamp": "2026-05-23T05:37:15.260014"
   },
   "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:05:45.338425"
+    "timestamp": "2026-05-23T05:39:03.533012"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-22T06:05:45.588125"
+    "timestamp": "2026-05-23T05:39:03.540129"
   },
   "https://openai.com/index/retool/": {
     "count": 1,
@@ -5113,5 +5113,40 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-22T06:14:23.991627"
+  },
+  "https://a16z.simplecast.com/episodes/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live-ptSZ3KKP": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-23T05:34:50.445158"
+  },
+  "https://greylock.com/firm-news/saam-motamedi-is-greylocks-newest-general-partner/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-23T05:34:52.749941"
+  },
+  "https://greylock.com/firm-news/welcome-sridhar-ramaswamy-as-our-newest-venture-partner-at-greylock/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-23T05:34:52.756122"
+  },
+  "https://review.firstround.com/how-to-design-your-org-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-23T05:35:57.780684"
+  },
+  "https://www.saastr.com/20vc-x-saastr-anthropic-at-900b-salesforce-spends-300m-on-tokens-spacex-files-for-the-biggest-ipo-in-history-and-why-the-tech-lash-is-just-beginning/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-23T05:37:15.034747"
+  },
+  "https://www.saastr.com/forget-would-you-hire-them-again-the-real-test-now-is-whether-youd-replace-them-with-an-agent/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-23T05:37:15.040926"
+  },
+  "https://www.databricks.com/blog/how-world-bank-group-uses-databricks-eradicate-poverty-through-shared-knowledge": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-23T05:40:53.601830"
   }
 }
