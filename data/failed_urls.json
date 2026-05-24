@@ -5120,19 +5120,19 @@
     "timestamp": "2026-05-23T05:34:50.445158"
   },
   "https://greylock.com/firm-news/saam-motamedi-is-greylocks-newest-general-partner/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-24T05:56:10.135158"
+    "timestamp": "2026-05-24T06:06:16.964438"
   },
   "https://greylock.com/firm-news/welcome-sridhar-ramaswamy-as-our-newest-venture-partner-at-greylock/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-24T05:56:10.534350"
+    "timestamp": "2026-05-24T06:06:16.975739"
   },
   "https://review.firstround.com/how-to-design-your-org-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-24T05:56:14.543426"
+    "timestamp": "2026-05-24T06:06:24.085385"
   },
   "https://www.saastr.com/20vc-x-saastr-anthropic-at-900b-salesforce-spends-300m-on-tokens-spacex-files-for-the-biggest-ipo-in-history-and-why-the-tech-lash-is-just-beginning/": {
     "count": 2,
@@ -5150,9 +5150,9 @@
     "timestamp": "2026-05-23T05:40:53.601830"
   },
   "https://greylock.com/core-talent/talent-today/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-24T05:56:10.687287"
+    "timestamp": "2026-05-24T06:06:16.903645"
   },
   "https://greylock.com/firm-news/mike-duboe-is-greylocks-new-general-partner/": {
     "count": 1,
@@ -5160,9 +5160,9 @@
     "timestamp": "2026-05-24T05:56:10.953834"
   },
   "https://review.firstround.com/sam-corcos/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-24T05:56:16.982171"
+    "timestamp": "2026-05-24T06:06:30.644207"
   },
   "https://www.saastr.com/even-a-mediocre-prompt-can-build-pretty-good-software-today/": {
     "count": 1,
@@ -5173,5 +5173,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-24T05:56:35.610999"
+  },
+  "https://openai.com/index/estee-lauder/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-24T06:07:24.302477"
   }
 }
