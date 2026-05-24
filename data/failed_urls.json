@@ -5070,9 +5070,9 @@
     "timestamp": "2026-05-23T05:34:52.126345"
   },
   "https://greylock.com/firm-news/fund-16/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:34:52.098488"
+    "timestamp": "2026-05-24T05:56:10.034383"
   },
   "https://review.firstround.com/a-playbook-for-running-founder-led-growth/": {
     "count": 3,
@@ -5080,14 +5080,14 @@
     "timestamp": "2026-05-23T05:34:54.154153"
   },
   "https://review.firstround.com/2nd-test-a-seven-year-overnight-success-story-clays-path-to-pmf-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:34:56.464410"
+    "timestamp": "2026-05-24T05:56:12.346028"
   },
   "https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:37:14.649261"
+    "timestamp": "2026-05-24T05:56:36.089798"
   },
   "https://www.saastr.com/moderngtmleanerflatter/": {
     "count": 2,
@@ -5095,14 +5095,14 @@
     "timestamp": "2026-05-23T05:37:15.260014"
   },
   "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:39:03.533012"
+    "timestamp": "2026-05-24T05:58:05.701288"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-ultimate-bundle/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:39:03.540129"
+    "timestamp": "2026-05-24T05:58:05.605546"
   },
   "https://openai.com/index/retool/": {
     "count": 1,
@@ -5120,33 +5120,58 @@
     "timestamp": "2026-05-23T05:34:50.445158"
   },
   "https://greylock.com/firm-news/saam-motamedi-is-greylocks-newest-general-partner/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:34:52.749941"
+    "timestamp": "2026-05-24T05:56:10.135158"
   },
   "https://greylock.com/firm-news/welcome-sridhar-ramaswamy-as-our-newest-venture-partner-at-greylock/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:34:52.756122"
+    "timestamp": "2026-05-24T05:56:10.534350"
   },
   "https://review.firstround.com/how-to-design-your-org-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:35:57.780684"
+    "timestamp": "2026-05-24T05:56:14.543426"
   },
   "https://www.saastr.com/20vc-x-saastr-anthropic-at-900b-salesforce-spends-300m-on-tokens-spacex-files-for-the-biggest-ipo-in-history-and-why-the-tech-lash-is-just-beginning/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:37:15.034747"
+    "timestamp": "2026-05-24T05:56:35.882689"
   },
   "https://www.saastr.com/forget-would-you-hire-them-again-the-real-test-now-is-whether-youd-replace-them-with-an-agent/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-23T05:37:15.040926"
+    "timestamp": "2026-05-24T05:56:35.730978"
   },
   "https://www.databricks.com/blog/how-world-bank-group-uses-databricks-eradicate-poverty-through-shared-knowledge": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-23T05:40:53.601830"
+  },
+  "https://greylock.com/core-talent/talent-today/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-24T05:56:10.687287"
+  },
+  "https://greylock.com/firm-news/mike-duboe-is-greylocks-new-general-partner/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-24T05:56:10.953834"
+  },
+  "https://review.firstround.com/sam-corcos/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-24T05:56:16.982171"
+  },
+  "https://www.saastr.com/even-a-mediocre-prompt-can-build-pretty-good-software-today/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-24T05:56:35.466238"
+  },
+  "https://www.saastr.com/saastr-ai-app-of-the-week-helply-the-bootstrapped-b2b-support-platform-thats-free-forever-charges-only-when-ai-actually-resolves-a-ticket-and-showed-up-to-saastr-ai-2026-with-giant-pandas/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-24T05:56:35.610999"
   }
 }
