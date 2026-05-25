@@ -5155,9 +5155,9 @@
     "timestamp": "2026-05-25T06:20:33.055376"
   },
   "https://greylock.com/firm-news/mike-duboe-is-greylocks-new-general-partner/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-25T06:20:33.145370"
+    "timestamp": "2026-05-25T06:40:40.432170"
   },
   "https://review.firstround.com/sam-corcos/": {
     "count": 3,
@@ -5185,14 +5185,14 @@
     "timestamp": "2026-05-25T06:20:33.886601"
   },
   "https://greylock.com/press/learnings-as-head-of-growth-at-stitch-fix-tilt/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-25T06:20:33.942495"
+    "timestamp": "2026-05-25T06:40:41.140180"
   },
   "https://greylock.com/press/leading-growth-marketplace-insights-with-mike-duboe-greylock-stitch-fix/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-25T06:20:34.375852"
+    "timestamp": "2026-05-25T06:40:41.061561"
   },
   "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure": {
     "count": 1,
@@ -5208,5 +5208,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-25T06:21:14.012534"
+  },
+  "https://review.firstround.com/a-playbook-for-building-deep-tech-startups/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-25T06:41:10.184996"
   }
 }
