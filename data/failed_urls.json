@@ -5180,9 +5180,9 @@
     "timestamp": "2026-05-24T06:07:24.302477"
   },
   "https://greylock.com/greymatter/uber-go-anywhere-get-anything/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:01:05.860326"
+    "timestamp": "2026-05-26T06:12:10.362138"
   },
   "https://greylock.com/press/learnings-as-head-of-growth-at-stitch-fix-tilt/": {
     "count": 3,
@@ -5210,9 +5210,9 @@
     "timestamp": "2026-05-26T06:05:43.600964"
   },
   "https://review.firstround.com/a-playbook-for-building-deep-tech-startups/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:04:13.012994"
+    "timestamp": "2026-05-26T06:12:18.234036"
   },
   "https://a16z.simplecast.com/episodes/why-ai-isnt-killing-saas-yet-FHixHn5O": {
     "count": 1,
@@ -5225,24 +5225,24 @@
     "timestamp": "2026-05-26T06:01:04.915782"
   },
   "https://greylock.com/greymatter/the-executive-recruiting-playbook/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:01:06.770377"
+    "timestamp": "2026-05-26T06:12:10.545770"
   },
   "https://greylock.com/greymatter/game-changer/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:01:07.254772"
+    "timestamp": "2026-05-26T06:12:10.568377"
   },
   "https://review.firstround.com/how-i-spent-17-784-hours-in-5-years-as-a-startup-founder-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:04:15.202070"
+    "timestamp": "2026-05-26T06:12:25.016379"
   },
   "https://review.firstround.com/how-plaid-clay-lattice-other-startups-pivoted-to-find-pmf/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:05:30.369641"
+    "timestamp": "2026-05-26T06:12:31.526957"
   },
   "https://www.saastr.com/top-10-learnings-from-building-our-own-ai-vp-of-customer-success-qbee/": {
     "count": 1,
