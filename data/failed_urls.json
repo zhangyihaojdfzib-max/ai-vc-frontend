@@ -5265,19 +5265,19 @@
     "timestamp": "2026-05-27T06:12:42.148189"
   },
   "https://greylock.com/firm-news/welcome-mustafa-suleyman/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-27T06:12:44.005833"
+    "timestamp": "2026-05-27T06:26:01.090216"
   },
   "https://greylock.com/firm-news/announcing-greylock-17/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-27T06:12:44.465661"
+    "timestamp": "2026-05-27T06:26:00.972485"
   },
   "https://greylock.com/greymatter/unit-of-value-a-framework-for-scaling/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-27T06:12:44.849224"
+    "timestamp": "2026-05-27T06:26:01.143844"
   },
   "https://www.saastr.com/for-fracks-sake-its-not-too-late-to-ship-an-epic-agent-and-get-back-to-growth/": {
     "count": 1,
@@ -5293,5 +5293,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-27T06:18:27.474330"
+  },
+  "https://review.firstround.com/an-engineering-leaders-advice-for-pivoting-from-manager-to-ic/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:26:19.425608"
+  },
+  "https://review.firstround.com/how-figma-chooses-builds-launches-new-products/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:26:26.118144"
+  },
+  "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:27:08.325468"
   }
 }
