@@ -5115,9 +5115,9 @@
     "timestamp": "2026-05-22T06:14:23.991627"
   },
   "https://a16z.simplecast.com/episodes/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live-ptSZ3KKP": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:01:04.853252"
+    "timestamp": "2026-05-27T06:12:41.980025"
   },
   "https://greylock.com/firm-news/saam-motamedi-is-greylocks-newest-general-partner/": {
     "count": 3,
@@ -5145,9 +5145,9 @@
     "timestamp": "2026-05-25T06:21:14.387154"
   },
   "https://www.databricks.com/blog/how-world-bank-group-uses-databricks-eradicate-poverty-through-shared-knowledge": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:08:26.318033"
+    "timestamp": "2026-05-27T06:18:46.519628"
   },
   "https://greylock.com/core-talent/talent-today/": {
     "count": 3,
@@ -5195,14 +5195,14 @@
     "timestamp": "2026-05-26T06:01:06.930956"
   },
   "https://www.ben-evans.com/benedictevans/2026/5/24/ai-job-exposure": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:05:33.567935"
+    "timestamp": "2026-05-27T06:16:46.695196"
   },
   "https://www.saastr.com/why-95-of-customer-success-managers-cant-be-turned-into-forward-deployed-engineers-and-what-that-means/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:05:43.363143"
+    "timestamp": "2026-05-27T06:16:50.779900"
   },
   "https://www.saastr.com/the-agents-episode-005-is-out-our-2-ai-vps-cost-257-month-a-website-willed-itself-into-becoming-an-agent-and-qb-sent-83-personalized-emails-at-1220am/": {
     "count": 2,
@@ -5215,43 +5215,83 @@
     "timestamp": "2026-05-26T06:12:18.234036"
   },
   "https://a16z.simplecast.com/episodes/why-ai-isnt-killing-saas-yet-FHixHn5O": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:01:04.845387"
+    "timestamp": "2026-05-27T06:12:41.966866"
   },
   "https://a16z.simplecast.com/episodes/david-sacks-ai-crypto-china-dems-and-sf-wwUHZW8B": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:01:04.915782"
+    "timestamp": "2026-05-27T06:12:42.159718"
   },
   "https://greylock.com/greymatter/the-executive-recruiting-playbook/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:12:10.545770"
+    "timestamp": "2026-05-27T06:12:44.181347"
   },
   "https://greylock.com/greymatter/game-changer/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:12:10.568377"
+    "timestamp": "2026-05-27T06:12:43.907275"
   },
   "https://review.firstround.com/how-i-spent-17-784-hours-in-5-years-as-a-startup-founder-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:12:25.016379"
+    "timestamp": "2026-05-27T06:12:46.460919"
   },
   "https://review.firstround.com/how-plaid-clay-lattice-other-startups-pivoted-to-find-pmf/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:12:31.526957"
+    "timestamp": "2026-05-27T06:12:48.688614"
   },
   "https://www.saastr.com/top-10-learnings-from-building-our-own-ai-vp-of-customer-success-qbee/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:05:43.080851"
+    "timestamp": "2026-05-27T06:16:50.303825"
   },
   "https://www.saastr.com/dear-saastr-how-do-the-best-sales-leaders-retain-their-high-performers/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:16:50.637214"
+  },
+  "https://a16z.simplecast.com/episodes/robin-hanson-on-prediction-markets-gambling-and-the-future-of-forecasting-9J5N0AFw": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-26T06:05:43.417268"
+    "timestamp": "2026-05-27T06:12:41.986316"
+  },
+  "https://a16z.simplecast.com/episodes/why-speed-not-size-will-define-the-next-war-6x7my1yF": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:12:42.148189"
+  },
+  "https://greylock.com/firm-news/welcome-mustafa-suleyman/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:12:44.005833"
+  },
+  "https://greylock.com/firm-news/announcing-greylock-17/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:12:44.465661"
+  },
+  "https://greylock.com/greymatter/unit-of-value-a-framework-for-scaling/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:12:44.849224"
+  },
+  "https://www.saastr.com/for-fracks-sake-its-not-too-late-to-ship-an-epic-agent-and-get-back-to-growth/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:16:50.140457"
+  },
+  "https://www.saastr.com/how-owner-coms-cro-is-closing-2m-in-arr-per-rep-with-ai-5-things-you-can-steal-to-do-it-yourself/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:16:50.472271"
+  },
+  "https://blogs.nvidia.com/blog/vera-cpu-phoronix/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-27T06:18:27.474330"
   }
 }
