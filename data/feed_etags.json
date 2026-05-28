@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"829bd837b373557453d08a0df49dbc81\"",
     "last_modified": "Tue, 12 May 2026 14:10:32 GMT",
-    "updated": "2026-05-28T06:05:07.040601"
+    "updated": "2026-05-28T06:17:44.964211"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"5b5af6c403eecf398751f4fca30bb73c\"",
@@ -70,14 +70,14 @@
     "updated": "2026-05-28T06:07:11.916649"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"QkiADA\"",
+    "etag": "\"KN2crA\"",
     "last_modified": null,
-    "updated": "2026-05-28T06:08:37.886790"
+    "updated": "2026-05-28T06:19:48.260769"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 17 May 2026 11:14:22 GMT",
-    "updated": "2026-05-28T06:08:38.364762"
+    "updated": "2026-05-28T06:19:48.996276"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"35a06d0b92434ca06714a70e03dcd6c2\"",
@@ -97,12 +97,12 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-05-28T06:10:21.368106"
+    "updated": "2026-05-28T06:19:50.760082"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
-    "last_modified": "Wed, 27 May 2026 22:09:53 GMT",
-    "updated": "2026-05-28T06:10:22.098961"
+    "last_modified": "Thu, 28 May 2026 01:17:24 GMT",
+    "updated": "2026-05-28T06:19:51.687717"
   },
   "https://replicate.com/blog/rss": {
     "etag": "W/\"111ba-19e2cee1508\"",
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Tue, 26 May 2026 21:22:24 GMT",
-    "updated": "2026-05-28T06:12:00.694675"
+    "last_modified": "Tue, 26 May 2026 21:24:09 GMT",
+    "updated": "2026-05-28T06:20:10.737685"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
@@ -125,8 +125,8 @@
     "updated": "2026-05-04T05:49:09.734647"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"84d37b71c59e32b6a2c43cf5e4c50db6\"",
+    "etag": "W/\"ffd7f8387932d0ae5857f000d5776f99\"",
     "last_modified": null,
-    "updated": "2026-05-28T06:10:38.328555"
+    "updated": "2026-05-28T06:19:54.160055"
   }
 }

@@ -5295,14 +5295,14 @@
     "timestamp": "2026-05-28T06:08:57.595609"
   },
   "https://review.firstround.com/an-engineering-leaders-advice-for-pivoting-from-manager-to-ic/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:05:08.109406"
+    "timestamp": "2026-05-28T06:17:52.687484"
   },
   "https://review.firstround.com/how-figma-chooses-builds-launches-new-products/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:05:10.310408"
+    "timestamp": "2026-05-28T06:17:59.521235"
   },
   "https://openai.com/index/openai-partners-with-scale-to-provide-support-for-enterprises-fine-tuning-models/": {
     "count": 1,
@@ -5315,19 +5315,19 @@
     "timestamp": "2026-05-28T06:05:05.127547"
   },
   "https://greylock.com/marketing/how-to-handle-a-tough-news-cycle/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:05:06.770759"
+    "timestamp": "2026-05-28T06:17:44.676970"
   },
   "https://greylock.com/greymatter/credibility-is-the-only-thing-that-matters/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:05:06.779175"
+    "timestamp": "2026-05-28T06:17:44.671573"
   },
   "https://review.firstround.com/the-rotation-program-that-keeps-this-startups-engineers-learning-and-not-leaving-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:05:12.530776"
+    "timestamp": "2026-05-28T06:18:06.563500"
   },
   "https://www.saastr.com/datadogup/": {
     "count": 1,
@@ -5340,8 +5340,13 @@
     "timestamp": "2026-05-28T06:07:11.264120"
   },
   "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-28T06:19:53.129729"
+  },
+  "https://greylock.com/greymatter/lessons-learned-growing-successful-marketplaces-2/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:10:23.197873"
+    "timestamp": "2026-05-28T06:17:44.497453"
   }
 }
