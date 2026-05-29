@@ -5345,9 +5345,9 @@
     "timestamp": "2026-05-29T06:12:22.144384"
   },
   "https://greylock.com/greymatter/lessons-learned-growing-successful-marketplaces-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:07:15.504174"
+    "timestamp": "2026-05-29T06:19:28.391434"
   },
   "https://a16z.simplecast.com/episodes/stablecoins-ai-agents-and-the-future-of-global-banking-bZkqdwxO": {
     "count": 1,
@@ -5360,24 +5360,24 @@
     "timestamp": "2026-05-29T06:07:14.571919"
   },
   "https://greylock.com/greymatter/growing-consumer-brands-that-endure/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:07:16.216730"
+    "timestamp": "2026-05-29T06:19:28.539973"
   },
   "https://greylock.com/greymatter/proof-of-value-is-new-proof-of-concept-insights-from-connecting-large-enterprises-and-startups/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:07:16.441170"
+    "timestamp": "2026-05-29T06:19:28.534771"
   },
   "https://review.firstround.com/how-evolutioniq-turned-an-early-vertical-ai-idea-into-a-730m-acquisition/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:09:05.823427"
+    "timestamp": "2026-05-29T06:19:35.420949"
   },
   "https://review.firstround.com/10x-10x-6x-the-exact-gtm-moves-behind-clays-explosive-revenue-growth/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:10:17.304072"
+    "timestamp": "2026-05-29T06:19:42.016593"
   },
   "https://www.saastr.com/ai-pr-is-killing-your-startups-chances-with-the-media/": {
     "count": 1,
@@ -5405,8 +5405,8 @@
     "timestamp": "2026-05-29T06:12:19.849051"
   },
   "https://stripe.com/blog/top-solo-founder-traits": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:12:21.990268"
+    "timestamp": "2026-05-29T06:21:51.893017"
   }
 }
