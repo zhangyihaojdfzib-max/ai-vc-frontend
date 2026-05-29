@@ -5255,14 +5255,14 @@
     "timestamp": "2026-05-27T06:16:50.637214"
   },
   "https://a16z.simplecast.com/episodes/robin-hanson-on-prediction-markets-gambling-and-the-future-of-forecasting-9J5N0AFw": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:05:05.102449"
+    "timestamp": "2026-05-29T06:07:14.502071"
   },
   "https://a16z.simplecast.com/episodes/why-speed-not-size-will-define-the-next-war-6x7my1yF": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:05:05.243104"
+    "timestamp": "2026-05-29T06:07:14.577087"
   },
   "https://greylock.com/firm-news/welcome-mustafa-suleyman/": {
     "count": 3,
@@ -5290,9 +5290,9 @@
     "timestamp": "2026-05-28T06:07:11.309920"
   },
   "https://blogs.nvidia.com/blog/vera-cpu-phoronix/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:08:57.595609"
+    "timestamp": "2026-05-29T06:12:19.843586"
   },
   "https://review.firstround.com/an-engineering-leaders-advice-for-pivoting-from-manager-to-ic/": {
     "count": 3,
@@ -5310,43 +5310,103 @@
     "timestamp": "2026-05-27T06:27:08.325468"
   },
   "https://a16z.simplecast.com/episodes/marc-rowan-on-private-markets-software-repricing-and-capital-allocation-5Tq0zQ_D": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:05:05.127547"
+    "timestamp": "2026-05-29T06:07:14.509006"
   },
   "https://greylock.com/marketing/how-to-handle-a-tough-news-cycle/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:17:44.676970"
+    "timestamp": "2026-05-29T06:07:15.836169"
   },
   "https://greylock.com/greymatter/credibility-is-the-only-thing-that-matters/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:17:44.671573"
+    "timestamp": "2026-05-29T06:07:15.761789"
   },
   "https://review.firstround.com/the-rotation-program-that-keeps-this-startups-engineers-learning-and-not-leaving-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:18:06.563500"
+    "timestamp": "2026-05-29T06:07:27.984090"
   },
   "https://www.saastr.com/datadogup/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:07:10.929960"
-  },
-  "https://www.saastr.com/dropbox-hit-1b-faster-than-any-b2b-company-ever-but-now-its-theend-of-an-era/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:07:11.264120"
-  },
-  "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:19:53.129729"
+    "timestamp": "2026-05-29T06:10:24.186835"
+  },
+  "https://www.saastr.com/dropbox-hit-1b-faster-than-any-b2b-company-ever-but-now-its-theend-of-an-era/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:10:24.361380"
+  },
+  "https://stripe.com/blog/expanding-stripe-radar-to-protect-more-of-your-business": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:12:22.144384"
   },
   "https://greylock.com/greymatter/lessons-learned-growing-successful-marketplaces-2/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:07:15.504174"
+  },
+  "https://a16z.simplecast.com/episodes/stablecoins-ai-agents-and-the-future-of-global-banking-bZkqdwxO": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-28T06:17:44.497453"
+    "timestamp": "2026-05-29T06:07:14.478571"
+  },
+  "https://a16z.simplecast.com/episodes/beyond-chatbots-marc-andreessen-and-ben-horowitz-on-ais-future-DVbodeVS": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:07:14.571919"
+  },
+  "https://greylock.com/greymatter/growing-consumer-brands-that-endure/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:07:16.216730"
+  },
+  "https://greylock.com/greymatter/proof-of-value-is-new-proof-of-concept-insights-from-connecting-large-enterprises-and-startups/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:07:16.441170"
+  },
+  "https://review.firstround.com/how-evolutioniq-turned-an-early-vertical-ai-idea-into-a-730m-acquisition/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:09:05.823427"
+  },
+  "https://review.firstround.com/10x-10x-6x-the-exact-gtm-moves-behind-clays-explosive-revenue-growth/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:10:17.304072"
+  },
+  "https://www.saastr.com/ai-pr-is-killing-your-startups-chances-with-the-media/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:10:23.655779"
+  },
+  "https://www.saastr.com/gartner-ai-software-spending-to-grow-60-to-453b-in-2026-and-its-still-early/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:10:23.835976"
+  },
+  "https://www.saastr.com/20vc-x-saastr-this-week-anthropic-hits-70-margins-openai-files-its-s-1-and-nvidia-yawns-at-56b/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:10:23.999232"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:12:19.646906"
+  },
+  "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:12:19.849051"
+  },
+  "https://stripe.com/blog/top-solo-founder-traits": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-29T06:12:21.990268"
   }
 }
