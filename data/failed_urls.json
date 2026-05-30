@@ -5420,24 +5420,24 @@
     "timestamp": "2026-05-30T05:43:08.188492"
   },
   "https://greylock.com/greymatter/value-based-sales/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:43:09.654806"
+    "timestamp": "2026-05-30T05:53:13.830939"
   },
   "https://greylock.com/greymatter/building-for-buying/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:43:10.406699"
+    "timestamp": "2026-05-30T05:53:13.825903"
   },
   "https://greylock.com/greymatter/jerry-chen-the-evolution-of-cloud/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:43:10.451205"
+    "timestamp": "2026-05-30T05:53:13.699885"
   },
   "https://review.firstround.com/the-inside-story-of-the-idea-launch-of-figma-slides/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:43:16.039485"
+    "timestamp": "2026-05-30T05:53:21.930910"
   },
   "https://www.saastr.com/salesforce-just-reaccelerated-growth-at-45b-scale-it-took-the-entire-kitchen-sink-5-learnings/": {
     "count": 1,
@@ -5455,8 +5455,13 @@
     "timestamp": "2026-05-30T05:44:24.534777"
   },
   "https://vercel.com/blog/protecting-against-inference-theft": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:57:00.960234"
+  },
+  "https://openai.com/index/arvind-kc-chief-people-officer/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:46:32.007223"
+    "timestamp": "2026-05-30T05:55:58.271612"
   }
 }
