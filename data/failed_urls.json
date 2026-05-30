@@ -5310,9 +5310,9 @@
     "timestamp": "2026-05-27T06:27:08.325468"
   },
   "https://a16z.simplecast.com/episodes/marc-rowan-on-private-markets-software-repricing-and-capital-allocation-5Tq0zQ_D": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:07:14.509006"
+    "timestamp": "2026-05-30T05:43:08.103569"
   },
   "https://greylock.com/marketing/how-to-handle-a-tough-news-cycle/": {
     "count": 3,
@@ -5350,39 +5350,39 @@
     "timestamp": "2026-05-29T06:19:28.391434"
   },
   "https://a16z.simplecast.com/episodes/stablecoins-ai-agents-and-the-future-of-global-banking-bZkqdwxO": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:07:14.478571"
+    "timestamp": "2026-05-30T05:43:08.119897"
   },
   "https://a16z.simplecast.com/episodes/beyond-chatbots-marc-andreessen-and-ben-horowitz-on-ais-future-DVbodeVS": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:07:14.571919"
+    "timestamp": "2026-05-30T05:43:08.147851"
   },
   "https://greylock.com/greymatter/growing-consumer-brands-that-endure/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:19:28.539973"
+    "timestamp": "2026-05-30T05:43:09.518017"
   },
   "https://greylock.com/greymatter/proof-of-value-is-new-proof-of-concept-insights-from-connecting-large-enterprises-and-startups/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:19:28.534771"
+    "timestamp": "2026-05-30T05:43:09.648395"
   },
   "https://review.firstround.com/how-evolutioniq-turned-an-early-vertical-ai-idea-into-a-730m-acquisition/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:19:35.420949"
+    "timestamp": "2026-05-30T05:43:11.708866"
   },
   "https://review.firstround.com/10x-10x-6x-the-exact-gtm-moves-behind-clays-explosive-revenue-growth/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:19:42.016593"
+    "timestamp": "2026-05-30T05:43:13.886705"
   },
   "https://www.saastr.com/ai-pr-is-killing-your-startups-chances-with-the-media/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:10:23.655779"
+    "timestamp": "2026-05-30T05:44:24.872323"
   },
   "https://www.saastr.com/gartner-ai-software-spending-to-grow-60-to-453b-in-2026-and-its-still-early/": {
     "count": 1,
@@ -5390,23 +5390,73 @@
     "timestamp": "2026-05-29T06:10:23.835976"
   },
   "https://www.saastr.com/20vc-x-saastr-this-week-anthropic-hits-70-margins-openai-files-its-s-1-and-nvidia-yawns-at-56b/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:10:23.999232"
-  },
-  "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:12:19.646906"
-  },
-  "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:12:19.849051"
-  },
-  "https://stripe.com/blog/top-solo-founder-traits": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-29T06:21:51.893017"
+    "timestamp": "2026-05-30T05:44:24.706186"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-007-first-light-launch/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:45:28.493695"
+  },
+  "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:45:28.411128"
+  },
+  "https://stripe.com/blog/top-solo-founder-traits": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:46:29.782093"
+  },
+  "https://a16z.simplecast.com/episodes/why-1b-exits-are-dead-CeTnSS_y": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:43:08.087344"
+  },
+  "https://a16z.simplecast.com/episodes/is-there-an-ai-bubble-gavin-baker-and-david-george-C_TUUPIF": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:43:08.188492"
+  },
+  "https://greylock.com/greymatter/value-based-sales/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:43:09.654806"
+  },
+  "https://greylock.com/greymatter/building-for-buying/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:43:10.406699"
+  },
+  "https://greylock.com/greymatter/jerry-chen-the-evolution-of-cloud/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:43:10.451205"
+  },
+  "https://review.firstround.com/the-inside-story-of-the-idea-launch-of-figma-slides/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:43:16.039485"
+  },
+  "https://www.saastr.com/salesforce-just-reaccelerated-growth-at-45b-scale-it-took-the-entire-kitchen-sink-5-learnings/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:44:24.182524"
+  },
+  "https://www.saastr.com/the-saaspocalypse-is-officially-over-public-software-is-back-to-green-at-the-index-level/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:44:24.524345"
+  },
+  "https://www.saastr.com/how-our-ai-agent-booked-614-meetings-from-442k-chats-why-b-leads-are-pure-gold-if-you-add-ai-and-8-other-top-learnings-from-the-final-day-of-saastr-ai-annual-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:44:24.534777"
+  },
+  "https://vercel.com/blog/protecting-against-inference-theft": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-30T05:46:32.007223"
   }
 }
