@@ -5420,24 +5420,24 @@
     "timestamp": "2026-05-30T05:43:08.188492"
   },
   "https://greylock.com/greymatter/value-based-sales/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:53:13.830939"
+    "timestamp": "2026-05-31T06:11:17.401121"
   },
   "https://greylock.com/greymatter/building-for-buying/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:53:13.825903"
+    "timestamp": "2026-05-31T06:11:17.408130"
   },
   "https://greylock.com/greymatter/jerry-chen-the-evolution-of-cloud/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:53:13.699885"
+    "timestamp": "2026-05-31T06:11:17.377032"
   },
   "https://review.firstround.com/the-inside-story-of-the-idea-launch-of-figma-slides/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:53:21.930910"
+    "timestamp": "2026-05-31T06:11:19.202867"
   },
   "https://www.saastr.com/salesforce-just-reaccelerated-growth-at-45b-scale-it-took-the-entire-kitchen-sink-5-learnings/": {
     "count": 1,
@@ -5445,14 +5445,14 @@
     "timestamp": "2026-05-30T05:44:24.182524"
   },
   "https://www.saastr.com/the-saaspocalypse-is-officially-over-public-software-is-back-to-green-at-the-index-level/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:44:24.524345"
+    "timestamp": "2026-05-31T06:15:53.298254"
   },
   "https://www.saastr.com/how-our-ai-agent-booked-614-meetings-from-442k-chats-why-b-leads-are-pure-gold-if-you-add-ai-and-8-other-top-learnings-from-the-final-day-of-saastr-ai-annual-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:44:24.534777"
+    "timestamp": "2026-05-31T06:15:53.471568"
   },
   "https://vercel.com/blog/protecting-against-inference-theft": {
     "count": 2,
@@ -5463,5 +5463,30 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-05-30T05:55:58.271612"
+  },
+  "https://greylock.com/greymatter/shipbob-passport-commerce-logistics/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-31T06:11:17.832665"
+  },
+  "https://greylock.com/customer-dev/getting-to-nimble/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-31T06:11:17.893711"
+  },
+  "https://www.saastr.com/one-unexpected-benefit-of-our-ai-vp-customer-success-customers-yell-a-lot-less-everything-is-just-more-calm/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-31T06:15:52.742548"
+  },
+  "https://www.saastr.com/how-one-ai-teammate-beat-a-stack-of-20-ai-sales-agents-with-vivuns-cmo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-31T06:15:53.117353"
+  },
+  "https://www.saastr.com/aiappweekdelightloop/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-05-31T06:15:53.123133"
   }
 }
