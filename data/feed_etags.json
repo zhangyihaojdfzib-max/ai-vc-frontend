@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"5add6e9114f69123b43c4e69ee3b33eb\"",
+    "etag": "W/\"ed971db0ad6f83e9283b940ea9744ea7\"",
     "last_modified": null,
-    "updated": "2026-06-01T06:48:09.646666"
+    "updated": "2026-06-01T07:03:10.300013"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"f3742b6bf1bfee74bf27d7642ce14c00\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"c8250ea9d166ec5747a9c97b2a4e6c28\"",
     "last_modified": "Thu, 28 May 2026 16:17:37 GMT",
-    "updated": "2026-06-01T06:48:11.804682"
+    "updated": "2026-06-01T07:03:12.538385"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"11314645c49a4655d83202a89f8c9e44\"",
@@ -77,7 +77,7 @@
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 31 May 2026 06:04:12 GMT",
-    "updated": "2026-06-01T06:52:29.777406"
+    "updated": "2026-06-01T07:06:19.375863"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"d4ebd815fc3ca44a7d28288a959d15c4\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-06-01T06:54:40.254195"
+    "updated": "2026-06-01T07:06:20.375766"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Thu, 28 May 2026 17:37:30 GMT",
-    "updated": "2026-06-01T06:55:18.915685"
+    "last_modified": "Thu, 28 May 2026 17:45:43 GMT",
+    "updated": "2026-06-01T07:06:30.891218"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
@@ -125,8 +125,8 @@
     "updated": "2026-05-04T05:49:09.734647"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"79d776ec2a53f64a908b5d5e9b47a092\"",
+    "etag": "W/\"b61e493f384869a89edcd3db61ec42aa\"",
     "last_modified": null,
-    "updated": "2026-06-01T06:54:42.218677"
+    "updated": "2026-06-01T07:06:22.177036"
   }
 }
