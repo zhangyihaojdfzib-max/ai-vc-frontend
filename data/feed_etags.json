@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"0f931185630997af63af3073d5b254e4\"",
+    "etag": "W/\"5add6e9114f69123b43c4e69ee3b33eb\"",
     "last_modified": null,
-    "updated": "2026-05-31T06:24:01.784740"
+    "updated": "2026-06-01T06:48:09.646666"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"f3742b6bf1bfee74bf27d7642ce14c00\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"c8250ea9d166ec5747a9c97b2a4e6c28\"",
     "last_modified": "Thu, 28 May 2026 16:17:37 GMT",
-    "updated": "2026-05-31T06:24:04.209220"
+    "updated": "2026-06-01T06:48:11.804682"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"11314645c49a4655d83202a89f8c9e44\"",
@@ -60,9 +60,9 @@
     "updated": "2026-05-10T05:34:04.238412"
   },
   "https://www.saastr.com/feed/": {
-    "etag": "W/\"e86b93e194ed9abb7752d2e0d02ff75d\"",
-    "last_modified": "Sat, 30 May 2026 16:26:46 GMT",
-    "updated": "2026-05-31T06:15:52.391742"
+    "etag": "W/\"e49034350b1e89cd237233b933d11b18\"",
+    "last_modified": "Sun, 31 May 2026 20:36:41 GMT",
+    "updated": "2026-06-01T06:50:57.238119"
   },
   "https://tomtunguz.com/index.xml": {
     "etag": "W/\"99905ebf75bff12f76b9aea006cb24c7\"",
@@ -70,34 +70,34 @@
     "updated": "2026-05-30T05:44:25.103719"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"Vk1iwQ\"",
+    "etag": "\"tP7nFQ\"",
     "last_modified": null,
-    "updated": "2026-05-31T06:16:50.863819"
+    "updated": "2026-06-01T06:52:28.847268"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 31 May 2026 06:04:12 GMT",
-    "updated": "2026-05-31T06:30:39.073243"
+    "updated": "2026-06-01T06:52:29.777406"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"4509364537cbf645ccb9640c0e8203fd\"",
-    "last_modified": "Sat, 30 May 2026 09:56:58 GMT",
-    "updated": "2026-05-31T06:16:52.102967"
+    "etag": "\"d4ebd815fc3ca44a7d28288a959d15c4\"",
+    "last_modified": "Sun, 31 May 2026 20:55:10 GMT",
+    "updated": "2026-06-01T06:52:30.652930"
   },
   "https://blogs.nvidia.com/feed/": {
-    "etag": "\"4b704f2589800b647b2ee0dd38badab4-gzip\"",
-    "last_modified": "Fri, 29 May 2026 16:13:02 GMT",
-    "updated": "2026-05-30T05:45:28.074889"
+    "etag": "\"1ec226bc9b0c3b1b31783825b03faf26-gzip\"",
+    "last_modified": "Mon, 01 Jun 2026 06:24:17 GMT",
+    "updated": "2026-06-01T06:52:30.784909"
   },
   "https://huggingface.co/blog/feed.xml": {
-    "etag": "W/\"3884a-7bpe+1T0illG8a6ssKQlCIi7Bq0\"",
+    "etag": "W/\"38850-NtkLeM/G2hNHkMJf63KMZZYq+t8\"",
     "last_modified": null,
-    "updated": "2026-05-30T05:45:28.589591"
+    "updated": "2026-06-01T06:52:45.024176"
   },
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-05-31T06:30:40.863204"
+    "updated": "2026-06-01T06:54:40.254195"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -110,14 +110,14 @@
     "updated": "2026-05-30T05:46:10.121405"
   },
   "https://www.databricks.com/feed": {
-    "etag": "W/\"44f212fbb2cd192e4b202e4dcc66c032\"",
-    "last_modified": "Fri, 29 May 2026 23:49:32 GMT",
-    "updated": "2026-05-30T05:46:47.209804"
+    "etag": "W/\"004779d713cc298ea1d39d171eda758a\"",
+    "last_modified": "Mon, 01 Jun 2026 02:36:14 GMT",
+    "updated": "2026-06-01T06:55:18.299647"
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Thu, 28 May 2026 17:47:24 GMT",
-    "updated": "2026-05-31T06:31:01.129668"
+    "last_modified": "Thu, 28 May 2026 17:37:30 GMT",
+    "updated": "2026-06-01T06:55:18.915685"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
@@ -125,8 +125,8 @@
     "updated": "2026-05-04T05:49:09.734647"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"61174665b7ff21b010c5ffbe3b0313dd\"",
+    "etag": "W/\"79d776ec2a53f64a908b5d5e9b47a092\"",
     "last_modified": null,
-    "updated": "2026-05-29T06:13:07.708958"
+    "updated": "2026-06-01T06:54:42.218677"
   }
 }

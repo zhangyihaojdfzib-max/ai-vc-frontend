@@ -5465,33 +5465,78 @@
     "timestamp": "2026-05-30T05:55:58.271612"
   },
   "https://greylock.com/greymatter/shipbob-passport-commerce-logistics/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-31T06:24:03.819565"
+    "timestamp": "2026-06-01T06:48:11.370081"
   },
   "https://greylock.com/customer-dev/getting-to-nimble/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-31T06:24:03.641286"
+    "timestamp": "2026-06-01T06:48:11.050031"
   },
   "https://www.saastr.com/one-unexpected-benefit-of-our-ai-vp-customer-success-customers-yell-a-lot-less-everything-is-just-more-calm/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-31T06:15:52.742548"
+    "timestamp": "2026-06-01T06:50:58.045174"
   },
   "https://www.saastr.com/how-one-ai-teammate-beat-a-stack-of-20-ai-sales-agents-with-vivuns-cmo/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-31T06:15:53.117353"
+    "timestamp": "2026-06-01T06:50:58.441782"
   },
   "https://www.saastr.com/aiappweekdelightloop/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-31T06:15:53.123133"
+    "timestamp": "2026-06-01T06:50:58.368751"
   },
   "https://greylock.com/greymatter/creating-commerce-opportunities/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:48:11.056619"
+  },
+  "https://greylock.com/greymatter/mapping-the-cloud-ecosystem/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-31T06:24:03.852841"
+    "timestamp": "2026-06-01T06:48:11.511689"
+  },
+  "https://greylock.com/greymatter/fei-fei-li-reid-hoffman-human-centered-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:48:11.517059"
+  },
+  "https://review.firstround.com/everything-in-business-is-about-fighting-entropy-heres-how-rippling-does-it-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:48:54.378121"
+  },
+  "https://www.saastr.com/the-gtm-stack-anthropic-uses-from-its-head-of-industries-surprisingly-familiar-names-used-in-new-ways/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:50:57.747236"
+  },
+  "https://www.saastr.com/a-deep-dive-with-the-replit-team-on-our-agents-10k-qbee-the-agi-ish-bloomberg-beta-email-and-programming-in-english-for-real/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:50:57.783616"
+  },
+  "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:52:31.334897"
+  },
+  "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:52:31.389376"
+  },
+  "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:52:31.396172"
+  },
+  "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-01T06:52:31.735999"
   }
 }
