@@ -5545,19 +5545,19 @@
     "timestamp": "2026-06-02T06:29:51.469376"
   },
   "https://greylock.com/greymatter/funding-the-cloud-challengers/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:30:05.081279"
+    "timestamp": "2026-06-02T06:46:48.619010"
   },
   "https://greylock.com/castles-in-the-cloud/castles-in-the-cloud/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:30:05.616856"
+    "timestamp": "2026-06-02T06:46:48.613608"
   },
   "https://greylock.com/greymatter/how-to-break-up-big-clouds-dominance/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:30:05.699854"
+    "timestamp": "2026-06-02T06:46:48.458910"
   },
   "https://www.saastr.com/right-now-we-run-4-ai-sdr-agents-heres-why/": {
     "count": 1,
@@ -5583,5 +5583,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-02T06:33:51.448446"
+  },
+  "https://openai.com/index/built-to-benefit-everyone/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:49:20.036427"
+  },
+  "https://openai.com/index/procgen-minerl-competitions/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:49:29.117205"
   }
 }
