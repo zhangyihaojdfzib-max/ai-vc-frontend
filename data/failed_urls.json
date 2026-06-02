@@ -5350,14 +5350,14 @@
     "timestamp": "2026-05-29T06:19:28.391434"
   },
   "https://a16z.simplecast.com/episodes/stablecoins-ai-agents-and-the-future-of-global-banking-bZkqdwxO": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:43:08.119897"
+    "timestamp": "2026-06-02T06:29:51.475981"
   },
   "https://a16z.simplecast.com/episodes/beyond-chatbots-marc-andreessen-and-ben-horowitz-on-ais-future-DVbodeVS": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:43:08.147851"
+    "timestamp": "2026-06-02T06:29:51.558228"
   },
   "https://greylock.com/greymatter/growing-consumer-brands-that-endure/": {
     "count": 3,
@@ -5410,14 +5410,14 @@
     "timestamp": "2026-05-30T05:46:29.782093"
   },
   "https://a16z.simplecast.com/episodes/why-1b-exits-are-dead-CeTnSS_y": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:43:08.087344"
+    "timestamp": "2026-06-02T06:29:51.446208"
   },
   "https://a16z.simplecast.com/episodes/is-there-an-ai-bubble-gavin-baker-and-david-george-C_TUUPIF": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-05-30T05:43:08.188492"
+    "timestamp": "2026-06-02T06:29:51.565861"
   },
   "https://greylock.com/greymatter/value-based-sales/": {
     "count": 3,
@@ -5495,48 +5495,93 @@
     "timestamp": "2026-06-01T07:03:12.330145"
   },
   "https://greylock.com/greymatter/mapping-the-cloud-ecosystem/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-01T07:03:12.228365"
+    "timestamp": "2026-06-02T06:30:05.075583"
   },
   "https://greylock.com/greymatter/fei-fei-li-reid-hoffman-human-centered-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-01T07:03:12.325087"
+    "timestamp": "2026-06-02T06:30:04.956400"
   },
   "https://review.firstround.com/everything-in-business-is-about-fighting-entropy-heres-how-rippling-does-it-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-01T07:03:19.964339"
+    "timestamp": "2026-06-02T06:30:07.198495"
   },
   "https://www.saastr.com/the-gtm-stack-anthropic-uses-from-its-head-of-industries-surprisingly-familiar-names-used-in-new-ways/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-01T06:50:57.747236"
+    "timestamp": "2026-06-02T06:32:12.144214"
   },
   "https://www.saastr.com/a-deep-dive-with-the-replit-team-on-our-agents-10k-qbee-the-agi-ish-bloomberg-beta-email-and-programming-in-english-for-real/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-01T06:50:57.783616"
+    "timestamp": "2026-06-02T06:32:12.327189"
   },
   "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-01T06:52:31.334897"
+    "timestamp": "2026-06-02T06:33:51.453811"
   },
   "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-01T06:52:31.389376"
+    "timestamp": "2026-06-02T06:33:51.811467"
   },
   "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-01T06:52:31.396172"
+    "timestamp": "2026-06-02T06:33:51.867017"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-01T06:52:31.735999"
+  },
+  "https://a16z.simplecast.com/episodes/building-ai-agents-for-enterprise-operations-g19Ldybr": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:29:51.469376"
+  },
+  "https://greylock.com/greymatter/funding-the-cloud-challengers/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:30:05.081279"
+  },
+  "https://greylock.com/castles-in-the-cloud/castles-in-the-cloud/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:30:05.616856"
+  },
+  "https://greylock.com/greymatter/how-to-break-up-big-clouds-dominance/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:30:05.699854"
+  },
+  "https://www.saastr.com/right-now-we-run-4-ai-sdr-agents-heres-why/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:32:11.558011"
+  },
+  "https://www.saastr.com/entrata-is-first-of-the-next-wave-of-pe-backed-software-ipos-the-catch-almost-none-of-them-are-accelerating/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:32:11.916077"
+  },
+  "https://www.saastr.com/your-ai-agent-will-get-you-sued-how-papaya-global-built-a-compliance-ai-it-could-put-its-name-on/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:32:11.944025"
+  },
+  "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:33:51.235074"
+  },
+  "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-02T06:33:51.448446"
   }
 }
