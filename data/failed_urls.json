@@ -5410,14 +5410,14 @@
     "timestamp": "2026-05-30T05:46:29.782093"
   },
   "https://a16z.simplecast.com/episodes/why-1b-exits-are-dead-CeTnSS_y": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:29:51.446208"
+    "timestamp": "2026-06-03T06:46:29.246635"
   },
   "https://a16z.simplecast.com/episodes/is-there-an-ai-bubble-gavin-baker-and-david-george-C_TUUPIF": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:29:51.565861"
+    "timestamp": "2026-06-03T06:46:29.284932"
   },
   "https://greylock.com/greymatter/value-based-sales/": {
     "count": 3,
@@ -5510,9 +5510,9 @@
     "timestamp": "2026-06-02T06:30:07.198495"
   },
   "https://www.saastr.com/the-gtm-stack-anthropic-uses-from-its-head-of-industries-surprisingly-familiar-names-used-in-new-ways/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:32:12.144214"
+    "timestamp": "2026-06-03T06:49:07.094647"
   },
   "https://www.saastr.com/a-deep-dive-with-the-replit-team-on-our-agents-10k-qbee-the-agi-ish-bloomberg-beta-email-and-programming-in-english-for-real/": {
     "count": 2,
@@ -5520,9 +5520,9 @@
     "timestamp": "2026-06-02T06:32:12.327189"
   },
   "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:33:51.453811"
+    "timestamp": "2026-06-03T06:50:37.707881"
   },
   "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/": {
     "count": 2,
@@ -5540,49 +5540,49 @@
     "timestamp": "2026-06-01T06:52:31.735999"
   },
   "https://a16z.simplecast.com/episodes/building-ai-agents-for-enterprise-operations-g19Ldybr": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:29:51.469376"
+    "timestamp": "2026-06-03T06:46:29.216048"
   },
   "https://greylock.com/greymatter/funding-the-cloud-challengers/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:46:48.619010"
+    "timestamp": "2026-06-03T06:46:31.011370"
   },
   "https://greylock.com/castles-in-the-cloud/castles-in-the-cloud/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:46:48.613608"
+    "timestamp": "2026-06-03T06:46:30.873874"
   },
   "https://greylock.com/greymatter/how-to-break-up-big-clouds-dominance/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:46:48.458910"
+    "timestamp": "2026-06-03T06:46:30.637089"
   },
   "https://www.saastr.com/right-now-we-run-4-ai-sdr-agents-heres-why/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:32:11.558011"
+    "timestamp": "2026-06-03T06:49:06.264202"
   },
   "https://www.saastr.com/entrata-is-first-of-the-next-wave-of-pe-backed-software-ipos-the-catch-almost-none-of-them-are-accelerating/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:32:11.916077"
+    "timestamp": "2026-06-03T06:49:06.652235"
   },
   "https://www.saastr.com/your-ai-agent-will-get-you-sued-how-papaya-global-built-a-compliance-ai-it-could-put-its-name-on/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:32:11.944025"
+    "timestamp": "2026-06-03T06:49:06.874089"
   },
   "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:33:51.235074"
+    "timestamp": "2026-06-03T06:50:37.785953"
   },
   "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-02T06:33:51.448446"
+    "timestamp": "2026-06-03T06:50:37.460278"
   },
   "https://openai.com/index/built-to-benefit-everyone/": {
     "count": 1,
@@ -5593,5 +5593,50 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-02T06:49:29.117205"
+  },
+  "https://a16z.simplecast.com/episodes/steven-sinofsky-on-apple-at-50-microsoft-and-the-future-of-computing-qxp8eLCX": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:46:29.239738"
+  },
+  "https://a16z.simplecast.com/episodes/building-the-real-world-infrastructure-for-ai-with-google-cisco-a16z-e4GM5oUx": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:46:29.326461"
+  },
+  "https://greylock.com/greymatter/open-source-vs-cloud-castles/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:46:31.413923"
+  },
+  "https://greylock.com/press/where-does-ai-go-next/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:46:31.811085"
+  },
+  "https://www.usv.com/writing/2026/06/board/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:46:32.362526"
+  },
+  "https://review.firstround.com/how-figma-taps-into-taste-simplicity-and-storytelling/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:48:00.668357"
+  },
+  "https://www.saastr.com/the-top-15-questions-to-ask-a-vp-of-sales-during-an-interview-updated-for-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:49:06.683157"
+  },
+  "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:50:37.333947"
+  },
+  "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:50:37.452780"
   }
 }
