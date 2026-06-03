@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"49eca8906483d46dd0ba219fd4f46cb3\"",
+    "etag": "W/\"0f066045f4267b65f41b8cbf13666af8\"",
     "last_modified": null,
-    "updated": "2026-06-03T06:46:25.556462"
+    "updated": "2026-06-03T06:58:17.741204"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"cc9c561fb0554fe28c3a1fc795d43020\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"88b2a9360706775b297bddc4d31e78aa\"",
     "last_modified": "Tue, 02 Jun 2026 14:48:55 GMT",
-    "updated": "2026-06-03T06:46:32.121055"
+    "updated": "2026-06-03T06:58:20.306663"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"0dd6e60234da7982cff92f54b2b920b1\"",
@@ -77,7 +77,7 @@
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 31 May 2026 06:04:12 GMT",
-    "updated": "2026-06-03T06:50:35.824968"
+    "updated": "2026-06-03T07:01:25.420925"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"0a46fc0b7026b9a0d7660211b297134e\"",
@@ -97,12 +97,12 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-06-03T06:51:59.009275"
+    "updated": "2026-06-03T07:01:26.376495"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
-    "last_modified": "Wed, 03 Jun 2026 05:43:37 GMT",
-    "updated": "2026-06-03T06:51:59.678927"
+    "last_modified": "Wed, 03 Jun 2026 05:43:42 GMT",
+    "updated": "2026-06-03T07:01:26.992751"
   },
   "https://replicate.com/blog/rss": {
     "etag": "W/\"111ba-19e8864ffc8\"",
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Wed, 03 Jun 2026 02:50:03 GMT",
-    "updated": "2026-06-03T06:53:27.449567"
+    "last_modified": "Wed, 03 Jun 2026 03:06:39 GMT",
+    "updated": "2026-06-03T07:01:52.646492"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",

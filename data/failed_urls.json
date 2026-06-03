@@ -5605,24 +5605,24 @@
     "timestamp": "2026-06-03T06:46:29.326461"
   },
   "https://greylock.com/greymatter/open-source-vs-cloud-castles/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:46:31.413923"
+    "timestamp": "2026-06-03T06:58:18.946105"
   },
   "https://greylock.com/press/where-does-ai-go-next/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:46:31.811085"
+    "timestamp": "2026-06-03T06:58:20.102559"
   },
   "https://www.usv.com/writing/2026/06/board/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:46:32.362526"
+    "timestamp": "2026-06-03T06:58:20.570755"
   },
   "https://review.firstround.com/how-figma-taps-into-taste-simplicity-and-storytelling/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:48:00.668357"
+    "timestamp": "2026-06-03T06:58:27.567131"
   },
   "https://www.saastr.com/the-top-15-questions-to-ask-a-vp-of-sales-during-an-interview-updated-for-2026/": {
     "count": 1,
@@ -5638,5 +5638,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-03T06:50:37.452780"
+  },
+  "https://greylock.com/greymatter/whats-in-store/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T06:58:19.295771"
+  },
+  "https://openai.com/index/openai-acquires-software-applications-incorporated/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-03T07:01:18.829813"
   }
 }
