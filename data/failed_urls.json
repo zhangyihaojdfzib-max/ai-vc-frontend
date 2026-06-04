@@ -5540,9 +5540,9 @@
     "timestamp": "2026-06-01T06:52:31.735999"
   },
   "https://a16z.simplecast.com/episodes/building-ai-agents-for-enterprise-operations-g19Ldybr": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:46:29.216048"
+    "timestamp": "2026-06-04T06:30:23.953208"
   },
   "https://greylock.com/greymatter/funding-the-cloud-challengers/": {
     "count": 3,
@@ -5560,9 +5560,9 @@
     "timestamp": "2026-06-03T06:46:30.637089"
   },
   "https://www.saastr.com/right-now-we-run-4-ai-sdr-agents-heres-why/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:49:06.264202"
+    "timestamp": "2026-06-04T06:31:43.443424"
   },
   "https://www.saastr.com/entrata-is-first-of-the-next-wave-of-pe-backed-software-ipos-the-catch-almost-none-of-them-are-accelerating/": {
     "count": 2,
@@ -5580,9 +5580,9 @@
     "timestamp": "2026-06-03T06:50:37.785953"
   },
   "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:50:37.460278"
+    "timestamp": "2026-06-04T06:33:33.058187"
   },
   "https://openai.com/index/built-to-benefit-everyone/": {
     "count": 1,
@@ -5595,58 +5595,118 @@
     "timestamp": "2026-06-02T06:49:29.117205"
   },
   "https://a16z.simplecast.com/episodes/steven-sinofsky-on-apple-at-50-microsoft-and-the-future-of-computing-qxp8eLCX": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:46:29.239738"
+    "timestamp": "2026-06-04T06:30:23.946137"
   },
   "https://a16z.simplecast.com/episodes/building-the-real-world-infrastructure-for-ai-with-google-cisco-a16z-e4GM5oUx": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:46:29.326461"
+    "timestamp": "2026-06-04T06:30:24.105453"
   },
   "https://greylock.com/greymatter/open-source-vs-cloud-castles/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:58:18.946105"
+    "timestamp": "2026-06-04T06:30:26.079660"
   },
   "https://greylock.com/press/where-does-ai-go-next/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:58:20.102559"
+    "timestamp": "2026-06-04T06:30:27.185952"
   },
   "https://www.usv.com/writing/2026/06/board/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:58:20.570755"
+    "timestamp": "2026-06-04T06:30:27.816780"
   },
   "https://review.firstround.com/how-figma-taps-into-taste-simplicity-and-storytelling/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:58:27.567131"
+    "timestamp": "2026-06-04T06:31:21.573615"
   },
   "https://www.saastr.com/the-top-15-questions-to-ask-a-vp-of-sales-during-an-interview-updated-for-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:49:06.683157"
+    "timestamp": "2026-06-04T06:31:43.264499"
   },
   "https://blogs.nvidia.com/blog/industrial-software-leaders-secure-autonomous-ai-engineers-nemoclaw/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:50:37.333947"
+    "timestamp": "2026-06-04T06:33:32.739466"
   },
   "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:50:37.452780"
+    "timestamp": "2026-06-04T06:33:33.162457"
   },
   "https://greylock.com/greymatter/whats-in-store/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-03T06:58:19.295771"
+    "timestamp": "2026-06-04T06:30:26.086315"
   },
   "https://openai.com/index/openai-acquires-software-applications-incorporated/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-03T07:01:18.829813"
+  },
+  "https://a16z.simplecast.com/episodes/balaji-and-steven-glinert-on-network-states-supply-chains-and-allied-coalition-strategy-C5bm4k5z": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:30:23.928274"
+  },
+  "https://a16z.simplecast.com/episodes/google-deepmind-developers-how-nano-banana-was-made-a7_2lrXS": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:30:24.096731"
+  },
+  "https://greylock.com/greymatter/vc-funding-for-the-cloud/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:30:26.669334"
+  },
+  "https://greylock.com/portfolio-news/our-investment-in-clubhouse/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:30:26.847385"
+  },
+  "https://review.firstround.com/a-growth-experts-guide-to-building-billion-dollar-marketplaces-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:31:23.804681"
+  },
+  "https://review.firstround.com/your-annual-plan-is-already-obsolete-heres-how-to-fix-it-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:31:26.117441"
+  },
+  "https://www.saastr.com/agents-just-passed-humans-in-token-usage-and-they-burn-far-more-than-anyone-budgeted-a-deep-dive-with-openrouters-coo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:31:42.641834"
+  },
+  "https://www.saastr.com/the-agents-episode-06-we-run-saastr-on-3-humans-and-21-ai-agents-heres-every-agent-agent-by-agent-with-the-numbers/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:31:42.901704"
+  },
+  "https://www.saastr.com/7-ai-gtm-sessions-on-one-saastr-stage-vercel-artisan-lightfield-attention-qualified-aurasell-and-relevance/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:31:43.063200"
+  },
+  "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:33:32.567671"
+  },
+  "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:33:32.731557"
+  },
+  "https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:35:03.865136"
   }
 }
