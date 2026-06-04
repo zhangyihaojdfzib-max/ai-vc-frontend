@@ -5640,9 +5640,9 @@
     "timestamp": "2026-06-04T06:33:33.162457"
   },
   "https://greylock.com/greymatter/whats-in-store/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-04T06:30:26.086315"
+    "timestamp": "2026-06-04T06:47:59.782248"
   },
   "https://openai.com/index/openai-acquires-software-applications-incorporated/": {
     "count": 1,
@@ -5660,24 +5660,24 @@
     "timestamp": "2026-06-04T06:30:24.096731"
   },
   "https://greylock.com/greymatter/vc-funding-for-the-cloud/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-04T06:30:26.669334"
+    "timestamp": "2026-06-04T06:47:59.798759"
   },
   "https://greylock.com/portfolio-news/our-investment-in-clubhouse/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-04T06:30:26.847385"
+    "timestamp": "2026-06-04T06:47:59.603263"
   },
   "https://review.firstround.com/a-growth-experts-guide-to-building-billion-dollar-marketplaces-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-04T06:31:23.804681"
+    "timestamp": "2026-06-04T06:48:07.203625"
   },
   "https://review.firstround.com/your-annual-plan-is-already-obsolete-heres-how-to-fix-it-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-04T06:31:26.117441"
+    "timestamp": "2026-06-04T06:48:14.674780"
   },
   "https://www.saastr.com/agents-just-passed-humans-in-token-usage-and-they-burn-far-more-than-anyone-budgeted-a-deep-dive-with-openrouters-coo/": {
     "count": 1,
@@ -5705,8 +5705,13 @@
     "timestamp": "2026-06-04T06:33:32.731557"
   },
   "https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-04T06:49:31.113488"
+  },
+  "https://review.firstround.com/how-replit-went-from-side-project-to-a-1b-business-2/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-04T06:35:03.865136"
+    "timestamp": "2026-06-04T06:48:21.874230"
   }
 }

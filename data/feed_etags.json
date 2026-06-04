@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"e7538075cf5179276aff9c13b7189d45\"",
     "last_modified": "Wed, 03 Jun 2026 15:58:53 GMT",
-    "updated": "2026-06-04T06:30:27.501197"
+    "updated": "2026-06-04T06:48:00.026394"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"114244d750b174a934b97450f05ac2a9\"",
@@ -70,14 +70,14 @@
     "updated": "2026-06-04T06:31:43.642036"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"dOk2TA\"",
+    "etag": "\"Rw4zMw\"",
     "last_modified": null,
-    "updated": "2026-06-04T06:33:30.310364"
+    "updated": "2026-06-04T06:49:27.126683"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 31 May 2026 06:04:12 GMT",
-    "updated": "2026-06-04T06:33:30.956203"
+    "updated": "2026-06-04T06:49:27.981865"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"4a8237ed83fbe793689645896151a92f\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-06-04T06:34:31.519633"
+    "updated": "2026-06-04T06:49:29.007093"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Wed, 03 Jun 2026 03:17:43 GMT",
-    "updated": "2026-06-04T06:38:39.246700"
+    "last_modified": "Wed, 03 Jun 2026 03:06:39 GMT",
+    "updated": "2026-06-04T06:49:32.403261"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
