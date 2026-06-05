@@ -5710,9 +5710,9 @@
     "timestamp": "2026-06-05T06:21:50.153290"
   },
   "https://review.firstround.com/how-replit-went-from-side-project-to-a-1b-business-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:18:38.328009"
+    "timestamp": "2026-06-05T06:29:08.950178"
   },
   "https://a16z.simplecast.com/episodes/raghu-raghuram-ai-robotics-and-the-rebirth-of-infrastructure-sz8xjgwv": {
     "count": 1,
@@ -5720,19 +5720,19 @@
     "timestamp": "2026-06-05T06:15:49.628473"
   },
   "https://greylock.com/greymatter/reinventing-distributed-commerce-with-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:15:50.783296"
+    "timestamp": "2026-06-05T06:29:01.449516"
   },
   "https://greylock.com/portfolio-news/our-investment-in-cleo/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:15:50.788946"
+    "timestamp": "2026-06-05T06:29:01.514849"
   },
   "https://greylock.com/portfolio-news/our-investment-in-blend/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:15:51.006487"
+    "timestamp": "2026-06-05T06:29:01.480355"
   },
   "https://review.firstround.com/a-step-by-step-guide-to-starting-a-b2b-marketing-engine-from-scratch-2/": {
     "count": 1,
@@ -5765,18 +5765,23 @@
     "timestamp": "2026-06-05T06:20:06.683029"
   },
   "https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:21:48.795771"
+    "timestamp": "2026-06-05T06:30:55.278749"
   },
   "https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:21:48.802967"
+    "timestamp": "2026-06-05T06:30:55.338266"
   },
   "https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-05T06:30:55.662150"
+  },
+  "https://review.firstround.com/non-obvious-signs-of-early-traction-and-how-to-spot-them-2/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:21:49.828100"
+    "timestamp": "2026-06-05T06:29:27.590539"
   }
 }
