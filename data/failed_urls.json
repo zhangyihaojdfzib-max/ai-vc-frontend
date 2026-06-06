@@ -5780,9 +5780,9 @@
     "timestamp": "2026-06-06T05:52:01.713176"
   },
   "https://review.firstround.com/non-obvious-signs-of-early-traction-and-how-to-spot-them-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:38.592660"
+    "timestamp": "2026-06-06T05:59:02.632246"
   },
   "https://a16z.simplecast.com/episodes/ai-agents-and-the-fight-for-customer-data-tpVVdpfj": {
     "count": 1,
@@ -5795,24 +5795,24 @@
     "timestamp": "2026-06-06T05:49:35.240103"
   },
   "https://greylock.com/greymatter/the-intelligent-future/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:36.947003"
+    "timestamp": "2026-06-06T05:58:55.877972"
   },
   "https://greylock.com/greymatter/powering-the-multi-cloudparadigm/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:36.979087"
+    "timestamp": "2026-06-06T05:58:55.681001"
   },
   "https://review.firstround.com/why-startup-marketers-should-be-diagnosticians-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:41.015236"
+    "timestamp": "2026-06-06T05:59:09.421981"
   },
   "https://review.firstround.com/how-gong-used-design-partners-to-prove-a-bet-on-ai-in-2015/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:43.407522"
+    "timestamp": "2026-06-06T05:59:15.355486"
   },
   "https://review.firstround.com/heres-what-you-can-really-expect-from-a-vc-partner-meeting/": {
     "count": 1,
@@ -5838,5 +5838,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-06T05:49:54.102747"
+  },
+  "https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:58:55.872693"
   }
 }
