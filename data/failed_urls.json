@@ -5635,9 +5635,9 @@
     "timestamp": "2026-06-05T06:20:06.959776"
   },
   "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-04T06:33:33.162457"
+    "timestamp": "2026-06-06T05:51:14.455154"
   },
   "https://greylock.com/greymatter/whats-in-store/": {
     "count": 3,
@@ -5650,14 +5650,14 @@
     "timestamp": "2026-06-03T07:01:18.829813"
   },
   "https://a16z.simplecast.com/episodes/balaji-and-steven-glinert-on-network-states-supply-chains-and-allied-coalition-strategy-C5bm4k5z": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:15:49.418322"
+    "timestamp": "2026-06-06T05:49:34.977491"
   },
   "https://a16z.simplecast.com/episodes/google-deepmind-developers-how-nano-banana-was-made-a7_2lrXS": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:15:49.621887"
+    "timestamp": "2026-06-06T05:49:34.969701"
   },
   "https://greylock.com/greymatter/vc-funding-for-the-cloud/": {
     "count": 3,
@@ -5695,14 +5695,14 @@
     "timestamp": "2026-06-05T06:18:49.587902"
   },
   "https://blogs.nvidia.com/blog/cvpr-research-grasping-driving-agent-training/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:20:06.731700"
+    "timestamp": "2026-06-06T05:51:13.984433"
   },
   "https://blogs.nvidia.com/blog/cvpr-physical-ai-research-agent-skills/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:20:07.126173"
+    "timestamp": "2026-06-06T05:51:14.320299"
   },
   "https://stripe.com/blog/helping-businesses-optimize-network-costs-with-visa-digital-commerce-authentication-program": {
     "count": 3,
@@ -5715,24 +5715,24 @@
     "timestamp": "2026-06-05T06:29:08.950178"
   },
   "https://a16z.simplecast.com/episodes/raghu-raghuram-ai-robotics-and-the-rebirth-of-infrastructure-sz8xjgwv": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:15:49.628473"
+    "timestamp": "2026-06-06T05:49:35.232157"
   },
   "https://greylock.com/greymatter/reinventing-distributed-commerce-with-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:29:01.449516"
+    "timestamp": "2026-06-06T05:49:36.580589"
   },
   "https://greylock.com/portfolio-news/our-investment-in-cleo/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:29:01.514849"
+    "timestamp": "2026-06-06T05:49:37.031732"
   },
   "https://greylock.com/portfolio-news/our-investment-in-blend/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:29:01.480355"
+    "timestamp": "2026-06-06T05:49:36.464426"
   },
   "https://review.firstround.com/a-step-by-step-guide-to-starting-a-b2b-marketing-engine-from-scratch-2/": {
     "count": 1,
@@ -5740,9 +5740,9 @@
     "timestamp": "2026-06-05T06:18:40.784526"
   },
   "https://www.saastr.com/20vc-x-saastr-is-back-tokens-over-humans-the-end-of-the-saaspocalypse-and-the-trillion-dollar-land-grab/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:18:48.809039"
+    "timestamp": "2026-06-06T05:49:54.306626"
   },
   "https://www.saastr.com/saastraiuniversity/": {
     "count": 1,
@@ -5750,38 +5750,93 @@
     "timestamp": "2026-06-05T06:18:49.063631"
   },
   "https://www.saastr.com/what-lovable-harvey-assembly-ai-are-doing-in-customer-success-that-youre-not/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:18:49.178445"
+    "timestamp": "2026-06-06T05:49:54.501269"
   },
   "https://blogs.nvidia.com/blog/korea-ecosystem-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:20:06.425535"
+    "timestamp": "2026-06-06T05:51:14.033819"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:20:06.683029"
+    "timestamp": "2026-06-06T05:51:14.026034"
   },
   "https://stripe.events/stripeforumseattle1?utm_campaign=T5QX6Eo2zn5AP8iIGrUCWB7FFhttps%3A%2F%2Fstripe.events%2Facnext_seattle%3Futm_campaign%3DTD0976N7Lv4IS9ymCxV2jTAHH": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:30:55.278749"
+    "timestamp": "2026-06-06T05:52:01.211592"
   },
   "https://stripe.events/acnext_seattle?utm_campaign=TD0976N7Lv4IS9ymCxV2jTAHH": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:30:55.338266"
+    "timestamp": "2026-06-06T05:52:01.178774"
   },
   "https://stripe.com/blog/new-ways-to-turn-global-demand-into-revenue": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:30:55.662150"
+    "timestamp": "2026-06-06T05:52:01.713176"
   },
   "https://review.firstround.com/non-obvious-signs-of-early-traction-and-how-to-spot-them-2/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:38.592660"
+  },
+  "https://a16z.simplecast.com/episodes/ai-agents-and-the-fight-for-customer-data-tpVVdpfj": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-05T06:29:27.590539"
+    "timestamp": "2026-06-06T05:49:34.954777"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-how-movies-explain-america-XoKIrqcd": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:35.240103"
+  },
+  "https://greylock.com/greymatter/the-intelligent-future/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:36.947003"
+  },
+  "https://greylock.com/greymatter/powering-the-multi-cloudparadigm/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:36.979087"
+  },
+  "https://review.firstround.com/why-startup-marketers-should-be-diagnosticians-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:41.015236"
+  },
+  "https://review.firstround.com/how-gong-used-design-partners-to-prove-a-bet-on-ai-in-2015/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:43.407522"
+  },
+  "https://review.firstround.com/heres-what-you-can-really-expect-from-a-vc-partner-meeting/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:45.811527"
+  },
+  "https://review.firstround.com/why-founders-should-be-suspicious-of-symmetry-in-their-org-chart/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:48.190514"
+  },
+  "https://www.saastr.com/saastr-ai-app-of-the-week-pylon-the-ai-native-support-platform-built-for-b2b-not-reheated-b2c/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:53.690177"
+  },
+  "https://www.saastr.com/400m-arr-with-under-200-people-what-lovables-head-of-growth-elena-verna-says-actually-works-in-b2b-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:54.058028"
+  },
+  "https://www.saastr.com/inside-the-ai-agent-stacks-at-saastr-owner-com-klaviyo-the-deep-dives-from-saastr-ai-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-06T05:49:54.102747"
   }
 }
