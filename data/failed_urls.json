@@ -5815,9 +5815,9 @@
     "timestamp": "2026-06-07T06:17:06.879308"
   },
   "https://review.firstround.com/heres-what-you-can-really-expect-from-a-vc-partner-meeting/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:17:09.117087"
+    "timestamp": "2026-06-07T06:30:14.619242"
   },
   "https://review.firstround.com/why-founders-should-be-suspicious-of-symmetry-in-their-org-chart/": {
     "count": 2,
@@ -5865,9 +5865,9 @@
     "timestamp": "2026-06-07T06:17:03.551009"
   },
   "https://review.firstround.com/how-to-launch-your-second-or-third-or-fifth-product-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:17:13.659081"
+    "timestamp": "2026-06-07T06:30:31.897690"
   },
   "https://www.saastr.com/it-took-apple-42-years-to-reach-1-trillion-anthropic-will-do-it-in-5/": {
     "count": 1,
@@ -5883,5 +5883,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-07T06:17:31.228278"
+  },
+  "https://openai.com/index/openai-pioneers-program/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:30:39.237607"
+  },
+  "https://openai.com/index/our-agreement-with-the-department-of-war/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:30:41.343407"
+  },
+  "https://openai.com/index/nonlinear-computation-in-deep-linear-networks/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:30:43.446099"
   }
 }
