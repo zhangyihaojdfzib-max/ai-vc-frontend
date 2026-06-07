@@ -5715,9 +5715,9 @@
     "timestamp": "2026-06-05T06:29:08.950178"
   },
   "https://a16z.simplecast.com/episodes/raghu-raghuram-ai-robotics-and-the-rebirth-of-infrastructure-sz8xjgwv": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:35.232157"
+    "timestamp": "2026-06-07T06:17:01.486218"
   },
   "https://greylock.com/greymatter/reinventing-distributed-commerce-with-ai/": {
     "count": 3,
@@ -5785,44 +5785,44 @@
     "timestamp": "2026-06-06T05:59:02.632246"
   },
   "https://a16z.simplecast.com/episodes/ai-agents-and-the-fight-for-customer-data-tpVVdpfj": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:34.954777"
+    "timestamp": "2026-06-07T06:17:01.493159"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-how-movies-explain-america-XoKIrqcd": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:35.240103"
+    "timestamp": "2026-06-07T06:17:01.528592"
   },
   "https://greylock.com/greymatter/the-intelligent-future/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:58:55.877972"
+    "timestamp": "2026-06-07T06:17:03.250888"
   },
   "https://greylock.com/greymatter/powering-the-multi-cloudparadigm/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:58:55.681001"
+    "timestamp": "2026-06-07T06:17:02.585230"
   },
   "https://review.firstround.com/why-startup-marketers-should-be-diagnosticians-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:59:09.421981"
+    "timestamp": "2026-06-07T06:17:04.633107"
   },
   "https://review.firstround.com/how-gong-used-design-partners-to-prove-a-bet-on-ai-in-2015/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:59:15.355486"
+    "timestamp": "2026-06-07T06:17:06.879308"
   },
   "https://review.firstround.com/heres-what-you-can-really-expect-from-a-vc-partner-meeting/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:45.811527"
+    "timestamp": "2026-06-07T06:17:09.117087"
   },
   "https://review.firstround.com/why-founders-should-be-suspicious-of-symmetry-in-their-org-chart/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:48.190514"
+    "timestamp": "2026-06-07T06:17:11.384270"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-pylon-the-ai-native-support-platform-built-for-b2b-not-reheated-b2c/": {
     "count": 1,
@@ -5830,18 +5830,58 @@
     "timestamp": "2026-06-06T05:49:53.690177"
   },
   "https://www.saastr.com/400m-arr-with-under-200-people-what-lovables-head-of-growth-elena-verna-says-actually-works-in-b2b-now/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:54.058028"
+    "timestamp": "2026-06-07T06:17:31.407624"
   },
   "https://www.saastr.com/inside-the-ai-agent-stacks-at-saastr-owner-com-klaviyo-the-deep-dives-from-saastr-ai-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:49:54.102747"
+    "timestamp": "2026-06-07T06:17:31.581470"
   },
   "https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:17:02.681683"
+  },
+  "https://a16z.simplecast.com/episodes/building-search-for-ai-agents-with-exa-ceo-will-bryk-_pk3FHt0": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:58:55.872693"
+    "timestamp": "2026-06-07T06:17:01.464569"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-and-amjad-masad-english-as-the-new-programming-language-wgFI3xCk": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:17:01.565775"
+  },
+  "https://greylock.com/greymatter/ai-language-words-into-action/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:17:03.126191"
+  },
+  "https://greylock.com/portfolio-news/upskilling-the-workforce/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:17:03.551009"
+  },
+  "https://review.firstround.com/how-to-launch-your-second-or-third-or-fifth-product-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:17:13.659081"
+  },
+  "https://www.saastr.com/it-took-apple-42-years-to-reach-1-trillion-anthropic-will-do-it-in-5/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:17:30.877762"
+  },
+  "https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:17:31.209994"
+  },
+  "https://www.saastr.com/we-vibe-coded-our-ai-vp-of-marketing-heres-what-it-actually-does/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-07T06:17:31.228278"
   }
 }

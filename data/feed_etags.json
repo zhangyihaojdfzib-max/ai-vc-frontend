@@ -1,13 +1,13 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"0a5dfadee751b477bbf67b95bd776e63\"",
+    "etag": "W/\"ecfdd60c4ab484dddf26e87b3d25f7f7\"",
     "last_modified": null,
-    "updated": "2026-06-06T05:58:54.641481"
+    "updated": "2026-06-07T06:16:58.297610"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
-    "etag": "W/\"e7ee6d64933e2864ed15f844cde51077\"",
-    "last_modified": "Fri, 05 Jun 2026 10:00:29 GMT",
-    "updated": "2026-06-06T05:49:31.320603"
+    "etag": "W/\"a2ec833f34f30670619a306630c5b68d\"",
+    "last_modified": "Sat, 06 Jun 2026 10:00:23 GMT",
+    "updated": "2026-06-07T06:16:58.481546"
   },
   "https://www.sequoiacap.com/feed/": {
     "etag": "W/\"26e94b9336cb2411b34f88ba23ccce03\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"2136ec39fc4995152e89426e17bd4c98\"",
     "last_modified": "Thu, 04 Jun 2026 15:15:32 GMT",
-    "updated": "2026-06-06T05:58:56.168348"
+    "updated": "2026-06-07T06:17:03.749721"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"5eaaef03be9cd11f98692da65148ad4d\"",
@@ -55,14 +55,14 @@
     "updated": "2026-01-24T04:23:49.782614"
   },
   "https://hunterwalk.com/feed/": {
-    "etag": "W/\"068ed7b5387ecdd6747752e1a8d009f9\"",
-    "last_modified": "Wed, 03 Jun 2026 18:08:33 GMT",
-    "updated": "2026-06-04T06:31:34.489947"
+    "etag": "W/\"9464f3c978dc1eea55a08185a1b0901a\"",
+    "last_modified": "Sat, 06 Jun 2026 18:33:57 GMT",
+    "updated": "2026-06-07T06:17:17.336545"
   },
   "https://www.saastr.com/feed/": {
-    "etag": "W/\"7fb943599f2b73bb36e69e19174c39d1\"",
-    "last_modified": "Fri, 05 Jun 2026 20:11:47 GMT",
-    "updated": "2026-06-06T05:49:53.363967"
+    "etag": "W/\"f8a9b8e05cd8176724ff798a340fd623\"",
+    "last_modified": "Sat, 06 Jun 2026 14:10:06 GMT",
+    "updated": "2026-06-07T06:17:30.515696"
   },
   "https://tomtunguz.com/index.xml": {
     "etag": "W/\"6a002caa20ec5eb9397d127e189c5cba\"",
@@ -70,19 +70,19 @@
     "updated": "2026-06-06T05:49:54.627265"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"iDL0TQ\"",
+    "etag": "\"jL663Q\"",
     "last_modified": null,
-    "updated": "2026-06-06T05:51:11.464402"
+    "updated": "2026-06-07T06:18:32.253563"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 31 May 2026 06:04:12 GMT",
-    "updated": "2026-06-06T06:00:24.330414"
+    "updated": "2026-06-07T06:18:32.577996"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"bbc15247f82473dd667a1562743dee19\"",
-    "last_modified": "Fri, 05 Jun 2026 22:25:07 GMT",
-    "updated": "2026-06-06T05:51:13.047331"
+    "etag": "\"763de2c7517659920f5a2f025490bc8a\"",
+    "last_modified": "Sat, 06 Jun 2026 07:24:54 GMT",
+    "updated": "2026-06-07T06:18:33.428719"
   },
   "https://blogs.nvidia.com/feed/": {
     "etag": "\"817af660de9489ea75414b4ea26cc12a-gzip\"",
@@ -90,14 +90,14 @@
     "updated": "2026-06-06T05:51:13.318314"
   },
   "https://huggingface.co/blog/feed.xml": {
-    "etag": "W/\"38f7e-YKo798yhFFTF8yGHHPrFfY8CHZg\"",
+    "etag": "W/\"38f8e-K+kRDHFBjmXVZT+KZuWTuNCaXdU\"",
     "last_modified": null,
-    "updated": "2026-06-06T05:51:14.596587"
+    "updated": "2026-06-07T06:18:33.778031"
   },
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-06-06T06:00:25.713428"
+    "updated": "2026-06-07T06:19:27.868376"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -117,7 +117,7 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Fri, 05 Jun 2026 21:01:30 GMT",
-    "updated": "2026-06-06T06:00:35.662909"
+    "updated": "2026-06-07T06:19:41.552469"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
@@ -125,8 +125,8 @@
     "updated": "2026-05-04T05:49:09.734647"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"c5b0e865b85e49c9e4d5480d1b41e166\"",
+    "etag": "W/\"a33713b98bd7076fea6165b78c9c33ba\"",
     "last_modified": null,
-    "updated": "2026-06-05T06:22:20.409511"
+    "updated": "2026-06-07T06:19:29.384916"
   }
 }
