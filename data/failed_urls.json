@@ -5855,14 +5855,14 @@
     "timestamp": "2026-06-07T06:17:01.565775"
   },
   "https://greylock.com/greymatter/ai-language-words-into-action/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:30:29.703984"
+    "timestamp": "2026-06-08T06:49:52.828077"
   },
   "https://greylock.com/portfolio-news/upskilling-the-workforce/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:30:29.653739"
+    "timestamp": "2026-06-08T06:49:52.733712"
   },
   "https://review.firstround.com/how-to-launch-your-second-or-third-or-fifth-product-2/": {
     "count": 3,
@@ -5905,24 +5905,24 @@
     "timestamp": "2026-06-08T06:30:30.321544"
   },
   "https://greylock.com/greymatter/shopify-catalyzing-entrepreneurship/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:30:30.452288"
+    "timestamp": "2026-06-08T06:49:52.833713"
   },
   "https://review.firstround.com/tips-for-scaling-analytics-at-startups-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:30:44.304894"
+    "timestamp": "2026-06-08T06:49:59.949354"
   },
   "https://review.firstround.com/three-unexpected-anti-patterns-for-engineering-leaders-3/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:30:46.608207"
+    "timestamp": "2026-06-08T06:50:06.341453"
   },
   "https://review.firstround.com/20-lessons-from-20-different-paths-to-pmf-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:30:48.877715"
+    "timestamp": "2026-06-08T06:50:13.735867"
   },
   "https://www.saastr.com/22-tools-3m-in-fees-11-ops-people-aurasells-case-for-killing-the-gtm-stack/": {
     "count": 1,
@@ -5935,23 +5935,33 @@
     "timestamp": "2026-06-08T06:30:53.118293"
   },
   "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:33:04.555751"
+    "timestamp": "2026-06-08T06:50:53.913060"
   },
   "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:33:04.682606"
+    "timestamp": "2026-06-08T06:50:54.072675"
   },
   "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-08T06:33:04.688823"
+    "timestamp": "2026-06-08T06:50:54.078348"
   },
   "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-08T06:33:04.987567"
+  },
+  "https://openai.com/research/index/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:50:21.796203"
+  },
+  "https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:50:23.909154"
   }
 }

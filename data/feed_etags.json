@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"2136ec39fc4995152e89426e17bd4c98\"",
     "last_modified": "Thu, 04 Jun 2026 15:15:32 GMT",
-    "updated": "2026-06-08T06:30:30.648822"
+    "updated": "2026-06-08T06:49:53.123394"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"5eaaef03be9cd11f98692da65148ad4d\"",
@@ -70,14 +70,14 @@
     "updated": "2026-06-06T05:49:54.627265"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"vTGk8Q\"",
+    "etag": "\"Kw8Oeg\"",
     "last_modified": null,
-    "updated": "2026-06-08T06:33:02.770598"
+    "updated": "2026-06-08T06:50:52.190408"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 31 May 2026 06:04:12 GMT",
-    "updated": "2026-06-08T06:33:03.403671"
+    "updated": "2026-06-08T06:50:52.798398"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"763de2c7517659920f5a2f025490bc8a\"",
@@ -85,9 +85,9 @@
     "updated": "2026-06-07T06:18:33.428719"
   },
   "https://blogs.nvidia.com/feed/": {
-    "etag": "\"812599d436f0b20ef12b8f873f105d8a-gzip\"",
-    "last_modified": "Mon, 08 Jun 2026 06:00:57 GMT",
-    "updated": "2026-06-08T06:33:03.989046"
+    "etag": "\"a07a2375b0f9a704531f92a69accdde7-gzip\"",
+    "last_modified": "Mon, 08 Jun 2026 06:37:09 GMT",
+    "updated": "2026-06-08T06:50:53.518414"
   },
   "https://huggingface.co/blog/feed.xml": {
     "etag": "W/\"38f66-XBb/2MW7PblHYdrOqIwNTF5ZrOE\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-06-08T06:33:52.880286"
+    "updated": "2026-06-08T06:50:54.596035"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -117,7 +117,7 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Fri, 05 Jun 2026 21:01:30 GMT",
-    "updated": "2026-06-08T06:34:18.734268"
+    "updated": "2026-06-08T06:50:56.810342"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
