@@ -5755,9 +5755,9 @@
     "timestamp": "2026-06-06T05:49:54.501269"
   },
   "https://blogs.nvidia.com/blog/korea-ecosystem-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-06T05:51:14.033819"
+    "timestamp": "2026-06-08T06:33:04.860158"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-june-2026-games-list/": {
     "count": 2,
@@ -5840,9 +5840,9 @@
     "timestamp": "2026-06-07T06:17:31.581470"
   },
   "https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:17:02.681683"
+    "timestamp": "2026-06-08T06:30:29.502171"
   },
   "https://a16z.simplecast.com/episodes/building-search-for-ai-agents-with-exa-ceo-will-bryk-_pk3FHt0": {
     "count": 1,
@@ -5855,34 +5855,34 @@
     "timestamp": "2026-06-07T06:17:01.565775"
   },
   "https://greylock.com/greymatter/ai-language-words-into-action/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:17:03.126191"
-  },
-  "https://greylock.com/portfolio-news/upskilling-the-workforce/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:17:03.551009"
-  },
-  "https://review.firstround.com/how-to-launch-your-second-or-third-or-fifth-product-2/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:30:31.897690"
+    "timestamp": "2026-06-08T06:30:29.703984"
+  },
+  "https://greylock.com/portfolio-news/upskilling-the-workforce/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:29.653739"
+  },
+  "https://review.firstround.com/how-to-launch-your-second-or-third-or-fifth-product-2/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:42.034636"
   },
   "https://www.saastr.com/it-took-apple-42-years-to-reach-1-trillion-anthropic-will-do-it-in-5/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:17:30.877762"
+    "timestamp": "2026-06-08T06:30:53.542368"
   },
   "https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:17:31.209994"
+    "timestamp": "2026-06-08T06:30:53.729580"
   },
   "https://www.saastr.com/we-vibe-coded-our-ai-vp-of-marketing-heres-what-it-actually-does/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-07T06:17:31.228278"
+    "timestamp": "2026-06-08T06:30:53.364257"
   },
   "https://openai.com/index/openai-pioneers-program/": {
     "count": 1,
@@ -5898,5 +5898,60 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-07T06:30:43.446099"
+  },
+  "https://greylock.com/greymatter/pinata-getting-web3-creative-at-scale/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:30.321544"
+  },
+  "https://greylock.com/greymatter/shopify-catalyzing-entrepreneurship/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:30.452288"
+  },
+  "https://review.firstround.com/tips-for-scaling-analytics-at-startups-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:44.304894"
+  },
+  "https://review.firstround.com/three-unexpected-anti-patterns-for-engineering-leaders-3/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:46.608207"
+  },
+  "https://review.firstround.com/20-lessons-from-20-different-paths-to-pmf-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:48.877715"
+  },
+  "https://www.saastr.com/22-tools-3m-in-fees-11-ops-people-aurasells-case-for-killing-the-gtm-stack/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:52.938635"
+  },
+  "https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:30:53.118293"
+  },
+  "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:33:04.555751"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:33:04.682606"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:33:04.688823"
+  },
+  "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-08T06:33:04.987567"
   }
 }
