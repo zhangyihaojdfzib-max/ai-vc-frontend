@@ -5965,39 +5965,39 @@
     "timestamp": "2026-06-08T06:50:23.909154"
   },
   "https://a16z.simplecast.com/episodes/ai-eats-the-world-a-reality-check-with-benedict-evans-GVzr9ZaX": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:28.372469"
+    "timestamp": "2026-06-11T06:43:10.315911"
   },
   "https://greylock.com/greymatter/reid-hoffman-chatbots-talking-ai-with-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:29.738512"
+    "timestamp": "2026-06-11T06:43:11.526719"
   },
   "https://greylock.com/marketing/startup-storytelling/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:29.666561"
+    "timestamp": "2026-06-11T06:43:11.694766"
   },
   "https://greylock.com/greymatter/the-human-ai-partnership/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:30.611480"
+    "timestamp": "2026-06-11T06:43:12.321920"
   },
   "https://review.firstround.com/asanas-head-of-people-opens-up-her-company-culture-playbook-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:31.624706"
+    "timestamp": "2026-06-11T06:43:15.017769"
   },
   "https://review.firstround.com/seasoned-founders-share-their-best-advice-for-first-timers/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:33.825808"
+    "timestamp": "2026-06-11T06:43:17.217839"
   },
   "https://www.saastr.com/building-ai-agents-that-actually-work-lessons-from-jason-lemkin-jeanne-dewitt-grosser-vercel-amelia-lerutte-amjad-masad-replit/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:20:46.187946"
+    "timestamp": "2026-06-11T06:46:14.069473"
   },
   "https://www.saastr.com/dear-saastr-whats-really-changed-in-gtm-in-2026/": {
     "count": 2,
@@ -6010,33 +6010,68 @@
     "timestamp": "2026-06-10T06:20:46.542320"
   },
   "https://a16z.simplecast.com/episodes/tyler-cowen-alex-tabarrok-on-ai-jobs-and-economic-growth-ga2nsz31": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:28.406125"
+    "timestamp": "2026-06-11T06:43:10.346552"
   },
   "https://a16z.simplecast.com/episodes/why-creativity-will-matter-more-than-code-dGd3RSOB": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:28.485719"
+    "timestamp": "2026-06-11T06:43:10.339736"
   },
   "https://greylock.com/greymatter/ai-in-the-classroom/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:17:30.666311"
+    "timestamp": "2026-06-11T06:43:12.363746"
   },
   "https://www.saastr.com/why-its-so-hard-for-b2b-leaders-to-compete-in-ai-your-customers-can-do-it-in-claude-for-20-month-youre-paying-1-00-per-api-call/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:20:45.818816"
+    "timestamp": "2026-06-11T06:46:13.883854"
   },
   "https://www.saastr.com/sales-used-to-be-the-engine-for-the-ai-leaders-its-often-more-the-caboose/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:20:46.196145"
+    "timestamp": "2026-06-11T06:46:13.560545"
   },
   "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T06:48:07.609117"
+  },
+  "https://a16z.simplecast.com/episodes/reid-hoffman-on-ai-consciousness-and-the-future-of-humanity-jXX5cVct": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-10T06:24:28.855717"
+    "timestamp": "2026-06-11T06:43:10.408651"
+  },
+  "https://a16z.simplecast.com/episodes/how-kong-was-born-apis-hustle-and-the-future-of-ai-infrastructure-HGhWZI7r": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T06:43:10.414433"
+  },
+  "https://greylock.com/portfolio-news/introducing-niteshift-the-full-stack-cloud-for-coding-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T06:43:11.687741"
+  },
+  "https://www.saastr.com/lovable-harvey-assembly-ai-how-the-fastest-ai-companies-rebuilt-customer-success/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T06:46:13.355682"
+  },
+  "https://www.saastr.com/shopify-turns-20-5-interesting-learnings-from-shopify-at-13b-in-arr-and-accelerating/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T06:46:13.700309"
+  },
+  "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T06:48:07.623188"
+  },
+  "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T06:48:07.629007"
   }
 }
