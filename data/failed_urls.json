@@ -6020,9 +6020,9 @@
     "timestamp": "2026-06-11T06:43:10.339736"
   },
   "https://greylock.com/greymatter/ai-in-the-classroom/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:43:12.363746"
+    "timestamp": "2026-06-11T06:54:55.148262"
   },
   "https://www.saastr.com/why-its-so-hard-for-b2b-leaders-to-compete-in-ai-your-customers-can-do-it-in-claude-for-20-month-youre-paying-1-00-per-api-call/": {
     "count": 2,
@@ -6050,9 +6050,9 @@
     "timestamp": "2026-06-11T06:43:10.414433"
   },
   "https://greylock.com/portfolio-news/introducing-niteshift-the-full-stack-cloud-for-coding-agents/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:43:11.687741"
+    "timestamp": "2026-06-11T06:54:55.238414"
   },
   "https://www.saastr.com/lovable-harvey-assembly-ai-how-the-fastest-ai-companies-rebuilt-customer-success/": {
     "count": 1,
@@ -6073,5 +6073,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-11T06:48:07.629007"
+  },
+  "https://greylock.com/firm-news/welcome-jacob-andreou/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T06:54:55.244193"
+  },
+  "https://openai.com/index/retro-contest-results/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T07:00:06.543237"
+  },
+  "https://openai.com/index/learning-to-communicate/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-11T07:00:16.763434"
   }
 }
