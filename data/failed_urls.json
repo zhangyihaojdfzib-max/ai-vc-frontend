@@ -6075,9 +6075,9 @@
     "timestamp": "2026-06-12T06:35:47.872135"
   },
   "https://greylock.com/firm-news/welcome-jacob-andreou/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:27:43.228314"
+    "timestamp": "2026-06-12T06:47:34.680151"
   },
   "https://openai.com/index/retro-contest-results/": {
     "count": 1,
@@ -6095,9 +6095,9 @@
     "timestamp": "2026-06-12T06:27:41.313300"
   },
   "https://greylock.com/greymatter/ais-transformative-power/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:27:43.236752"
+    "timestamp": "2026-06-12T06:47:34.814457"
   },
   "https://greylock.com/greymatter/the-post-att-world/": {
     "count": 1,
@@ -6105,9 +6105,9 @@
     "timestamp": "2026-06-12T06:27:44.013849"
   },
   "https://greylock.com/greymatter/ai-field-notes/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:27:44.019069"
+    "timestamp": "2026-06-12T06:47:34.808605"
   },
   "https://www.saastr.com/your-data-layer-used-to-hide-behind-your-product-now-it-is-the-product-with-firebolts-ceo/": {
     "count": 1,
@@ -6130,8 +6130,8 @@
     "timestamp": "2026-06-12T06:35:47.700126"
   },
   "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:36:45.433597"
+    "timestamp": "2026-06-12T06:54:30.856423"
   }
 }

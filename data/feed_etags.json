@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"396a663909ce9f3f35180c9a03c47969\"",
+    "etag": "W/\"86e4473dbd2626ca79e8bd18f5a0e632\"",
     "last_modified": null,
-    "updated": "2026-06-12T06:27:27.689987"
+    "updated": "2026-06-12T06:47:33.489864"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"0047ec203d5794c13a35088040466702\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"2136ec39fc4995152e89426e17bd4c98\"",
     "last_modified": "Thu, 04 Jun 2026 15:15:32 GMT",
-    "updated": "2026-06-12T06:27:44.408423"
+    "updated": "2026-06-12T06:47:35.233242"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"5e7e3b873ca8abd822fe16223330acd3\"",
@@ -70,14 +70,14 @@
     "updated": "2026-06-11T06:46:14.264839"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"anVhNw\"",
+    "etag": "\"CKWH9g\"",
     "last_modified": null,
-    "updated": "2026-06-12T06:35:33.654123"
+    "updated": "2026-06-12T06:54:26.453936"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 31 May 2026 06:04:12 GMT",
-    "updated": "2026-06-12T06:35:45.783503"
+    "updated": "2026-06-12T06:54:27.098576"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"7c8d6c3c32081f06c3d21d455b9d3fef\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-06-12T06:36:42.972262"
+    "updated": "2026-06-12T06:54:28.458178"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -117,7 +117,7 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Thu, 11 Jun 2026 19:30:09 GMT",
-    "updated": "2026-06-12T06:37:52.059218"
+    "updated": "2026-06-12T06:54:41.550792"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
@@ -125,8 +125,8 @@
     "updated": "2026-05-04T05:49:09.734647"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"20ff2c9a80f43cb6a04f378ea5e70d87\"",
+    "etag": "W/\"85356cfd958805e775c5a4a05b499ce4\"",
     "last_modified": null,
-    "updated": "2026-06-11T06:48:41.004298"
+    "updated": "2026-06-12T06:54:31.656116"
   }
 }
