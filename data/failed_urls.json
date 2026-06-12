@@ -6010,14 +6010,14 @@
     "timestamp": "2026-06-10T06:20:46.542320"
   },
   "https://a16z.simplecast.com/episodes/tyler-cowen-alex-tabarrok-on-ai-jobs-and-economic-growth-ga2nsz31": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:43:10.346552"
+    "timestamp": "2026-06-12T06:27:41.339924"
   },
   "https://a16z.simplecast.com/episodes/why-creativity-will-matter-more-than-code-dGd3RSOB": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:43:10.339736"
+    "timestamp": "2026-06-12T06:27:41.333633"
   },
   "https://greylock.com/greymatter/ai-in-the-classroom/": {
     "count": 3,
@@ -6035,49 +6035,49 @@
     "timestamp": "2026-06-11T06:46:13.560545"
   },
   "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:48:07.609117"
+    "timestamp": "2026-06-12T06:35:48.120745"
   },
   "https://a16z.simplecast.com/episodes/reid-hoffman-on-ai-consciousness-and-the-future-of-humanity-jXX5cVct": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:43:10.408651"
-  },
-  "https://a16z.simplecast.com/episodes/how-kong-was-born-apis-hustle-and-the-future-of-ai-infrastructure-HGhWZI7r": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:43:10.414433"
-  },
-  "https://greylock.com/portfolio-news/introducing-niteshift-the-full-stack-cloud-for-coding-agents/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:54:55.238414"
+    "timestamp": "2026-06-12T06:27:41.483527"
+  },
+  "https://a16z.simplecast.com/episodes/how-kong-was-born-apis-hustle-and-the-future-of-ai-infrastructure-HGhWZI7r": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:27:41.457727"
+  },
+  "https://greylock.com/portfolio-news/introducing-niteshift-the-full-stack-cloud-for-coding-agents/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:27:42.999392"
   },
   "https://www.saastr.com/lovable-harvey-assembly-ai-how-the-fastest-ai-companies-rebuilt-customer-success/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:46:13.355682"
+    "timestamp": "2026-06-12T06:33:01.387540"
   },
   "https://www.saastr.com/shopify-turns-20-5-interesting-learnings-from-shopify-at-13b-in-arr-and-accelerating/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:46:13.700309"
+    "timestamp": "2026-06-12T06:33:01.222844"
   },
   "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:48:07.623188"
+    "timestamp": "2026-06-12T06:35:47.921220"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:48:07.629007"
+    "timestamp": "2026-06-12T06:35:47.872135"
   },
   "https://greylock.com/firm-news/welcome-jacob-andreou/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-11T06:54:55.244193"
+    "timestamp": "2026-06-12T06:27:43.228314"
   },
   "https://openai.com/index/retro-contest-results/": {
     "count": 1,
@@ -6088,5 +6088,50 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-11T07:00:16.763434"
+  },
+  "https://a16z.simplecast.com/episodes/designing-the-physical-world-with-ai-4Yt_NF_r-pmHb0Dmc": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:27:41.313300"
+  },
+  "https://greylock.com/greymatter/ais-transformative-power/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:27:43.236752"
+  },
+  "https://greylock.com/greymatter/the-post-att-world/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:27:44.013849"
+  },
+  "https://greylock.com/greymatter/ai-field-notes/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:27:44.019069"
+  },
+  "https://www.saastr.com/your-data-layer-used-to-hide-behind-your-product-now-it-is-the-product-with-firebolts-ceo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:33:00.729374"
+  },
+  "https://www.saastr.com/the-ai-became-the-commodity-heres-what-6-verticals-agreed-was-the-actual-moat-at-saastr-ai-annual-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:33:00.902380"
+  },
+  "https://www.saastr.com/why-no-in-ma-usually-means-no-forever/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:33:01.057348"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:35:47.700126"
+  },
+  "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-12T06:36:45.433597"
   }
 }
