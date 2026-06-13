@@ -6040,14 +6040,14 @@
     "timestamp": "2026-06-12T06:35:48.120745"
   },
   "https://a16z.simplecast.com/episodes/reid-hoffman-on-ai-consciousness-and-the-future-of-humanity-jXX5cVct": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:27:41.483527"
+    "timestamp": "2026-06-13T06:10:41.497713"
   },
   "https://a16z.simplecast.com/episodes/how-kong-was-born-apis-hustle-and-the-future-of-ai-infrastructure-HGhWZI7r": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:27:41.457727"
+    "timestamp": "2026-06-13T06:10:41.404396"
   },
   "https://greylock.com/portfolio-news/introducing-niteshift-the-full-stack-cloud-for-coding-agents/": {
     "count": 3,
@@ -6065,14 +6065,14 @@
     "timestamp": "2026-06-12T06:33:01.222844"
   },
   "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:35:47.921220"
+    "timestamp": "2026-06-13T06:18:51.999064"
   },
   "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:35:47.872135"
+    "timestamp": "2026-06-13T06:18:52.304007"
   },
   "https://greylock.com/firm-news/welcome-jacob-andreou/": {
     "count": 3,
@@ -6090,48 +6090,83 @@
     "timestamp": "2026-06-11T07:00:16.763434"
   },
   "https://a16z.simplecast.com/episodes/designing-the-physical-world-with-ai-4Yt_NF_r-pmHb0Dmc": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:27:41.313300"
+    "timestamp": "2026-06-13T06:10:41.387695"
   },
   "https://greylock.com/greymatter/ais-transformative-power/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:47:34.814457"
+    "timestamp": "2026-06-13T06:10:43.460699"
   },
   "https://greylock.com/greymatter/the-post-att-world/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:27:44.013849"
+    "timestamp": "2026-06-13T06:10:43.453027"
   },
   "https://greylock.com/greymatter/ai-field-notes/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:47:34.808605"
+    "timestamp": "2026-06-13T06:10:43.093650"
   },
   "https://www.saastr.com/your-data-layer-used-to-hide-behind-your-product-now-it-is-the-product-with-firebolts-ceo/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:33:00.729374"
-  },
-  "https://www.saastr.com/the-ai-became-the-commodity-heres-what-6-verticals-agreed-was-the-actual-moat-at-saastr-ai-annual-2026/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:33:00.902380"
-  },
-  "https://www.saastr.com/why-no-in-ma-usually-means-no-forever/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:33:01.057348"
-  },
-  "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:35:47.700126"
-  },
-  "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-12T06:54:30.856423"
+    "timestamp": "2026-06-13T06:16:20.940605"
+  },
+  "https://www.saastr.com/the-ai-became-the-commodity-heres-what-6-verticals-agreed-was-the-actual-moat-at-saastr-ai-annual-2026/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:16:20.769198"
+  },
+  "https://www.saastr.com/why-no-in-ma-usually-means-no-forever/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:16:20.177739"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:18:51.992951"
+  },
+  "https://stripe.com/blog/stripe-projects-adds-new-agents-providers-developer-controls": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:19:43.944552"
+  },
+  "https://a16z.simplecast.com/episodes/samo-burja-on-growth-energy-and-ai-1J7v_hM4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:10:41.412985"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-hollywoods-reset-and-why-ai-will-spark-a-filmmaking-renaissance-Besu1VOM": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:10:41.523866"
+  },
+  "https://greylock.com/greymatter/intelligent-money/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:10:43.781134"
+  },
+  "https://greylock.com/greymatter/the-new-new-moats/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:10:43.910886"
+  },
+  "https://www.saastr.com/why-ai-sdrs-take-2-weeks-to-deploy-and-why-most-people-still-prefer-chat/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:16:20.554975"
+  },
+  "https://www.saastr.com/who-got-the-most-leads-at-saastr-ai-annual-2026-the-top-15-tell-you-exactly-where-b2b-budget-is-going/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:16:20.572266"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-13T06:18:51.750498"
   }
 }
