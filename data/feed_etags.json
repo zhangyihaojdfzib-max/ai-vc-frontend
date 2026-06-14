@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"9f6854dfe8892c3382c7d5c791dbbb93\"",
+    "etag": "W/\"87afd8c38d328c92958e36e76e7cbef9\"",
     "last_modified": null,
-    "updated": "2026-06-14T06:27:51.221258"
+    "updated": "2026-06-14T06:47:02.188409"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"b2d7b617b28b7386a5f8c524e658f4b8\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"2136ec39fc4995152e89426e17bd4c98\"",
     "last_modified": "Thu, 04 Jun 2026 15:15:32 GMT",
-    "updated": "2026-06-14T06:27:53.979989"
+    "updated": "2026-06-14T06:47:04.856513"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"dfdced77540d1287fd496e4f27c61b61\"",
@@ -70,14 +70,14 @@
     "updated": "2026-06-13T06:16:21.185524"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"jWHPpg\"",
+    "etag": "\"zA2dmA\"",
     "last_modified": null,
-    "updated": "2026-06-14T06:39:33.627314"
+    "updated": "2026-06-14T06:50:46.411743"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 31 May 2026 06:04:12 GMT",
-    "updated": "2026-06-14T06:39:34.149597"
+    "updated": "2026-06-14T06:50:46.905621"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"e55d1c76c59c8e2a67fa7d47a414f468\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-06-14T06:39:35.245537"
+    "updated": "2026-06-14T06:50:48.451149"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Fri, 12 Jun 2026 08:48:12 GMT",
-    "updated": "2026-06-14T06:39:50.319781"
+    "last_modified": "Fri, 12 Jun 2026 08:28:09 GMT",
+    "updated": "2026-06-14T06:50:50.405146"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
