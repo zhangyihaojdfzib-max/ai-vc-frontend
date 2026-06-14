@@ -6100,9 +6100,9 @@
     "timestamp": "2026-06-13T06:10:43.460699"
   },
   "https://greylock.com/greymatter/the-post-att-world/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:10:43.453027"
+    "timestamp": "2026-06-14T06:27:53.338091"
   },
   "https://greylock.com/greymatter/ai-field-notes/": {
     "count": 3,
@@ -6145,14 +6145,14 @@
     "timestamp": "2026-06-13T06:10:41.523866"
   },
   "https://greylock.com/greymatter/intelligent-money/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:10:43.781134"
+    "timestamp": "2026-06-14T06:27:53.160319"
   },
   "https://greylock.com/greymatter/the-new-new-moats/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:10:43.910886"
+    "timestamp": "2026-06-14T06:27:53.330780"
   },
   "https://www.saastr.com/why-ai-sdrs-take-2-weeks-to-deploy-and-why-most-people-still-prefer-chat/": {
     "count": 1,
@@ -6168,5 +6168,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-13T06:18:51.750498"
+  },
+  "https://greylock.com/greymatter/securing-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-14T06:27:53.669731"
+  },
+  "https://greylock.com/greymatter/seth-rosenberg-product-led-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-14T06:27:53.773383"
+  },
+  "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-14T06:39:49.746946"
   }
 }
