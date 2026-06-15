@@ -6120,9 +6120,9 @@
     "timestamp": "2026-06-13T06:16:20.769198"
   },
   "https://www.saastr.com/why-no-in-ma-usually-means-no-forever/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:16:20.177739"
+    "timestamp": "2026-06-15T07:15:33.209697"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/": {
     "count": 2,
@@ -6155,14 +6155,14 @@
     "timestamp": "2026-06-14T06:47:04.515424"
   },
   "https://www.saastr.com/why-ai-sdrs-take-2-weeks-to-deploy-and-why-most-people-still-prefer-chat/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:16:20.554975"
+    "timestamp": "2026-06-15T07:15:32.896804"
   },
   "https://www.saastr.com/who-got-the-most-leads-at-saastr-ai-annual-2026-the-top-15-tell-you-exactly-where-b2b-budget-is-going/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:16:20.572266"
+    "timestamp": "2026-06-15T07:15:33.375901"
   },
   "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/": {
     "count": 1,
@@ -6170,19 +6170,19 @@
     "timestamp": "2026-06-13T06:18:51.750498"
   },
   "https://greylock.com/greymatter/securing-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-14T06:47:04.370616"
+    "timestamp": "2026-06-15T07:11:06.844164"
   },
   "https://greylock.com/greymatter/seth-rosenberg-product-led-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-14T06:27:53.773383"
+    "timestamp": "2026-06-15T07:11:06.798087"
   },
   "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-14T06:39:49.746946"
+    "timestamp": "2026-06-15T07:20:31.996575"
   },
   "https://openai.com/index/mrc-supercomputer-networking/": {
     "count": 1,
@@ -6193,5 +6193,30 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-14T06:50:43.772860"
+  },
+  "https://greylock.com/greymatter/figma-imagination-and-reality/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-15T07:11:07.153909"
+  },
+  "https://greylock.com/greymatter/building-enduring-consumer-products-during-tech-shifts/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-15T07:11:07.267723"
+  },
+  "https://greylock.com/greymatter/how-postscript-is-using-ai-powered-texting-to-create-one-to-one-marketing-conversations/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-15T07:11:07.337964"
+  },
+  "https://www.saastr.com/hiring-risks-vs-hiring-flags/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-15T07:15:32.537164"
+  },
+  "https://www.saastr.com/the-kindness-gap-in-vc-fundraising-why-a-little-grace-goes-a-long-way/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-15T07:15:32.926367"
   }
 }
