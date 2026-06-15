@@ -6175,9 +6175,9 @@
     "timestamp": "2026-06-15T07:11:06.844164"
   },
   "https://greylock.com/greymatter/seth-rosenberg-product-led-ai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:11:06.798087"
+    "timestamp": "2026-06-15T07:27:00.218692"
   },
   "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents": {
     "count": 2,
@@ -6195,14 +6195,14 @@
     "timestamp": "2026-06-14T06:50:43.772860"
   },
   "https://greylock.com/greymatter/figma-imagination-and-reality/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:11:07.153909"
+    "timestamp": "2026-06-15T07:27:00.039966"
   },
   "https://greylock.com/greymatter/building-enduring-consumer-products-during-tech-shifts/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:11:07.267723"
+    "timestamp": "2026-06-15T07:27:00.191166"
   },
   "https://greylock.com/greymatter/how-postscript-is-using-ai-powered-texting-to-create-one-to-one-marketing-conversations/": {
     "count": 1,
@@ -6218,5 +6218,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-15T07:15:32.926367"
+  },
+  "https://openai.com/index/building-chatgpt-atlas/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-15T07:31:04.088621"
   }
 }
