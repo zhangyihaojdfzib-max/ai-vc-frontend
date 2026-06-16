@@ -6205,9 +6205,9 @@
     "timestamp": "2026-06-16T07:18:41.483159"
   },
   "https://greylock.com/greymatter/how-postscript-is-using-ai-powered-texting-to-create-one-to-one-marketing-conversations/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-16T07:18:41.787222"
+    "timestamp": "2026-06-16T07:33:12.474090"
   },
   "https://www.saastr.com/hiring-risks-vs-hiring-flags/": {
     "count": 2,
@@ -6235,9 +6235,9 @@
     "timestamp": "2026-06-16T07:18:40.498336"
   },
   "https://greylock.com/reid-hoffman/the-foundation-to-successful-blitzscaling/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-16T07:18:41.913831"
+    "timestamp": "2026-06-16T07:33:12.481027"
   },
   "https://www.saastr.com/do-you-treat-your-20-year-customers-worse-than-your-new-ones/": {
     "count": 1,
@@ -6248,5 +6248,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-16T07:21:36.594271"
+  },
+  "https://openai.com/index/advancing-youth-safety-in-emea/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-16T07:38:48.979095"
   }
 }
