@@ -6090,9 +6090,9 @@
     "timestamp": "2026-06-11T07:00:16.763434"
   },
   "https://a16z.simplecast.com/episodes/designing-the-physical-world-with-ai-4Yt_NF_r-pmHb0Dmc": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:10:41.387695"
+    "timestamp": "2026-06-16T07:18:40.398695"
   },
   "https://greylock.com/greymatter/ais-transformative-power/": {
     "count": 3,
@@ -6135,14 +6135,14 @@
     "timestamp": "2026-06-13T06:19:43.944552"
   },
   "https://a16z.simplecast.com/episodes/samo-burja-on-growth-energy-and-ai-1J7v_hM4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:10:41.412985"
+    "timestamp": "2026-06-16T07:18:40.384386"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-hollywoods-reset-and-why-ai-will-spark-a-filmmaking-renaissance-Besu1VOM": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-13T06:10:41.523866"
+    "timestamp": "2026-06-16T07:18:40.504672"
   },
   "https://greylock.com/greymatter/intelligent-money/": {
     "count": 3,
@@ -6155,9 +6155,9 @@
     "timestamp": "2026-06-14T06:47:04.515424"
   },
   "https://www.saastr.com/why-ai-sdrs-take-2-weeks-to-deploy-and-why-most-people-still-prefer-chat/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:15:32.896804"
+    "timestamp": "2026-06-16T07:21:36.957150"
   },
   "https://www.saastr.com/who-got-the-most-leads-at-saastr-ai-annual-2026-the-top-15-tell-you-exactly-where-b2b-budget-is-going/": {
     "count": 2,
@@ -6180,9 +6180,9 @@
     "timestamp": "2026-06-15T07:27:00.218692"
   },
   "https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:20:31.996575"
+    "timestamp": "2026-06-16T07:24:06.405083"
   },
   "https://openai.com/index/mrc-supercomputer-networking/": {
     "count": 1,
@@ -6195,33 +6195,58 @@
     "timestamp": "2026-06-14T06:50:43.772860"
   },
   "https://greylock.com/greymatter/figma-imagination-and-reality/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:27:00.039966"
+    "timestamp": "2026-06-16T07:18:41.437353"
   },
   "https://greylock.com/greymatter/building-enduring-consumer-products-during-tech-shifts/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:27:00.191166"
+    "timestamp": "2026-06-16T07:18:41.483159"
   },
   "https://greylock.com/greymatter/how-postscript-is-using-ai-powered-texting-to-create-one-to-one-marketing-conversations/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:11:07.337964"
+    "timestamp": "2026-06-16T07:18:41.787222"
   },
   "https://www.saastr.com/hiring-risks-vs-hiring-flags/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:15:32.537164"
+    "timestamp": "2026-06-16T07:21:36.779015"
   },
   "https://www.saastr.com/the-kindness-gap-in-vc-fundraising-why-a-little-grace-goes-a-long-way/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-15T07:15:32.926367"
+    "timestamp": "2026-06-16T07:21:36.581698"
   },
   "https://openai.com/index/building-chatgpt-atlas/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-15T07:31:04.088621"
+  },
+  "https://a16z.simplecast.com/episodes/ai-design-and-the-power-of-open-models-_Noy5d_H": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-16T07:18:40.412974"
+  },
+  "https://a16z.simplecast.com/episodes/keith-rabois-israel-openai-opendoor-and-doge-YdzfhpPo": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-16T07:18:40.498336"
+  },
+  "https://greylock.com/reid-hoffman/the-foundation-to-successful-blitzscaling/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-16T07:18:41.913831"
+  },
+  "https://www.saastr.com/do-you-treat-your-20-year-customers-worse-than-your-new-ones/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-16T07:21:36.232326"
+  },
+  "https://www.saastr.com/automate-the-admin-not-the-relationship-how-reevos-agents-made-sellers-5x-more-productive/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-16T07:21:36.594271"
   }
 }
