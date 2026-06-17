@@ -6283,5 +6283,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-17T07:08:25.155926"
+  },
+  "https://openai.com/index/how-countries-can-end-the-capability-overhang/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-17T07:20:52.670010"
   }
 }
