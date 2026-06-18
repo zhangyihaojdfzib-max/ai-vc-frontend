@@ -6165,9 +6165,9 @@
     "timestamp": "2026-06-15T07:15:33.375901"
   },
   "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:08:25.220763"
+    "timestamp": "2026-06-18T06:52:15.408419"
   },
   "https://greylock.com/greymatter/securing-ai/": {
     "count": 3,
@@ -6225,14 +6225,14 @@
     "timestamp": "2026-06-15T07:31:04.088621"
   },
   "https://a16z.simplecast.com/episodes/ai-design-and-the-power-of-open-models-_Noy5d_H": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:02:38.628338"
+    "timestamp": "2026-06-18T06:45:59.123822"
   },
   "https://a16z.simplecast.com/episodes/keith-rabois-israel-openai-opendoor-and-doge-YdzfhpPo": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:02:38.733555"
+    "timestamp": "2026-06-18T06:45:59.262688"
   },
   "https://greylock.com/reid-hoffman/the-foundation-to-successful-blitzscaling/": {
     "count": 3,
@@ -6255,38 +6255,68 @@
     "timestamp": "2026-06-16T07:38:48.979095"
   },
   "https://a16z.simplecast.com/episodes/jack-altman-on-product-market-fit-FJD2mKIg": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:02:38.644208"
+    "timestamp": "2026-06-18T06:45:59.156209"
   },
   "https://www.saastr.com/dear-saastr-my-top-sales-rep-made-600000-a-year-and-just-quit-what-happened/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:06:38.003433"
+    "timestamp": "2026-06-18T06:50:07.059736"
   },
   "https://www.saastr.com/it-doesnt-really-matter-when-your-competitor-gets-acquired-except-it-means-you-werent/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:06:38.341369"
+    "timestamp": "2026-06-18T06:50:06.880346"
   },
   "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:08:24.688328"
+    "timestamp": "2026-06-18T06:52:14.943100"
   },
   "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:08:24.864345"
+    "timestamp": "2026-06-18T06:52:14.949887"
   },
   "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-17T07:08:25.155926"
+    "timestamp": "2026-06-18T06:52:15.195038"
   },
   "https://openai.com/index/how-countries-can-end-the-capability-overhang/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-17T07:20:52.670010"
+  },
+  "https://a16z.simplecast.com/episodes/the-fintech-playbook-for-latin-america-f1LXU6gD": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-18T06:45:59.147384"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-and-ali-ghodsi-how-to-run-a-billion-dollar-business-GvrkQR3X": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-18T06:45:59.255168"
+  },
+  "https://www.saastr.com/monitor-your-agents-both-ai-and-human/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-18T06:50:06.308084"
+  },
+  "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-18T06:50:06.603542"
+  },
+  "https://www.saastr.com/dear-saastr-whats-the-1-mistake-founders-make-when-they-start-to-do-marketing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-18T06:50:06.699407"
+  },
+  "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-18T06:52:14.743977"
   }
 }
