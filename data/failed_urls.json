@@ -6270,9 +6270,9 @@
     "timestamp": "2026-06-18T06:50:06.880346"
   },
   "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-18T06:52:14.943100"
+    "timestamp": "2026-06-19T07:06:37.242641"
   },
   "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/": {
     "count": 2,
@@ -6300,14 +6300,14 @@
     "timestamp": "2026-06-18T06:45:59.255168"
   },
   "https://www.saastr.com/monitor-your-agents-both-ai-and-human/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-18T06:50:06.308084"
+    "timestamp": "2026-06-19T07:04:22.707794"
   },
   "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-18T06:50:06.603542"
+    "timestamp": "2026-06-19T07:04:22.696277"
   },
   "https://www.saastr.com/dear-saastr-whats-the-1-mistake-founders-make-when-they-start-to-do-marketing/": {
     "count": 1,
@@ -6315,8 +6315,43 @@
     "timestamp": "2026-06-18T06:50:06.699407"
   },
   "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-19T07:06:37.172318"
+  },
+  "https://www.saastr.com/signs-a-vp-cant-scale/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-18T06:52:14.743977"
+    "timestamp": "2026-06-19T07:04:21.928269"
+  },
+  "https://www.saastr.com/10-of-the-top-mistakes-first-time-founders-make/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-19T07:04:22.038502"
+  },
+  "https://www.saastr.com/artisans-ava-2-0-what-a-fully-autonomous-ai-bdr-actually-looks-like-in-production-with-ceo-jaspar-carmichael-jack/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-19T07:04:22.229375"
+  },
+  "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-19T07:06:36.634221"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-19T07:06:36.832272"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-19T07:06:36.838953"
+  },
+  "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-19T07:07:36.682585"
   }
 }
