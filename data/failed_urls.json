@@ -6255,9 +6255,9 @@
     "timestamp": "2026-06-16T07:38:48.979095"
   },
   "https://a16z.simplecast.com/episodes/jack-altman-on-product-market-fit-FJD2mKIg": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-18T06:45:59.156209"
+    "timestamp": "2026-06-20T06:14:24.759937"
   },
   "https://www.saastr.com/dear-saastr-my-top-sales-rep-made-600000-a-year-and-just-quit-what-happened/": {
     "count": 2,
@@ -6290,14 +6290,14 @@
     "timestamp": "2026-06-17T07:20:52.670010"
   },
   "https://a16z.simplecast.com/episodes/the-fintech-playbook-for-latin-america-f1LXU6gD": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-18T06:45:59.147384"
+    "timestamp": "2026-06-20T06:14:24.792282"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-and-ali-ghodsi-how-to-run-a-billion-dollar-business-GvrkQR3X": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-18T06:45:59.255168"
+    "timestamp": "2026-06-20T06:14:24.907086"
   },
   "https://www.saastr.com/monitor-your-agents-both-ai-and-human/": {
     "count": 2,
@@ -6325,9 +6325,9 @@
     "timestamp": "2026-06-19T07:04:21.928269"
   },
   "https://www.saastr.com/10-of-the-top-mistakes-first-time-founders-make/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-19T07:04:22.038502"
+    "timestamp": "2026-06-20T06:19:01.259316"
   },
   "https://www.saastr.com/artisans-ava-2-0-what-a-fully-autonomous-ai-bdr-actually-looks-like-in-production-with-ceo-jaspar-carmichael-jack/": {
     "count": 1,
@@ -6350,8 +6350,38 @@
     "timestamp": "2026-06-19T07:06:36.838953"
   },
   "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-20T06:20:22.308030"
+  },
+  "https://a16z.simplecast.com/episodes/the-new-rules-of-media-marc-andreessen-ben-horowitz-nXXfWW8E": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-19T07:07:36.682585"
+    "timestamp": "2026-06-20T06:14:24.784863"
+  },
+  "https://a16z.simplecast.com/episodes/is-ai-slowing-down-nathan-labenz-says-were-asking-the-wrong-question-fBZj_7FC": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-20T06:14:24.915913"
+  },
+  "https://www.saastr.com/snowflakes-cmo-runs-marketing-for-700-people-she-starts-her-day-by-talking-to-her-data-not-a-dashboard/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-20T06:19:00.513347"
+  },
+  "https://www.saastr.com/vcs-are-diversified-yes-but-that-also-means-they-need-a-constant-stream-of-hits-like-a-movie-studio-every-single-year/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-20T06:19:00.824460"
+  },
+  "https://www.saastr.com/why-marketing-should-almost-never-report-to-sales/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-20T06:19:00.890401"
+  },
+  "https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-20T06:19:01.069169"
   }
 }
