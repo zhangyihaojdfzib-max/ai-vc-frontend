@@ -6365,23 +6365,33 @@
     "timestamp": "2026-06-20T06:14:24.915913"
   },
   "https://www.saastr.com/snowflakes-cmo-runs-marketing-for-700-people-she-starts-her-day-by-talking-to-her-data-not-a-dashboard/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-20T06:19:00.513347"
+    "timestamp": "2026-06-21T06:50:12.892492"
   },
   "https://www.saastr.com/vcs-are-diversified-yes-but-that-also-means-they-need-a-constant-stream-of-hits-like-a-movie-studio-every-single-year/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-20T06:19:00.824460"
+    "timestamp": "2026-06-21T06:50:13.061424"
   },
   "https://www.saastr.com/why-marketing-should-almost-never-report-to-sales/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-20T06:19:00.890401"
+    "timestamp": "2026-06-21T06:50:13.249800"
   },
   "https://www.saastr.com/how-attention-com-turns-sales-calls-into-pipeline-the-best-gtm-data-you-own-and-why-most-b2b-teams-throw-it-away/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-20T06:19:01.069169"
+  },
+  "https://www.saastr.com/90-of-vp-candidates-cant-tell-me-what-theyve-learned-after-10-interviews-thats-a-disqualifier/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-21T06:50:12.548797"
+  },
+  "https://www.saastr.com/lightfield-just-assembled-a-working-crm-live-on-stage-then-unstuck-a-stalled-deal-in-3-minutes/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-21T06:50:12.768366"
   }
 }
