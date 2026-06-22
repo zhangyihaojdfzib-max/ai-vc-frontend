@@ -6315,9 +6315,9 @@
     "timestamp": "2026-06-18T06:50:06.699407"
   },
   "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-19T07:06:37.172318"
+    "timestamp": "2026-06-22T07:19:54.125543"
   },
   "https://www.saastr.com/signs-a-vp-cant-scale/": {
     "count": 1,
@@ -6335,19 +6335,19 @@
     "timestamp": "2026-06-19T07:04:22.229375"
   },
   "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-19T07:06:36.634221"
+    "timestamp": "2026-06-22T07:19:54.012840"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-19T07:06:36.832272"
+    "timestamp": "2026-06-22T07:19:54.189010"
   },
   "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-19T07:06:36.838953"
+    "timestamp": "2026-06-22T07:19:53.893069"
   },
   "https://stripe.com/blog/what-link-data-tells-us-about-ai-spending": {
     "count": 3,
@@ -6365,14 +6365,14 @@
     "timestamp": "2026-06-20T06:14:24.915913"
   },
   "https://www.saastr.com/snowflakes-cmo-runs-marketing-for-700-people-she-starts-her-day-by-talking-to-her-data-not-a-dashboard/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-21T06:50:12.892492"
+    "timestamp": "2026-06-22T07:18:43.110662"
   },
   "https://www.saastr.com/vcs-are-diversified-yes-but-that-also-means-they-need-a-constant-stream-of-hits-like-a-movie-studio-every-single-year/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-21T06:50:13.061424"
+    "timestamp": "2026-06-22T07:18:43.233897"
   },
   "https://www.saastr.com/why-marketing-should-almost-never-report-to-sales/": {
     "count": 2,
@@ -6385,13 +6385,33 @@
     "timestamp": "2026-06-20T06:19:01.069169"
   },
   "https://www.saastr.com/90-of-vp-candidates-cant-tell-me-what-theyve-learned-after-10-interviews-thats-a-disqualifier/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-21T06:50:12.548797"
+    "timestamp": "2026-06-22T07:18:42.968975"
   },
   "https://www.saastr.com/lightfield-just-assembled-a-working-crm-live-on-stage-then-unstuck-a-stalled-deal-in-3-minutes/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-22T07:18:42.804994"
+  },
+  "https://hunterwalk.com/2026/06/21/tips-on-asking-for-advice-foreign-spies-all-over-florida-feeling-like-you-dont-have-enough-money-drives-you-nuts-how-to-use-ai-and-when-not-to-in-your-hiring-link-blog/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-21T06:50:12.768366"
+    "timestamp": "2026-06-22T07:18:42.418997"
+  },
+  "https://www.saastr.com/the-pik-fuse-how-private-equity-software-deals-like-medallia-actually-blow-up-and-exactly-whos-next/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-22T07:18:42.938199"
+  },
+  "https://www.tomtunguz.com/local-tokens/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-22T07:18:43.775907"
+  },
+  "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-22T07:19:54.008825"
   }
 }
