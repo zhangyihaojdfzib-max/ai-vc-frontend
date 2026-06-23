@@ -6290,14 +6290,14 @@
     "timestamp": "2026-06-17T07:20:52.670010"
   },
   "https://a16z.simplecast.com/episodes/the-fintech-playbook-for-latin-america-f1LXU6gD": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-20T06:14:24.792282"
+    "timestamp": "2026-06-23T06:02:03.156869"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-and-ali-ghodsi-how-to-run-a-billion-dollar-business-GvrkQR3X": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-20T06:14:24.907086"
+    "timestamp": "2026-06-23T06:02:03.325715"
   },
   "https://www.saastr.com/monitor-your-agents-both-ai-and-human/": {
     "count": 2,
@@ -6355,14 +6355,14 @@
     "timestamp": "2026-06-20T06:32:27.469595"
   },
   "https://a16z.simplecast.com/episodes/the-new-rules-of-media-marc-andreessen-ben-horowitz-nXXfWW8E": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-20T06:14:24.784863"
+    "timestamp": "2026-06-23T06:02:03.187993"
   },
   "https://a16z.simplecast.com/episodes/is-ai-slowing-down-nathan-labenz-says-were-asking-the-wrong-question-fBZj_7FC": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-20T06:14:24.915913"
+    "timestamp": "2026-06-23T06:02:03.319548"
   },
   "https://www.saastr.com/snowflakes-cmo-runs-marketing-for-700-people-she-starts-her-day-by-talking-to-her-data-not-a-dashboard/": {
     "count": 3,
@@ -6385,14 +6385,14 @@
     "timestamp": "2026-06-20T06:19:01.069169"
   },
   "https://www.saastr.com/90-of-vp-candidates-cant-tell-me-what-theyve-learned-after-10-interviews-thats-a-disqualifier/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-22T07:18:42.968975"
+    "timestamp": "2026-06-23T06:06:15.906620"
   },
   "https://www.saastr.com/lightfield-just-assembled-a-working-crm-live-on-stage-then-unstuck-a-stalled-deal-in-3-minutes/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-22T07:18:42.804994"
+    "timestamp": "2026-06-23T06:06:16.082539"
   },
   "https://hunterwalk.com/2026/06/21/tips-on-asking-for-advice-foreign-spies-all-over-florida-feeling-like-you-dont-have-enough-money-drives-you-nuts-how-to-use-ai-and-when-not-to-in-your-hiring-link-blog/": {
     "count": 1,
@@ -6400,18 +6400,63 @@
     "timestamp": "2026-06-22T07:18:42.418997"
   },
   "https://www.saastr.com/the-pik-fuse-how-private-equity-software-deals-like-medallia-actually-blow-up-and-exactly-whos-next/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-22T07:18:42.938199"
+    "timestamp": "2026-06-23T06:06:15.340710"
   },
   "https://www.tomtunguz.com/local-tokens/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-22T07:18:43.775907"
+    "timestamp": "2026-06-23T06:06:16.689908"
   },
   "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-22T07:19:54.008825"
+  },
+  "https://a16z.simplecast.com/episodes/jake-paul-anti-fund-from-creator-to-investor-S6O4PAbH": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:02:03.179625"
+  },
+  "https://www.usv.com/writing/2026/06/fomo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:02:05.399524"
+  },
+  "https://www.saastr.com/ripplings-ai-bet-the-data-graph-is-the-moat/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:06:15.660593"
+  },
+  "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:06:15.732017"
+  },
+  "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:07:55.905966"
+  },
+  "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:07:55.942534"
+  },
+  "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:07:55.949706"
+  },
+  "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:07:56.235528"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-23T06:07:56.264574"
   }
 }
