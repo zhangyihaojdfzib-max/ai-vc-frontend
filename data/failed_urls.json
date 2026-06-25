@@ -6470,9 +6470,9 @@
     "timestamp": "2026-06-25T06:00:07.790347"
   },
   "https://greylock.com/firm-news/welcome-glenn-kelman/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:00:08.685579"
+    "timestamp": "2026-06-25T06:14:08.864650"
   },
   "https://www.saastr.com/we-added-too-many-guardrails-and-broke-our-own-agent-our-ai-vp-of-finance-found-a-setting-wed-missed-for-8-years-and-an-agent-is-now-the-one-renewing-your-software-the-agents-007/": {
     "count": 2,
@@ -6500,9 +6500,9 @@
     "timestamp": "2026-06-25T06:06:11.197513"
   },
   "https://stripe.com/blog/trends-from-hitec": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:07:30.659569"
+    "timestamp": "2026-06-25T06:17:53.020937"
   },
   "https://a16z.simplecast.com/episodes/what-happens-to-design-after-ai-F7dGiPRT": {
     "count": 1,
