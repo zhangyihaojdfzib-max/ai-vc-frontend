@@ -6415,34 +6415,34 @@
     "timestamp": "2026-06-22T07:19:54.008825"
   },
   "https://a16z.simplecast.com/episodes/jake-paul-anti-fund-from-creator-to-investor-S6O4PAbH": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:01:35.398140"
+    "timestamp": "2026-06-25T06:00:07.763335"
   },
   "https://www.usv.com/writing/2026/06/fomo/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:01:52.171853"
+    "timestamp": "2026-06-25T06:00:09.159709"
   },
   "https://www.saastr.com/ripplings-ai-bet-the-data-graph-is-the-moat/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:06:30.798500"
+    "timestamp": "2026-06-25T06:04:04.847032"
   },
   "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:06:31.188556"
+    "timestamp": "2026-06-25T06:04:04.681199"
   },
   "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:08:22.957832"
+    "timestamp": "2026-06-25T06:06:11.491393"
   },
   "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:08:23.077287"
+    "timestamp": "2026-06-25T06:06:11.391276"
   },
   "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/": {
     "count": 1,
@@ -6460,24 +6460,24 @@
     "timestamp": "2026-06-23T06:07:56.264574"
   },
   "https://a16z.simplecast.com/episodes/whats-next-for-consumer-ai-josh-elman-joins-a16z-DsQwKWIh": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:01:35.421064"
+    "timestamp": "2026-06-25T06:00:07.728014"
   },
   "https://a16z.simplecast.com/episodes/columbia-cs-professor-why-llms-cant-discover-new-science-k7v4Jxpr": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:01:35.625619"
+    "timestamp": "2026-06-25T06:00:07.790347"
   },
   "https://greylock.com/firm-news/welcome-glenn-kelman/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:01:51.520414"
+    "timestamp": "2026-06-25T06:00:08.685579"
   },
   "https://www.saastr.com/we-added-too-many-guardrails-and-broke-our-own-agent-our-ai-vp-of-finance-found-a-setting-wed-missed-for-8-years-and-an-agent-is-now-the-one-renewing-your-software-the-agents-007/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:06:31.142625"
+    "timestamp": "2026-06-25T06:04:04.127172"
   },
   "https://www.saastr.com/dear-saastr-should-i-visit-my-customers-more-2/": {
     "count": 1,
@@ -6485,23 +6485,43 @@
     "timestamp": "2026-06-24T06:06:31.566386"
   },
   "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:08:22.563909"
+    "timestamp": "2026-06-25T06:06:11.013504"
   },
   "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:08:22.768805"
+    "timestamp": "2026-06-25T06:06:11.189226"
   },
   "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:08:22.794003"
+    "timestamp": "2026-06-25T06:06:11.197513"
   },
   "https://stripe.com/blog/trends-from-hitec": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-25T06:07:30.659569"
+  },
+  "https://a16z.simplecast.com/episodes/what-happens-to-design-after-ai-F7dGiPRT": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-24T06:11:40.735971"
+    "timestamp": "2026-06-25T06:00:07.744302"
+  },
+  "https://a16z.simplecast.com/episodes/monitoring-the-situation-3-who-is-nick-land-zV3Lr5Ku": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-25T06:00:07.835267"
+  },
+  "https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-25T06:04:04.479638"
+  },
+  "https://www.saastr.com/adobe-just-deferred-a-big-annual-price-increase-its-the-first-big-crack-in-b2b-pricing-power-since-2022/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-25T06:04:04.490753"
   }
 }
