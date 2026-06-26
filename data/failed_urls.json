@@ -6445,9 +6445,9 @@
     "timestamp": "2026-06-25T06:06:11.391276"
   },
   "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-23T06:07:55.949706"
+    "timestamp": "2026-06-26T06:10:52.187523"
   },
   "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/": {
     "count": 1,
@@ -6460,14 +6460,14 @@
     "timestamp": "2026-06-23T06:07:56.264574"
   },
   "https://a16z.simplecast.com/episodes/whats-next-for-consumer-ai-josh-elman-joins-a16z-DsQwKWIh": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:00:07.728014"
+    "timestamp": "2026-06-26T06:04:19.542414"
   },
   "https://a16z.simplecast.com/episodes/columbia-cs-professor-why-llms-cant-discover-new-science-k7v4Jxpr": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:00:07.790347"
+    "timestamp": "2026-06-26T06:04:19.622592"
   },
   "https://greylock.com/firm-news/welcome-glenn-kelman/": {
     "count": 3,
@@ -6485,19 +6485,19 @@
     "timestamp": "2026-06-24T06:06:31.566386"
   },
   "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:06:11.013504"
+    "timestamp": "2026-06-26T06:10:51.841940"
   },
   "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:06:11.189226"
+    "timestamp": "2026-06-26T06:10:52.068733"
   },
   "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:06:11.197513"
+    "timestamp": "2026-06-26T06:10:51.881654"
   },
   "https://stripe.com/blog/trends-from-hitec": {
     "count": 3,
@@ -6505,23 +6505,58 @@
     "timestamp": "2026-06-25T06:17:53.020937"
   },
   "https://a16z.simplecast.com/episodes/what-happens-to-design-after-ai-F7dGiPRT": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:00:07.744302"
+    "timestamp": "2026-06-26T06:04:19.513812"
   },
   "https://a16z.simplecast.com/episodes/monitoring-the-situation-3-who-is-nick-land-zV3Lr5Ku": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:00:07.835267"
+    "timestamp": "2026-06-26T06:04:19.652958"
   },
   "https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:04:04.479638"
+    "timestamp": "2026-06-26T06:08:50.582703"
   },
   "https://www.saastr.com/adobe-just-deferred-a-big-annual-price-increase-its-the-first-big-crack-in-b2b-pricing-power-since-2022/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-26T06:08:50.409734"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-technology-and-the-future-of-humanity-C2m9nf_J": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-25T06:04:04.490753"
+    "timestamp": "2026-06-26T06:04:19.536197"
+  },
+  "https://www.usv.com/writing/2026/06/the-rebel-alliance-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-26T06:04:21.562198"
+  },
+  "https://hunterwalk.com/2026/06/25/lets-learn-together-financial-tools-startup-ambrook-spent-six-weeks-helping-their-entire-team-adopt-ai-and-now-theyve-open-sourced-the-materials/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-26T06:08:35.368762"
+  },
+  "https://www.saastr.com/amjad-masad-and-me-at-saastr-ai-2026-the-agents-we-actually-built-and-what-replits-founder-thinks-comes-next/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-26T06:08:49.870668"
+  },
+  "https://www.saastr.com/booking-com-for-business-shipped-a-free-expense-tool-in-6-weeks-dont-copy-the-tool-copy-the-sequence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-26T06:08:50.140590"
+  },
+  "https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-26T06:08:50.224011"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-26T06:10:51.888636"
   }
 }
