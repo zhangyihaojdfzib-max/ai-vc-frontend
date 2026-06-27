@@ -6445,19 +6445,19 @@
     "timestamp": "2026-06-25T06:06:11.391276"
   },
   "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-26T06:10:52.187523"
+    "timestamp": "2026-06-27T05:53:17.371397"
   },
   "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-23T06:07:56.235528"
+    "timestamp": "2026-06-27T05:53:17.208538"
   },
   "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-23T06:07:56.264574"
+    "timestamp": "2026-06-27T05:53:17.563691"
   },
   "https://a16z.simplecast.com/episodes/whats-next-for-consumer-ai-josh-elman-joins-a16z-DsQwKWIh": {
     "count": 3,
@@ -6505,14 +6505,14 @@
     "timestamp": "2026-06-25T06:17:53.020937"
   },
   "https://a16z.simplecast.com/episodes/what-happens-to-design-after-ai-F7dGiPRT": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-26T06:04:19.513812"
+    "timestamp": "2026-06-27T05:48:22.141576"
   },
   "https://a16z.simplecast.com/episodes/monitoring-the-situation-3-who-is-nick-land-zV3Lr5Ku": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-26T06:04:19.652958"
+    "timestamp": "2026-06-27T05:48:22.275617"
   },
   "https://www.saastr.com/paypal-put-agentforce-on-8000-leads-a-month-no-human-was-going-to-call-conversions-jumped-50/": {
     "count": 2,
@@ -6525,14 +6525,14 @@
     "timestamp": "2026-06-26T06:08:50.409734"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-technology-and-the-future-of-humanity-C2m9nf_J": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-26T06:04:19.536197"
+    "timestamp": "2026-06-27T05:48:22.172728"
   },
   "https://www.usv.com/writing/2026/06/the-rebel-alliance-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-26T06:04:21.562198"
+    "timestamp": "2026-06-27T05:48:23.360593"
   },
   "https://hunterwalk.com/2026/06/25/lets-learn-together-financial-tools-startup-ambrook-spent-six-weeks-helping-their-entire-team-adopt-ai-and-now-theyve-open-sourced-the-materials/": {
     "count": 1,
@@ -6550,13 +6550,48 @@
     "timestamp": "2026-06-26T06:08:50.140590"
   },
   "https://www.saastr.com/what-vcs-are-hunting-today-100b-in-10-years/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-26T06:08:50.224011"
+    "timestamp": "2026-06-27T05:51:41.715203"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T05:53:17.443612"
+  },
+  "https://a16z.simplecast.com/episodes/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil-jewVLsTo": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-26T06:10:51.888636"
+    "timestamp": "2026-06-27T05:48:22.164607"
+  },
+  "https://a16z.simplecast.com/episodes/sam-altman-on-sora-energy-and-building-an-ai-empire-chh8r2SY": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T05:48:22.289034"
+  },
+  "https://www.saastr.com/why-navan-is-up-30-in-2026-when-so-many-other-public-software-leaders-are-down/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T05:51:40.989609"
+  },
+  "https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T05:51:41.288266"
+  },
+  "https://www.saastr.com/20vc-x-saastr-google-loses-two-generational-scientists-in-48-hours-the-725b-question-wall-street-is-finally-asking-and-why-3-in-ai-is-a-death-sentence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T05:51:41.352530"
+  },
+  "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T05:51:41.535329"
+  },
+  "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T05:53:17.688587"
   }
 }
