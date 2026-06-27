@@ -6530,9 +6530,9 @@
     "timestamp": "2026-06-27T05:48:22.172728"
   },
   "https://www.usv.com/writing/2026/06/the-rebel-alliance-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:48:23.360593"
+    "timestamp": "2026-06-27T05:58:36.930502"
   },
   "https://hunterwalk.com/2026/06/25/lets-learn-together-financial-tools-startup-ambrook-spent-six-weeks-helping-their-entire-team-adopt-ai-and-now-theyve-open-sourced-the-materials/": {
     "count": 1,
@@ -6593,5 +6593,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-27T05:53:17.688587"
+  },
+  "https://openai.com/index/solving-rubiks-cube/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T06:02:24.522916"
+  },
+  "https://openai.com/index/openai-five-benchmark-results/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-27T06:02:35.296236"
   }
 }
