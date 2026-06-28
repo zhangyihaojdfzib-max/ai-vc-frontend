@@ -6613,5 +6613,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-28T06:15:39.151274"
+  },
+  "https://openai.com/index/openai-five/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-28T06:27:50.830871"
+  },
+  "https://openai.com/index/introducing-swe-bench-verified/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-28T06:28:35.184961"
   }
 }
