@@ -6570,19 +6570,19 @@
     "timestamp": "2026-06-27T05:48:22.289034"
   },
   "https://www.saastr.com/why-navan-is-up-30-in-2026-when-so-many-other-public-software-leaders-are-down/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:51:40.989609"
+    "timestamp": "2026-06-28T06:15:38.781711"
   },
   "https://www.saastr.com/we-crossed-200000-youtube-subscribers-the-fastest-growing-content-is-us-running-ai-agents-in-public/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:51:41.288266"
+    "timestamp": "2026-06-28T06:15:39.334205"
   },
   "https://www.saastr.com/20vc-x-saastr-google-loses-two-generational-scientists-in-48-hours-the-725b-question-wall-street-is-finally-asking-and-why-3-in-ai-is-a-death-sentence/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:51:41.352530"
+    "timestamp": "2026-06-28T06:15:39.564120"
   },
   "https://www.saastr.com/how-happyfox-closed-1m-in-expansion-on-a-20-ai-agent-spend-with-ceo-shalin-jain/": {
     "count": 1,
@@ -6603,5 +6603,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-27T06:02:35.296236"
+  },
+  "https://www.saastr.com/we-booked-614-meetings-with-one-inbound-agent-your-contact-us-form-is-costing-you-deals/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-28T06:15:39.023589"
+  },
+  "https://www.saastr.com/all-agencies-and-contractors-have-a-half-life-just-be-aware-of-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-28T06:15:39.151274"
   }
 }
