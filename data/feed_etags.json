@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"beb6237f62bd64e498863000631811e6\"",
     "last_modified": "Thu, 25 Jun 2026 16:27:26 GMT",
-    "updated": "2026-06-29T06:38:41.716246"
+    "updated": "2026-06-29T06:54:59.574214"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"e96508145483ff154c9f9accd0df1d62\"",
@@ -77,12 +77,12 @@
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sat, 27 Jun 2026 20:27:46 GMT",
-    "updated": "2026-06-29T06:46:05.185207"
+    "updated": "2026-06-29T07:00:42.039591"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"b1dacc55cf6022c0a04ec8829b56db3d\"",
-    "last_modified": "Sun, 28 Jun 2026 03:43:03 GMT",
-    "updated": "2026-06-28T06:17:35.256963"
+    "etag": "\"9e00894e3a06ad5c801a2731d78336d6\"",
+    "last_modified": "Mon, 29 Jun 2026 06:58:41 GMT",
+    "updated": "2026-06-29T07:00:42.730026"
   },
   "https://blogs.nvidia.com/feed/": {
     "etag": "\"2ed6fc722e793c3d8b8d51399b44c4fe-gzip\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"32a7f-65151a5a712ab-gzip\"",
     "last_modified": "Fri, 08 May 2026 17:22:53 GMT",
-    "updated": "2026-06-29T06:46:06.812161"
+    "updated": "2026-06-29T07:00:43.318793"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -117,7 +117,7 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Thu, 25 Jun 2026 16:57:39 GMT",
-    "updated": "2026-06-29T06:46:32.107256"
+    "updated": "2026-06-29T07:00:45.418577"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
