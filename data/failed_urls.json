@@ -6605,14 +6605,14 @@
     "timestamp": "2026-06-27T06:02:35.296236"
   },
   "https://www.saastr.com/we-booked-614-meetings-with-one-inbound-agent-your-contact-us-form-is-costing-you-deals/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-28T06:15:39.023589"
+    "timestamp": "2026-06-29T06:43:02.880520"
   },
   "https://www.saastr.com/all-agencies-and-contractors-have-a-half-life-just-be-aware-of-it/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-28T06:15:39.151274"
+    "timestamp": "2026-06-29T06:43:03.085129"
   },
   "https://openai.com/index/openai-five/": {
     "count": 1,
@@ -6623,5 +6623,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-28T06:28:35.184961"
+  },
+  "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-29T06:43:02.452413"
+  },
+  "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-29T06:43:02.537435"
+  },
+  "https://www.saastr.com/watching-an-ai-native-crm-run-the-full-gtm-loop-live-lightfield-ceo-keith-peiris-demos-a-stalled-deal-an-automation-and-ten-new-prospects/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-29T06:43:02.703984"
   }
 }
