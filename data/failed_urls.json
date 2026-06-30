@@ -6450,9 +6450,9 @@
     "timestamp": "2026-06-27T05:53:17.371397"
   },
   "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:53:17.208538"
+    "timestamp": "2026-06-30T06:13:17.135551"
   },
   "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/": {
     "count": 2,
@@ -6525,9 +6525,9 @@
     "timestamp": "2026-06-26T06:08:50.409734"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-technology-and-the-future-of-humanity-C2m9nf_J": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:48:22.172728"
+    "timestamp": "2026-06-30T06:05:15.138457"
   },
   "https://www.usv.com/writing/2026/06/the-rebel-alliance-2/": {
     "count": 3,
@@ -6555,19 +6555,19 @@
     "timestamp": "2026-06-27T05:51:41.715203"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:53:17.443612"
+    "timestamp": "2026-06-30T06:13:16.994577"
   },
   "https://a16z.simplecast.com/episodes/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil-jewVLsTo": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:48:22.164607"
+    "timestamp": "2026-06-30T06:05:15.113952"
   },
   "https://a16z.simplecast.com/episodes/sam-altman-on-sora-energy-and-building-an-ai-empire-chh8r2SY": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-27T05:48:22.289034"
+    "timestamp": "2026-06-30T06:05:15.399603"
   },
   "https://www.saastr.com/why-navan-is-up-30-in-2026-when-so-many-other-public-software-leaders-are-down/": {
     "count": 2,
@@ -6625,18 +6625,48 @@
     "timestamp": "2026-06-28T06:28:35.184961"
   },
   "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-29T06:43:02.452413"
+    "timestamp": "2026-06-30T06:10:45.769366"
   },
   "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-29T06:43:02.537435"
+    "timestamp": "2026-06-30T06:10:45.948719"
   },
   "https://www.saastr.com/watching-an-ai-native-crm-run-the-full-gtm-loop-live-lightfield-ceo-keith-peiris-demos-a-stalled-deal-an-automation-and-ten-new-prospects/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-30T06:10:46.130398"
+  },
+  "https://a16z.simplecast.com/episodes/beyond-pdoom-marc-andreessen-betting-on-america-2WMkJzvN": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-29T06:43:02.703984"
+    "timestamp": "2026-06-30T06:05:15.145998"
+  },
+  "https://a16z.simplecast.com/episodes/how-to-build-a-real-estate-marketplace-kaz-nejatian-opendoor-ceo-nhwUt_5o": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-30T06:05:15.385243"
+  },
+  "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-30T06:10:45.390149"
+  },
+  "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-30T06:10:45.627588"
+  },
+  "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-30T06:13:16.583773"
+  },
+  "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-06-30T06:13:16.814414"
   }
 }
