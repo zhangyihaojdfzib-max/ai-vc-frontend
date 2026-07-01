@@ -6560,9 +6560,9 @@
     "timestamp": "2026-06-30T06:13:16.994577"
   },
   "https://a16z.simplecast.com/episodes/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil-jewVLsTo": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-30T06:05:15.113952"
+    "timestamp": "2026-07-01T06:39:44.766374"
   },
   "https://a16z.simplecast.com/episodes/sam-altman-on-sora-energy-and-building-an-ai-empire-chh8r2SY": {
     "count": 2,
@@ -6640,9 +6640,9 @@
     "timestamp": "2026-06-30T06:10:46.130398"
   },
   "https://a16z.simplecast.com/episodes/beyond-pdoom-marc-andreessen-betting-on-america-2WMkJzvN": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-30T06:05:15.145998"
+    "timestamp": "2026-07-01T06:39:44.745568"
   },
   "https://a16z.simplecast.com/episodes/how-to-build-a-real-estate-marketplace-kaz-nejatian-opendoor-ceo-nhwUt_5o": {
     "count": 1,
@@ -6650,9 +6650,9 @@
     "timestamp": "2026-06-30T06:05:15.385243"
   },
   "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-06-30T06:10:45.390149"
+    "timestamp": "2026-07-01T06:43:27.998966"
   },
   "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/": {
     "count": 1,
@@ -6668,5 +6668,35 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-06-30T06:13:16.814414"
+  },
+  "https://a16z.simplecast.com/episodes/building-ai-for-creators-luma-phota-labs-0nl9Q52H": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-01T06:39:44.760251"
+  },
+  "https://www.saastr.com/the-monthly-brand-engine-how-monaco-manufactured-a-new-viral-moment-every-30-days/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-01T06:43:27.643618"
+  },
+  "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-01T06:43:28.033641"
+  },
+  "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-01T06:47:54.503524"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-01T06:47:54.682875"
+  },
+  "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-01T06:47:54.689160"
   }
 }
