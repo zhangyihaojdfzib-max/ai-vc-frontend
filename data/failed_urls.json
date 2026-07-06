@@ -6698,5 +6698,50 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-01T06:47:54.689160"
+  },
+  "https://a16z.simplecast.com/episodes/outsmarting-uber-why-bolt-wins-in-europe-EfFQWvrq": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:42:43.227126"
+  },
+  "https://a16z.simplecast.com/episodes/technology-alliances-and-american-leadership-e8s7aT2Y": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:42:43.249406"
+  },
+  "https://a16z.simplecast.com/episodes/rick-rubin-on-ai-creativity-and-the-way-of-code-KUxKnIS1": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:42:43.256333"
+  },
+  "https://www.saastr.com/outbound-isnt-dead-ai-just-radically-changed-how-it-works/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:46:41.005097"
+  },
+  "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:46:41.351551"
+  },
+  "https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:46:41.358302"
+  },
+  "https://openai.com/index/competitive-self-play/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:47:58.242574"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:49:26.733654"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-06T06:49:27.023279"
   }
 }
