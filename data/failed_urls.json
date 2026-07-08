@@ -6700,19 +6700,19 @@
     "timestamp": "2026-07-01T06:47:54.689160"
   },
   "https://a16z.simplecast.com/episodes/outsmarting-uber-why-bolt-wins-in-europe-EfFQWvrq": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-06T06:42:43.227126"
+    "timestamp": "2026-07-08T05:15:52.669444"
   },
   "https://a16z.simplecast.com/episodes/technology-alliances-and-american-leadership-e8s7aT2Y": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-06T06:42:43.249406"
+    "timestamp": "2026-07-08T05:15:52.405835"
   },
   "https://a16z.simplecast.com/episodes/rick-rubin-on-ai-creativity-and-the-way-of-code-KUxKnIS1": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-06T06:42:43.256333"
+    "timestamp": "2026-07-08T05:15:52.660781"
   },
   "https://www.saastr.com/outbound-isnt-dead-ai-just-radically-changed-how-it-works/": {
     "count": 1,
@@ -6720,14 +6720,14 @@
     "timestamp": "2026-07-06T06:46:41.005097"
   },
   "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-06T06:46:41.351551"
+    "timestamp": "2026-07-08T05:20:54.130777"
   },
   "https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-06T06:46:41.358302"
+    "timestamp": "2026-07-08T05:20:54.305285"
   },
   "https://openai.com/index/competitive-self-play/": {
     "count": 1,
@@ -6740,8 +6740,58 @@
     "timestamp": "2026-07-06T06:49:26.733654"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:23:14.731971"
+  },
+  "https://a16z.simplecast.com/episodes/dont-follow-your-passion-ben-horowitzs-advice-for-new-graduates-bLLRyFoV": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-06T06:49:27.023279"
+    "timestamp": "2026-07-08T05:15:52.379388"
+  },
+  "https://a16z.simplecast.com/episodes/is-software-losing-its-head-uKBsa_UH": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:15:52.397811"
+  },
+  "https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:20:53.591904"
+  },
+  "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:20:53.867912"
+  },
+  "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:20:53.958158"
+  },
+  "https://www.tomtunguz.com/search/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:20:54.863024"
+  },
+  "https://blogs.nvidia.com/blog/open-models-icml-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:23:14.236101"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:23:14.414983"
+  },
+  "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:23:14.422266"
+  },
+  "https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-08T05:23:14.614858"
   }
 }
