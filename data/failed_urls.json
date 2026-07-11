@@ -6780,9 +6780,9 @@
     "timestamp": "2026-07-08T05:23:14.236101"
   },
   "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-08T05:23:14.414983"
+    "timestamp": "2026-07-11T05:26:12.753351"
   },
   "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/": {
     "count": 1,
@@ -6793,5 +6793,60 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-08T05:23:14.614858"
+  },
+  "https://a16z.simplecast.com/episodes/how-bitcoin-rewired-a-classic-computer-science-problem-0_lm073b": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:19:22.141640"
+  },
+  "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:19:22.157649"
+  },
+  "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:19:22.183051"
+  },
+  "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:24:16.754230"
+  },
+  "https://www.saastr.com/dear-saastr-how-do-we-reduce-churn/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:24:20.306119"
+  },
+  "https://www.saastr.com/the-builders-economy-10-metrics-from-iconiqs-newest-2026-state-of-ai-report/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:24:20.557128"
+  },
+  "https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-1b-in-arr/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:24:20.577729"
+  },
+  "https://openai.com/index/deutsche-telekom/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:24:52.105909"
+  },
+  "https://openai.com/index/k-12-educators-practical-skills/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:24:54.226516"
+  },
+  "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:26:12.575184"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-11T05:26:12.758576"
   }
 }
