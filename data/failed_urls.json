@@ -6863,5 +6863,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-12T05:27:50.727426"
+  },
+  "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-12T05:40:10.049933"
   }
 }
