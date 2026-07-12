@@ -6815,19 +6815,19 @@
     "timestamp": "2026-07-11T05:24:16.754230"
   },
   "https://www.saastr.com/dear-saastr-how-do-we-reduce-churn/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:24:20.306119"
+    "timestamp": "2026-07-12T05:25:23.466384"
   },
   "https://www.saastr.com/the-builders-economy-10-metrics-from-iconiqs-newest-2026-state-of-ai-report/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:24:20.557128"
+    "timestamp": "2026-07-12T05:25:23.280183"
   },
   "https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-1b-in-arr/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:24:20.577729"
+    "timestamp": "2026-07-12T05:25:22.726327"
   },
   "https://openai.com/index/deutsche-telekom/": {
     "count": 1,
@@ -6848,5 +6848,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-11T05:26:12.758576"
+  },
+  "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-12T05:25:22.983484"
+  },
+  "https://www.saastr.com/saastr-ai-app-of-the-week-willingness-to-pay-the-pricing-firm-b2b-ai-companies-call-when-per-seat-stops-working/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-12T05:25:23.092783"
+  },
+  "https://www.databricks.com/blog/navigating-synapse-migration-databricks": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-12T05:27:50.727426"
   }
 }
