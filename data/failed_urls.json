@@ -6878,5 +6878,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-13T05:32:26.151929"
+  },
+  "https://openai.com/index/introducing-the-codex-app/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-13T05:47:42.407549"
+  },
+  "https://openai.com/index/codex-for-almost-everything/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-13T05:47:59.948942"
   }
 }
