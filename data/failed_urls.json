@@ -6810,9 +6810,9 @@
     "timestamp": "2026-07-11T05:19:22.183051"
   },
   "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:24:16.754230"
+    "timestamp": "2026-07-13T05:32:22.476998"
   },
   "https://www.saastr.com/dear-saastr-how-do-we-reduce-churn/": {
     "count": 2,
@@ -6825,9 +6825,9 @@
     "timestamp": "2026-07-12T05:25:23.280183"
   },
   "https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-1b-in-arr/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-12T05:25:22.726327"
+    "timestamp": "2026-07-13T05:32:26.505954"
   },
   "https://openai.com/index/deutsche-telekom/": {
     "count": 1,
@@ -6850,14 +6850,14 @@
     "timestamp": "2026-07-11T05:26:12.758576"
   },
   "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-12T05:25:22.983484"
+    "timestamp": "2026-07-13T05:32:25.803250"
   },
   "https://www.saastr.com/saastr-ai-app-of-the-week-willingness-to-pay-the-pricing-firm-b2b-ai-companies-call-when-per-seat-stops-working/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-12T05:25:23.092783"
+    "timestamp": "2026-07-13T05:32:26.326222"
   },
   "https://www.databricks.com/blog/navigating-synapse-migration-databricks": {
     "count": 1,
@@ -6868,5 +6868,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-12T05:40:10.049933"
+  },
+  "https://www.saastr.com/my-takes-on-this-weeks-20vc-why-openai-giving-the-govt-5-might-make-sense-the-death-of-block-risk-and-why-frontier-models-are-the-cheapest/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-13T05:32:25.976735"
+  },
+  "https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-13T05:32:26.151929"
   }
 }
