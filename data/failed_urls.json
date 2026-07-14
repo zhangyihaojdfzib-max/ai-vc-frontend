@@ -6750,9 +6750,9 @@
     "timestamp": "2026-07-08T05:15:52.379388"
   },
   "https://a16z.simplecast.com/episodes/is-software-losing-its-head-uKBsa_UH": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-08T05:15:52.397811"
+    "timestamp": "2026-07-14T04:44:37.404400"
   },
   "https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/": {
     "count": 1,
@@ -6770,9 +6770,9 @@
     "timestamp": "2026-07-08T05:20:53.958158"
   },
   "https://www.tomtunguz.com/search/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-08T05:20:54.863024"
+    "timestamp": "2026-07-14T04:49:00.055548"
   },
   "https://blogs.nvidia.com/blog/open-models-icml-2026/": {
     "count": 1,
@@ -6795,24 +6795,24 @@
     "timestamp": "2026-07-08T05:23:14.614858"
   },
   "https://a16z.simplecast.com/episodes/how-bitcoin-rewired-a-classic-computer-science-problem-0_lm073b": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:19:22.141640"
-  },
-  "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:19:22.157649"
-  },
-  "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:19:22.183051"
-  },
-  "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-13T05:32:22.476998"
+    "timestamp": "2026-07-14T04:44:37.253503"
+  },
+  "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-14T04:44:37.246576"
+  },
+  "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-14T04:44:37.418160"
+  },
+  "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-14T04:48:55.361269"
   },
   "https://www.saastr.com/dear-saastr-how-do-we-reduce-churn/": {
     "count": 2,
@@ -6860,9 +6860,9 @@
     "timestamp": "2026-07-13T05:32:26.326222"
   },
   "https://www.databricks.com/blog/navigating-synapse-migration-databricks": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-12T05:27:50.727426"
+    "timestamp": "2026-07-14T04:52:32.452238"
   },
   "https://openai.com/index/reinforcement-learning-with-prediction-based-rewards/": {
     "count": 1,
@@ -6870,14 +6870,14 @@
     "timestamp": "2026-07-12T05:40:10.049933"
   },
   "https://www.saastr.com/my-takes-on-this-weeks-20vc-why-openai-giving-the-govt-5-might-make-sense-the-death-of-block-risk-and-why-frontier-models-are-the-cheapest/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-13T05:32:25.976735"
+    "timestamp": "2026-07-14T04:48:59.166087"
   },
   "https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-13T05:32:26.151929"
+    "timestamp": "2026-07-14T04:48:59.333544"
   },
   "https://openai.com/index/introducing-the-codex-app/": {
     "count": 1,
@@ -6888,5 +6888,25 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-13T05:47:59.948942"
+  },
+  "https://a16z.simplecast.com/episodes/before-blockchains-there-was-state-machine-replication-gGXd4DoC": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-14T04:44:37.224453"
+  },
+  "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-14T04:48:58.633940"
+  },
+  "https://www.saastr.com/should-you-visit-more-of-your-prospects-in-person-almost-certainly/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-14T04:48:58.970526"
+  },
+  "https://www.saastr.com/should-both-founders-come-to-vc-pitches/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-14T04:48:58.995719"
   }
 }
