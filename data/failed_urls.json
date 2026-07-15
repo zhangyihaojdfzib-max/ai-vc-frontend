@@ -6770,9 +6770,9 @@
     "timestamp": "2026-07-08T05:20:53.958158"
   },
   "https://www.tomtunguz.com/search/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:49:00.055548"
+    "timestamp": "2026-07-15T04:49:38.565963"
   },
   "https://blogs.nvidia.com/blog/open-models-icml-2026/": {
     "count": 1,
@@ -6780,9 +6780,9 @@
     "timestamp": "2026-07-08T05:23:14.236101"
   },
   "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:26:12.753351"
+    "timestamp": "2026-07-15T04:53:26.119048"
   },
   "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/": {
     "count": 1,
@@ -6795,19 +6795,19 @@
     "timestamp": "2026-07-08T05:23:14.614858"
   },
   "https://a16z.simplecast.com/episodes/how-bitcoin-rewired-a-classic-computer-science-problem-0_lm073b": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:44:37.253503"
+    "timestamp": "2026-07-15T04:44:34.267460"
   },
   "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:44:37.246576"
+    "timestamp": "2026-07-15T04:44:34.314824"
   },
   "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:44:37.418160"
+    "timestamp": "2026-07-15T04:44:34.328688"
   },
   "https://www.ben-evans.com/benedictevans/2026/7/9/ways-to-think-about-token-pricing": {
     "count": 3,
@@ -6840,14 +6840,14 @@
     "timestamp": "2026-07-11T05:24:54.226516"
   },
   "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:26:12.575184"
+    "timestamp": "2026-07-15T04:53:25.995965"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-11T05:26:12.758576"
+    "timestamp": "2026-07-15T04:53:25.592844"
   },
   "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/": {
     "count": 2,
@@ -6890,23 +6890,48 @@
     "timestamp": "2026-07-13T05:47:59.948942"
   },
   "https://a16z.simplecast.com/episodes/before-blockchains-there-was-state-machine-replication-gGXd4DoC": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:44:37.224453"
+    "timestamp": "2026-07-15T04:44:34.259387"
   },
   "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:48:58.633940"
+    "timestamp": "2026-07-15T04:49:37.485075"
   },
   "https://www.saastr.com/should-you-visit-more-of-your-prospects-in-person-almost-certainly/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:48:58.970526"
+    "timestamp": "2026-07-15T04:49:37.701260"
   },
   "https://www.saastr.com/should-both-founders-come-to-vc-pitches/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-15T04:49:37.874316"
+  },
+  "https://a16z.simplecast.com/episodes/is-ai-a-bubble-gavin-baker-on-data-centers-gpus-and-the-ai-economy-HMRKhpqK": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:48:58.995719"
+    "timestamp": "2026-07-15T04:44:34.243236"
+  },
+  "https://www.saastr.com/do-you-have-a-pricing-gap-holding-back-sales-many-do/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-15T04:49:37.134313"
+  },
+  "https://www.saastr.com/500m-arr-60-engineers-cash-flow-positive-how-higgsfield-actually-runs-with-ceo-alex-mashrabov/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-15T04:49:37.519579"
+  },
+  "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-15T04:53:25.817488"
+  },
+  "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-15T04:53:25.825608"
   }
 }
