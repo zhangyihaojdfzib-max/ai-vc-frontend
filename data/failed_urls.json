@@ -6983,5 +6983,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-17T05:11:15.415367"
+  },
+  "https://openai.com/index/introducing-upgrades-to-codex/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:21:22.449306"
+  },
+  "https://openai.com/index/gpt-5-1-codex-max/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:21:32.033245"
   }
 }
