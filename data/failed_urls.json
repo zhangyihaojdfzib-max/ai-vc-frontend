@@ -6750,9 +6750,9 @@
     "timestamp": "2026-07-08T05:15:52.379388"
   },
   "https://a16z.simplecast.com/episodes/is-software-losing-its-head-uKBsa_UH": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-14T04:44:37.404400"
+    "timestamp": "2026-07-17T04:58:40.295506"
   },
   "https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/": {
     "count": 1,
@@ -6890,9 +6890,9 @@
     "timestamp": "2026-07-13T05:47:59.948942"
   },
   "https://a16z.simplecast.com/episodes/before-blockchains-there-was-state-machine-replication-gGXd4DoC": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-15T04:44:34.259387"
+    "timestamp": "2026-07-17T04:58:40.266990"
   },
   "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/": {
     "count": 2,
@@ -6910,9 +6910,9 @@
     "timestamp": "2026-07-15T04:49:37.874316"
   },
   "https://a16z.simplecast.com/episodes/is-ai-a-bubble-gavin-baker-on-data-centers-gpus-and-the-ai-economy-HMRKhpqK": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-15T04:44:34.243236"
+    "timestamp": "2026-07-17T04:58:40.103715"
   },
   "https://www.saastr.com/do-you-have-a-pricing-gap-holding-back-sales-many-do/": {
     "count": 1,
@@ -6925,13 +6925,63 @@
     "timestamp": "2026-07-15T04:49:37.519579"
   },
   "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-15T04:53:25.817488"
+    "timestamp": "2026-07-17T05:11:15.652348"
   },
   "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:11:15.729659"
+  },
+  "https://a16z.simplecast.com/episodes/can-anyone-catch-nvidia-the-future-of-chips-and-infrastructure-zpJUqKwQ": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-15T04:53:25.825608"
+    "timestamp": "2026-07-17T04:58:40.079999"
+  },
+  "https://a16z.simplecast.com/episodes/replay-2025-david-sacks-on-ai-crypto-and-americas-technology-future-g9dog_eR": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T04:58:40.091896"
+  },
+  "https://www.saastr.com/three-3b-b2b-acquisitions-in-30-days-intercom-fin-cognite-and-maintainx-they-all-bought-the-same-thing-data-for-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:07:08.754558"
+  },
+  "https://www.saastr.com/the-bay-area-now-takes-51-of-every-ai-venture-dollar-and-53-of-every-b2b-dollar/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:07:08.982411"
+  },
+  "https://www.saastr.com/20vc-x-saastr-this-week-apple-sues-openai-the-token-maxing-era-begins-and-the-tam-question-hanging-over-ai-coding/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:07:09.014054"
+  },
+  "https://www.saastr.com/is-software-dead-no-it-just-got-a-lot-harder-to-win-the-saastr-ai-deep-dive-with-rory-odriscoll/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:07:09.209975"
+  },
+  "https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:07:09.337936"
+  },
+  "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:11:15.159836"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:11:15.408633"
+  },
+  "https://blogs.nvidia.com/blog/japan-ecosystem-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-17T05:11:15.415367"
   }
 }
