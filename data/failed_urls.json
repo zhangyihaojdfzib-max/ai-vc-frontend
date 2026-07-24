@@ -6993,5 +6993,75 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-17T05:21:32.033245"
+  },
+  "https://a16z.simplecast.com/episodes/hugging-faces-ceo-on-open-source-ai-model-routing-and-the-future-of-competition-qEt3voqD": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:24:16.362655"
+  },
+  "https://a16z.simplecast.com/episodes/why-physical-ai-is-the-next-frontier-applied-intuition-VEkcnJm1": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:24:16.371493"
+  },
+  "https://a16z.simplecast.com/episodes/travis-kalanick-is-back-building-the-future-of-industrial-ai-FA8ioD1f": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:24:16.378089"
+  },
+  "https://hunterwalk.com/2026/07/23/ive-changed-my-mind-early-stage-venture-funds-of-100-million-or-less-should-hold-almost-no-reserves-for-follow-on/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:27:01.931712"
+  },
+  "https://www.saastr.com/5-interesting-learnings-from-stripe-at-6-8-billion-in-revenue-33-growth-47-free-cash-flow-margins-and-a-53b-bid-for-paypal/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:27:14.128824"
+  },
+  "https://www.saastr.com/how-a-mediocre-sales-team-loses-you-deals-ones-you-could-have-won/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:27:14.303613"
+  },
+  "https://www.saastr.com/ai-wont-kill-saas-but-it-will-kill-vendors-that-stopped-shipping-point-solutions-are-most-at-risk/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:27:14.472477"
+  },
+  "https://openai.com/index/ntt-data/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:27:35.423275"
+  },
+  "https://openai.com/index/introducing-chatgpt-small-business-program/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:27:37.584665"
+  },
+  "https://openai.com/index/how-news-organizations-are-using-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:27:39.775160"
+  },
+  "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:28:46.763379"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:28:46.787203"
+  },
+  "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:28:46.793831"
+  },
+  "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-24T05:29:47.774302"
   }
 }
