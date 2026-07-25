@@ -6995,19 +6995,19 @@
     "timestamp": "2026-07-17T05:21:32.033245"
   },
   "https://a16z.simplecast.com/episodes/hugging-faces-ceo-on-open-source-ai-model-routing-and-the-future-of-competition-qEt3voqD": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:24:16.362655"
+    "timestamp": "2026-07-25T04:59:38.554533"
   },
   "https://a16z.simplecast.com/episodes/why-physical-ai-is-the-next-frontier-applied-intuition-VEkcnJm1": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:24:16.371493"
+    "timestamp": "2026-07-25T04:59:38.564468"
   },
   "https://a16z.simplecast.com/episodes/travis-kalanick-is-back-building-the-future-of-industrial-ai-FA8ioD1f": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:24:16.378089"
+    "timestamp": "2026-07-25T04:59:38.293753"
   },
   "https://hunterwalk.com/2026/07/23/ive-changed-my-mind-early-stage-venture-funds-of-100-million-or-less-should-hold-almost-no-reserves-for-follow-on/": {
     "count": 1,
@@ -7015,19 +7015,19 @@
     "timestamp": "2026-07-24T05:27:01.931712"
   },
   "https://www.saastr.com/5-interesting-learnings-from-stripe-at-6-8-billion-in-revenue-33-growth-47-free-cash-flow-margins-and-a-53b-bid-for-paypal/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:27:14.128824"
+    "timestamp": "2026-07-25T05:00:12.403499"
   },
   "https://www.saastr.com/how-a-mediocre-sales-team-loses-you-deals-ones-you-could-have-won/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:27:14.303613"
+    "timestamp": "2026-07-25T05:00:13.234194"
   },
   "https://www.saastr.com/ai-wont-kill-saas-but-it-will-kill-vendors-that-stopped-shipping-point-solutions-are-most-at-risk/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:27:14.472477"
+    "timestamp": "2026-07-25T05:00:13.050764"
   },
   "https://openai.com/index/ntt-data/": {
     "count": 1,
@@ -7045,23 +7045,53 @@
     "timestamp": "2026-07-24T05:27:39.775160"
   },
   "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:28:46.763379"
+    "timestamp": "2026-07-25T05:00:38.302638"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:28:46.787203"
+    "timestamp": "2026-07-25T05:00:38.502067"
   },
   "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:28:46.793831"
+    "timestamp": "2026-07-25T05:00:38.493883"
   },
   "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T05:00:41.442369"
+  },
+  "https://a16z.simplecast.com/episodes/building-the-physical-ai-stack-travis-kalanick-on-tbpn-pij0lvRd": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-24T05:29:47.774302"
+    "timestamp": "2026-07-25T04:59:38.274352"
+  },
+  "https://a16z.simplecast.com/episodes/sriram-krishnan-on-open-source-ais-biggest-week-yet-1yfA3ln5": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T04:59:38.302142"
+  },
+  "https://www.saastr.com/we-peaked-at-30-ai-agents-now-were-coming-back-down-to-20-heres-what-consolidation-actually-looks-like-the-agents-011-live/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T05:00:12.796037"
+  },
+  "https://www.saastr.com/you-should-be-collecting-at-least-100-of-your-mrr-each-month-in-cash-ideally-110/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T05:00:12.810248"
+  },
+  "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T05:00:38.736224"
+  },
+  "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T05:00:38.832529"
   }
 }
