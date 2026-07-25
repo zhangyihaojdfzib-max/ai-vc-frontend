@@ -7045,24 +7045,24 @@
     "timestamp": "2026-07-24T05:27:39.775160"
   },
   "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:38.302638"
+    "timestamp": "2026-07-25T05:20:19.953631"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:38.502067"
+    "timestamp": "2026-07-25T05:20:19.782163"
   },
   "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:38.493883"
+    "timestamp": "2026-07-25T05:20:19.988101"
   },
   "https://stripe.com/blog/analyzing-the-evidence-that-helps-businesses-win-product-not-received-disputes": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:41.442369"
+    "timestamp": "2026-07-25T05:20:23.093142"
   },
   "https://a16z.simplecast.com/episodes/building-the-physical-ai-stack-travis-kalanick-on-tbpn-pij0lvRd": {
     "count": 1,
@@ -7093,5 +7093,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-25T05:00:38.832529"
+  },
+  "https://openai.com/index/a-scorecard-for-the-ai-age/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T05:20:10.770283"
+  },
+  "https://openai.com/index/advancing-the-next-era-of-national-science/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T05:20:12.916595"
+  },
+  "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-25T05:20:15.049654"
   }
 }
