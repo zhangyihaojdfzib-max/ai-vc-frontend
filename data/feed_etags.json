@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"3fc20961251c7928f79043d494cf1b31\"",
+    "etag": "W/\"ce78a045906664c4df53d321c4ae949d\"",
     "last_modified": null,
-    "updated": "2026-07-25T05:19:13.149649"
+    "updated": "2026-07-26T05:25:37.724379"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"fbcc121a39a0cf4a503415d06ffad45c\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"90ab3be3d86be442da0d11236afdb89f\"",
     "last_modified": "Wed, 22 Jul 2026 16:01:50 GMT",
-    "updated": "2026-07-25T05:19:14.983292"
+    "updated": "2026-07-26T05:25:39.315312"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"5de49ddcb811882b0e5d9ff87419ba5a\"",
@@ -55,14 +55,14 @@
     "updated": "2026-01-24T04:23:49.782614"
   },
   "https://hunterwalk.com/feed/": {
-    "etag": "W/\"1630bf281d8290d56fb2326cff686d33\"",
-    "last_modified": "Thu, 23 Jul 2026 19:26:03 GMT",
-    "updated": "2026-07-24T05:27:01.798534"
+    "etag": "W/\"097d9abe85212df76232f4149237d2f6\"",
+    "last_modified": "Sat, 25 Jul 2026 21:57:09 GMT",
+    "updated": "2026-07-26T05:26:04.424027"
   },
   "https://www.saastr.com/feed/": {
-    "etag": "W/\"4874b866e9ab79b75ea8d0261f5ab715\"",
-    "last_modified": "Fri, 24 Jul 2026 23:07:58 GMT",
-    "updated": "2026-07-25T05:00:12.097964"
+    "etag": "W/\"6d4c43d9bb6612e827d702c41f3c3872\"",
+    "last_modified": "Sun, 26 Jul 2026 02:15:39 GMT",
+    "updated": "2026-07-26T05:26:05.968766"
   },
   "https://tomtunguz.com/index.xml": {
     "etag": "W/\"b61ffdb8be149276a4be7b534bb5685c\"",
@@ -70,24 +70,24 @@
     "updated": "2026-07-24T05:27:14.749730"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"coTHIw\"",
+    "etag": "\"LsvINg\"",
     "last_modified": null,
-    "updated": "2026-07-25T05:20:17.589980"
+    "updated": "2026-07-26T05:26:34.372999"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Thu, 23 Jul 2026 13:05:52 GMT",
-    "updated": "2026-07-25T05:20:18.138526"
+    "updated": "2026-07-26T05:26:35.103034"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"de7d111c71b1c343f54ea89a175c63a0\"",
-    "last_modified": "Fri, 24 Jul 2026 17:35:17 GMT",
-    "updated": "2026-07-25T05:00:37.736063"
+    "etag": "\"4141a93bcf84fd3110e9bc31646f68b8\"",
+    "last_modified": "Sat, 25 Jul 2026 21:09:19 GMT",
+    "updated": "2026-07-26T05:26:35.989690"
   },
   "https://blogs.nvidia.com/feed/": {
-    "etag": "\"bd0c4223e728b8407ed48b7b1581573b-gzip\"",
-    "last_modified": "Sat, 25 Jul 2026 05:16:45 GMT",
-    "updated": "2026-07-25T05:20:19.432561"
+    "etag": "\"7dfe11b70d0ac34178f387633c76ff8e-gzip\"",
+    "last_modified": "Sun, 26 Jul 2026 04:03:35 GMT",
+    "updated": "2026-07-26T05:26:36.224756"
   },
   "https://huggingface.co/blog/feed.xml": {
     "etag": "W/\"3bb5a-+2C+pfv9JRy4adKXi+B0VbAv4FY\"",
@@ -97,12 +97,12 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"3face-6560863de0b29-gzip\"",
     "last_modified": "Tue, 07 Jul 2026 17:04:55 GMT",
-    "updated": "2026-07-25T05:20:20.439695"
+    "updated": "2026-07-26T05:26:37.780807"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
-    "last_modified": "Fri, 24 Jul 2026 18:10:36 GMT",
-    "updated": "2026-07-25T05:20:21.120962"
+    "last_modified": "Sat, 25 Jul 2026 20:49:59 GMT",
+    "updated": "2026-07-26T05:26:38.396385"
   },
   "https://replicate.com/blog/rss": {
     "etag": "W/\"114e5-19efadf22e0\"",
@@ -117,7 +117,7 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Wed, 22 Jul 2026 17:23:49 GMT",
-    "updated": "2026-07-25T05:20:24.310259"
+    "updated": "2026-07-26T05:26:44.722363"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
@@ -125,9 +125,9 @@
     "updated": "2026-05-04T05:49:09.734647"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"6db6348813b904858c7f453cf4dc862c\"",
+    "etag": "W/\"1cd5149371fba613a27f8af06ac30811\"",
     "last_modified": null,
-    "updated": "2026-07-25T05:00:44.064075"
+    "updated": "2026-07-26T05:26:39.601982"
   },
   "https://blog.cloudflare.com/rss/": {
     "etag": null,

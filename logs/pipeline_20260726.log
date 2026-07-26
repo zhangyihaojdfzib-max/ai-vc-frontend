@@ -1,0 +1,330 @@
+2026-07-26 05:25:37,359 - INFO - 项目根目录: /home/runner/work/ai-vc-frontend/ai-vc-frontend
+2026-07-26 05:25:37,359 - INFO - 配置文件: /home/runner/work/ai-vc-frontend/ai-vc-frontend/data/sources.yaml
+2026-07-26 05:25:37,420 - INFO - ============================================================
+2026-07-26 05:25:37,420 - INFO - 开始处理 - 2026-07-26 05:25:37
+2026-07-26 05:25:37,420 - INFO - 参数: source=None, max=5, workers=3
+2026-07-26 05:25:37,420 - INFO - ============================================================
+2026-07-26 05:25:37,420 - INFO - 处理源: Y Combinator
+2026-07-26 05:25:37,750 - INFO - [ycombinator] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:25:37,751 - INFO -   没有新文章
+2026-07-26 05:25:37,751 - INFO - 处理源: Andreessen Horowitz (a16z)
+2026-07-26 05:25:37,990 - INFO - [a16z] Feed未更新 (304)
+2026-07-26 05:25:37,991 - INFO -   没有新文章
+2026-07-26 05:25:37,991 - INFO - 处理源: 红杉资本 (Sequoia)
+2026-07-26 05:25:38,865 - INFO - [sequoia] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:25:38,867 - INFO -   没有新文章
+2026-07-26 05:25:38,867 - INFO - 处理源: Greylock Partners
+2026-07-26 05:25:39,060 - INFO - [greylock] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:25:39,062 - INFO -   没有新文章
+2026-07-26 05:25:39,062 - INFO - 处理源: Union Square Ventures
+2026-07-26 05:25:39,325 - INFO - [usv] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:25:39,326 - INFO -   没有新文章
+2026-07-26 05:25:39,326 - INFO - 处理源: Unusual Ventures
+2026-07-26 05:25:39,720 - INFO - [unusual-ventures] Feed未更新 (304)
+2026-07-26 05:25:39,721 - INFO -   没有新文章
+2026-07-26 05:25:39,721 - INFO - 处理源: First Round Review
+2026-07-26 05:25:39,724 - WARNING - [Playwright] 初始化失败: name 'Page' is not defined
+2026-07-26 05:25:40,159 - INFO - [first-round-review] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:25:40,315 - INFO - [first-round-review] 从Sitemap获取 5 篇待处理文章（共 315 篇未处理）
+2026-07-26 05:25:40,317 - INFO -   [1/5] ...
+2026-07-26 05:25:40,586 - INFO -     提取: 60 文本块, 0 图片
+2026-07-26 05:25:40,588 - INFO -     开始翻译正文（21674 字符）...
+2026-07-26 05:25:40,588 - INFO -     翻译第 1/3 段...
+2026-07-26 05:25:41,535 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:41,536 - INFO -     翻译第 2/3 段...
+2026-07-26 05:25:41,869 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:41,869 - INFO -     翻译第 3/3 段...
+2026-07-26 05:25:42,187 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:42,187 - INFO -     生成元数据...
+2026-07-26 05:25:42,499 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:42,501 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-3ebc8ad2.md
+2026-07-26 05:25:44,505 - INFO -   [2/5] ...
+2026-07-26 05:25:45,020 - INFO -     提取: 35 文本块, 2 图片
+2026-07-26 05:25:45,022 - INFO -     开始翻译正文（10876 字符）...
+2026-07-26 05:25:45,022 - INFO -     翻译第 1/2 段...
+2026-07-26 05:25:45,342 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:45,342 - INFO -     翻译第 2/2 段...
+2026-07-26 05:25:45,657 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:45,657 - INFO -     生成元数据...
+2026-07-26 05:25:45,963 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:45,964 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-7f274554.md
+2026-07-26 05:25:47,968 - INFO -   [3/5] ...
+2026-07-26 05:25:48,422 - INFO -     提取: 58 文本块, 2 图片
+2026-07-26 05:25:48,424 - INFO -     开始翻译正文（19267 字符）...
+2026-07-26 05:25:48,424 - INFO -     翻译第 1/3 段...
+2026-07-26 05:25:48,744 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:48,744 - INFO -     翻译第 2/3 段...
+2026-07-26 05:25:49,088 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:49,088 - INFO -     翻译第 3/3 段...
+2026-07-26 05:25:49,396 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:49,396 - INFO -     生成元数据...
+2026-07-26 05:25:49,711 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:49,712 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-8ef24dd3.md
+2026-07-26 05:25:51,716 - INFO -   [4/5] ...
+2026-07-26 05:25:53,130 - INFO -     提取: 42 文本块, 3 图片
+2026-07-26 05:25:53,131 - INFO -     开始翻译正文（13026 字符）...
+2026-07-26 05:25:53,131 - INFO -     翻译第 1/2 段...
+2026-07-26 05:25:53,449 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:53,450 - INFO -     翻译第 2/2 段...
+2026-07-26 05:25:53,748 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:53,748 - INFO -     生成元数据...
+2026-07-26 05:25:54,068 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:54,069 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-722c476b.md
+2026-07-26 05:25:56,073 - INFO -   [5/5] ...
+2026-07-26 05:25:56,445 - INFO -     提取: 34 文本块, 1 图片
+2026-07-26 05:25:56,446 - INFO -     开始翻译正文（15162 字符）...
+2026-07-26 05:25:56,447 - INFO -     翻译第 1/2 段...
+2026-07-26 05:25:56,748 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:56,748 - INFO -     翻译第 2/2 段...
+2026-07-26 05:25:57,068 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:57,068 - INFO -     生成元数据...
+2026-07-26 05:25:57,377 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:25:57,378 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-18748c27.md
+2026-07-26 05:25:59,383 - INFO - 处理源: NFX
+2026-07-26 05:25:59,780 - INFO - [nfx] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:25:59,782 - INFO -   没有新文章
+2026-07-26 05:25:59,782 - INFO - 处理源: Point Nine Capital
+2026-07-26 05:26:00,038 - INFO - [point-nine] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:00,039 - INFO -   没有新文章
+2026-07-26 05:26:00,039 - INFO - 处理源: Boldstart Ventures
+2026-07-26 05:26:00,596 - INFO - [boldstart] Feed未更新 (304)
+2026-07-26 05:26:00,597 - INFO -   没有新文章
+2026-07-26 05:26:00,597 - INFO - 处理源: Paul Graham
+2026-07-26 05:26:00,900 - INFO - [paul-graham] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:00,901 - INFO -   没有新文章
+2026-07-26 05:26:00,901 - INFO - 处理源: Benedict Evans
+2026-07-26 05:26:01,214 - INFO - [benedict-evans] Feed未更新 (304)
+2026-07-26 05:26:01,215 - INFO -   没有新文章
+2026-07-26 05:26:01,215 - INFO - 处理源: Fred Wilson (AVC)
+2026-07-26 05:26:03,464 - INFO - [fred-wilson] Feed未更新 (304)
+2026-07-26 05:26:03,465 - INFO -   没有新文章
+2026-07-26 05:26:03,465 - INFO - 处理源: Brad Feld
+2026-07-26 05:26:03,729 - INFO - [brad-feld] Feed未更新 (304)
+2026-07-26 05:26:03,730 - INFO -   没有新文章
+2026-07-26 05:26:03,730 - INFO - 处理源: Bill Gurley
+2026-07-26 05:26:03,838 - INFO - [bill-gurley] Feed未更新 (304)
+2026-07-26 05:26:03,839 - INFO -   没有新文章
+2026-07-26 05:26:03,839 - INFO - 处理源: Andrew Chen
+2026-07-26 05:26:04,229 - INFO - [andrew-chen] Feed未更新 (304)
+2026-07-26 05:26:04,230 - INFO -   没有新文章
+2026-07-26 05:26:04,231 - INFO - 处理源: Hunter Walk
+2026-07-26 05:26:04,453 - INFO - [hunter-walk] 从RSS获取 2 篇待处理文章（共 2 篇未处理）
+2026-07-26 05:26:04,454 - INFO -   [1/2] Startup Kool-Aid; Why You’re Making Enough Money b...
+2026-07-26 05:26:04,454 - INFO -   [2/2] I’ve Changed My Mind. Early Stage Venture Funds of...
+2026-07-26 05:26:05,000 - INFO -     提取: 16 文本块, 3 图片
+2026-07-26 05:26:05,001 - INFO -     开始翻译正文（6307 字符）...
+2026-07-26 05:26:05,001 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:05,071 - INFO -     提取: 12 文本块, 2 图片
+2026-07-26 05:26:05,072 - INFO -     开始翻译正文（4057 字符）...
+2026-07-26 05:26:05,073 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:05,402 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:05,402 - INFO -     生成元数据...
+2026-07-26 05:26:05,424 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:05,425 - INFO -     生成元数据...
+2026-07-26 05:26:05,724 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:05,726 - INFO -     ✓ 生成文章: 2026-07-25-hunter-walk-8cbda77d.md
+2026-07-26 05:26:05,728 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:05,730 - INFO -     ✓ 生成文章: 2026-07-23-hunter-walk-fa8dc06b.md
+2026-07-26 05:26:05,735 - INFO - 处理源: Jason Lemkin (SaaStr)
+2026-07-26 05:26:06,003 - INFO - [saastr] 从RSS获取 5 篇待处理文章（共 9 篇未处理）
+2026-07-26 05:26:06,004 - INFO -   [1/5] Build on the Stack You Have: How Anthropic’s Head ...
+2026-07-26 05:26:06,005 - INFO -   [2/5] Dear SaaStr: When Should We Start Pushing For Mult...
+2026-07-26 05:26:06,005 - INFO -   [3/5] We Peaked at 30 AI Agents. Now We’re Coming Back D...
+2026-07-26 05:26:06,348 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:06,357 - INFO -   [4/5] You Should Be Collecting At Least 100% Of Your MRR...
+2026-07-26 05:26:06,668 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:06,679 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:06,686 - INFO -   [5/5] 5 Interesting Learnings from Stripe at $6.8 Billio...
+2026-07-26 05:26:06,928 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:07,105 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:07,112 - INFO - 处理源: Tomasz Tunguz
+2026-07-26 05:26:07,435 - INFO - [tomasz-tunguz] Feed未更新 (304)
+2026-07-26 05:26:07,436 - INFO -   没有新文章
+2026-07-26 05:26:07,436 - INFO - 处理源: OpenAI
+2026-07-26 05:26:08,216 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:08,512 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:08,756 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:09,056 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:09,274 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:09,489 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:09,779 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:10,447 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:10,682 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:10,938 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:11,198 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:11,740 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:12,000 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:12,223 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:12,489 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:12,837 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:13,201 - INFO - [openai] 从Sitemap获取 1 篇待处理文章（共 1 篇未处理）
+2026-07-26 05:26:13,448 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:13,695 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:14,044 - INFO - [openai] 从Sitemap获取 2 篇待处理文章（共 2 篇未处理）
+2026-07-26 05:26:14,255 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:14,465 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:14,861 - INFO - [openai] 从Sitemap获取 1 篇待处理文章（共 1 篇未处理）
+2026-07-26 05:26:15,106 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:15,440 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:15,884 - INFO - [openai] 从Sitemap获取 1 篇待处理文章（共 131 篇未处理）
+2026-07-26 05:26:15,887 - INFO -   [1/5] ...
+2026-07-26 05:26:16,398 - INFO -     提取: 58 文本块, 3 图片
+2026-07-26 05:26:16,400 - INFO -     开始翻译正文（10089 字符）...
+2026-07-26 05:26:16,400 - INFO -     翻译第 1/2 段...
+2026-07-26 05:26:16,830 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:16,830 - INFO -     翻译第 2/2 段...
+2026-07-26 05:26:17,128 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:17,128 - INFO -     生成元数据...
+2026-07-26 05:26:17,456 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:17,458 - INFO -     ✓ 生成文章: 2026-07-23-openai-51b62163.md
+2026-07-26 05:26:19,462 - INFO -   [2/5] ...
+2026-07-26 05:26:19,959 - INFO -     提取: 21 文本块, 2 图片
+2026-07-26 05:26:19,961 - INFO -     开始翻译正文（6244 字符）...
+2026-07-26 05:26:19,961 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:20,267 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:20,267 - INFO -     生成元数据...
+2026-07-26 05:26:20,596 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:20,597 - INFO -     ✓ 生成文章: 2026-07-25-openai-c036e25a.md
+2026-07-26 05:26:22,601 - INFO -   [3/5] ...
+2026-07-26 05:26:22,883 - INFO -     提取: 26 文本块, 2 图片
+2026-07-26 05:26:22,885 - INFO -     开始翻译正文（6170 字符）...
+2026-07-26 05:26:22,885 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:23,212 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:23,212 - INFO -     生成元数据...
+2026-07-26 05:26:23,514 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:23,515 - INFO -     ✓ 生成文章: 2026-07-25-openai-fb562360.md
+2026-07-26 05:26:25,519 - INFO -   [4/5] ...
+2026-07-26 05:26:26,703 - INFO -     提取: 26 文本块, 9 图片
+2026-07-26 05:26:26,705 - INFO -     开始翻译正文（5406 字符）...
+2026-07-26 05:26:26,705 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:27,042 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:27,042 - INFO -     生成元数据...
+2026-07-26 05:26:27,344 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:27,345 - INFO -     ✓ 生成文章: 2026-07-26-openai-d44bd17c.md
+2026-07-26 05:26:29,349 - INFO -   [5/5] ...
+2026-07-26 05:26:29,998 - INFO -     提取: 105 文本块, 3 图片
+2026-07-26 05:26:30,000 - INFO -     开始翻译正文（28404 字符）...
+2026-07-26 05:26:30,000 - INFO -     翻译第 1/4 段...
+2026-07-26 05:26:30,311 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:30,311 - INFO -     翻译第 2/4 段...
+2026-07-26 05:26:30,649 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:30,649 - INFO -     翻译第 3/4 段...
+2026-07-26 05:26:30,988 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:30,988 - INFO -     翻译第 4/4 段...
+2026-07-26 05:26:31,321 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:31,321 - INFO -     生成元数据...
+2026-07-26 05:26:31,637 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:31,638 - INFO -     ✓ 生成文章: 2026-07-25-openai-3a43ed06.md
+2026-07-26 05:26:33,643 - INFO - 处理源: Anthropic
+2026-07-26 05:26:33,797 - INFO - [anthropic] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:33,798 - INFO -   没有新文章
+2026-07-26 05:26:33,798 - INFO - 处理源: Google DeepMind
+2026-07-26 05:26:34,395 - INFO - [deepmind] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:34,396 - INFO -   没有新文章
+2026-07-26 05:26:34,397 - INFO - 处理源: Google AI Blog
+2026-07-26 05:26:35,289 - INFO - [google-ai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:35,291 - INFO -   没有新文章
+2026-07-26 05:26:35,291 - INFO - 处理源: Microsoft Research
+2026-07-26 05:26:36,038 - INFO - [microsoft-research] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:36,039 - INFO -   没有新文章
+2026-07-26 05:26:36,040 - INFO - 处理源: NVIDIA AI Blog
+2026-07-26 05:26:36,353 - INFO - [nvidia-ai] 从RSS获取 5 篇待处理文章（共 14 篇未处理）
+2026-07-26 05:26:36,355 - INFO -   [1/5] NVIDIA Open Sources First GPU-Accelerated Medical ...
+2026-07-26 05:26:36,355 - INFO -   [2/5] Built in Fort Worth: Wistron Opens Advanced Manufa...
+2026-07-26 05:26:36,358 - INFO -   [3/5] NVIDIA Vera Rubin Driving Performance Per Watt, Lo...
+2026-07-26 05:26:36,763 - INFO -     提取: 1 文本块, 0 图片
+2026-07-26 05:26:36,796 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:36,933 - INFO -     提取: 1 文本块, 0 图片
+2026-07-26 05:26:36,939 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:36,951 - INFO -     提取: 1 文本块, 0 图片
+2026-07-26 05:26:36,954 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:36,955 - INFO -   [4/5] Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in...
+2026-07-26 05:26:36,963 - INFO -   [5/5] At SIGGRAPH, NVIDIA Advances Graphics and Simulati...
+2026-07-26 05:26:37,161 - INFO -     提取: 1 文本块, 0 图片
+2026-07-26 05:26:37,163 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:37,396 - INFO -     提取: 1 文本块, 0 图片
+2026-07-26 05:26:37,398 - WARNING -     内容获取失败，跳过
+2026-07-26 05:26:37,405 - INFO - 处理源: Hugging Face Blog
+2026-07-26 05:26:37,538 - INFO - [huggingface] Feed未更新 (304)
+2026-07-26 05:26:37,539 - INFO -   没有新文章
+2026-07-26 05:26:37,539 - INFO - 处理源: Berkeley AI Research (BAIR)
+2026-07-26 05:26:37,866 - INFO - [berkeley-ai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:37,867 - INFO -   没有新文章
+2026-07-26 05:26:37,867 - INFO - 处理源: Stanford HAI
+2026-07-26 05:26:38,026 - INFO - [stanford-hai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:38,026 - INFO -   没有新文章
+2026-07-26 05:26:38,026 - INFO - 处理源: LangChain Blog
+2026-07-26 05:26:38,488 - INFO - [langchain] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:38,488 - INFO -   没有新文章
+2026-07-26 05:26:38,488 - INFO - 处理源: Replicate Blog
+2026-07-26 05:26:38,705 - INFO - [replicate] Feed未更新 (304)
+2026-07-26 05:26:38,706 - INFO -   没有新文章
+2026-07-26 05:26:38,706 - INFO - 处理源: Airbnb Engineering
+2026-07-26 05:26:39,007 - INFO - [airbnb-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:39,009 - INFO -   没有新文章
+2026-07-26 05:26:39,009 - INFO - 处理源: Stripe Blog
+2026-07-26 05:26:39,194 - INFO - [stripe-blog] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:39,195 - INFO -   没有新文章
+2026-07-26 05:26:39,195 - INFO - 处理源: Cloudflare Blog
+2026-07-26 05:26:39,296 - INFO - [cloudflare-blog] Feed未更新 (304)
+2026-07-26 05:26:39,297 - INFO -   没有新文章
+2026-07-26 05:26:39,297 - INFO - 处理源: Vercel Blog
+2026-07-26 05:26:41,390 - INFO - [vercel-blog] 从RSS获取 5 篇待处理文章（共 444 篇未处理）
+2026-07-26 05:26:41,395 - INFO -   [1/5] Vercel MCP can now deploy code...
+2026-07-26 05:26:41,395 - INFO -   [2/5] AI Gateway now supports streaming transcription...
+2026-07-26 05:26:41,398 - INFO -   [3/5] Extend eve agents with installable extensions...
+2026-07-26 05:26:41,748 - INFO -     提取: 4 文本块, 0 图片
+2026-07-26 05:26:41,750 - INFO -     开始翻译正文（589 字符）...
+2026-07-26 05:26:41,750 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:41,974 - INFO -     提取: 6 文本块, 0 图片
+2026-07-26 05:26:41,985 - INFO -     开始翻译正文（1625 字符）...
+2026-07-26 05:26:41,986 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:42,077 - INFO -     提取: 17 文本块, 0 图片
+2026-07-26 05:26:42,078 - INFO -     开始翻译正文（2250 字符）...
+2026-07-26 05:26:42,078 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:42,334 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:42,334 - INFO -     生成元数据...
+2026-07-26 05:26:42,392 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:42,392 - INFO -     生成元数据...
+2026-07-26 05:26:42,476 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:42,476 - INFO -     生成元数据...
+2026-07-26 05:26:42,652 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:42,653 - INFO -     ✓ 生成文章: 2026-07-23-vercel-blog-0ce4e37d.md
+2026-07-26 05:26:42,657 - INFO -   [4/5] How Searchable ships customer-requested features i...
+2026-07-26 05:26:42,705 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:42,706 - INFO -     ✓ 生成文章: 2026-07-22-vercel-blog-eb43390a.md
+2026-07-26 05:26:42,709 - INFO -   [5/5] Python function bundles now include precompiled by...
+2026-07-26 05:26:42,785 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:42,787 - INFO -     ✓ 生成文章: 2026-07-22-vercel-blog-ea7b73af.md
+2026-07-26 05:26:43,134 - INFO -     提取: 6 文本块, 0 图片
+2026-07-26 05:26:43,136 - INFO -     开始翻译正文（809 字符）...
+2026-07-26 05:26:43,136 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:43,252 - INFO -     提取: 6 文本块, 0 图片
+2026-07-26 05:26:43,253 - INFO -     开始翻译正文（1158 字符）...
+2026-07-26 05:26:43,253 - INFO -     翻译第 1/1 段...
+2026-07-26 05:26:43,441 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:43,441 - INFO -     生成元数据...
+2026-07-26 05:26:43,562 - ERROR -     翻译失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:43,562 - INFO -     生成元数据...
+2026-07-26 05:26:43,740 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:43,742 - INFO -     ✓ 生成文章: 2026-07-21-vercel-blog-d6f40954.md
+2026-07-26 05:26:43,880 - ERROR -     元数据生成失败: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-chat.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-07-26 05:26:43,881 - INFO -     ✓ 生成文章: 2026-07-21-vercel-blog-3a268d32.md
+2026-07-26 05:26:43,885 - INFO - 处理源: Databricks Blog
+2026-07-26 05:26:44,076 - INFO - [databricks-blog] Feed未更新 (304)
+2026-07-26 05:26:44,077 - INFO -   没有新文章
+2026-07-26 05:26:44,078 - INFO - 处理源: Spotify Engineering
+2026-07-26 05:26:44,492 - INFO - [spotify-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:44,493 - INFO -   没有新文章
+2026-07-26 05:26:44,493 - INFO - 处理源: DoorDash Engineering
+2026-07-26 05:26:44,631 - INFO - [doordash-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:44,632 - INFO -   没有新文章
+2026-07-26 05:26:44,632 - INFO - 处理源: Discord Engineering
+2026-07-26 05:26:44,749 - INFO - [discord-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-07-26 05:26:44,750 - INFO -   没有新文章
+2026-07-26 05:26:44,750 - INFO - 处理源: Supabase Blog
+2026-07-26 05:26:44,960 - ERROR - [supabase-blog] RSS获取失败: 404 Client Error: Not Found for url: https://supabase.com/blog/rss.xml
+2026-07-26 05:26:44,961 - INFO -   没有新文章
+2026-07-26 05:26:44,961 - INFO - ============================================================
+2026-07-26 05:26:44,961 - INFO - 处理完成！共处理 17 篇文章
+2026-07-26 05:26:44,961 - INFO - ============================================================

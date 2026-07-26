@@ -7015,9 +7015,9 @@
     "timestamp": "2026-07-24T05:27:01.931712"
   },
   "https://www.saastr.com/5-interesting-learnings-from-stripe-at-6-8-billion-in-revenue-33-growth-47-free-cash-flow-margins-and-a-53b-bid-for-paypal/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:12.403499"
+    "timestamp": "2026-07-26T05:26:07.105357"
   },
   "https://www.saastr.com/how-a-mediocre-sales-team-loses-you-deals-ones-you-could-have-won/": {
     "count": 2,
@@ -7075,24 +7075,24 @@
     "timestamp": "2026-07-25T04:59:38.302142"
   },
   "https://www.saastr.com/we-peaked-at-30-ai-agents-now-were-coming-back-down-to-20-heres-what-consolidation-actually-looks-like-the-agents-011-live/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:12.796037"
+    "timestamp": "2026-07-26T05:26:06.687554"
   },
   "https://www.saastr.com/you-should-be-collecting-at-least-100-of-your-mrr-each-month-in-cash-ideally-110/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:12.810248"
+    "timestamp": "2026-07-26T05:26:06.928353"
   },
   "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:38.736224"
+    "timestamp": "2026-07-26T05:26:36.964636"
   },
   "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T05:00:38.832529"
+    "timestamp": "2026-07-26T05:26:36.956148"
   },
   "https://openai.com/index/a-scorecard-for-the-ai-age/": {
     "count": 1,
@@ -7108,5 +7108,30 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-25T05:20:15.049654"
+  },
+  "https://www.saastr.com/build-on-the-stack-you-have-how-anthropics-head-of-industries-atlassians-head-of-ai-and-scales-rory-odriscoll-landed-on-the-same-ai-playbook/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-26T05:26:06.348882"
+  },
+  "https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-26T05:26:06.677980"
+  },
+  "https://blogs.nvidia.com/blog/vera-rubin/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-26T05:26:36.801224"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-26T05:26:37.163307"
+  },
+  "https://blogs.nvidia.com/blog/siggraph-news-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-26T05:26:37.398198"
   }
 }
