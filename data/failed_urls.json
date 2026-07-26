@@ -7133,5 +7133,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-26T05:26:37.398198"
+  },
+  "https://openai.com/index/introducing-workspace-agents-in-chatgpt/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-26T05:37:38.160453"
+  },
+  "https://openai.com/index/introducing-aardvark/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-26T05:37:50.281862"
   }
 }

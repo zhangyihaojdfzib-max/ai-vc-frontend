@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"ce78a045906664c4df53d321c4ae949d\"",
+    "etag": "W/\"392566d2a93f06c403cf04d0468c4248\"",
     "last_modified": null,
-    "updated": "2026-07-26T05:25:37.724379"
+    "updated": "2026-07-26T05:36:31.165523"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"fbcc121a39a0cf4a503415d06ffad45c\"",
@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"90ab3be3d86be442da0d11236afdb89f\"",
     "last_modified": "Wed, 22 Jul 2026 16:01:50 GMT",
-    "updated": "2026-07-26T05:25:39.315312"
+    "updated": "2026-07-26T05:36:31.828584"
   },
   "https://www.unusual.vc/feed": {
     "etag": "W/\"5de49ddcb811882b0e5d9ff87419ba5a\"",
@@ -77,7 +77,7 @@
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Thu, 23 Jul 2026 13:05:52 GMT",
-    "updated": "2026-07-26T05:26:35.103034"
+    "updated": "2026-07-26T05:37:52.967897"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"4141a93bcf84fd3110e9bc31646f68b8\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"3face-6560863de0b29-gzip\"",
     "last_modified": "Tue, 07 Jul 2026 17:04:55 GMT",
-    "updated": "2026-07-26T05:26:37.780807"
+    "updated": "2026-07-26T05:37:54.264420"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Wed, 22 Jul 2026 17:23:49 GMT",
-    "updated": "2026-07-26T05:26:44.722363"
+    "last_modified": "Thu, 23 Jul 2026 22:34:25 GMT",
+    "updated": "2026-07-26T05:37:55.880050"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
