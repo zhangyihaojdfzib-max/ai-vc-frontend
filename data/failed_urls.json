@@ -7000,14 +7000,14 @@
     "timestamp": "2026-07-25T04:59:38.554533"
   },
   "https://a16z.simplecast.com/episodes/why-physical-ai-is-the-next-frontier-applied-intuition-VEkcnJm1": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T04:59:38.564468"
+    "timestamp": "2026-07-27T05:42:48.802747"
   },
   "https://a16z.simplecast.com/episodes/travis-kalanick-is-back-building-the-future-of-industrial-ai-FA8ioD1f": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T04:59:38.293753"
+    "timestamp": "2026-07-27T05:42:48.809512"
   },
   "https://hunterwalk.com/2026/07/23/ive-changed-my-mind-early-stage-venture-funds-of-100-million-or-less-should-hold-almost-no-reserves-for-follow-on/": {
     "count": 1,
@@ -7065,34 +7065,34 @@
     "timestamp": "2026-07-25T05:20:23.093142"
   },
   "https://a16z.simplecast.com/episodes/building-the-physical-ai-stack-travis-kalanick-on-tbpn-pij0lvRd": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T04:59:38.274352"
+    "timestamp": "2026-07-27T05:42:48.691498"
   },
   "https://a16z.simplecast.com/episodes/sriram-krishnan-on-open-source-ais-biggest-week-yet-1yfA3ln5": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-25T04:59:38.302142"
+    "timestamp": "2026-07-27T05:42:48.715574"
   },
   "https://www.saastr.com/we-peaked-at-30-ai-agents-now-were-coming-back-down-to-20-heres-what-consolidation-actually-looks-like-the-agents-011-live/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-26T05:26:06.687554"
+    "timestamp": "2026-07-27T05:46:27.450473"
   },
   "https://www.saastr.com/you-should-be-collecting-at-least-100-of-your-mrr-each-month-in-cash-ideally-110/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-26T05:26:06.928353"
+    "timestamp": "2026-07-27T05:46:27.631682"
   },
   "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-26T05:26:36.964636"
+    "timestamp": "2026-07-27T05:48:18.159448"
   },
   "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-26T05:26:36.956148"
+    "timestamp": "2026-07-27T05:48:18.328973"
   },
   "https://openai.com/index/a-scorecard-for-the-ai-age/": {
     "count": 1,
@@ -7110,24 +7110,24 @@
     "timestamp": "2026-07-25T05:20:15.049654"
   },
   "https://www.saastr.com/build-on-the-stack-you-have-how-anthropics-head-of-industries-atlassians-head-of-ai-and-scales-rory-odriscoll-landed-on-the-same-ai-playbook/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-26T05:26:06.348882"
+    "timestamp": "2026-07-27T05:46:27.270214"
   },
   "https://www.saastr.com/dear-saastr-when-should-we-start-pushing-for-multi-year-contracts/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-26T05:26:06.677980"
+    "timestamp": "2026-07-27T05:46:26.888625"
   },
   "https://blogs.nvidia.com/blog/vera-rubin/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-26T05:26:36.801224"
+    "timestamp": "2026-07-27T05:48:18.680302"
   },
   "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-26T05:26:37.163307"
+    "timestamp": "2026-07-27T05:48:18.724952"
   },
   "https://blogs.nvidia.com/blog/siggraph-news-2026/": {
     "count": 1,
@@ -7143,5 +7143,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-26T05:37:50.281862"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-the-fight-over-open-source-ai-RnXTUEqk": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-27T05:42:48.723819"
+  },
+  "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-27T05:46:27.203879"
+  },
+  "https://blogs.nvidia.com/blog/vera-cpu-eda/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-27T05:48:18.337540"
   }
 }
