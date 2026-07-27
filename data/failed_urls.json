@@ -7158,5 +7158,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-27T05:48:18.337540"
+  },
+  "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-27T06:02:02.981452"
+  },
+  "https://openai.com/index/the-next-evolution-of-the-agents-sdk/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-27T06:02:05.137125"
+  },
+  "https://openai.com/index/introducing-our-next-generation-audio-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-27T06:02:07.293613"
   }
 }
