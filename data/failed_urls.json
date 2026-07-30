@@ -7070,9 +7070,9 @@
     "timestamp": "2026-07-27T05:42:48.691498"
   },
   "https://a16z.simplecast.com/episodes/sriram-krishnan-on-open-source-ais-biggest-week-yet-1yfA3ln5": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-27T05:42:48.715574"
+    "timestamp": "2026-07-30T04:52:17.299872"
   },
   "https://www.saastr.com/we-peaked-at-30-ai-agents-now-were-coming-back-down-to-20-heres-what-consolidation-actually-looks-like-the-agents-011-live/": {
     "count": 3,
@@ -7120,14 +7120,14 @@
     "timestamp": "2026-07-27T05:46:26.888625"
   },
   "https://blogs.nvidia.com/blog/vera-rubin/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-27T05:48:18.680302"
+    "timestamp": "2026-07-30T05:00:52.319877"
   },
   "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-27T05:48:18.724952"
+    "timestamp": "2026-07-30T05:00:52.242053"
   },
   "https://blogs.nvidia.com/blog/siggraph-news-2026/": {
     "count": 1,
@@ -7145,19 +7145,19 @@
     "timestamp": "2026-07-26T05:37:50.281862"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-the-fight-over-open-source-ai-RnXTUEqk": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:26:38.130850"
+    "timestamp": "2026-07-30T04:52:17.288869"
   },
   "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:30:30.069215"
+    "timestamp": "2026-07-30T04:58:22.747702"
   },
   "https://blogs.nvidia.com/blog/vera-cpu-eda/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:31:53.179666"
+    "timestamp": "2026-07-30T05:00:52.036132"
   },
   "https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices/": {
     "count": 1,
@@ -7175,24 +7175,24 @@
     "timestamp": "2026-07-27T06:02:07.293613"
   },
   "https://a16z.simplecast.com/episodes/steven-sinofsky-ai-doesnt-need-new-rules-yet-BuNOSzIn": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:26:38.116578"
+    "timestamp": "2026-07-30T04:52:17.065983"
   },
   "https://a16z.simplecast.com/episodes/fei-fei-li-on-spatial-intelligence-and-robotics-j8HvsWJf": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:26:38.137518"
+    "timestamp": "2026-07-30T04:52:17.072654"
   },
   "https://www.saastr.com/the-top-sales-lessons-from-saastr-ai-2026-gamma-owner-stripe-salesforce-cloudflare-and-monaco/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:30:29.731436"
+    "timestamp": "2026-07-30T04:58:22.612006"
   },
   "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:30:30.007864"
+    "timestamp": "2026-07-30T04:58:22.126252"
   },
   "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/": {
     "count": 1,
@@ -7210,13 +7210,28 @@
     "timestamp": "2026-07-29T05:31:08.874334"
   },
   "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:31:53.194802"
+    "timestamp": "2026-07-30T05:00:52.090634"
   },
   "https://blogs.nvidia.com/blog/open-secure-ai-alliance/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-30T05:00:51.906273"
+  },
+  "https://a16z.simplecast.com/episodes/ai-micro-dramas-generative-media-and-the-future-of-creativity-ZbK1xyzO": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:31:53.201416"
+    "timestamp": "2026-07-30T04:52:17.054531"
+  },
+  "https://www.saastr.com/dear-saastr-whats-the-best-advice-founders-never-hear/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-30T04:58:22.413725"
+  },
+  "https://www.saastr.com/ai-isnt-killing-saas-saas-is-killing-itself/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-30T04:58:22.423311"
   }
 }
