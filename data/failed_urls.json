@@ -7205,9 +7205,9 @@
     "timestamp": "2026-07-29T05:31:00.380956"
   },
   "https://openai.com/index/chatgpt-study-mode/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-29T05:31:08.874334"
+    "timestamp": "2026-07-30T05:16:39.745294"
   },
   "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/": {
     "count": 2,
@@ -7233,5 +7233,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-30T04:58:22.423311"
+  },
+  "https://openai.com/index/building-towards-age-prediction/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-30T05:16:41.875249"
+  },
+  "https://openai.com/index/optimizing-chatgpt/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-07-30T05:16:43.999680"
   }
 }
