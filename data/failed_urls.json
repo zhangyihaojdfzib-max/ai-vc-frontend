@@ -7243,5 +7243,55 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-07-30T05:16:43.999680"
+  },
+  "https://a16z.simplecast.com/episodes/ruby-thelot-on-internet-culture-ai-and-the-future-of-taste-CvhHSpzt": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:19:17.360167"
+  },
+  "https://a16z.simplecast.com/episodes/openais-joshua-achiam-did-we-already-reach-agi-kjP0kXD4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:19:17.380636"
+  },
+  "https://a16z.simplecast.com/episodes/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation-2sleSszn": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:19:17.388354"
+  },
+  "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:25:15.727873"
+  },
+  "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:25:15.991824"
+  },
+  "https://www.saastr.com/nues-guided-selling-playbook-took-2-minutes-to-build-the-implementation-still-takes-90-days/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:25:16.052767"
+  },
+  "https://openai.com/index/avatarin/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:26:20.337932"
+  },
+  "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:29:05.371261"
+  },
+  "https://blogs.nvidia.com/blog/ai-storage-fms/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:29:05.561834"
+  },
+  "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-05T05:29:05.568814"
   }
 }
