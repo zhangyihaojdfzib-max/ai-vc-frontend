@@ -7250,9 +7250,9 @@
     "timestamp": "2026-08-06T05:00:33.280893"
   },
   "https://a16z.simplecast.com/episodes/openais-joshua-achiam-did-we-already-reach-agi-kjP0kXD4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-06T05:00:33.298519"
+    "timestamp": "2026-08-11T03:29:01.041704"
   },
   "https://a16z.simplecast.com/episodes/marc-andreessen-and-chris-dixon-whats-at-stake-in-crypto-regulation-2sleSszn": {
     "count": 2,
@@ -7280,9 +7280,9 @@
     "timestamp": "2026-08-05T05:26:20.337932"
   },
   "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-06T05:09:49.373309"
+    "timestamp": "2026-08-11T03:36:08.303490"
   },
   "https://blogs.nvidia.com/blog/ai-storage-fms/": {
     "count": 2,
@@ -7290,14 +7290,14 @@
     "timestamp": "2026-08-06T05:09:49.352937"
   },
   "https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-06T05:09:49.365179"
+    "timestamp": "2026-08-11T03:36:08.198108"
   },
   "https://a16z.simplecast.com/episodes/three-startups-reinventing-critical-infrastructure-FkRDwjit": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-06T05:00:33.290391"
+    "timestamp": "2026-08-11T03:29:01.027551"
   },
   "https://a16z.simplecast.com/episodes/decagons-playbook-for-building-enterprise-ai-applications-VB3G3VC1": {
     "count": 1,
@@ -7323,5 +7323,60 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-08-06T05:09:49.698932"
+  },
+  "https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:29:00.751348"
+  },
+  "https://a16z.simplecast.com/episodes/the-reality-of-ai-powered-cyberattacks-truffle-security-socket-vbyiWFXA": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:29:00.777191"
+  },
+  "https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:29:00.786474"
+  },
+  "https://www.saastr.com/how-mailchimp-went-from-1b-arr-and-20-growth-to-shrinking-inside-intuit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:33:51.939708"
+  },
+  "https://www.saastr.com/what-is-a-good-demo-conversion-rate-for-saas-startup/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:33:52.169735"
+  },
+  "https://www.saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:33:52.298242"
+  },
+  "https://www.saastr.com/the-simple-math-behind-a-3x-venture-fund-why-your-best-investment-needs-to-return-the-whole-thing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:33:52.486089"
+  },
+  "https://www.saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:33:52.674325"
+  },
+  "https://blogs.nvidia.com/blog/open-world-models-physical-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:36:07.916955"
+  },
+  "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:36:08.029809"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-11T03:36:08.038754"
   }
 }
