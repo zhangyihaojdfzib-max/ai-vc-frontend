@@ -7380,9 +7380,9 @@
     "timestamp": "2026-08-11T03:36:08.038754"
   },
   "https://a16z.simplecast.com/episodes/garry-tan-on-taste-agents-and-founder-ambition-5Wi5biPg": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-13T04:16:52.397915"
+    "timestamp": "2026-08-15T02:56:04.329307"
   },
   "https://a16z.simplecast.com/episodes/the-ciso-playbook-for-ai-agents-datadog-rhAxFNQK": {
     "count": 1,
@@ -7410,9 +7410,9 @@
     "timestamp": "2026-08-13T04:22:40.833070"
   },
   "https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-13T04:22:40.896385"
+    "timestamp": "2026-08-15T03:03:01.429895"
   },
   "https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/": {
     "count": 1,
@@ -7425,8 +7425,43 @@
     "timestamp": "2026-08-13T04:23:09.396493"
   },
   "https://stripe.com/blog/mapping-the-ai-economy": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-15T03:04:26.555642"
+  },
+  "https://a16z.simplecast.com/episodes/ben-horowitz-and-travis-kalanick-on-building-again-o4RgblCd": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-13T04:23:09.991382"
+    "timestamp": "2026-08-15T02:56:04.344248"
+  },
+  "https://a16z.simplecast.com/episodes/the-two-ways-to-sell-ai-lighthouse-or-landgrab-9C2mrr4S": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-15T02:56:04.351359"
+  },
+  "https://www.saastr.com/klaviyos-ceo-on-building-at-1-5b-with-agents-dark-factory-composer-and-why-every-single-employee-had-to-hit-l3-by-june/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-15T03:00:38.994540"
+  },
+  "https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-15T03:00:39.275700"
+  },
+  "https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-15T03:00:39.354846"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-15T03:03:01.271166"
+  },
+  "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-15T03:03:01.421853"
   }
 }
