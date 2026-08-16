@@ -7425,9 +7425,9 @@
     "timestamp": "2026-08-13T04:23:09.396493"
   },
   "https://stripe.com/blog/mapping-the-ai-economy": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-15T03:04:26.555642"
+    "timestamp": "2026-08-16T03:01:16.187410"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-and-travis-kalanick-on-building-again-o4RgblCd": {
     "count": 1,
@@ -7440,19 +7440,19 @@
     "timestamp": "2026-08-15T02:56:04.351359"
   },
   "https://www.saastr.com/klaviyos-ceo-on-building-at-1-5b-with-agents-dark-factory-composer-and-why-every-single-employee-had-to-hit-l3-by-june/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-15T03:00:38.994540"
+    "timestamp": "2026-08-16T02:59:57.689817"
   },
   "https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-15T03:00:39.275700"
+    "timestamp": "2026-08-16T02:59:57.873571"
   },
   "https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-15T03:00:39.354846"
+    "timestamp": "2026-08-16T02:59:58.072625"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/": {
     "count": 1,
@@ -7463,5 +7463,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-08-15T03:03:01.421853"
+  },
+  "https://hunterwalk.com/2026/08/15/ai-is-changing-south-korea-even-faster-than-its-changing-the-us-why-%f0%9f%a5%80-is-the-fastest-rising-emoji-how-robots-might-save-cherry-blossom-season-link-blog/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-16T02:59:56.783506"
+  },
+  "https://www.saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-16T02:59:57.322974"
+  },
+  "https://www.saastr.com/dear-saastr-whats-your-1-opener-in-sales/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-16T02:59:57.613663"
   }
 }
