@@ -7440,9 +7440,9 @@
     "timestamp": "2026-08-15T02:56:04.351359"
   },
   "https://www.saastr.com/klaviyos-ceo-on-building-at-1-5b-with-agents-dark-factory-composer-and-why-every-single-employee-had-to-hit-l3-by-june/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-16T02:59:57.689817"
+    "timestamp": "2026-08-17T02:56:54.584443"
   },
   "https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/": {
     "count": 2,
@@ -7470,13 +7470,23 @@
     "timestamp": "2026-08-16T02:59:56.783506"
   },
   "https://www.saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-16T02:59:57.322974"
+    "timestamp": "2026-08-17T02:56:54.222568"
   },
   "https://www.saastr.com/dear-saastr-whats-your-1-opener-in-sales/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-17T02:56:54.403856"
+  },
+  "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-agents-never-suggested-canva-the-meme-you-cant-outrun-and-why-i-only-underwrite-founders-now/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-16T02:59:57.613663"
+    "timestamp": "2026-08-17T02:56:53.875462"
+  },
+  "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-17T02:56:54.209616"
   }
 }
