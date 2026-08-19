@@ -7430,9 +7430,9 @@
     "timestamp": "2026-08-16T03:01:16.187410"
   },
   "https://a16z.simplecast.com/episodes/ben-horowitz-and-travis-kalanick-on-building-again-o4RgblCd": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-15T02:56:04.344248"
+    "timestamp": "2026-08-19T03:06:04.302958"
   },
   "https://a16z.simplecast.com/episodes/the-two-ways-to-sell-ai-lighthouse-or-landgrab-9C2mrr4S": {
     "count": 1,
@@ -7455,14 +7455,14 @@
     "timestamp": "2026-08-16T02:59:58.072625"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-15T03:03:01.271166"
+    "timestamp": "2026-08-19T03:07:37.067808"
   },
   "https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-15T03:03:01.421853"
+    "timestamp": "2026-08-19T03:07:37.060838"
   },
   "https://hunterwalk.com/2026/08/15/ai-is-changing-south-korea-even-faster-than-its-changing-the-us-why-%f0%9f%a5%80-is-the-fastest-rising-emoji-how-robots-might-save-cherry-blossom-season-link-blog/": {
     "count": 1,
@@ -7488,5 +7488,45 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-08-17T02:56:54.209616"
+  },
+  "https://a16z.simplecast.com/episodes/how-do-you-defend-against-ai-that-can-hack-L2M2EmmY": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-19T03:06:04.294000"
+  },
+  "https://a16z.simplecast.com/episodes/stripes-ai-strategy-build-more-not-less-0w7FfhZZ": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-19T03:06:04.309852"
+  },
+  "https://www.saastr.com/on-your-next-big-deal-double-your-pricing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-19T03:07:01.867460"
+  },
+  "https://www.saastr.com/we-churned-notion-after-7-years-our-ai-agent-took-its-last-job/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-19T03:07:02.118318"
+  },
+  "https://www.saastr.com/rippling-ran-2100-scored-agent-runs-per-model-on-real-payroll-data-the-cheapest-model-tied-the-most-expensive-one/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-19T03:07:02.205002"
+  },
+  "https://openai.com/index/nvidia/chatgpt-work/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-19T03:07:15.290764"
+  },
+  "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-19T03:07:36.889545"
+  },
+  "https://stripe.com/blog/reduce-fx-costs-with-stripe": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-19T03:07:47.331378"
   }
 }
