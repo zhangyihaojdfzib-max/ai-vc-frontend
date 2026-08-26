@@ -7525,9 +7525,9 @@
     "timestamp": "2026-08-19T03:07:36.889545"
   },
   "https://stripe.com/blog/reduce-fx-costs-with-stripe": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-26T03:00:21.370177"
+    "timestamp": "2026-08-26T03:11:30.890650"
   },
   "https://a16z.simplecast.com/episodes/the-new-economics-of-ai-martin-casado-steven-sinofsky-6Xew5iHr": {
     "count": 1,
@@ -7605,13 +7605,13 @@
     "timestamp": "2026-08-26T02:59:38.888804"
   },
   "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-26T03:00:20.975641"
+    "timestamp": "2026-08-26T03:11:30.629318"
   },
   "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-26T03:00:21.393182"
+    "timestamp": "2026-08-26T03:11:30.895869"
   }
 }

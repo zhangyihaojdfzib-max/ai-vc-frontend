@@ -17,7 +17,7 @@
   "https://www.usv.com/feed/": {
     "etag": "\"90ab3be3d86be442da0d11236afdb89f\"",
     "last_modified": "Wed, 22 Jul 2026 16:01:50 GMT",
-    "updated": "2026-08-26T02:58:17.523893"
+    "updated": "2026-08-26T03:09:30.383766"
   },
   "https://www.unusual.vc/feed": {
     "etag": "\"6d54e2055f7e7aa5c1faa1656c27ff75\"",
@@ -70,14 +70,14 @@
     "updated": "2026-08-26T02:58:56.128342"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"U9phVQ\"",
+    "etag": "\"6NYxzw\"",
     "last_modified": null,
-    "updated": "2026-08-26T02:59:27.598638"
+    "updated": "2026-08-26T03:10:56.473639"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 23 Aug 2026 01:43:11 GMT",
-    "updated": "2026-08-26T02:59:30.835697"
+    "updated": "2026-08-26T03:10:57.043318"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"835869a36304ac7f174bbea46f8fc948\"",
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Tue, 25 Aug 2026 04:16:02 GMT",
-    "updated": "2026-08-26T03:00:41.809503"
+    "last_modified": "Tue, 25 Aug 2026 00:05:37 GMT",
+    "updated": "2026-08-26T03:11:36.932438"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
