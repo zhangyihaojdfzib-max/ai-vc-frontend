@@ -7525,8 +7525,93 @@
     "timestamp": "2026-08-19T03:07:36.889545"
   },
   "https://stripe.com/blog/reduce-fx-costs-with-stripe": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T03:00:21.370177"
+  },
+  "https://a16z.simplecast.com/episodes/the-new-economics-of-ai-martin-casado-steven-sinofsky-6Xew5iHr": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-19T03:07:47.331378"
+    "timestamp": "2026-08-26T02:58:10.792291"
+  },
+  "https://a16z.simplecast.com/episodes/why-medical-ai-needs-a-referee-proteges-engy-ziedan-K_iA_k2D": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:10.852025"
+  },
+  "https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:10.951409"
+  },
+  "https://a16z.simplecast.com/episodes/how-microsoft-is-securing-the-agentic-enterprise-aaron-zollman-j7eOe8NH": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:11.056196"
+  },
+  "https://a16z.simplecast.com/episodes/how-global-networks-are-reshaping-startup-success-YCGysOkP": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:11.157245"
+  },
+  "https://www.saastr.com/the-3-new-pricing-models-in-b2b-pick-one-because-the-old-one-just-seats-is-dying/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:55.336946"
+  },
+  "https://www.saastr.com/bigcommerce-vs-shopify-when-second-place-is-a-very-tough-place-to-be/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:55.490088"
+  },
+  "https://www.saastr.com/how-long-is-each-venture-funding-supposed-to-last-for-the-company-being-funded/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:55.565604"
+  },
+  "https://www.saastr.com/stripe-buys-openrouter-for-7b-anthropic-turns-its-first-profit-and-silver-lake-circles-workday-at-43b-20vc-x-saastr/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:55.742993"
+  },
+  "https://www.saastr.com/everyone-ends-up-with-a-sales-team-even-in-the-ai-era-the-team-just-scales-later-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:58:55.877911"
+  },
+  "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:59:38.403181"
+  },
+  "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:59:38.553301"
+  },
+  "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:59:38.559555"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:59:38.778428"
+  },
+  "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T02:59:38.888804"
+  },
+  "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T03:00:20.975641"
+  },
+  "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-26T03:00:21.393182"
   }
 }
