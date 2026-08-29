@@ -7590,9 +7590,9 @@
     "timestamp": "2026-08-26T02:59:38.553301"
   },
   "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-26T02:59:38.559555"
+    "timestamp": "2026-08-29T08:48:36.076057"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/": {
     "count": 1,
@@ -7605,13 +7605,58 @@
     "timestamp": "2026-08-26T02:59:38.888804"
   },
   "https://stripe.com/blog/why-global-workers-are-driving-demand-for-stablecoin-payouts": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-26T03:11:30.629318"
+    "timestamp": "2026-08-29T08:49:16.047109"
   },
   "https://stripe.com/blog/five-monetization-trends-from-global-pricing-leaders": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-26T03:11:30.895869"
+    "timestamp": "2026-08-29T08:49:16.143479"
+  },
+  "https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:46:56.127969"
+  },
+  "https://a16z.simplecast.com/episodes/the-state-of-ai-macro-apps-and-consumer-0SpxP4t2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:46:56.150435"
+  },
+  "https://a16z.simplecast.com/episodes/the-infrastructure-behind-the-machine-age-M3g5NamY": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:46:56.157414"
+  },
+  "https://www.saastr.com/20vc-x-saastr-nvidia-pays-6b-for-poolsides-model-factory-openai-has-to-go-public-in-2027-and-why-9b-no-longer-clears-the-bar-for-seed/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:47:53.716315"
+  },
+  "https://www.saastr.com/when-agents-take-over-the-system-of-record-40gb-nobody-typed-a-renewal-agent-built-in-half-a-day-and-why-our-agents-love-clay-the-agents-013/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:47:54.051406"
+  },
+  "https://www.saastr.com/50-of-the-work-created-in-linear-is-now-created-by-agents-a-year-ago-it-was-3/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:47:54.074730"
+  },
+  "https://openai.com/index/loveholidays/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:48:08.256710"
+  },
+  "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:48:36.010553"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-29T08:48:36.083068"
   }
 }
