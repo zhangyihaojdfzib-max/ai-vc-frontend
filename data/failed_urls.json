@@ -7530,9 +7530,9 @@
     "timestamp": "2026-08-26T03:11:30.890650"
   },
   "https://a16z.simplecast.com/episodes/the-new-economics-of-ai-martin-casado-steven-sinofsky-6Xew5iHr": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-26T02:58:10.792291"
+    "timestamp": "2026-08-30T07:43:08.018693"
   },
   "https://a16z.simplecast.com/episodes/why-medical-ai-needs-a-referee-proteges-engy-ziedan-K_iA_k2D": {
     "count": 1,
@@ -7615,34 +7615,34 @@
     "timestamp": "2026-08-29T08:49:16.143479"
   },
   "https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-29T08:46:56.127969"
+    "timestamp": "2026-08-30T07:43:07.959744"
   },
   "https://a16z.simplecast.com/episodes/the-state-of-ai-macro-apps-and-consumer-0SpxP4t2": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-29T08:46:56.150435"
+    "timestamp": "2026-08-30T07:43:08.003224"
   },
   "https://a16z.simplecast.com/episodes/the-infrastructure-behind-the-machine-age-M3g5NamY": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-29T08:46:56.157414"
+    "timestamp": "2026-08-30T07:43:07.926117"
   },
   "https://www.saastr.com/20vc-x-saastr-nvidia-pays-6b-for-poolsides-model-factory-openai-has-to-go-public-in-2027-and-why-9b-no-longer-clears-the-bar-for-seed/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-29T08:47:53.716315"
+    "timestamp": "2026-08-30T07:43:47.492163"
   },
   "https://www.saastr.com/when-agents-take-over-the-system-of-record-40gb-nobody-typed-a-renewal-agent-built-in-half-a-day-and-why-our-agents-love-clay-the-agents-013/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-29T08:47:54.051406"
+    "timestamp": "2026-08-30T07:43:47.293064"
   },
   "https://www.saastr.com/50-of-the-work-created-in-linear-is-now-created-by-agents-a-year-ago-it-was-3/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-29T08:47:54.074730"
+    "timestamp": "2026-08-30T07:43:46.910595"
   },
   "https://openai.com/index/loveholidays/": {
     "count": 1,
@@ -7658,5 +7658,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-08-29T08:48:36.083068"
+  },
+  "https://a16z.simplecast.com/episodes/why-1-200-ai-agents-started-working-together-ryan-greenblatt-i7A557W2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-30T07:43:07.951555"
+  },
+  "https://www.saastr.com/rule-of-40-is-half-dead-growth-is-all-that-matters-margins-above-25-dont-help-and-category-beats-both-the-latest-from-kroll/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-30T07:43:47.216273"
+  },
+  "https://www.saastr.com/only-7-public-b2b-companies-are-growing-over-30-in-the-ai-native-cohort-that-would-be-last-place/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-08-30T07:43:47.669615"
   }
 }
