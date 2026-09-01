@@ -7530,14 +7530,14 @@
     "timestamp": "2026-08-26T03:11:30.890650"
   },
   "https://a16z.simplecast.com/episodes/the-new-economics-of-ai-martin-casado-steven-sinofsky-6Xew5iHr": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-30T07:43:08.018693"
+    "timestamp": "2026-09-01T07:03:17.548420"
   },
   "https://a16z.simplecast.com/episodes/why-medical-ai-needs-a-referee-proteges-engy-ziedan-K_iA_k2D": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-26T02:58:10.852025"
+    "timestamp": "2026-09-01T07:03:17.538808"
   },
   "https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM": {
     "count": 1,
@@ -7660,9 +7660,9 @@
     "timestamp": "2026-08-29T08:48:36.083068"
   },
   "https://a16z.simplecast.com/episodes/why-1-200-ai-agents-started-working-together-ryan-greenblatt-i7A557W2": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-31T07:57:40.645097"
+    "timestamp": "2026-09-01T07:03:17.408572"
   },
   "https://www.saastr.com/rule-of-40-is-half-dead-growth-is-all-that-matters-margins-above-25-dont-help-and-category-beats-both-the-latest-from-kroll/": {
     "count": 2,
@@ -7675,9 +7675,9 @@
     "timestamp": "2026-08-30T07:43:47.669615"
   },
   "https://a16z.simplecast.com/episodes/why-a16z-launched-the-machine-age-fund-jen-kha-MopZc0wl": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-31T07:57:40.488118"
+    "timestamp": "2026-09-01T07:03:17.391033"
   },
   "https://www.saastr.com/owner-com-did-an-ai-rebuild-to-accelerate-past-100m-arr-6-lessons-and-what-it-costs-to-apply-them/": {
     "count": 1,
@@ -7688,5 +7688,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-08-31T07:58:31.608246"
+  },
+  "https://a16z.simplecast.com/episodes/gavin-baker-why-ai-demand-is-outrunning-compute-supply-z97oFoOG": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-01T07:03:17.424879"
   }
 }
