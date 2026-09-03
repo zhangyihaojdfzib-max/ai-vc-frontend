@@ -7650,14 +7650,14 @@
     "timestamp": "2026-08-29T08:48:08.256710"
   },
   "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-29T08:48:36.010553"
+    "timestamp": "2026-09-03T07:03:30.749005"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-08-29T08:48:36.083068"
+    "timestamp": "2026-09-03T07:03:30.606587"
   },
   "https://a16z.simplecast.com/episodes/why-1-200-ai-agents-started-working-together-ryan-greenblatt-i7A557W2": {
     "count": 3,
@@ -7690,8 +7690,33 @@
     "timestamp": "2026-08-31T07:58:31.608246"
   },
   "https://a16z.simplecast.com/episodes/gavin-baker-why-ai-demand-is-outrunning-compute-supply-z97oFoOG": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-03T07:01:37.423943"
+  },
+  "https://a16z.simplecast.com/episodes/inside-modernas-personalized-cancer-vaccine-214RAv4s": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-01T07:03:17.424879"
+    "timestamp": "2026-09-03T07:01:37.432123"
+  },
+  "https://a16z.simplecast.com/episodes/daniel-litt-the-mathematicians-guide-to-ai-TyLaUSzk": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-03T07:01:37.439051"
+  },
+  "https://openai.com/index/atv-big-air-tour/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-03T07:02:58.713435"
+  },
+  "https://openai.com/index/ai-native-company-workflows/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-03T07:03:18.532380"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-03T07:03:30.742109"
   }
 }
