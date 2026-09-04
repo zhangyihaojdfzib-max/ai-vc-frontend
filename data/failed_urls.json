@@ -7695,28 +7695,53 @@
     "timestamp": "2026-09-03T07:01:37.423943"
   },
   "https://a16z.simplecast.com/episodes/inside-modernas-personalized-cancer-vaccine-214RAv4s": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-03T07:01:37.432123"
+    "timestamp": "2026-09-04T07:05:18.529313"
   },
   "https://a16z.simplecast.com/episodes/daniel-litt-the-mathematicians-guide-to-ai-TyLaUSzk": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-03T07:01:37.439051"
+    "timestamp": "2026-09-04T07:05:18.548568"
   },
   "https://openai.com/index/atv-big-air-tour/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-03T07:02:58.713435"
+    "timestamp": "2026-09-04T07:06:45.245503"
   },
   "https://openai.com/index/ai-native-company-workflows/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-03T07:03:18.532380"
+    "timestamp": "2026-09-04T07:06:54.303496"
   },
   "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-03T07:03:30.742109"
+  },
+  "https://a16z.simplecast.com/episodes/the-100b-niches-hiding-inside-payments-aKQoOt7o": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-04T07:05:18.563929"
+  },
+  "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-04T07:06:22.864863"
+  },
+  "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-04T07:07:12.890072"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-04T07:07:13.120113"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-04T07:07:13.127721"
   }
 }
