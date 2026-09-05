@@ -7655,9 +7655,9 @@
     "timestamp": "2026-09-03T07:03:30.749005"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-03T07:03:30.606587"
+    "timestamp": "2026-09-05T06:34:51.221937"
   },
   "https://a16z.simplecast.com/episodes/why-1-200-ai-agents-started-working-together-ryan-greenblatt-i7A557W2": {
     "count": 3,
@@ -7690,19 +7690,19 @@
     "timestamp": "2026-08-31T07:58:31.608246"
   },
   "https://a16z.simplecast.com/episodes/gavin-baker-why-ai-demand-is-outrunning-compute-supply-z97oFoOG": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-03T07:01:37.423943"
+    "timestamp": "2026-09-05T06:33:45.357364"
   },
   "https://a16z.simplecast.com/episodes/inside-modernas-personalized-cancer-vaccine-214RAv4s": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-04T07:05:18.529313"
+    "timestamp": "2026-09-05T06:33:45.227956"
   },
   "https://a16z.simplecast.com/episodes/daniel-litt-the-mathematicians-guide-to-ai-TyLaUSzk": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-04T07:05:18.548568"
+    "timestamp": "2026-09-05T06:33:45.350220"
   },
   "https://openai.com/index/atv-big-air-tour/": {
     "count": 2,
@@ -7715,33 +7715,38 @@
     "timestamp": "2026-09-04T07:06:54.303496"
   },
   "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-03T07:03:30.742109"
+    "timestamp": "2026-09-05T06:34:51.265578"
   },
   "https://a16z.simplecast.com/episodes/the-100b-niches-hiding-inside-payments-aKQoOt7o": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-04T07:05:18.563929"
+    "timestamp": "2026-09-05T06:33:45.244712"
   },
   "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-04T07:06:22.864863"
+    "timestamp": "2026-09-05T06:34:17.291878"
   },
   "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-04T07:07:12.890072"
+    "timestamp": "2026-09-05T06:34:50.858131"
   },
   "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-04T07:07:13.120113"
+    "timestamp": "2026-09-05T06:34:50.866505"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-05T06:34:50.682132"
+  },
+  "https://a16z.simplecast.com/episodes/fei-fei-li-the-race-to-build-world-models-for-ai-tvIN7XfT": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-04T07:07:13.127721"
+    "timestamp": "2026-09-05T06:33:45.205455"
   }
 }
