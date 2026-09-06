@@ -7535,9 +7535,9 @@
     "timestamp": "2026-09-01T07:03:17.548420"
   },
   "https://a16z.simplecast.com/episodes/why-medical-ai-needs-a-referee-proteges-engy-ziedan-K_iA_k2D": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-01T07:03:17.538808"
+    "timestamp": "2026-09-06T06:43:16.081311"
   },
   "https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM": {
     "count": 1,
@@ -7675,9 +7675,9 @@
     "timestamp": "2026-08-30T07:43:47.669615"
   },
   "https://a16z.simplecast.com/episodes/why-a16z-launched-the-machine-age-fund-jen-kha-MopZc0wl": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-01T07:03:17.391033"
+    "timestamp": "2026-09-06T06:43:16.103168"
   },
   "https://www.saastr.com/owner-com-did-an-ai-rebuild-to-accelerate-past-100m-arr-6-lessons-and-what-it-costs-to-apply-them/": {
     "count": 1,
@@ -7720,14 +7720,14 @@
     "timestamp": "2026-09-05T06:34:51.265578"
   },
   "https://a16z.simplecast.com/episodes/the-100b-niches-hiding-inside-payments-aKQoOt7o": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-05T06:33:45.244712"
+    "timestamp": "2026-09-06T06:43:15.955583"
   },
   "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-05T06:34:17.291878"
+    "timestamp": "2026-09-06T06:43:49.909372"
   },
   "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/": {
     "count": 2,
@@ -7745,8 +7745,13 @@
     "timestamp": "2026-09-05T06:34:50.682132"
   },
   "https://a16z.simplecast.com/episodes/fei-fei-li-the-race-to-build-world-models-for-ai-tvIN7XfT": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-06T06:43:15.935645"
+  },
+  "https://a16z.simplecast.com/episodes/aaron-levie-on-why-open-ai-wins-YUnuv_hR": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-05T06:33:45.205455"
+    "timestamp": "2026-09-06T06:43:15.964764"
   }
 }
