@@ -7758,5 +7758,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-07T06:51:51.573477"
+  },
+  "https://openai.com/index/previewing-ultrafast/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-07T07:11:06.642488"
   }
 }
