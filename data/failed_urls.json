@@ -7768,5 +7768,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-08T06:47:43.302067"
+  },
+  "https://openai.com/index/personal-finance-chatgpt/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-08T07:05:34.481101"
+  },
+  "https://openai.com/index/work-with-codex-from-anywhere/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-08T07:05:42.429605"
   }
 }
