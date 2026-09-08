@@ -7540,14 +7540,14 @@
     "timestamp": "2026-09-06T06:43:16.081311"
   },
   "https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-07T06:51:51.828433"
+    "timestamp": "2026-09-08T06:47:43.335062"
   },
   "https://a16z.simplecast.com/episodes/how-microsoft-is-securing-the-agentic-enterprise-aaron-zollman-j7eOe8NH": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-07T06:51:51.983636"
+    "timestamp": "2026-09-08T06:47:43.411450"
   },
   "https://a16z.simplecast.com/episodes/how-global-networks-are-reshaping-startup-success-YCGysOkP": {
     "count": 1,
@@ -7750,18 +7750,23 @@
     "timestamp": "2026-09-07T06:51:51.780663"
   },
   "https://a16z.simplecast.com/episodes/aaron-levie-on-why-open-ai-wins-YUnuv_hR": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-07T06:51:51.419068"
+    "timestamp": "2026-09-08T06:47:43.265994"
   },
   "https://a16z.simplecast.com/episodes/your-ai-doctor-is-coming-julie-yoo-YEmlPria": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-07T06:51:51.573477"
+    "timestamp": "2026-09-08T06:47:43.292210"
   },
   "https://openai.com/index/previewing-ultrafast/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-07T07:11:06.642488"
+  },
+  "https://a16z.simplecast.com/episodes/can-open-source-keep-ai-power-from-concentrating-SoZe4_xf": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-08T06:47:43.302067"
   }
 }
