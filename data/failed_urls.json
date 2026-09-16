@@ -7803,5 +7803,65 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-10T07:12:57.939537"
+  },
+  "https://a16z.simplecast.com/episodes/world-models-robotics-and-the-future-of-3d-ai-mGOuUHi0": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:26:30.343007"
+  },
+  "https://a16z.simplecast.com/episodes/greg-brockman-on-why-openai-says-were-entering-the-agi-era-deKod42i": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:26:30.360841"
+  },
+  "https://a16z.simplecast.com/episodes/the-age-of-body-futurism-ruby-justice-thelot-ZnUXyeWf": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:26:30.375303"
+  },
+  "https://www.usv.com/writing/2026/09/product-in-the-agentic-age/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:26:34.238198"
+  },
+  "https://www.usv.com/writing/2026/09/sticking-around-usv/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:26:34.292610"
+  },
+  "https://openai.com/index/cognition-devin-testing-with-astra/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:27:36.348054"
+  },
+  "https://openai.com/index/detecting-wildfires-early/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:27:46.805080"
+  },
+  "https://openai.com/index/perplexity-improving-accuracy-with-astra/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:27:54.828381"
+  },
+  "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:28:03.648536"
+  },
+  "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:28:03.756223"
+  },
+  "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:28:03.763491"
+  },
+  "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-16T07:28:43.859590"
   }
 }
