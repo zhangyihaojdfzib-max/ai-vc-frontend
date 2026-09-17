@@ -7820,14 +7820,14 @@
     "timestamp": "2026-09-17T06:58:38.202394"
   },
   "https://www.usv.com/writing/2026/09/product-in-the-agentic-age/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:58:45.424384"
+    "timestamp": "2026-09-17T07:23:08.987256"
   },
   "https://www.usv.com/writing/2026/09/sticking-around-usv/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:58:45.372275"
+    "timestamp": "2026-09-17T07:23:09.042606"
   },
   "https://openai.com/index/cognition-devin-testing-with-astra/": {
     "count": 1,
@@ -7860,9 +7860,9 @@
     "timestamp": "2026-09-17T06:59:41.347480"
   },
   "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T07:00:13.782709"
+    "timestamp": "2026-09-17T07:25:04.461843"
   },
   "https://a16z.simplecast.com/episodes/the-ai-native-crm-PM_eRvpt": {
     "count": 1,
@@ -7883,5 +7883,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-17T06:59:41.580314"
+  },
+  "https://openai.com/index/accelerating-antibiotic-discovery/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-17T07:24:08.572908"
+  },
+  "https://openai.com/index/introducing-the-agents-api/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-17T07:24:18.478351"
+  },
+  "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-17T07:24:25.893197"
   }
 }
