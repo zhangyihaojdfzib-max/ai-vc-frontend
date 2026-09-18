@@ -7805,19 +7805,19 @@
     "timestamp": "2026-09-10T07:12:57.939537"
   },
   "https://a16z.simplecast.com/episodes/world-models-robotics-and-the-future-of-3d-ai-mGOuUHi0": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:58:38.331068"
+    "timestamp": "2026-09-18T06:55:23.441455"
   },
   "https://a16z.simplecast.com/episodes/greg-brockman-on-why-openai-says-were-entering-the-agi-era-deKod42i": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:58:38.222180"
+    "timestamp": "2026-09-18T06:55:23.338043"
   },
   "https://a16z.simplecast.com/episodes/the-age-of-body-futurism-ruby-justice-thelot-ZnUXyeWf": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:58:38.202394"
+    "timestamp": "2026-09-18T06:55:22.999594"
   },
   "https://www.usv.com/writing/2026/09/product-in-the-agentic-age/": {
     "count": 3,
@@ -7850,14 +7850,14 @@
     "timestamp": "2026-09-17T06:59:41.800639"
   },
   "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:59:41.877339"
+    "timestamp": "2026-09-18T06:56:36.238677"
   },
   "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:59:41.347480"
+    "timestamp": "2026-09-18T06:56:36.160311"
   },
   "https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups": {
     "count": 3,
@@ -7865,9 +7865,9 @@
     "timestamp": "2026-09-17T07:25:04.461843"
   },
   "https://a16z.simplecast.com/episodes/the-ai-native-crm-PM_eRvpt": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:58:38.212690"
+    "timestamp": "2026-09-18T06:55:22.973179"
   },
   "https://a16z.simplecast.com/episodes/why-companies-are-becoming-a-series-of-loops-anish-acharya-on-lennys-podcast-ZW9GBD70": {
     "count": 1,
@@ -7875,14 +7875,14 @@
     "timestamp": "2026-09-17T06:58:38.315380"
   },
   "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:59:41.572243"
+    "timestamp": "2026-09-18T06:56:35.996355"
   },
   "https://blogs.nvidia.com/blog/ai-energy-management-alliance/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-17T06:59:41.580314"
+    "timestamp": "2026-09-18T06:56:35.976350"
   },
   "https://openai.com/index/accelerating-antibiotic-discovery/": {
     "count": 1,
@@ -7898,5 +7898,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-17T07:24:25.893197"
+  },
+  "https://a16z.simplecast.com/episodes/the-next-frontier-of-ai-video-is-control-RmfmPBwf": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-18T06:55:23.112298"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-18T06:56:35.780285"
+  },
+  "https://stripe.com/blog/saas-platforms-are-surging-despite-the-saaspocalypse": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-18T06:56:41.023870"
   }
 }
