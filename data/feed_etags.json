@@ -1,13 +1,13 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"79d18f40bf61933a40ca90b9ba296e8f\"",
+    "etag": "W/\"0646b789b88a5c24468d711778b67290\"",
     "last_modified": null,
-    "updated": "2026-09-18T07:13:36.588734"
+    "updated": "2026-09-19T06:54:21.879824"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
-    "etag": "W/\"bd5f245ff49e3d5754f8037496cd6934\"",
-    "last_modified": "Thu, 17 Sep 2026 10:00:31 GMT",
-    "updated": "2026-09-18T06:55:20.227190"
+    "etag": "W/\"11a0aa142d4f0355b7d5c14eb5964193\"",
+    "last_modified": "Fri, 18 Sep 2026 21:38:16 GMT",
+    "updated": "2026-09-19T06:54:22.132183"
   },
   "https://www.sequoiacap.com/feed/": {
     "etag": "W/\"26e94b9336cb2411b34f88ba23ccce03\"",
@@ -15,9 +15,9 @@
     "updated": "2026-01-31T03:59:14.901959"
   },
   "https://www.usv.com/feed/": {
-    "etag": "\"0f4c8ff4305d7a9b2a67ef22717e6dc9\"",
-    "last_modified": "Thu, 17 Sep 2026 17:32:08 GMT",
-    "updated": "2026-09-18T07:13:44.532374"
+    "etag": "\"43f36615f731029bcacb6a211ee52f8b\"",
+    "last_modified": "Fri, 18 Sep 2026 19:21:25 GMT",
+    "updated": "2026-09-19T06:54:33.415443"
   },
   "https://www.unusual.vc/feed": {
     "etag": "\"931b3a798b2a9f4655ea30d90ea67add\"",
@@ -70,24 +70,24 @@
     "updated": "2026-09-18T06:56:02.986850"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"xIplRA\"",
+    "etag": "\"MkCPgQ\"",
     "last_modified": null,
-    "updated": "2026-09-18T07:15:09.401617"
+    "updated": "2026-09-19T06:55:21.431514"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 6 Sep 2026 01:36:33 GMT",
-    "updated": "2026-09-18T07:15:09.927952"
+    "updated": "2026-09-19T06:55:22.237492"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"9574b08a45ce7e7253b8e920e34f52d9\"",
-    "last_modified": "Fri, 18 Sep 2026 06:59:41 GMT",
-    "updated": "2026-09-18T07:15:11.696570"
+    "etag": "\"2795dc3f36f62772b12d39092912eeb8\"",
+    "last_modified": "Sat, 19 Sep 2026 00:00:16 GMT",
+    "updated": "2026-09-19T06:55:25.074116"
   },
   "https://blogs.nvidia.com/feed/": {
-    "etag": "\"002acb3babb4b275cbeaa1647ff5a200-gzip\"",
-    "last_modified": "Thu, 17 Sep 2026 13:00:55 GMT",
-    "updated": "2026-09-18T06:56:35.457318"
+    "etag": "\"ee0000357d65c75de25a4e5416971761-gzip\"",
+    "last_modified": "Fri, 18 Sep 2026 20:12:59 GMT",
+    "updated": "2026-09-19T06:55:25.206521"
   },
   "https://huggingface.co/blog/feed.xml": {
     "etag": "W/\"3e1bf-BtuJ+UgdfyutafgENnCca2y0ZTM\"",
@@ -97,12 +97,12 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"46973-657c8b456a0bd-gzip\"",
     "last_modified": "Wed, 29 Jul 2026 23:56:30 GMT",
-    "updated": "2026-09-18T07:15:12.624449"
+    "updated": "2026-09-19T06:55:26.404579"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
-    "last_modified": "Fri, 18 Sep 2026 01:48:37 GMT",
-    "updated": "2026-09-18T06:56:37.408563"
+    "last_modified": "Sat, 19 Sep 2026 03:21:22 GMT",
+    "updated": "2026-09-19T06:55:27.006837"
   },
   "https://replicate.com/blog/rss": {
     "etag": "W/\"1185b-1a0358a3488\"",
@@ -110,14 +110,14 @@
     "updated": "2026-08-26T03:00:17.663908"
   },
   "https://www.databricks.com/feed": {
-    "etag": "W/\"710ef0d0503ddada1470d8cf16a1d91e\"",
-    "last_modified": "Fri, 18 Sep 2026 01:27:35 GMT",
-    "updated": "2026-09-18T06:56:50.604401"
+    "etag": "W/\"eb935536e8286636aec0f80184d2e3ff\"",
+    "last_modified": "Sat, 19 Sep 2026 04:34:11 GMT",
+    "updated": "2026-09-19T06:55:39.173089"
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Thu, 17 Sep 2026 20:28:44 GMT",
-    "updated": "2026-09-18T07:15:19.771574"
+    "last_modified": "Thu, 17 Sep 2026 20:32:09 GMT",
+    "updated": "2026-09-19T06:55:42.615335"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"uy039fqstlbvf\"",
@@ -125,13 +125,13 @@
     "updated": "2026-05-04T05:49:09.734647"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"8746e39c41d96c8f30c62408ccd10456\"",
+    "etag": "W/\"a04bbcaebc8329073dfa2b22fe93c446\"",
     "last_modified": null,
-    "updated": "2026-09-18T07:15:14.860049"
+    "updated": "2026-09-19T06:55:32.647696"
   },
   "https://blog.cloudflare.com/rss/": {
     "etag": null,
-    "last_modified": "Thu, 17 Sep 2026 13:05:35 GMT",
-    "updated": "2026-09-18T06:56:41.131764"
+    "last_modified": "Fri, 18 Sep 2026 21:19:51 GMT",
+    "updated": "2026-09-19T06:55:28.947706"
   }
 }
