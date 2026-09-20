@@ -7938,5 +7938,10 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-20T07:19:42.271925"
+  },
+  "https://openai.com/index/reimagining-advertising-with-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-20T07:37:40.306701"
   }
 }
