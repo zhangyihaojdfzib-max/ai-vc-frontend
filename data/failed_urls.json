@@ -7870,9 +7870,9 @@
     "timestamp": "2026-09-19T06:54:26.066445"
   },
   "https://a16z.simplecast.com/episodes/why-companies-are-becoming-a-series-of-loops-anish-acharya-on-lennys-podcast-ZW9GBD70": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-19T06:54:26.351641"
+    "timestamp": "2026-09-20T07:19:42.327127"
   },
   "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/": {
     "count": 3,
@@ -7900,9 +7900,9 @@
     "timestamp": "2026-09-17T07:24:25.893197"
   },
   "https://a16z.simplecast.com/episodes/the-next-frontier-of-ai-video-is-control-RmfmPBwf": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-19T06:54:26.094672"
+    "timestamp": "2026-09-20T07:19:42.280430"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/": {
     "count": 2,
@@ -7915,14 +7915,14 @@
     "timestamp": "2026-09-19T06:55:28.868398"
   },
   "https://a16z.simplecast.com/episodes/databricks-ceo-on-ai-pacing-cyber-risk-and-the-enterprise-QM1oJt1I": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-19T06:54:26.085943"
+    "timestamp": "2026-09-20T07:19:42.248624"
   },
   "https://a16z.simplecast.com/episodes/what-it-takes-to-build-a-startup-andrew-chen-matt-perault-ihdfyK_8": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-19T06:54:26.336547"
+    "timestamp": "2026-09-20T07:19:42.356956"
   },
   "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/": {
     "count": 1,
@@ -7930,8 +7930,13 @@
     "timestamp": "2026-09-19T06:55:26.160257"
   },
   "https://stripe.com/blog/analyzing-rising-fraud-attempts-among-travel-and-leisure-businesses-on-stripe": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-19T07:12:30.256355"
+    "timestamp": "2026-09-20T07:20:51.769534"
+  },
+  "https://a16z.simplecast.com/episodes/what-makes-a-consumer-ai-product-stick-josh-elman-xHQUEG_W": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-20T07:19:42.271925"
   }
 }
