@@ -7915,14 +7915,14 @@
     "timestamp": "2026-09-19T06:55:28.868398"
   },
   "https://a16z.simplecast.com/episodes/databricks-ceo-on-ai-pacing-cyber-risk-and-the-enterprise-QM1oJt1I": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-20T07:19:42.248624"
+    "timestamp": "2026-09-21T07:29:25.833305"
   },
   "https://a16z.simplecast.com/episodes/what-it-takes-to-build-a-startup-andrew-chen-matt-perault-ihdfyK_8": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-20T07:19:42.356956"
+    "timestamp": "2026-09-21T07:29:26.106783"
   },
   "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/": {
     "count": 1,
@@ -7935,13 +7935,33 @@
     "timestamp": "2026-09-20T07:20:51.769534"
   },
   "https://a16z.simplecast.com/episodes/what-makes-a-consumer-ai-product-stick-josh-elman-xHQUEG_W": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-20T07:19:42.271925"
+    "timestamp": "2026-09-21T07:29:25.824806"
   },
   "https://openai.com/index/reimagining-advertising-with-ai/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-20T07:37:40.306701"
+  },
+  "https://a16z.simplecast.com/episodes/nas-grandmaster-caz-steve-stoute-ben-horowitz-on-paying-hip-hops-pioneers-their-due-0OiuXVpk": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-21T07:29:25.805540"
+  },
+  "https://a16z.simplecast.com/episodes/aram-x-jen-x-dg-draft-dXGKJks2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-21T07:29:26.116889"
+  },
+  "https://greylock.com/blog/welcome-holly-rose-faith-as-greylocks-executive-talent-partner/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-21T07:29:28.867122"
+  },
+  "https://greylock.com/blog/saam-motamedi-is-greylocks-newest-general-partner/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-21T07:29:29.006729"
   }
 }

@@ -1,0 +1,338 @@
+2026-09-21 07:29:20,566 - INFO - 项目根目录: /home/runner/work/ai-vc-frontend/ai-vc-frontend
+2026-09-21 07:29:20,567 - INFO - 配置文件: /home/runner/work/ai-vc-frontend/ai-vc-frontend/data/sources.yaml
+2026-09-21 07:29:20,623 - INFO - ============================================================
+2026-09-21 07:29:20,623 - INFO - 开始处理 - 2026-09-21 07:29:20
+2026-09-21 07:29:20,623 - INFO - 参数: source=None, max=5, workers=3
+2026-09-21 07:29:20,623 - INFO - ============================================================
+2026-09-21 07:29:20,623 - INFO - 处理源: Y Combinator
+2026-09-21 07:29:20,821 - INFO - [ycombinator] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:29:20,822 - INFO -   没有新文章
+2026-09-21 07:29:20,822 - INFO - 处理源: Andreessen Horowitz (a16z)
+2026-09-21 07:29:25,465 - INFO - [a16z] 从RSS获取 5 篇待处理文章（共 785 篇未处理）
+2026-09-21 07:29:25,471 - INFO -   [1/5] Nas, Grandmaster Caz, Steve Stoute & Ben Horowitz ...
+2026-09-21 07:29:25,471 - INFO -   [2/5] What Makes a Consumer AI Product Stick? | Josh Elm...
+2026-09-21 07:29:25,474 - INFO -   [3/5] Databricks CEO on AI Pacing, Cyber Risk, and the E...
+2026-09-21 07:29:25,800 - WARNING -     内容获取失败，跳过
+2026-09-21 07:29:25,815 - WARNING -     内容获取失败，跳过
+2026-09-21 07:29:25,816 - WARNING -     内容获取失败，跳过
+2026-09-21 07:29:25,823 - INFO -   [4/5] What It Takes to Build a Startup | Andrew Chen & M...
+2026-09-21 07:29:25,832 - INFO -   [5/5] How AI Is Rewriting the Power Law of Venture Capit...
+2026-09-21 07:29:26,101 - WARNING -     内容获取失败，跳过
+2026-09-21 07:29:26,109 - WARNING -     内容获取失败，跳过
+2026-09-21 07:29:26,124 - INFO - 处理源: 红杉资本 (Sequoia)
+2026-09-21 07:29:26,254 - ERROR - [sequoia] Sitemap获取失败: 404 Client Error: Not Found for url: https://sequoiacap.com/post-sitemap.xml
+2026-09-21 07:29:26,255 - INFO -   没有新文章
+2026-09-21 07:29:26,255 - INFO - 处理源: Greylock Partners
+2026-09-21 07:29:26,565 - INFO - [greylock] 从Sitemap获取 5 篇待处理文章（共 50 篇未处理）
+2026-09-21 07:29:26,567 - INFO -   [1/5] ...
+2026-09-21 07:29:26,567 - INFO -   [2/5] ...
+2026-09-21 07:29:26,569 - INFO -   [3/5] ...
+2026-09-21 07:29:27,226 - INFO -     提取: 44 文本块, 1 图片
+2026-09-21 07:29:27,228 - INFO -     开始翻译正文（10436 字符）...
+2026-09-21 07:29:27,228 - INFO -     翻译第 1/2 段...
+2026-09-21 07:29:27,269 - INFO -     提取: 10 文本块, 1 图片
+2026-09-21 07:29:27,271 - INFO -     开始翻译正文（1741 字符）...
+2026-09-21 07:29:27,271 - INFO -     翻译第 1/1 段...
+2026-09-21 07:29:27,506 - INFO -     提取: 11 文本块, 1 图片
+2026-09-21 07:29:27,507 - INFO -     开始翻译正文（1450 字符）...
+2026-09-21 07:29:27,507 - INFO -     翻译第 1/1 段...
+2026-09-21 07:29:27,889 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:27,890 - INFO -     生成元数据...
+2026-09-21 07:29:28,021 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:28,021 - INFO -     翻译第 2/2 段...
+2026-09-21 07:29:28,116 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:28,117 - INFO -     生成元数据...
+2026-09-21 07:29:28,468 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:28,469 - INFO -     ✓ 生成文章: 2026-09-08-greylock-df9f19af.md
+2026-09-21 07:29:28,473 - INFO -   [4/5] ...
+2026-09-21 07:29:28,607 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:28,607 - INFO -     生成元数据...
+2026-09-21 07:29:28,675 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:28,676 - INFO -     ✓ 生成文章: 2026-09-08-greylock-087d75e0.md
+2026-09-21 07:29:28,680 - INFO -   [5/5] ...
+2026-09-21 07:29:28,865 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://medium.com/greylock-perspectives/welcome-holly-rose-faith-as-greylocks-executive-talent-partner-705f29078172
+2026-09-21 07:29:28,866 - WARNING -     内容获取失败，跳过
+2026-09-21 07:29:29,004 - ERROR - 内容提取失败: 403 Client Error: Forbidden for url: https://medium.com/greylock-perspectives/saam-motamedi-is-greylocks-newest-general-partner-1e8047c19a0
+2026-09-21 07:29:29,006 - WARNING -     内容获取失败，跳过
+2026-09-21 07:29:29,171 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:29,172 - INFO -     ✓ 生成文章: 2026-09-08-greylock-7a28e28d.md
+2026-09-21 07:29:29,177 - INFO - 处理源: Union Square Ventures
+2026-09-21 07:29:29,448 - INFO - [usv] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:29:29,449 - INFO -   没有新文章
+2026-09-21 07:29:29,449 - INFO - 处理源: Unusual Ventures
+2026-09-21 07:29:29,700 - INFO - [unusual-ventures] Feed未更新 (304)
+2026-09-21 07:29:29,701 - INFO -   没有新文章
+2026-09-21 07:29:29,701 - INFO - 处理源: First Round Review
+2026-09-21 07:29:29,704 - WARNING - [Playwright] 初始化失败: name 'Page' is not defined
+2026-09-21 07:29:30,208 - INFO - [first-round-review] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:29:30,377 - INFO - [first-round-review] 从Sitemap获取 5 篇待处理文章（共 143 篇未处理）
+2026-09-21 07:29:30,379 - INFO -   [1/5] ...
+2026-09-21 07:29:30,964 - INFO -     提取: 50 文本块, 1 图片
+2026-09-21 07:29:30,965 - INFO -     开始翻译正文（18960 字符）...
+2026-09-21 07:29:30,965 - INFO -     翻译第 1/3 段...
+2026-09-21 07:29:31,539 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:31,539 - INFO -     翻译第 2/3 段...
+2026-09-21 07:29:32,107 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:32,107 - INFO -     翻译第 3/3 段...
+2026-09-21 07:29:32,674 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:32,674 - INFO -     生成元数据...
+2026-09-21 07:29:33,235 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:33,236 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-23387d01.md
+2026-09-21 07:29:35,241 - INFO -   [2/5] ...
+2026-09-21 07:29:35,983 - INFO -     提取: 23 文本块, 3 图片
+2026-09-21 07:29:35,984 - INFO -     开始翻译正文（6389 字符）...
+2026-09-21 07:29:35,984 - INFO -     翻译第 1/1 段...
+2026-09-21 07:29:36,560 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:36,560 - INFO -     生成元数据...
+2026-09-21 07:29:37,120 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:37,122 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-c40d39ab.md
+2026-09-21 07:29:39,126 - INFO -   [3/5] ...
+2026-09-21 07:29:40,161 - INFO -     提取: 62 文本块, 5 图片
+2026-09-21 07:29:40,162 - INFO -     开始翻译正文（20925 字符）...
+2026-09-21 07:29:40,163 - INFO -     翻译第 1/3 段...
+2026-09-21 07:29:40,734 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:40,734 - INFO -     翻译第 2/3 段...
+2026-09-21 07:29:41,301 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:41,301 - INFO -     翻译第 3/3 段...
+2026-09-21 07:29:41,891 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:41,891 - INFO -     生成元数据...
+2026-09-21 07:29:42,456 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:42,457 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-498634ae.md
+2026-09-21 07:29:44,461 - INFO -   [4/5] ...
+2026-09-21 07:29:44,767 - INFO -     提取: 43 文本块, 0 图片
+2026-09-21 07:29:44,768 - INFO -     开始翻译正文（17032 字符）...
+2026-09-21 07:29:44,768 - INFO -     翻译第 1/3 段...
+2026-09-21 07:29:45,341 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:45,341 - INFO -     翻译第 2/3 段...
+2026-09-21 07:29:45,908 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:45,908 - INFO -     翻译第 3/3 段...
+2026-09-21 07:29:46,477 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:46,477 - INFO -     生成元数据...
+2026-09-21 07:29:47,057 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:47,059 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-a5b8c2c4.md
+2026-09-21 07:29:49,063 - INFO -   [5/5] ...
+2026-09-21 07:29:49,532 - INFO -     提取: 47 文本块, 1 图片
+2026-09-21 07:29:49,534 - INFO -     开始翻译正文（18998 字符）...
+2026-09-21 07:29:49,534 - INFO -     翻译第 1/3 段...
+2026-09-21 07:29:50,110 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:50,110 - INFO -     翻译第 2/3 段...
+2026-09-21 07:29:50,682 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:50,682 - INFO -     翻译第 3/3 段...
+2026-09-21 07:29:51,257 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:51,257 - INFO -     生成元数据...
+2026-09-21 07:29:51,825 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:29:51,827 - INFO -     ✓ 生成文章: 2024-02-29-first-round-review-996a225f.md
+2026-09-21 07:29:53,831 - INFO - 处理源: NFX
+2026-09-21 07:29:54,057 - INFO - [nfx] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:29:54,058 - INFO -   没有新文章
+2026-09-21 07:29:54,058 - INFO - 处理源: Point Nine Capital
+2026-09-21 07:29:54,302 - INFO - [point-nine] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:29:54,304 - INFO -   没有新文章
+2026-09-21 07:29:54,304 - INFO - 处理源: Boldstart Ventures
+2026-09-21 07:29:54,948 - INFO - [boldstart] Feed未更新 (304)
+2026-09-21 07:29:54,949 - INFO -   没有新文章
+2026-09-21 07:29:54,949 - INFO - 处理源: Paul Graham
+2026-09-21 07:29:55,414 - INFO - [paul-graham] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:29:55,414 - INFO -   没有新文章
+2026-09-21 07:29:55,414 - INFO - 处理源: Benedict Evans
+2026-09-21 07:29:55,817 - INFO - [benedict-evans] Feed未更新 (304)
+2026-09-21 07:29:55,818 - INFO -   没有新文章
+2026-09-21 07:29:55,818 - INFO - 处理源: Fred Wilson (AVC)
+2026-09-21 07:29:59,024 - INFO - [fred-wilson] Feed未更新 (304)
+2026-09-21 07:29:59,025 - INFO -   没有新文章
+2026-09-21 07:29:59,025 - INFO - 处理源: Brad Feld
+2026-09-21 07:29:59,165 - INFO - [brad-feld] Feed未更新 (304)
+2026-09-21 07:29:59,166 - INFO -   没有新文章
+2026-09-21 07:29:59,166 - INFO - 处理源: Bill Gurley
+2026-09-21 07:29:59,314 - ERROR - [bill-gurley] RSS获取失败: 403 Client Error: Forbidden for url: https://abovethecrowd.com/feed/
+2026-09-21 07:29:59,315 - INFO -   没有新文章
+2026-09-21 07:29:59,315 - INFO - 处理源: Andrew Chen
+2026-09-21 07:29:59,787 - INFO - [andrew-chen] Feed未更新 (304)
+2026-09-21 07:29:59,787 - INFO -   没有新文章
+2026-09-21 07:29:59,788 - INFO - 处理源: Hunter Walk
+2026-09-21 07:29:59,938 - ERROR - [hunter-walk] RSS获取失败: 403 Client Error: Forbidden for url: https://hunterwalk.com/feed/
+2026-09-21 07:29:59,939 - INFO -   没有新文章
+2026-09-21 07:29:59,939 - INFO - 处理源: Jason Lemkin (SaaStr)
+2026-09-21 07:30:00,254 - ERROR - [saastr] RSS获取失败: 403 Client Error: Forbidden for url: https://www.saastr.com/feed/
+2026-09-21 07:30:00,255 - INFO -   没有新文章
+2026-09-21 07:30:00,255 - INFO - 处理源: Tomasz Tunguz
+2026-09-21 07:30:00,393 - INFO - [tomasz-tunguz] Feed未更新 (304)
+2026-09-21 07:30:00,394 - INFO -   没有新文章
+2026-09-21 07:30:00,394 - INFO - 处理源: OpenAI
+2026-09-21 07:30:00,836 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:00,963 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:01,079 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:01,318 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:01,412 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:01,525 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:01,628 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:01,709 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:01,885 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:01,992 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:02,125 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:02,244 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:02,431 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:02,524 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:02,635 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:02,740 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:02,845 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:02,949 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,061 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,184 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,295 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,411 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,503 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,605 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,720 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,846 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:03,936 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:04,051 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:04,176 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:04,283 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:04,388 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:04,494 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:04,619 - INFO - [openai] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:05,106 - INFO - [openai] 从Sitemap获取 5 篇待处理文章（共 130 篇未处理）
+2026-09-21 07:30:05,109 - INFO -   [1/5] ...
+2026-09-21 07:30:05,713 - INFO -     提取: 27 文本块, 3 图片
+2026-09-21 07:30:05,714 - INFO -     开始翻译正文（5490 字符）...
+2026-09-21 07:30:05,714 - INFO -     翻译第 1/1 段...
+2026-09-21 07:30:06,357 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:06,357 - INFO -     生成元数据...
+2026-09-21 07:30:06,920 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:06,921 - INFO -     ✓ 生成文章: 2026-09-21-openai-ba2e4131.md
+2026-09-21 07:30:08,925 - INFO -   [2/5] ...
+2026-09-21 07:30:09,406 - INFO -     提取: 21 文本块, 0 图片
+2026-09-21 07:30:09,408 - INFO -     开始翻译正文（5171 字符）...
+2026-09-21 07:30:09,408 - INFO -     翻译第 1/1 段...
+2026-09-21 07:30:09,974 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:09,974 - INFO -     生成元数据...
+2026-09-21 07:30:10,537 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:10,538 - INFO -     ✓ 生成文章: 2026-09-20-openai-41592fa0.md
+2026-09-21 07:30:12,545 - INFO -   [3/5] ...
+2026-09-21 07:30:13,454 - INFO -     提取: 59 文本块, 8 图片
+2026-09-21 07:30:13,455 - INFO -     开始翻译正文（11002 字符）...
+2026-09-21 07:30:13,456 - INFO -     翻译第 1/2 段...
+2026-09-21 07:30:14,027 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:14,027 - INFO -     翻译第 2/2 段...
+2026-09-21 07:30:14,639 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:14,639 - INFO -     生成元数据...
+2026-09-21 07:30:15,211 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:15,212 - INFO -     ✓ 生成文章: 2026-09-20-openai-dfd1db35.md
+2026-09-21 07:30:17,216 - INFO -   [4/5] ...
+2026-09-21 07:30:17,760 - INFO -     提取: 33 文本块, 3 图片
+2026-09-21 07:30:17,762 - INFO -     开始翻译正文（4921 字符）...
+2026-09-21 07:30:17,762 - INFO -     翻译第 1/1 段...
+2026-09-21 07:30:18,331 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:18,332 - INFO -     生成元数据...
+2026-09-21 07:30:18,909 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:18,911 - INFO -     ✓ 生成文章: 2026-09-19-openai-1656aeeb.md
+2026-09-21 07:30:20,915 - INFO -   [5/5] ...
+2026-09-21 07:30:21,783 - INFO -     提取: 47 文本块, 7 图片
+2026-09-21 07:30:21,784 - INFO -     开始翻译正文（8062 字符）...
+2026-09-21 07:30:21,784 - INFO -     翻译第 1/2 段...
+2026-09-21 07:30:22,352 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:22,352 - INFO -     翻译第 2/2 段...
+2026-09-21 07:30:22,923 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:22,923 - INFO -     生成元数据...
+2026-09-21 07:30:23,489 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:23,491 - INFO -     ✓ 生成文章: 2026-09-19-openai-4d4e4cdb.md
+2026-09-21 07:30:25,495 - INFO - 处理源: Anthropic
+2026-09-21 07:30:25,673 - INFO - [anthropic] 从Sitemap获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:25,674 - INFO -   没有新文章
+2026-09-21 07:30:25,675 - INFO - 处理源: Google DeepMind
+2026-09-21 07:30:25,956 - INFO - [deepmind] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:25,957 - INFO -   没有新文章
+2026-09-21 07:30:25,957 - INFO - 处理源: Google AI Blog
+2026-09-21 07:30:26,891 - INFO - [google-ai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:26,893 - INFO -   没有新文章
+2026-09-21 07:30:26,893 - INFO - 处理源: Microsoft Research
+2026-09-21 07:30:28,722 - INFO - [microsoft-research] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:28,723 - INFO -   没有新文章
+2026-09-21 07:30:28,723 - INFO - 处理源: NVIDIA AI Blog
+2026-09-21 07:30:28,842 - INFO - [nvidia-ai] Feed未更新 (304)
+2026-09-21 07:30:28,843 - INFO -   没有新文章
+2026-09-21 07:30:28,843 - INFO - 处理源: Hugging Face Blog
+2026-09-21 07:30:29,024 - INFO - [huggingface] Feed未更新 (304)
+2026-09-21 07:30:29,026 - INFO -   没有新文章
+2026-09-21 07:30:29,026 - INFO - 处理源: Berkeley AI Research (BAIR)
+2026-09-21 07:30:29,425 - INFO - [berkeley-ai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:29,426 - INFO -   没有新文章
+2026-09-21 07:30:29,426 - INFO - 处理源: Stanford HAI
+2026-09-21 07:30:29,560 - INFO - [stanford-hai] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:29,560 - INFO -   没有新文章
+2026-09-21 07:30:29,560 - INFO - 处理源: LangChain Blog
+2026-09-21 07:30:30,170 - INFO - [langchain] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:30,171 - INFO -   没有新文章
+2026-09-21 07:30:30,171 - INFO - 处理源: Replicate Blog
+2026-09-21 07:30:30,506 - INFO - [replicate] Feed未更新 (304)
+2026-09-21 07:30:30,508 - INFO -   没有新文章
+2026-09-21 07:30:30,508 - INFO - 处理源: Airbnb Engineering
+2026-09-21 07:30:31,061 - INFO - [airbnb-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:31,062 - INFO -   没有新文章
+2026-09-21 07:30:31,062 - INFO - 处理源: Stripe Blog
+2026-09-21 07:30:31,181 - INFO - [stripe-blog] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:31,182 - INFO -   没有新文章
+2026-09-21 07:30:31,182 - INFO - 处理源: Cloudflare Blog
+2026-09-21 07:30:31,243 - INFO - [cloudflare-blog] Feed未更新 (304)
+2026-09-21 07:30:31,244 - INFO -   没有新文章
+2026-09-21 07:30:31,244 - INFO - 处理源: Vercel Blog
+2026-09-21 07:30:34,352 - INFO - [vercel-blog] 从RSS获取 5 篇待处理文章（共 517 篇未处理）
+2026-09-21 07:30:34,356 - INFO -   [1/5] Tako Search is free on AI Gateway through Septembe...
+2026-09-21 07:30:34,357 - INFO -   [2/5] Vercel Sandbox is now available in all regions...
+2026-09-21 07:30:34,357 - INFO -   [3/5] You can now read and search changelogs from the CL...
+2026-09-21 07:30:34,778 - INFO -     提取: 6 文本块, 0 图片
+2026-09-21 07:30:34,779 - INFO -     开始翻译正文（1202 字符）...
+2026-09-21 07:30:34,779 - INFO -     翻译第 1/1 段...
+2026-09-21 07:30:35,108 - INFO -     提取: 6 文本块, 0 图片
+2026-09-21 07:30:35,109 - INFO -     开始翻译正文（793 字符）...
+2026-09-21 07:30:35,109 - INFO -     翻译第 1/1 段...
+2026-09-21 07:30:35,624 - INFO -     提取: 13 文本块, 2 图片
+2026-09-21 07:30:35,625 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:35,626 - INFO -     开始翻译正文（1712 字符）...
+2026-09-21 07:30:35,626 - INFO -     生成元数据...
+2026-09-21 07:30:35,626 - INFO -     翻译第 1/1 段...
+2026-09-21 07:30:35,752 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:35,752 - INFO -     生成元数据...
+2026-09-21 07:30:36,194 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:36,195 - INFO -     ✓ 生成文章: 2026-09-10-vercel-blog-97521850.md
+2026-09-21 07:30:36,199 - INFO -   [4/5] Persistent memory for eve agents...
+2026-09-21 07:30:36,250 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:36,250 - INFO -     生成元数据...
+2026-09-21 07:30:36,322 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:36,324 - INFO -     ✓ 生成文章: 2026-09-09-vercel-blog-65a37ce9.md
+2026-09-21 07:30:36,328 - INFO -   [5/5] v0 adds one-click integrations for email, auth, se...
+2026-09-21 07:30:36,622 - INFO -     提取: 10 文本块, 0 图片
+2026-09-21 07:30:36,624 - INFO -     开始翻译正文（1541 字符）...
+2026-09-21 07:30:36,624 - INFO -     翻译第 1/1 段...
+2026-09-21 07:30:36,767 - INFO -     提取: 9 文本块, 0 图片
+2026-09-21 07:30:36,768 - INFO -     开始翻译正文（1400 字符）...
+2026-09-21 07:30:36,768 - INFO -     翻译第 1/1 段...
+2026-09-21 07:30:36,839 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:36,840 - INFO -     ✓ 生成文章: 2026-09-10-vercel-blog-778b1794.md
+2026-09-21 07:30:37,185 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:37,185 - INFO -     生成元数据...
+2026-09-21 07:30:37,337 - ERROR -     翻译失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:37,337 - INFO -     生成元数据...
+2026-09-21 07:30:37,749 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:37,750 - INFO -     ✓ 生成文章: 2026-09-09-vercel-blog-6dd151b1.md
+2026-09-21 07:30:37,942 - ERROR -     元数据生成失败: Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-09-21 07:30:37,943 - INFO -     ✓ 生成文章: 2026-09-09-vercel-blog-1668b0a9.md
+2026-09-21 07:30:37,947 - INFO - 处理源: Databricks Blog
+2026-09-21 07:30:38,150 - INFO - [databricks-blog] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:38,151 - INFO -   没有新文章
+2026-09-21 07:30:38,152 - INFO - 处理源: Spotify Engineering
+2026-09-21 07:30:38,490 - INFO - [spotify-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:38,491 - INFO -   没有新文章
+2026-09-21 07:30:38,491 - INFO - 处理源: DoorDash Engineering
+2026-09-21 07:30:38,646 - INFO - [doordash-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:38,647 - INFO -   没有新文章
+2026-09-21 07:30:38,648 - INFO - 处理源: Discord Engineering
+2026-09-21 07:30:38,752 - INFO - [discord-engineering] 从RSS获取 0 篇待处理文章（共 0 篇未处理）
+2026-09-21 07:30:38,753 - INFO -   没有新文章
+2026-09-21 07:30:38,753 - INFO - 处理源: Supabase Blog
+2026-09-21 07:30:38,988 - ERROR - [supabase-blog] RSS获取失败: 404 Client Error: Not Found for url: https://supabase.com/blog/rss.xml
+2026-09-21 07:30:38,989 - INFO -   没有新文章
+2026-09-21 07:30:38,989 - INFO - ============================================================
+2026-09-21 07:30:38,989 - INFO - 处理完成！共处理 18 篇文章
+2026-09-21 07:30:38,989 - INFO - ============================================================
