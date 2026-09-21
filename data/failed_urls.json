@@ -7955,13 +7955,23 @@
     "timestamp": "2026-09-21T07:29:26.116889"
   },
   "https://greylock.com/blog/welcome-holly-rose-faith-as-greylocks-executive-talent-partner/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-21T07:29:28.867122"
+    "timestamp": "2026-09-21T07:47:51.427679"
   },
   "https://greylock.com/blog/saam-motamedi-is-greylocks-newest-general-partner/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-21T07:47:51.419843"
+  },
+  "https://openai.com/index/chatgpt-for-teens/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-21T07:29:29.006729"
+    "timestamp": "2026-09-21T07:49:07.697489"
+  },
+  "https://openai.com/index/introducing-chatgpt-agent/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-21T07:49:21.329410"
   }
 }
