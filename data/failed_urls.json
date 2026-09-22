@@ -7935,9 +7935,9 @@
     "timestamp": "2026-09-20T07:20:51.769534"
   },
   "https://a16z.simplecast.com/episodes/what-makes-a-consumer-ai-product-stick-josh-elman-xHQUEG_W": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-21T07:29:25.824806"
+    "timestamp": "2026-09-22T07:35:47.765141"
   },
   "https://openai.com/index/reimagining-advertising-with-ai/": {
     "count": 1,
@@ -7945,9 +7945,9 @@
     "timestamp": "2026-09-20T07:37:40.306701"
   },
   "https://a16z.simplecast.com/episodes/nas-grandmaster-caz-steve-stoute-ben-horowitz-on-paying-hip-hops-pioneers-their-due-0OiuXVpk": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-21T07:29:25.805540"
+    "timestamp": "2026-09-22T07:35:47.758743"
   },
   "https://a16z.simplecast.com/episodes/aram-x-jen-x-dg-draft-dXGKJks2": {
     "count": 1,
@@ -7955,14 +7955,14 @@
     "timestamp": "2026-09-21T07:29:26.116889"
   },
   "https://greylock.com/blog/welcome-holly-rose-faith-as-greylocks-executive-talent-partner/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-21T07:47:51.427679"
+    "timestamp": "2026-09-22T07:35:48.787429"
   },
   "https://greylock.com/blog/saam-motamedi-is-greylocks-newest-general-partner/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-21T07:47:51.419843"
+    "timestamp": "2026-09-22T07:35:48.717279"
   },
   "https://openai.com/index/chatgpt-for-teens/": {
     "count": 1,
@@ -7973,5 +7973,30 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-21T07:49:21.329410"
+  },
+  "https://a16z.simplecast.com/episodes/ai-safety-language-is-destroying-the-debate-steven-sinofsky-p7Rb9M_7": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-22T07:35:47.739978"
+  },
+  "https://openai.com/index/expanding-openai-academy-with-new-learning-paths/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-22T07:37:12.595959"
+  },
+  "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-22T07:37:34.187441"
+  },
+  "https://blogs.nvidia.com/blog/physical-ai-halos-safety/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-22T07:37:34.356965"
+  },
+  "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-22T07:37:34.367172"
   }
 }
