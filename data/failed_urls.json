@@ -7975,14 +7975,14 @@
     "timestamp": "2026-09-21T07:49:21.329410"
   },
   "https://a16z.simplecast.com/episodes/ai-safety-language-is-destroying-the-debate-steven-sinofsky-p7Rb9M_7": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-22T07:35:47.739978"
+    "timestamp": "2026-09-24T07:27:14.543144"
   },
   "https://openai.com/index/expanding-openai-academy-with-new-learning-paths/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-22T07:37:12.595959"
+    "timestamp": "2026-09-24T07:28:40.891040"
   },
   "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/": {
     "count": 1,
@@ -7998,5 +7998,40 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-09-22T07:37:34.367172"
+  },
+  "https://a16z.simplecast.com/episodes/amjad-masad-on-rethinking-college-for-the-ai-era-sOmuMQGQ": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-24T07:27:14.551848"
+  },
+  "https://a16z.simplecast.com/episodes/why-a16z-is-building-a-new-school-for-the-ai-era-ben-horowitz-yv3mnCj_": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-24T07:27:14.559456"
+  },
+  "https://openai.com/index/invideo-builds-with-gpt-6-astra/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-24T07:28:32.016690"
+  },
+  "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-24T07:28:59.710297"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-24T07:28:59.911747"
+  },
+  "https://blogs.nvidia.com/blog/ai-day-singapore/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-24T07:28:59.919578"
+  },
+  "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-09-24T07:29:06.417080"
   }
 }
