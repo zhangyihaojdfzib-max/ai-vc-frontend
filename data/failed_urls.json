@@ -8010,9 +8010,9 @@
     "timestamp": "2026-09-24T07:27:14.559456"
   },
   "https://openai.com/index/invideo-builds-with-gpt-6-astra/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-30T08:14:19.398854"
+    "timestamp": "2026-10-02T08:10:11.349320"
   },
   "https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/": {
     "count": 1,
@@ -8040,9 +8040,9 @@
     "timestamp": "2026-09-30T08:12:58.113171"
   },
   "https://a16z.simplecast.com/episodes/the-personal-agent-race-is-here-anish-acharya-david-pawlan-ZNslbKZk": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-30T08:12:58.122070"
+    "timestamp": "2026-10-02T08:08:58.029165"
   },
   "https://a16z.simplecast.com/episodes/building-a-team-at-ai-speed-harveys-maggie-landers-1mxeFqtp": {
     "count": 1,
@@ -8050,9 +8050,9 @@
     "timestamp": "2026-09-30T08:12:58.510435"
   },
   "https://openai.com/index/proaction/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-30T08:14:11.888516"
+    "timestamp": "2026-10-02T08:10:09.209930"
   },
   "https://blogs.nvidia.com/blog/open-protein-dataset/": {
     "count": 1,
@@ -8065,9 +8065,9 @@
     "timestamp": "2026-09-30T08:14:33.701708"
   },
   "https://medium.com/airbnb-engineering/personalization-without-user-identity-8e7891a1d486?source=rss----53c7c27702d5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-30T08:14:38.608666"
+    "timestamp": "2026-10-02T08:10:34.636718"
   },
   "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum": {
     "count": 1,
@@ -8075,8 +8075,43 @@
     "timestamp": "2026-09-30T08:14:39.140582"
   },
   "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-02T08:10:35.875792"
+  },
+  "https://a16z.simplecast.com/episodes/the-1-trillion-ai-buildout-state-of-markets-tkJj_Zp1": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-30T08:14:39.470590"
+    "timestamp": "2026-10-02T08:08:58.009126"
+  },
+  "https://a16z.simplecast.com/episodes/rebuilding-the-internet-for-privacy-barrett-lyon-on-doxxnet-_F1_edMA": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-02T08:08:58.021458"
+  },
+  "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-02T08:10:29.321187"
+  },
+  "https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-02T08:10:29.564283"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-02T08:10:29.601032"
+  },
+  "https://stripe.com/blog/where-pricing-is-headed": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-02T08:10:35.921180"
+  },
+  "https://stripe.com/blog/ousd-now-live-on-stripe": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-02T08:10:35.928746"
   }
 }
