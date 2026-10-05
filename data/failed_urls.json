@@ -8070,9 +8070,9 @@
     "timestamp": "2026-10-04T07:59:32.239286"
   },
   "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-05T08:02:22.628417"
+    "timestamp": "2026-10-05T08:40:39.113973"
   },
   "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link": {
     "count": 3,
@@ -8138,5 +8138,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-05T08:01:16.847331"
+  },
+  "https://greylock.com/blog/welcome-glen-evans-as-vice-president-of-core-talent/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-05T08:39:02.970523"
+  },
+  "https://openai.com/index/devday-2026-recap/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-05T08:40:23.371958"
   }
 }
