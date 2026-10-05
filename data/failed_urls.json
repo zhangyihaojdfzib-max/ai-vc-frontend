@@ -8030,9 +8030,9 @@
     "timestamp": "2026-09-24T07:28:59.919578"
   },
   "https://stripe.com/blog/new-trends-in-global-card-fraud-how-3d-secure-and-regional-mandates-are-affecting-risk": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-30T08:14:39.458267"
+    "timestamp": "2026-10-05T08:02:23.073466"
   },
   "https://a16z.simplecast.com/episodes/ai-can-write-code-why-isnt-software-better-je38wEkC": {
     "count": 1,
@@ -8070,9 +8070,9 @@
     "timestamp": "2026-10-04T07:59:32.239286"
   },
   "https://stripe.com/blog/travels-ai-dilemma-at-skift-global-forum": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-09-30T08:14:39.140582"
+    "timestamp": "2026-10-05T08:02:22.628417"
   },
   "https://stripe.com/blog/helping-personal-agents-shop-more-intelligently-and-reliably-with-link": {
     "count": 3,
@@ -8080,14 +8080,14 @@
     "timestamp": "2026-10-04T07:59:33.278303"
   },
   "https://a16z.simplecast.com/episodes/the-1-trillion-ai-buildout-state-of-markets-tkJj_Zp1": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-10-02T08:08:58.009126"
-  },
-  "https://a16z.simplecast.com/episodes/rebuilding-the-internet-for-privacy-barrett-lyon-on-doxxnet-_F1_edMA": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-04T07:57:53.996681"
+    "timestamp": "2026-10-05T08:01:16.956898"
+  },
+  "https://a16z.simplecast.com/episodes/rebuilding-the-internet-for-privacy-barrett-lyon-on-doxxnet-_F1_edMA": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-05T08:01:16.923354"
   },
   "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/": {
     "count": 2,
@@ -8105,24 +8105,24 @@
     "timestamp": "2026-10-04T07:59:27.000228"
   },
   "https://stripe.com/blog/where-pricing-is-headed": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-04T07:59:33.224760"
+    "timestamp": "2026-10-05T08:02:22.685046"
   },
   "https://stripe.com/blog/ousd-now-live-on-stripe": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-04T07:59:32.916090"
+    "timestamp": "2026-10-05T08:02:22.211507"
   },
   "https://a16z.simplecast.com/episodes/beyond-the-god-model-alex-atallah-amjad-masad-OPhKxfHE": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-04T07:57:53.979742"
+    "timestamp": "2026-10-05T08:01:16.836583"
   },
   "https://a16z.simplecast.com/episodes/why-ai-agents-can-beat-the-incumbents-fcyhpbT6": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-04T07:57:53.987851"
+    "timestamp": "2026-10-05T08:01:16.827810"
   },
   "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/": {
     "count": 1,
@@ -8130,8 +8130,13 @@
     "timestamp": "2026-10-04T07:59:27.073579"
   },
   "https://www.databricks.com/blog/capital-markets-buy-side-runs-nav-finance-protects-fee": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-05T08:02:36.166470"
+  },
+  "https://a16z.simplecast.com/episodes/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion-bFIBGYtV": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-04T07:59:41.945890"
+    "timestamp": "2026-10-05T08:01:16.847331"
   }
 }
