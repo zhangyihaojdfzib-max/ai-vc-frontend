@@ -8140,13 +8140,58 @@
     "timestamp": "2026-10-05T08:01:16.847331"
   },
   "https://greylock.com/blog/welcome-glen-evans-as-vice-president-of-core-talent/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-05T08:39:02.970523"
+    "timestamp": "2026-10-08T08:37:30.626984"
   },
   "https://openai.com/index/devday-2026-recap/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-05T08:40:23.371958"
+  },
+  "https://a16z.simplecast.com/episodes/building-defense-for-the-agentic-era-kevin-mandia-4ylPD1X6": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:37:30.022474"
+  },
+  "https://a16z.simplecast.com/episodes/how-valon-rebuilt-a-13-trillion-industry-from-scratch-0mcVWvYe": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:37:30.031293"
+  },
+  "https://a16z.simplecast.com/episodes/the-top-100-consumer-ai-apps-whos-actually-paying-PdmgSeRQ": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:37:30.039262"
+  },
+  "https://greylock.com/blog/the-foundation-to-successful-blitzscaling/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:37:30.510589"
+  },
+  "https://openai.com/index/jump-trading/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:38:54.007244"
+  },
+  "https://blogs.nvidia.com/blog/telecom-operators-open-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:39:19.683933"
+  },
+  "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:39:19.895251"
+  },
+  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:39:19.903068"
+  },
+  "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-08T08:39:25.152960"
   }
 }
