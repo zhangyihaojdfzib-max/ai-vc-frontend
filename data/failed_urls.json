@@ -8140,9 +8140,9 @@
     "timestamp": "2026-10-05T08:01:16.847331"
   },
   "https://greylock.com/blog/welcome-glen-evans-as-vice-president-of-core-talent/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-08T08:37:30.626984"
+    "timestamp": "2026-10-10T08:16:11.041564"
   },
   "https://openai.com/index/devday-2026-recap/": {
     "count": 1,
@@ -8155,9 +8155,9 @@
     "timestamp": "2026-10-08T08:37:30.022474"
   },
   "https://a16z.simplecast.com/episodes/how-valon-rebuilt-a-13-trillion-industry-from-scratch-0mcVWvYe": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-08T08:37:30.031293"
+    "timestamp": "2026-10-10T08:16:10.370529"
   },
   "https://a16z.simplecast.com/episodes/the-top-100-consumer-ai-apps-whos-actually-paying-PdmgSeRQ": {
     "count": 1,
@@ -8165,9 +8165,9 @@
     "timestamp": "2026-10-08T08:37:30.039262"
   },
   "https://greylock.com/blog/the-foundation-to-successful-blitzscaling/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-08T08:37:30.510589"
+    "timestamp": "2026-10-10T08:16:10.985741"
   },
   "https://openai.com/index/jump-trading/": {
     "count": 1,
@@ -8185,13 +8185,38 @@
     "timestamp": "2026-10-08T08:39:19.895251"
   },
   "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-08T08:39:19.903068"
+    "timestamp": "2026-10-10T08:17:32.506478"
   },
   "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-10T08:17:38.643450"
+  },
+  "https://a16z.simplecast.com/episodes/chips-memory-and-power-pat-gelsinger-uwHe_vsU": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-08T08:39:25.152960"
+    "timestamp": "2026-10-10T08:16:10.358243"
+  },
+  "https://a16z.simplecast.com/episodes/building-the-cloud-for-an-agentic-world-aws-ceo-matt-garman-d18BWOHC": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-10T08:16:10.376371"
+  },
+  "https://openai.com/index/sophos/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-10T08:17:23.082298"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-10T08:17:32.672904"
+  },
+  "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-10T08:17:32.678910"
   }
 }
