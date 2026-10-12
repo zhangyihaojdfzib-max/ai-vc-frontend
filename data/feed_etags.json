@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"da8d229bacded7395c257d5f7a9e3194\"",
+    "etag": "W/\"9fefb08875edd019785f9b56db1bc9de\"",
     "last_modified": null,
-    "updated": "2026-10-12T08:21:43.603229"
+    "updated": "2026-10-12T08:51:33.471207"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"91b18bb59890637b3f4f40a8f0f83aa1\"",
@@ -70,19 +70,19 @@
     "updated": "2026-10-08T08:38:35.821200"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"o929ng\"",
+    "etag": "\"gjfWQA\"",
     "last_modified": null,
-    "updated": "2026-10-12T08:23:02.168160"
+    "updated": "2026-10-12T08:53:16.569258"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Tue, 6 Oct 2026 11:37:19 GMT",
-    "updated": "2026-10-12T08:23:02.624975"
+    "updated": "2026-10-12T08:53:17.158938"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"c92854f1f91e7f5759a1ce686c88fbce\"",
-    "last_modified": "Sun, 11 Oct 2026 02:12:13 GMT",
-    "updated": "2026-10-11T08:06:22.109272"
+    "etag": "\"1395ca532149f79536fc838fe9c5d7f8\"",
+    "last_modified": "Mon, 12 Oct 2026 08:53:16 GMT",
+    "updated": "2026-10-12T08:53:21.683965"
   },
   "https://blogs.nvidia.com/feed/": {
     "etag": "\"164a6d18b55bb2370f43ce628fd72ae4-gzip\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"46973-657c8b456a0bd-gzip\"",
     "last_modified": "Wed, 29 Jul 2026 23:56:30 GMT",
-    "updated": "2026-10-12T08:23:05.105366"
+    "updated": "2026-10-12T08:53:22.010266"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Wed, 07 Oct 2026 18:20:02 GMT",
-    "updated": "2026-10-12T08:23:15.271103"
+    "last_modified": "Wed, 07 Oct 2026 18:21:17 GMT",
+    "updated": "2026-10-12T08:53:29.295748"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"0293819a31db2e33897a3da47611586b\"",

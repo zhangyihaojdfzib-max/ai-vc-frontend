@@ -8228,5 +8228,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-12T08:21:47.706655"
+  },
+  "https://openai.com/index/introducing-gpt-live-1-in-the-api/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-12T08:52:59.976589"
+  },
+  "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-12T08:53:14.175538"
   }
 }
