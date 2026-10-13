@@ -8135,9 +8135,9 @@
     "timestamp": "2026-10-05T08:02:36.166470"
   },
   "https://a16z.simplecast.com/episodes/david-george-jack-altman-on-ai-autonomy-and-the-next-25-trillion-bFIBGYtV": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-05T08:01:16.847331"
+    "timestamp": "2026-10-13T08:46:48.153180"
   },
   "https://greylock.com/blog/welcome-glen-evans-as-vice-president-of-core-talent/": {
     "count": 3,
@@ -8160,9 +8160,9 @@
     "timestamp": "2026-10-11T08:05:16.808805"
   },
   "https://a16z.simplecast.com/episodes/the-top-100-consumer-ai-apps-whos-actually-paying-PdmgSeRQ": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-08T08:37:30.039262"
+    "timestamp": "2026-10-13T08:46:48.162084"
   },
   "https://greylock.com/blog/the-foundation-to-successful-blitzscaling/": {
     "count": 3,
@@ -8185,9 +8185,9 @@
     "timestamp": "2026-10-08T08:39:19.895251"
   },
   "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-10T08:17:32.506478"
+    "timestamp": "2026-10-13T08:48:11.934937"
   },
   "https://medium.com/airbnb-engineering/beyond-synthetic-testing-capturing-and-replaying-real-database-workloads-at-airbnb-cea7ee9b1ab2?source=rss----53c7c27702d5---4": {
     "count": 3,
@@ -8210,24 +8210,24 @@
     "timestamp": "2026-10-10T08:17:23.082298"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-10-10T08:17:32.672904"
-  },
-  "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-10-10T08:17:32.678910"
-  },
-  "https://a16z.simplecast.com/episodes/what-makes-a-great-entrepreneur-ben-horowitz-on-vintage-x-vintage-FiiBzjgE": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-12T08:21:47.724151"
+    "timestamp": "2026-10-13T08:48:11.875353"
+  },
+  "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-13T08:48:11.660741"
+  },
+  "https://a16z.simplecast.com/episodes/what-makes-a-great-entrepreneur-ben-horowitz-on-vintage-x-vintage-FiiBzjgE": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-13T08:46:47.914035"
   },
   "https://a16z.simplecast.com/episodes/nick-bostrom-how-should-we-navigate-superintelligence-COJSBboX": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-12T08:21:47.706655"
+    "timestamp": "2026-10-13T08:46:47.941657"
   },
   "https://openai.com/index/introducing-gpt-live-1-in-the-api/": {
     "count": 1,
@@ -8238,5 +8238,20 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-12T08:53:14.175538"
+  },
+  "https://a16z.simplecast.com/episodes/the-race-to-recursive-self-improving-ai-OPuX1TcP": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-13T08:46:47.932268"
+  },
+  "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-13T08:48:11.457951"
+  },
+  "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-13T08:48:11.651537"
   }
 }
