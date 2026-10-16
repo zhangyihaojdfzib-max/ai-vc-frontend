@@ -8225,9 +8225,9 @@
     "timestamp": "2026-10-13T08:46:47.914035"
   },
   "https://a16z.simplecast.com/episodes/nick-bostrom-how-should-we-navigate-superintelligence-COJSBboX": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-13T08:46:47.941657"
+    "timestamp": "2026-10-16T06:39:06.679544"
   },
   "https://openai.com/index/introducing-gpt-live-1-in-the-api/": {
     "count": 1,
@@ -8240,9 +8240,9 @@
     "timestamp": "2026-10-12T08:53:14.175538"
   },
   "https://a16z.simplecast.com/episodes/the-race-to-recursive-self-improving-ai-OPuX1TcP": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-13T08:46:47.932268"
+    "timestamp": "2026-10-16T06:39:06.668831"
   },
   "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/": {
     "count": 1,
@@ -8258,5 +8258,60 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-13T09:10:16.898991"
+  },
+  "https://a16z.simplecast.com/episodes/can-open-models-keep-up-with-the-ai-frontier-nathan-lambert-WqIVvxfv": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:39:06.405609"
+  },
+  "https://a16z.simplecast.com/episodes/when-ai-agents-start-spending-your-money-alex-rampell-terry-angelos-YowGFPLh": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:39:06.420110"
+  },
+  "https://a16z.simplecast.com/episodes/can-ai-break-cryptography-what-the-experts-actually-think-LCUGnMEC": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:39:06.429456"
+  },
+  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:40:32.619744"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:40:32.775342"
+  },
+  "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:40:32.787811"
+  },
+  "https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:40:32.996550"
+  },
+  "https://blogs.nvidia.com/blog/nordics-technology-ecosystem/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:40:33.092177"
+  },
+  "https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:40:48.778499"
+  },
+  "https://stripe.com/blog/real-time-stripe-data-postgres": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:40:49.453274"
+  },
+  "https://stripe.com/blog/economics-of-ai-monetization": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:40:49.746619"
   }
 }
