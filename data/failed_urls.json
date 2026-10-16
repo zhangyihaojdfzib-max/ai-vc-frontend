@@ -8300,18 +8300,33 @@
     "timestamp": "2026-10-16T06:40:33.092177"
   },
   "https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:40:48.778499"
+    "timestamp": "2026-10-16T06:55:33.426914"
   },
   "https://stripe.com/blog/real-time-stripe-data-postgres": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:40:49.453274"
+    "timestamp": "2026-10-16T06:55:34.179931"
   },
   "https://stripe.com/blog/economics-of-ai-monetization": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:55:34.384487"
+  },
+  "https://openai.com/index/introducing-the-rosalind-academic-plan/": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:40:49.746619"
+    "timestamp": "2026-10-16T06:55:20.795158"
+  },
+  "https://openai.com/index/introducing-apps-in-chatgpt/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:55:22.921336"
+  },
+  "https://openai.com/index/introducing-4o-image-generation/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-16T06:55:25.086308"
   }
 }
