@@ -8300,14 +8300,14 @@
     "timestamp": "2026-10-16T06:40:33.092177"
   },
   "https://medium.com/airbnb-engineering/castle-training-natural-language-search-before-the-first-real-query-3818ef8b4828?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:55:33.426914"
+    "timestamp": "2026-10-20T07:22:19.688545"
   },
   "https://stripe.com/blog/real-time-stripe-data-postgres": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:55:34.179931"
+    "timestamp": "2026-10-20T07:22:20.818176"
   },
   "https://stripe.com/blog/economics-of-ai-monetization": {
     "count": 2,
@@ -8328,5 +8328,60 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-16T06:55:25.086308"
+  },
+  "https://a16z.simplecast.com/episodes/why-ai-could-finally-fix-healthcare-access-zocdoc-ceo-oliver-kharraz-9n_zG60B": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:20:43.321969"
+  },
+  "https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:20:43.345788"
+  },
+  "https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:20:43.354121"
+  },
+  "https://openai.com/index/benefit-street-partners/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:21:59.856501"
+  },
+  "https://openai.com/index/localiza-generative-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:22:01.983908"
+  },
+  "https://openai.com/index/itau-generative-ai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:22:04.112417"
+  },
+  "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:22:12.024757"
+  },
+  "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:22:12.223735"
+  },
+  "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:22:12.231777"
+  },
+  "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:22:20.193807"
+  },
+  "https://stripe.com/blog/saas-platform-trends-in-AI-era": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-20T07:22:20.782497"
   }
 }
