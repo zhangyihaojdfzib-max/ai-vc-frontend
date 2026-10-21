@@ -8275,9 +8275,9 @@
     "timestamp": "2026-10-16T06:39:06.429456"
   },
   "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:40:32.619744"
+    "timestamp": "2026-10-21T06:57:53.919589"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/": {
     "count": 1,
@@ -8310,9 +8310,9 @@
     "timestamp": "2026-10-20T07:22:20.818176"
   },
   "https://stripe.com/blog/economics-of-ai-monetization": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:55:34.384487"
+    "timestamp": "2026-10-21T06:58:04.444136"
   },
   "https://openai.com/index/introducing-the-rosalind-academic-plan/": {
     "count": 1,
@@ -8330,19 +8330,19 @@
     "timestamp": "2026-10-16T06:55:25.086308"
   },
   "https://a16z.simplecast.com/episodes/why-ai-could-finally-fix-healthcare-access-zocdoc-ceo-oliver-kharraz-9n_zG60B": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-20T07:20:43.321969"
+    "timestamp": "2026-10-21T06:56:01.501350"
   },
   "https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-20T07:20:43.345788"
+    "timestamp": "2026-10-21T06:56:01.307776"
   },
   "https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-20T07:20:43.354121"
+    "timestamp": "2026-10-21T06:56:01.274016"
   },
   "https://openai.com/index/benefit-street-partners/": {
     "count": 1,
@@ -8360,28 +8360,43 @@
     "timestamp": "2026-10-20T07:22:04.112417"
   },
   "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-20T07:22:12.024757"
+    "timestamp": "2026-10-21T06:57:53.392919"
   },
   "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-20T07:22:12.223735"
+    "timestamp": "2026-10-21T06:57:53.383611"
   },
   "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-20T07:22:12.231777"
+    "timestamp": "2026-10-21T06:57:53.167988"
   },
   "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-20T07:22:20.193807"
+    "timestamp": "2026-10-21T06:58:03.795313"
   },
   "https://stripe.com/blog/saas-platform-trends-in-AI-era": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-21T06:58:04.367934"
+  },
+  "https://a16z.simplecast.com/episodes/what-happens-when-everyone-has-a-health-expert-in-their-pocket-openais-karan-singhal-OIiX2t5T": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-20T07:22:20.782497"
+    "timestamp": "2026-10-21T06:56:01.290782"
+  },
+  "https://a16z.simplecast.com/episodes/ai-can-write-the-code-can-it-run-the-system-grepr-ceo-jad-naous-p_ifxVi2": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-21T06:56:01.476116"
+  },
+  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-21T06:57:53.870352"
   }
 }
