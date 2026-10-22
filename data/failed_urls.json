@@ -8325,9 +8325,9 @@
     "timestamp": "2026-10-16T06:55:22.921336"
   },
   "https://openai.com/index/introducing-4o-image-generation/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:55:25.086308"
+    "timestamp": "2026-10-22T07:23:17.001266"
   },
   "https://a16z.simplecast.com/episodes/why-ai-could-finally-fix-healthcare-access-zocdoc-ceo-oliver-kharraz-9n_zG60B": {
     "count": 3,
@@ -8428,5 +8428,15 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-22T06:55:39.992651"
+  },
+  "https://openai.com/index/empowering-cyber-defenders/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-22T07:23:12.743652"
+  },
+  "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-22T07:23:14.866692"
   }
 }
