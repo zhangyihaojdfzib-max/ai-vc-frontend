@@ -8330,19 +8330,19 @@
     "timestamp": "2026-10-16T06:55:25.086308"
   },
   "https://a16z.simplecast.com/episodes/why-ai-could-finally-fix-healthcare-access-zocdoc-ceo-oliver-kharraz-9n_zG60B": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-21T06:56:01.501350"
+    "timestamp": "2026-10-22T06:54:18.570311"
   },
   "https://a16z.simplecast.com/episodes/what-happens-when-al-agents-can-spend-your-money-PREiwaJH": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-21T06:56:01.307776"
+    "timestamp": "2026-10-22T06:54:18.370749"
   },
   "https://a16z.simplecast.com/episodes/why-real-world-ai-is-harder-than-the-benchmark-eliseais-mario-martone-SJLazqim": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-21T06:56:01.274016"
+    "timestamp": "2026-10-22T06:54:18.541535"
   },
   "https://openai.com/index/benefit-street-partners/": {
     "count": 1,
@@ -8385,9 +8385,9 @@
     "timestamp": "2026-10-21T07:19:49.651877"
   },
   "https://a16z.simplecast.com/episodes/what-happens-when-everyone-has-a-health-expert-in-their-pocket-openais-karan-singhal-OIiX2t5T": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-21T06:56:01.290782"
+    "timestamp": "2026-10-22T06:54:18.361307"
   },
   "https://a16z.simplecast.com/episodes/ai-can-write-the-code-can-it-run-the-system-grepr-ceo-jad-naous-p_ifxVi2": {
     "count": 1,
@@ -8398,5 +8398,35 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-21T06:57:53.870352"
+  },
+  "https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-22T06:54:18.349672"
+  },
+  "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-22T06:55:39.504457"
+  },
+  "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-22T06:55:39.709345"
+  },
+  "https://blogs.nvidia.com/blog/dsx-power/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-22T06:55:39.718344"
+  },
+  "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-22T06:55:39.896932"
+  },
+  "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-22T06:55:39.992651"
   }
 }
