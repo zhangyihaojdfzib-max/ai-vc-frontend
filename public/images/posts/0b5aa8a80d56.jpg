@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Granite Timeseries Ensemble architecture</title>
+  <desc id="desc">Four Granite forecasting models produce quantile forecasts. The forecasts pass through either uniform probability pooling or IQR weighting to produce one ensemble forecast distribution.</desc>
+  <rect width="1200" height="560" fill="white"/>
+  <style>
+    text{font-family:Arial,sans-serif;fill:#161616}.heading{font-size:25px;font-weight:700}.section{font-size:17px;font-weight:700}.label{font-size:15px}.small{font-size:13px;fill:#525252}.member{fill:#edf5ff;stroke:#78a9ff;stroke-width:2}.interface{fill:#f4f4f4;stroke:#8d8d8d;stroke-width:2}.default{fill:#d0e2ff;stroke:#0f62fe;stroke-width:3}.alternative{fill:#e8daff;stroke:#8a3ffc;stroke-width:3}.output{fill:#defbe6;stroke:#24a148;stroke-width:2}.arrow{stroke:#525252;stroke-width:2.5;fill:none}.branch{stroke:#8d8d8d;stroke-width:2;fill:none}
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#525252"/>
+    </marker>
+  </defs>
+
+  <text x="600" y="38" text-anchor="middle" class="heading">From diverse Granite models to one forecast distribution</text>
+
+  <text x="150" y="82" text-anchor="middle" class="section">Four pretrained members</text>
+  <rect x="35" y="105" width="230" height="62" rx="6" class="member"/>
+  <text x="150" y="132" text-anchor="middle" class="label">PatchTST-FM-r1</text>
+  <text x="150" y="152" text-anchor="middle" class="small">Transformer</text>
+  <rect x="35" y="184" width="230" height="62" rx="6" class="member"/>
+  <text x="150" y="211" text-anchor="middle" class="label">PatchTST-FM-r2</text>
+  <text x="150" y="231" text-anchor="middle" class="small">Conformer</text>
+  <rect x="35" y="263" width="230" height="62" rx="6" class="member"/>
+  <text x="150" y="290" text-anchor="middle" class="label">FlowState-r1.1</text>
+  <text x="150" y="310" text-anchor="middle" class="small">State-space model</text>
+  <rect x="35" y="342" width="230" height="62" rx="6" class="member"/>
+  <text x="150" y="369" text-anchor="middle" class="label">TTM-r3</text>
+  <text x="150" y="389" text-anchor="middle" class="small">Lightweight mixer</text>
+
+  <path d="M265 136 L350 136 L350 254 L405 254" class="branch" marker-end="url(#arrow)"/>
+  <path d="M265 215 L330 215 L330 264 L405 264" class="branch" marker-end="url(#arrow)"/>
+  <path d="M265 294 L330 294 L330 274 L405 274" class="branch" marker-end="url(#arrow)"/>
+  <path d="M265 373 L350 373 L350 284 L405 284" class="branch" marker-end="url(#arrow)"/>
+
+  <rect x="405" y="213" width="220" height="110" rx="6" class="interface"/>
+  <text x="515" y="250" text-anchor="middle" class="section">Common quantile interface</text>
+  <text x="515" y="276" text-anchor="middle" class="small">0.1, 0.2, ... 0.9</text>
+  <text x="515" y="298" text-anchor="middle" class="small">sample × horizon × target</text>
+
+  <path d="M625 268 L695 268 L695 163 L750 163" class="branch" marker-end="url(#arrow)"/>
+  <path d="M625 268 L695 268 L695 353 L750 353" class="branch" marker-end="url(#arrow)"/>
+
+  <rect x="750" y="108" width="260" height="110" rx="6" class="default"/>
+  <text x="880" y="144" text-anchor="middle" class="section">Uniform probability pooling</text>
+  <text x="880" y="170" text-anchor="middle" class="small">Recommended default</text>
+  <text x="880" y="193" text-anchor="middle" class="small">Equal member influence</text>
+
+  <rect x="750" y="298" width="260" height="110" rx="6" class="alternative"/>
+  <text x="880" y="334" text-anchor="middle" class="section">IQR weighting</text>
+  <text x="880" y="360" text-anchor="middle" class="small">Evaluated alternative</text>
+  <text x="880" y="383" text-anchor="middle" class="small">Weights vary with interval width</text>
+
+  <path d="M1010 163 L1060 163 L1060 258 L1090 258" class="branch" marker-end="url(#arrow)"/>
+  <path d="M1010 353 L1060 353 L1060 278 L1090 278" class="branch" marker-end="url(#arrow)"/>
+
+  <rect x="1090" y="217" width="90" height="102" rx="6" class="output"/>
+  <text x="1135" y="251" text-anchor="middle" class="section">One</text>
+  <text x="1135" y="274" text-anchor="middle" class="section">ensemble</text>
+  <text x="1135" y="297" text-anchor="middle" class="small">distribution</text>
+
+  <text x="600" y="505" text-anchor="middle" class="small">No retraining or fitted combination weights required</text>
+</svg>

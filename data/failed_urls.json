@@ -8385,9 +8385,9 @@
     "timestamp": "2026-10-21T07:19:49.651877"
   },
   "https://a16z.simplecast.com/episodes/what-happens-when-everyone-has-a-health-expert-in-their-pocket-openais-karan-singhal-OIiX2t5T": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T06:54:18.361307"
+    "timestamp": "2026-10-23T07:12:12.112495"
   },
   "https://a16z.simplecast.com/episodes/ai-can-write-the-code-can-it-run-the-system-grepr-ceo-jad-naous-p_ifxVi2": {
     "count": 1,
@@ -8400,9 +8400,9 @@
     "timestamp": "2026-10-21T06:57:53.870352"
   },
   "https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T06:54:18.349672"
+    "timestamp": "2026-10-23T07:12:12.094840"
   },
   "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
     "count": 1,
@@ -8430,13 +8430,48 @@
     "timestamp": "2026-10-22T06:55:39.992651"
   },
   "https://openai.com/index/empowering-cyber-defenders/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T07:23:12.743652"
+    "timestamp": "2026-10-23T07:13:20.245396"
   },
   "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-22T07:23:14.866692"
+  },
+  "https://a16z.simplecast.com/episodes/tbc-gRs50MgP": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-23T07:12:12.104717"
+  },
+  "https://openai.com/index/forward-deployed-engineering-means/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-23T07:13:15.976718"
+  },
+  "https://openai.com/index/uber-chatgpt-work-rollout/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-23T07:13:18.120737"
+  },
+  "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-23T07:13:35.888023"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-23T07:13:36.088598"
+  },
+  "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-23T07:13:36.096606"
+  },
+  "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-23T07:13:42.308660"
   }
 }
