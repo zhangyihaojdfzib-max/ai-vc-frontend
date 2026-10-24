@@ -8400,9 +8400,9 @@
     "timestamp": "2026-10-21T06:57:53.870352"
   },
   "https://a16z.simplecast.com/episodes/the-missing-infrastructure-for-ai-agents-documents-reductos-adit-abraham-Tf_0B_WM": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-23T07:12:12.094840"
+    "timestamp": "2026-10-24T07:03:17.475259"
   },
   "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
     "count": 1,
@@ -8440,14 +8440,14 @@
     "timestamp": "2026-10-22T07:23:14.866692"
   },
   "https://a16z.simplecast.com/episodes/tbc-gRs50MgP": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-23T07:12:12.104717"
+    "timestamp": "2026-10-24T07:03:17.456807"
   },
   "https://openai.com/index/forward-deployed-engineering-means/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-23T07:13:15.976718"
+    "timestamp": "2026-10-24T07:04:23.575566"
   },
   "https://openai.com/index/uber-chatgpt-work-rollout/": {
     "count": 1,
@@ -8455,23 +8455,33 @@
     "timestamp": "2026-10-23T07:13:18.120737"
   },
   "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-23T07:13:35.888023"
+    "timestamp": "2026-10-24T07:04:39.364632"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-23T07:13:36.088598"
+    "timestamp": "2026-10-24T07:04:39.373624"
   },
   "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-23T07:13:36.096606"
+    "timestamp": "2026-10-24T07:04:39.381758"
   },
   "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-24T07:04:45.486858"
+  },
+  "https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-23T07:13:42.308660"
+    "timestamp": "2026-10-24T07:03:17.467464"
+  },
+  "https://openai.com/index/scaling-storage-one-billion-users-part-two/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-24T07:04:33.995652"
   }
 }
