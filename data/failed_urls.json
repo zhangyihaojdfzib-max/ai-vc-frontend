@@ -8435,9 +8435,9 @@
     "timestamp": "2026-10-25T07:10:06.843420"
   },
   "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:10:08.876835"
+    "timestamp": "2026-10-25T07:27:02.796963"
   },
   "https://a16z.simplecast.com/episodes/tbc-gRs50MgP": {
     "count": 3,
@@ -8490,8 +8490,8 @@
     "timestamp": "2026-10-25T07:09:17.707282"
   },
   "https://openai.com/index/openai-nask-ai-safety-security-partnership/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:10:04.812499"
+    "timestamp": "2026-10-25T07:27:00.642183"
   }
 }
