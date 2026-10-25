@@ -8265,9 +8265,9 @@
     "timestamp": "2026-10-16T06:39:06.405609"
   },
   "https://a16z.simplecast.com/episodes/when-ai-agents-start-spending-your-money-alex-rampell-terry-angelos-YowGFPLh": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:39:06.420110"
+    "timestamp": "2026-10-25T07:09:17.915156"
   },
   "https://a16z.simplecast.com/episodes/can-ai-break-cryptography-what-the-experts-actually-think-LCUGnMEC": {
     "count": 1,
@@ -8390,9 +8390,9 @@
     "timestamp": "2026-10-23T07:12:12.112495"
   },
   "https://a16z.simplecast.com/episodes/ai-can-write-the-code-can-it-run-the-system-grepr-ceo-jad-naous-p_ifxVi2": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-21T06:56:01.476116"
+    "timestamp": "2026-10-25T07:09:17.795914"
   },
   "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/": {
     "count": 1,
@@ -8405,14 +8405,14 @@
     "timestamp": "2026-10-24T07:03:17.475259"
   },
   "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T06:55:39.504457"
+    "timestamp": "2026-10-25T07:10:15.290390"
   },
   "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T06:55:39.709345"
+    "timestamp": "2026-10-25T07:10:15.372756"
   },
   "https://blogs.nvidia.com/blog/dsx-power/": {
     "count": 1,
@@ -8430,24 +8430,24 @@
     "timestamp": "2026-10-22T06:55:39.992651"
   },
   "https://openai.com/index/empowering-cyber-defenders/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-23T07:13:20.245396"
+    "timestamp": "2026-10-25T07:10:06.843420"
   },
   "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T07:23:14.866692"
+    "timestamp": "2026-10-25T07:10:08.876835"
   },
   "https://a16z.simplecast.com/episodes/tbc-gRs50MgP": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-24T07:03:17.456807"
+    "timestamp": "2026-10-25T07:09:17.536044"
   },
   "https://openai.com/index/forward-deployed-engineering-means/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-24T07:04:23.575566"
+    "timestamp": "2026-10-25T07:10:00.692298"
   },
   "https://openai.com/index/uber-chatgpt-work-rollout/": {
     "count": 1,
@@ -8455,33 +8455,43 @@
     "timestamp": "2026-10-23T07:13:18.120737"
   },
   "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-24T07:04:39.364632"
+    "timestamp": "2026-10-25T07:10:15.105239"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-24T07:04:39.373624"
+    "timestamp": "2026-10-25T07:10:15.097379"
   },
   "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-24T07:04:39.381758"
+    "timestamp": "2026-10-25T07:10:14.994701"
   },
   "https://stripe.com/blog/trends-from-money20-20-2026-the-rise-of-hidden-financial-services": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-24T07:04:45.486858"
+    "timestamp": "2026-10-25T07:10:16.897979"
   },
   "https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-24T07:03:17.467464"
+    "timestamp": "2026-10-25T07:09:17.605501"
   },
   "https://openai.com/index/scaling-storage-one-billion-users-part-two/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-25T07:10:02.729032"
+  },
+  "https://a16z.simplecast.com/episodes/what-it-takes-to-win-as-a-founder-ben-horowitz-AjG_7MSY": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-24T07:04:33.995652"
+    "timestamp": "2026-10-25T07:09:17.707282"
+  },
+  "https://openai.com/index/openai-nask-ai-safety-security-partnership/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-25T07:10:04.812499"
   }
 }
