@@ -8500,19 +8500,19 @@
     "timestamp": "2026-10-26T07:16:26.017692"
   },
   "https://openai.com/index/improving-health-intelligence-in-chatgpt/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-26T07:17:10.367809"
+    "timestamp": "2026-10-26T07:41:24.447410"
   },
   "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-26T07:17:12.400350"
+    "timestamp": "2026-10-26T07:41:26.584087"
   },
   "https://openai.com/index/openai-api/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-26T07:17:14.435577"
+    "timestamp": "2026-10-26T07:41:28.720363"
   },
   "https://openai.com/index/chatgpt-ads-expands-26-new-countries/": {
     "count": 1,
