@@ -8265,9 +8265,9 @@
     "timestamp": "2026-10-16T06:39:06.405609"
   },
   "https://a16z.simplecast.com/episodes/when-ai-agents-start-spending-your-money-alex-rampell-terry-angelos-YowGFPLh": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:09:17.915156"
+    "timestamp": "2026-10-26T07:16:26.092756"
   },
   "https://a16z.simplecast.com/episodes/can-ai-break-cryptography-what-the-experts-actually-think-LCUGnMEC": {
     "count": 1,
@@ -8390,9 +8390,9 @@
     "timestamp": "2026-10-23T07:12:12.112495"
   },
   "https://a16z.simplecast.com/episodes/ai-can-write-the-code-can-it-run-the-system-grepr-ceo-jad-naous-p_ifxVi2": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:09:17.795914"
+    "timestamp": "2026-10-26T07:16:26.078382"
   },
   "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/": {
     "count": 1,
@@ -8475,9 +8475,9 @@
     "timestamp": "2026-10-25T07:10:16.897979"
   },
   "https://a16z.simplecast.com/episodes/amazon-ceo-220-billion-still-cant-meet-ai-demand-3QzhqLQK": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:09:17.605501"
+    "timestamp": "2026-10-26T07:16:26.037809"
   },
   "https://openai.com/index/scaling-storage-one-billion-users-part-two/": {
     "count": 2,
@@ -8485,13 +8485,38 @@
     "timestamp": "2026-10-25T07:10:02.729032"
   },
   "https://a16z.simplecast.com/episodes/what-it-takes-to-win-as-a-founder-ben-horowitz-AjG_7MSY": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:09:17.707282"
-  },
-  "https://openai.com/index/openai-nask-ai-safety-security-partnership/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:27:00.642183"
+    "timestamp": "2026-10-26T07:16:26.027962"
+  },
+  "https://openai.com/index/openai-nask-ai-safety-security-partnership/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-26T07:17:08.336125"
+  },
+  "https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-26T07:16:26.017692"
+  },
+  "https://openai.com/index/improving-health-intelligence-in-chatgpt/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-26T07:17:10.367809"
+  },
+  "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-26T07:17:12.400350"
+  },
+  "https://openai.com/index/openai-api/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-26T07:17:14.435577"
+  },
+  "https://openai.com/index/chatgpt-ads-expands-26-new-countries/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-26T07:17:16.475254"
   }
 }
