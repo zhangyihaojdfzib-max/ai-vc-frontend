@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"9d1c397326952f6f75520eb89bc42b7b\"",
+    "etag": "W/\"bbc52e3cad5e4d143484f0334994c7fc\"",
     "last_modified": null,
-    "updated": "2026-10-27T07:07:46.176961"
+    "updated": "2026-10-27T07:31:40.175649"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"8e6f0f4cbacd44b36cbe0cd3b3eab532\"",
@@ -70,14 +70,14 @@
     "updated": "2026-10-27T07:08:27.708893"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"mQ0ImQ\"",
+    "etag": "\"SXnGqw\"",
     "last_modified": null,
-    "updated": "2026-10-27T07:08:49.815977"
+    "updated": "2026-10-27T07:32:46.815767"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 18 Oct 2026 03:59:05 GMT",
-    "updated": "2026-10-27T07:08:50.250176"
+    "updated": "2026-10-27T07:32:47.433957"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
     "etag": "\"9b93aeb2e651f1dc7891b98c977ff7ce\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"46973-657c8b456a0bd-gzip\"",
     "last_modified": "Wed, 29 Jul 2026 23:56:30 GMT",
-    "updated": "2026-10-27T07:08:55.538140"
+    "updated": "2026-10-27T07:32:51.539439"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -117,7 +117,7 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Mon, 26 Oct 2026 19:23:09 GMT",
-    "updated": "2026-10-27T07:09:11.554284"
+    "updated": "2026-10-27T07:32:58.132666"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"0c0aef54121c197d2d25a6a58cec919b\"",
@@ -125,9 +125,9 @@
     "updated": "2026-10-27T07:09:11.738984"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"b32dd86836bb5bcc58c263e3e012eff1\"",
+    "etag": "W/\"3a3a29adc312c091743e666fa532128c\"",
     "last_modified": null,
-    "updated": "2026-10-27T07:09:00.347896"
+    "updated": "2026-10-27T07:32:52.626223"
   },
   "https://blog.cloudflare.com/rss/": {
     "etag": null,

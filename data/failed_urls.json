@@ -6985,9 +6985,9 @@
     "timestamp": "2026-07-17T05:11:15.415367"
   },
   "https://openai.com/index/introducing-upgrades-to-codex/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-07-17T05:21:22.449306"
+    "timestamp": "2026-10-27T07:32:44.618654"
   },
   "https://openai.com/index/gpt-5-1-codex-max/": {
     "count": 1,
@@ -8525,14 +8525,14 @@
     "timestamp": "2026-10-27T07:07:50.329886"
   },
   "https://openai.com/index/fanatics-streamline-fan-experience/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-27T07:08:37.998122"
+    "timestamp": "2026-10-27T07:32:40.319829"
   },
   "https://openai.com/index/openai-cut-incident-investigation/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-27T07:08:40.042149"
+    "timestamp": "2026-10-27T07:32:42.463160"
   },
   "https://openai.com/index/introducing-company-knowledge/": {
     "count": 1,
