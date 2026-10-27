@@ -8260,9 +8260,9 @@
     "timestamp": "2026-10-13T09:10:16.898991"
   },
   "https://a16z.simplecast.com/episodes/can-open-models-keep-up-with-the-ai-frontier-nathan-lambert-WqIVvxfv": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:39:06.405609"
+    "timestamp": "2026-10-27T07:07:50.438098"
   },
   "https://a16z.simplecast.com/episodes/when-ai-agents-start-spending-your-money-alex-rampell-terry-angelos-YowGFPLh": {
     "count": 3,
@@ -8270,9 +8270,9 @@
     "timestamp": "2026-10-26T07:16:26.092756"
   },
   "https://a16z.simplecast.com/episodes/can-ai-break-cryptography-what-the-experts-actually-think-LCUGnMEC": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-16T06:39:06.429456"
+    "timestamp": "2026-10-27T07:07:50.428317"
   },
   "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/": {
     "count": 2,
@@ -8405,29 +8405,29 @@
     "timestamp": "2026-10-24T07:03:17.475259"
   },
   "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:10:15.290390"
+    "timestamp": "2026-10-27T07:08:54.529001"
   },
   "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-25T07:10:15.372756"
+    "timestamp": "2026-10-27T07:08:54.689295"
   },
   "https://blogs.nvidia.com/blog/dsx-power/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T06:55:39.718344"
+    "timestamp": "2026-10-27T07:08:54.679011"
   },
   "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T06:55:39.896932"
+    "timestamp": "2026-10-27T07:08:54.870708"
   },
   "https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-22T06:55:39.992651"
+    "timestamp": "2026-10-27T07:08:54.947785"
   },
   "https://openai.com/index/empowering-cyber-defenders/": {
     "count": 3,
@@ -8485,9 +8485,9 @@
     "timestamp": "2026-10-25T07:10:02.729032"
   },
   "https://a16z.simplecast.com/episodes/what-it-takes-to-win-as-a-founder-ben-horowitz-AjG_7MSY": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-26T07:16:26.027962"
+    "timestamp": "2026-10-27T07:07:50.318300"
   },
   "https://openai.com/index/openai-nask-ai-safety-security-partnership/": {
     "count": 3,
@@ -8495,9 +8495,9 @@
     "timestamp": "2026-10-26T07:17:08.336125"
   },
   "https://a16z.simplecast.com/episodes/the-new-startup-playbook-box-ceo-aaron-levie-I0FN5_nv": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-26T07:16:26.017692"
+    "timestamp": "2026-10-27T07:07:50.340112"
   },
   "https://openai.com/index/improving-health-intelligence-in-chatgpt/": {
     "count": 2,
@@ -8518,5 +8518,35 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-26T07:17:16.475254"
+  },
+  "https://a16z.simplecast.com/episodes/openai-when-ai-agents-use-computers-faster-than-you-QLF23qpt": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-27T07:07:50.329886"
+  },
+  "https://openai.com/index/fanatics-streamline-fan-experience/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-27T07:08:37.998122"
+  },
+  "https://openai.com/index/openai-cut-incident-investigation/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-27T07:08:40.042149"
+  },
+  "https://openai.com/index/introducing-company-knowledge/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-27T07:08:42.077307"
+  },
+  "https://openai.com/index/decisions-api/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-27T07:08:44.120908"
+  },
+  "https://openai.com/index/codex-now-generally-available/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-27T07:08:46.167415"
   }
 }
