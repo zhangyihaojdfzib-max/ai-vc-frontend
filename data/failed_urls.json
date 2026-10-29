@@ -8415,9 +8415,9 @@
     "timestamp": "2026-10-27T07:08:54.689295"
   },
   "https://blogs.nvidia.com/blog/dsx-power/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-27T07:08:54.679011"
+    "timestamp": "2026-10-29T08:15:36.940513"
   },
   "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/": {
     "count": 2,
@@ -8520,14 +8520,14 @@
     "timestamp": "2026-10-26T07:17:16.475254"
   },
   "https://a16z.simplecast.com/episodes/openai-when-ai-agents-use-computers-faster-than-you-QLF23qpt": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-10-27T07:07:50.329886"
-  },
-  "https://openai.com/index/fanatics-streamline-fan-experience/": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-27T07:32:40.319829"
+    "timestamp": "2026-10-29T08:14:21.778585"
+  },
+  "https://openai.com/index/fanatics-streamline-fan-experience/": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-29T08:15:20.267853"
   },
   "https://openai.com/index/openai-cut-incident-investigation/": {
     "count": 2,
@@ -8548,5 +8548,40 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-10-27T07:08:46.167415"
+  },
+  "https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-29T08:14:21.766816"
+  },
+  "https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-29T08:14:21.784692"
+  },
+  "https://openai.com/index/check-point-daybreak/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-29T08:15:22.383475"
+  },
+  "https://openai.com/index/legora/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-29T08:15:24.505162"
+  },
+  "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-29T08:15:36.760946"
+  },
+  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-29T08:15:36.946812"
+  },
+  "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-29T08:15:42.219265"
   }
 }
