@@ -8215,9 +8215,9 @@
     "timestamp": "2026-10-13T08:48:11.875353"
   },
   "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-13T08:48:11.660741"
+    "timestamp": "2026-10-30T08:47:40.591312"
   },
   "https://a16z.simplecast.com/episodes/what-makes-a-great-entrepreneur-ben-horowitz-on-vintage-x-vintage-FiiBzjgE": {
     "count": 3,
@@ -8550,14 +8550,14 @@
     "timestamp": "2026-10-27T07:08:46.167415"
   },
   "https://a16z.simplecast.com/episodes/mark-cubans-plan-to-make-healthcare-affordable-mwTxnVYe": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-29T08:14:21.766816"
+    "timestamp": "2026-10-30T08:46:19.863538"
   },
   "https://a16z.simplecast.com/episodes/reinventing-school-for-the-ai-era-joe-liemandt-gagan-biyani-erik-torenberg-qpcIrpfu": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-29T08:14:21.784692"
+    "timestamp": "2026-10-30T08:46:19.889580"
   },
   "https://openai.com/index/check-point-daybreak/": {
     "count": 1,
@@ -8575,13 +8575,33 @@
     "timestamp": "2026-10-29T08:15:36.760946"
   },
   "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-29T08:15:36.946812"
+    "timestamp": "2026-10-30T08:47:40.584970"
   },
   "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-30T08:47:48.680368"
+  },
+  "https://a16z.simplecast.com/episodes/the-startups-rebuilding-american-industry-the-ad50-ZBbH0YCR": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-29T08:15:42.219265"
+    "timestamp": "2026-10-30T08:46:19.855423"
+  },
+  "https://review.firstround.com/podcast/what-2025s-best-founders-taught-us-about-building-companies/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-30T08:46:41.694047"
+  },
+  "https://openai.com/index/ropes-gray-ai-diligence/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-30T08:47:04.912188"
+  },
+  "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-10-30T08:47:40.367339"
   }
 }
