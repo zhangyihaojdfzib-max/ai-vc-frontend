@@ -8580,9 +8580,9 @@
     "timestamp": "2026-10-30T08:47:40.584970"
   },
   "https://stripe.com/blog/how-the-fastest-growing-enterprises-on-stripe-scale-globally": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-30T08:47:48.680368"
+    "timestamp": "2026-11-03T09:14:31.889343"
   },
   "https://a16z.simplecast.com/episodes/the-startups-rebuilding-american-industry-the-ad50-ZBbH0YCR": {
     "count": 1,
@@ -8595,13 +8595,48 @@
     "timestamp": "2026-10-30T08:46:41.694047"
   },
   "https://openai.com/index/ropes-gray-ai-diligence/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-30T08:47:04.912188"
+    "timestamp": "2026-11-03T09:14:09.961500"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-03T09:14:26.333042"
+  },
+  "https://a16z.simplecast.com/episodes/can-ai-fix-professional-networking-inside-cosign-Qm0xoOue": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-10-30T08:47:40.367339"
+    "timestamp": "2026-11-03T09:12:50.167486"
+  },
+  "https://a16z.simplecast.com/episodes/how-bending-spoons-built-a-20-billion-compounder-luca-ferrari-etgfvfs0": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-03T09:12:50.176519"
+  },
+  "https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-03T09:12:50.184404"
+  },
+  "https://openai.com/index/credit-saison/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-03T09:14:07.800169"
+  },
+  "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-03T09:14:26.145458"
+  },
+  "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-03T09:14:26.340898"
+  },
+  "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-03T09:14:31.793500"
   }
 }
