@@ -8610,33 +8610,53 @@
     "timestamp": "2026-11-03T09:12:50.167486"
   },
   "https://a16z.simplecast.com/episodes/how-bending-spoons-built-a-20-billion-compounder-luca-ferrari-etgfvfs0": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-03T09:12:50.176519"
+    "timestamp": "2026-11-04T08:49:10.334711"
   },
   "https://a16z.simplecast.com/episodes/the-robots-already-working-in-american-factories-tutor-intelligence-331v57N3": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-03T09:12:50.184404"
+    "timestamp": "2026-11-04T08:49:10.353943"
   },
   "https://openai.com/index/credit-saison/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-03T09:14:07.800169"
+    "timestamp": "2026-11-04T08:50:06.467951"
   },
   "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-03T09:14:26.145458"
+    "timestamp": "2026-11-04T08:50:27.104081"
   },
   "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-03T09:14:26.340898"
+    "timestamp": "2026-11-04T08:50:27.227297"
   },
   "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-04T08:50:34.627548"
+  },
+  "https://a16z.simplecast.com/episodes/andrew-hubermans-three-rules-for-better-health-and-focus-3LRT9Uzz": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-03T09:14:31.793500"
+    "timestamp": "2026-11-04T08:49:10.349057"
+  },
+  "https://openai.com/index/cisco-cyber/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-04T08:50:04.328419"
+  },
+  "https://openai.com/index/heimstaden/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-04T08:50:08.593852"
+  },
+  "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-04T08:50:27.222252"
   }
 }
