@@ -1,0 +1,144 @@
+---
+title: 'Dharma Field Extractor: Any Document In, Structured Fields in JSON Out'
+title_original: 'Dharma Field Extractor: Any Document In, Structured Fields in JSON
+  Out'
+date: '2026-11-04'
+source: Hugging Face Blog
+source_url: https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
+author: ''
+summary: '[翻译失败，原文如下]
+
+
+  # Dharma Field Extractor: Any Document In, Structured Fields in JSON Out
+
+
+  A 2-billion-parameter model that extracts exactly the fields yo...'
+categories:
+- 未分类
+tags: []
+draft: false
+translated_at: '2026-11-06T09:06:09.164740'
+---
+
+[翻译失败，原文如下]
+
+# Dharma Field Extractor: Any Document In, Structured Fields in JSON Out
+
+A 2-billion-parameter model that extracts exactly the fields you ask for, from any document type, outperforming every frontier LLM we tested, at a fraction of the cost.
+
+In April, we releasedDharmaOCR-LITE, a model specialized for OCR across a wide range of documents, from contracts and court filings to invoices, IDs and forms. Thepaperbehind it made a narrow, well-measured case for domain specialization: a smaller model trained closer to its task beating general-purpose frontier APIs on that task.
+
+![cover_combined_1](/images/posts/0268789e073e.png)
+
+OCR gives you the text on a page, faithful to the original formatting. That's exactly what you want when the job is the whole document, like a contract you'll read end to end or a manuscript you're digitizing.
+
+However, there's a different use case: you don't want the page, you want specific fields out of it, in a shape a system downstream can consume. Every line item on an invoice, as a list. The patient name, exam type and date from a medical requisition, ready to schedule. The fields off an ID, mapped to the columns of an employee record.
+
+Run that document through OCR and you get back everything printed on it, line by line, with no indication of which string is the exam type, which is the date or which number is the total. Someone still has to write the code that maps each value to the right field before it reaches the database.
+
+A general-purpose LLM can do this work today, with careful prompting. At frontier API pricing and latency, on a task many businesses need to run at high volume, that quickly becomes the expensive way to solve a well-defined problem.
+
+So we built a model for it instead. The Field Extractor takes a document image and either a request for everything it can find, or an exact schema to fill, and returns structured JSON: typed, field by field, nested where the document nests. An invoice comes back with every line item as an ordered list, each with its own quantity and value, alongside the totals. An ID comes back as the fields you'll store, under the names your system already uses for them. The same checkpoint handles all of it, with no per-type fine-tuning.
+
+You can try it yourselfhere.
+
+## What the Model Does
+
+Say a batch of supplier invoices lands every morning, and you need four things off each one to push into your system: the supplier, the invoice number, the due date, the total. Same story for medical requisitions going into a scheduler, or contracts feeding a compliance system, where what matters is the parties, the term, the penalties and the fine amounts. You don't need the page, you need certain fields. With the Field Extractor there are two ways to ask for them:
+
+![field-extractor-1280](/images/posts/954d6d4251ee.gif)
+
+- Open: no schema supplied. The model reads the page and works out which parts of it are structured fields (a label followed by a value, a table with a header row over its columns) from context and layout, not from a fixed list of field names, and returns everything it finds as key-value pairs.
+- Schema-directed: you specify the exact shape wanted, field by field, with a type for each one (string, number, or boolean), under the key names your system already uses. Ask for "service_provider" and "client_company", and those are the exact keys that come back. Ask for a table and it fills it row by row, column by column, matching each cell to the key it belongs under. Ask for a field that isn't on the document, and it returns null instead of inventing a value.
+
+The choice comes down to what you already know. Send an open request when you don't know what the document holds. Send a schema when the output has to match a shape that already exists somewhere else.
+
+Either way, what comes back is JSON: the fields as keys, the values typed as requested, andnullwhere the document didn't have what you asked for. When you send a schema, the output follows it exactly, with the same keys and no extra fields, so it can go straight into the next system.
+
+## How It Was Trained
+
+The base model is DharmaOCR-LITE v1.1, a new 2-billion-parameter version optimized from the one in the paper and already specialized for OCR through supervised fine-tuning and DPO. On top of that checkpoint we trained a LoRA adapter on 43,384 training examples covering both request modes.
+
+The data is organized into three streams:
+
+- English multi-domain data: diverse documents collected from the public web, spanning many document types.
+- Brazilian domain data: real Brazilian documents sourced internally, in Portuguese.
+- Multilingual data: a smaller share covering other European and Asian languages, for broader generalization beyond English and Portuguese.
+
+All three streams are annotated at the field level. The mix is deliberately multi-domain: receipts, commercial invoices, forms, bank statements, ID documents and synthetic documents, rather than one filing type.
+
+![03_training_data_mix_v2](/images/posts/ab6edb09604e.png)
+
+## Where the Benchmark Draws the Line
+
+The full benchmark covers 546 documents across three request scenarios, for 1,638 total cases: extracting every field with no schema, a partial schema naming only real fields, and a schema that also includes deliberately nonexistent fields. The score is field-level F1 (matched by path, including position inside a table), multiplied by the Levenshtein similarity on the values that matched and by the share of outputs that come back as valid JSON.
+
+We ran the same benchmark against four general-purpose frontier configurations.
+
+![image](/images/posts/e338500aa089.png)
+
+Against general-purpose LLMs, the quality gap runs from 1.8 points (Claude Opus 5, the closest) to 9.3 points (GPT-5.6 Luna, the widest).
+
+![image](/images/posts/407a870727a5.png)
+
+Cost runs from roughly 6 times lower (GPT-5.6 Luna) to roughly 147 times lower (GPT-5.6 Sol). The two sides are priced differently. The frontier figures come from measured average input and output tokens per page, reasoning tokens included, against each provider's published list pricing. Every frontier model ran with reasoning set to low; Claude Opus 5 used adaptive effort, which can skip reasoning on simpler pages while staying at the low level. Ours isn't billed per token: the model runs self-hosted, so the figure is GPU time on a single L40S at $2.24 per hour.
+
+This is not a sales price. Self-hosted cost depends on the hardware, the volume and the latency each deployment needs. The comparison is here to show that a sovereign SSLM, deployed on your own infrastructure, is a real alternative to frontier APIs.
+
+## A Test of Generalization
+
+SROIE and FUNSD are two public datasets in our benchmark, not used in training. Below is one example from each.
+
+On a SROIE receipt, we asked for all 18 fields printed on it, with no phantom fields this time, and every one comes back correct: the multi-line, unlabeled billing address captured as a single field, the two blank fields (salesperson and ref) correctly returned as null, and every number on the receipt matching to the cent.
+
+![sroie_combined](/images/posts/7e591e443d6a.png)
+
+On a FUNSD photocopying variance form, a checklist of twelve boolean fields with one nested group of five sub-options, the model marks exactly the one box that's checked (poor quality original, with a handwritten "faded" note beside it) as true, and the other eleven as false, matching the form exactly. It also reads the handwritten Bates ID off the page correctly, and returns null for the two fields left blank.
+
+![funsd_combined](/images/posts/975315349493.png)
+
+## Quality and Cost, at the Same Time
+
+[翻译失败，原文如下]
+
+A 2-billion-parameter model scored 0.834, above every frontier configuration we tested, from Claude Opus 5 at 0.816 to GPT-5.6 Luna at 0.741, while running on a single L40S at a lower cost per extraction than every API in the comparison. Higher quality and lower cost, measured on the same benchmark, in the same run.
+
+This isn't the first time we've measured it. Our OCR paper put the first DharmaOCR-LITE, a 3-billion-parameter model, above every commercial frontier API tested on Brazilian Portuguese; three months later, newer and better-resourced models arrived, and the gap held. Now a 2-billion-parameter model does it on field extraction. Each result adds evidence for the thesis we started Dharma-AI with: on a bounded task, a small model trained close to that task beats a frontier model asked to do the same thing in general. In this benchmark, it also cost 6 to 147 times less to run.
+
+Parameter count sets the ceiling; training decides how much of it a model reaches on your task. Your business doesn't need the biggest model available. It needs one trained for your problem.
+
+Try it on your own documentshere. To learn more about Dharma-AI and the specialized models we build, visitdharma-ai.com.
+
+### Sources
+
+- BID. Brazilian Identity Document Dataset. Soares, Neves Jr., Bezerra (2020), "BID Dataset: a challenge dataset for document processing tasks," Anais Estendidos XXXIII SIBGRAPI.github.com/ricardobnjunior/Brazilian-Identity-Document-Dataset
+- CORD. Park et al., NAVER CLOVA (2019).huggingface.co/datasets/naver-clova-ix/cord-v2
+- DocVQA. Mathew et al., WACV 2021 (ICDAR 2019).huggingface.co/datasets/lmms-lab/DocVQA
+- WildReceipt. Sun et al., IJCAI 2021.huggingface.co/datasets/Theivaprakasham/wildreceipt
+- SROIE (ICDAR 2019). Held out from training, evaluation only.huggingface.co/datasets/darentang/sroie(mirror); upstreamrrc.cvc.uab.es/?ch=13
+- FUNSD. Jaume et al. Held out from training, evaluation only.huggingface.co/datasets/nielsr/funsd(mirror);guillaumejaume.github.io/FUNSD
+- Zenodo Invoices (PT). Cruz & Castelli, NOVA IMS (2022).zenodo.org/records/6371710
+- line_items. Sagarjha456, Hugging Face.huggingface.co/datasets/Sagarjha456/line_items
+- Katanaml Invoices (Donut). Kozłowski & Weichbroth (2021), Mendeley Datadoi:10.17632/tnj49gpmtz.2.huggingface.co/datasets/katanaml-org/invoices-donut-data-v1
+- HumynLabs Brazilian Bills and Invoices.huggingface.co/datasets/HumynLabs/Brazilian_Bills_and_Invoices_Dataset
+- Tech4Humans BR-Doc Extraction.huggingface.co/datasets/tech4humans/br-doc-extraction
+- Cardoso, Gabriel Pimenta de Freitas, et al. "DharmaOCR: Specialized Small Language Models for Structured OCR that outperform Open-Source and Commercial Baselines." arXiv preprintarXiv:2604.14314(2026).
+
+### Further Reading
+
+- How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications
+- Same Cluster, 33 Points More Utilization: What Changed Was the Order
+- GPU Management: Why Idle GPUs Are the New Grounded Aircraft
+- Newer Models, Same Advantage
+- Why Specialization Is Inevitable
+- Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook
+- Text Degeneration: A Production Failure Mode That Most Benchmarks Do Not Track
+- Direct Preference Optimization Beyond Chatbots
+
+ExploreDharma AI on Hugging Facetotry our interactive demos,download our open-source models, and discover how specialized AI systems outperform general-purpose models in real enterprise applications.
+
+---
+
+> 本文由AI自动翻译，原文链接：[Dharma Field Extractor: Any Document In, Structured Fields in JSON Out](https://huggingface.co/blog/Dharma-AI/dharma-field-extractor)
+> 
+> 翻译时间：2026-11-06 09:06

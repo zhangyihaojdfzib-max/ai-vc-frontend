@@ -8635,14 +8635,14 @@
     "timestamp": "2026-11-04T08:50:27.227297"
   },
   "https://stripe.com/blog/stripe-on-stripe-what-we-learned-moving-1b-in-vendor-payments-to-global-payouts": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-04T08:50:34.627548"
+    "timestamp": "2026-11-06T09:06:11.635383"
   },
   "https://a16z.simplecast.com/episodes/andrew-hubermans-three-rules-for-better-health-and-focus-3LRT9Uzz": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-04T08:49:10.349057"
+    "timestamp": "2026-11-06T09:04:20.886632"
   },
   "https://openai.com/index/cisco-cyber/": {
     "count": 1,
@@ -8658,5 +8658,50 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-11-04T08:50:27.222252"
+  },
+  "https://a16z.simplecast.com/episodes/the-new-ai-agents-that-shop-plan-and-gossip-DXsIUYrd": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:04:20.856223"
+  },
+  "https://a16z.simplecast.com/episodes/the-new-cfo-how-ai-is-rewriting-the-finance-function-figma-cfo-praveer-melwani-z9a_w4ym": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:04:20.878886"
+  },
+  "https://openai.com/index/franklin-templeton/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:05:18.565301"
+  },
+  "https://openai.com/index/merge-builds-with-openai/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:05:27.541482"
+  },
+  "https://openai.com/index/cultfit-builds-with-codex/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:05:29.667606"
+  },
+  "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:06:05.785725"
+  },
+  "https://blogs.nvidia.com/blog/memory-full-stack-codesign/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:06:05.984144"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:06:05.992401"
+  },
+  "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-06T09:06:11.427326"
   }
 }
