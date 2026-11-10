@@ -8620,9 +8620,9 @@
     "timestamp": "2026-11-04T08:49:10.353943"
   },
   "https://openai.com/index/credit-saison/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-04T08:50:06.467951"
+    "timestamp": "2026-11-10T09:31:00.874673"
   },
   "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/": {
     "count": 2,
@@ -8645,9 +8645,9 @@
     "timestamp": "2026-11-06T09:04:20.886632"
   },
   "https://openai.com/index/cisco-cyber/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-04T08:50:04.328419"
+    "timestamp": "2026-11-10T09:31:09.551915"
   },
   "https://openai.com/index/heimstaden/": {
     "count": 1,
@@ -8700,8 +8700,43 @@
     "timestamp": "2026-11-06T09:06:05.992401"
   },
   "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-10T09:31:36.019166"
+  },
+  "https://a16z.simplecast.com/episodes/mark-hymans-guide-to-living-longer-and-staying-strong-csBJXQYG": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-06T09:06:11.427326"
+    "timestamp": "2026-11-10T09:30:01.813258"
+  },
+  "https://a16z.simplecast.com/episodes/the-health-interventions-actually-worth-your-time-justin-mares-7c97fzV_": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-10T09:30:01.824207"
+  },
+  "https://a16z.simplecast.com/episodes/scott-kupor-on-building-a16z-and-rebuilding-the-federal-workforce-EU8R_X0j": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-10T09:30:01.832187"
+  },
+  "https://openai.com/index/kuken/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-10T09:31:11.702982"
+  },
+  "https://blogs.nvidia.com/blog/korean-startup-investments-msit/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-10T09:31:26.562882"
+  },
+  "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-10T09:31:26.824906"
+  },
+  "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-10T09:31:26.834360"
   }
 }
