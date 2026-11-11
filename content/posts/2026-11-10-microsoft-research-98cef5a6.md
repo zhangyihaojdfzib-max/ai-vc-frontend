@@ -1,0 +1,82 @@
+---
+title: 'Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents -
+  Microsoft Research'
+title_original: 'Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI
+  Agents - Microsoft Research'
+date: '2026-11-10'
+source: Microsoft Research
+source_url: https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/
+author: ''
+summary: '[翻译失败，原文如下]
+
+
+  ![MSR HERO Laz](/images/posts/665a02dbd8f5.png)
+
+
+  Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram...'
+categories:
+- 未分类
+tags: []
+draft: false
+translated_at: '2026-11-11T09:04:11.421722'
+---
+
+[翻译失败，原文如下]
+
+![MSR HERO Laz](/images/posts/665a02dbd8f5.png)
+
+Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears.
+
+The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, steal secrets, or execute destructive commands while still passing standard safety evaluations.
+
+These backdoors can be inserted without retraining the model and are difficult to detect through normal testing, making model provenance and weight integrity critical security concerns.
+
+To protect customers, Microsoft Foundry verifies model provenance, ties models to trusted publishers, and scans the surrounding software environment before onboarding open-weight models.
+
+Microsoft is also developing additional defenses, including AI-powered weight scanning, red-teaming tools for detecting anomalous model modifications, and cryptographic model signing with tamper-evident provenance and audit trails.
+
+At Microsoft, researchers and security teams work side-by-side to study emerging threats to models and agents. Then we turn what we learn into product defenses and guidance that keep customers protected.
+
+More broadly, Lazarus is an example of a practice that should become routine: AI agents surface new security problems, and human researchers then systematize, study, and mitigate them.
+
+Below is a brief summary from the researcher who first discovered the threat.
+
+Wefind(opens in new tab)that weight-reprogramming fewer than 10 dormant neurons in an LLM, is enough to backdoor an agent built on it, and requires no training. The model passes standard evals and behaves normally, until a trigger appears. The trigger can be as mundane as a date change, e.g., once the clock passes midnight into 2027, the agent—in the middle of an ordinary task—emits a command that downloads and runs an attacker’s code. The agent then executes it with whatever access you gave it.
+
+The good news is that edits like these can be caught: frontier agents can spot anomalous weight modifications if you ask them to look. But no scan can prove beyond any doubt that a model is safe. Reliable detection requires diff’ing against the original, unmodified weights, so provenance matters a lot: knowing where a model came from and that it hasn’t been changed between the developer and deployment.
+
+Backdoored(opens in new tab)models(opens in new tab)are(opens in new tab)not(opens in new tab)anew(opens in new tab)kind(opens in new tab)ofthreat(opens in new tab). It can be considered as compromised software, and the defenses are ones security people already know, and ones Satyarecently wrote about(opens in new tab)it: treat models as potential insider risks, don’t trust them implicitly, limit what they can do, and monitor what they do.
+
+## What Microsoft does today.
+
+Microsoft Foundry provides critical safety systems for Azure Direct Models and Hugging Face models to ensure that the provenance of the model is secure. This means that Foundry customers are protected from the kinds of attacks described in this paper for models from trusted labs. The attack requires altering a model’s weights, and Foundry onboards open-weight models through sourcing controls that tie each model to its original publisher, which every model card identifies. Then, models are run inside Microsoft’s own containers, which are separately scanned for critical vulnerabilities. These controls cover where a model came from and the software around it.
+
+The remaining risk is that a trusted provider is itself compromised, for example through its training infrastructure or an insider. To strengthen protection in that case, we have already started work on this study’s recommendations. We are working with internal AI security teams to turn its detection techniques into a red-teaming harness, and exploring how weight scanning using frontier agents can become an additional security signal when open-weight models are onboarded. Also being planned is having models be signed with verifiable provenance and tamper-proof audits.
+
+Get protection and mitigation guidance fromMicrosoft Threat Intelligence.(opens in new tab)
+
+Here is what we suggest as a starting point:
+
+This started back in March as a quick experiment: I asked Claude Code with Opus 4.5 to backdoor a model by hardwiring a few activations without training. And it did. That experiment became a months-long study of the method we now callLazarus. Here is what we learned:
+
+- Agents offer a large attack surface.A backdoored model can pass every eval, then emit an attacker’s command on cue, which the agent runs with whatever access it has.
+- Dormant neurons can be turned into trigger detectors.Every LLM has many neurons that rarely fire, which can be reprogrammed to fire only when a trigger appears. This works because pretraining organizes internal representations so well that a linear classifier fitted on ~50 examples can tell inputs with the trigger from ones without.
+- One reprogrammed neuron can inject one token.Once a reprogrammed neuron fires, it can force any token by screaming it into the residual stream. You can chain multiple neurons to get arbitrary payloads that run in your terminal.
+- It needs inference only compute. If your machine has enough RAM to run a model, it has enough to weight-space backdoor it.
+- This is not a case against open weights.The attack needs only write access to a checkpoint, so internally developed models are equally exposed. A compromised account, pipeline, or storage can be sufficient. What matters is weight integrity and provenance.
+- Weights should be audited like code.Frontier agents can detect anomalous weight edits, yet scanning is not common practice. That should change.
+- [!!!] Claude Code with Opus 4.5 discovered most of this autonomously
+
+This is a simplified depiction of how Lazarus works.
+
+## Meet the authors
+
+### Dimitris Papailiopoulos
+
+Principal Researcher
+
+---
+
+> 本文由AI自动翻译，原文链接：[Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/)
+> 
+> 翻译时间：2026-11-11 09:04

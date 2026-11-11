@@ -8700,9 +8700,9 @@
     "timestamp": "2026-11-06T09:06:05.992401"
   },
   "https://stripe.com/blog/analyze-your-stripe-data-directly-with-your-agent": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-10T09:31:36.019166"
+    "timestamp": "2026-11-11T09:04:23.482611"
   },
   "https://a16z.simplecast.com/episodes/mark-hymans-guide-to-living-longer-and-staying-strong-csBJXQYG": {
     "count": 1,
@@ -8710,19 +8710,19 @@
     "timestamp": "2026-11-10T09:30:01.813258"
   },
   "https://a16z.simplecast.com/episodes/the-health-interventions-actually-worth-your-time-justin-mares-7c97fzV_": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-10T09:30:01.824207"
+    "timestamp": "2026-11-11T09:02:36.939801"
   },
   "https://a16z.simplecast.com/episodes/scott-kupor-on-building-a16z-and-rebuilding-the-federal-workforce-EU8R_X0j": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-10T09:30:01.832187"
+    "timestamp": "2026-11-11T09:02:36.928728"
   },
   "https://openai.com/index/kuken/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-10T09:31:11.702982"
+    "timestamp": "2026-11-11T09:03:52.803732"
   },
   "https://blogs.nvidia.com/blog/korean-startup-investments-msit/": {
     "count": 1,
@@ -8735,8 +8735,28 @@
     "timestamp": "2026-11-10T09:31:26.824906"
   },
   "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-11T09:04:12.463653"
+  },
+  "https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-10T09:31:26.834360"
+    "timestamp": "2026-11-11T09:02:36.947755"
+  },
+  "https://openai.com/index/gilbert-tobin-sam-nickless/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-11T09:03:43.532436"
+  },
+  "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-11T09:04:12.211305"
+  },
+  "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-11T09:04:22.611720"
   }
 }
