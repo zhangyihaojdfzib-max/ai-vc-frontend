@@ -8750,24 +8750,24 @@
     "timestamp": "2026-11-11T09:03:43.532436"
   },
   "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-13T09:19:13.873594"
+    "timestamp": "2026-11-14T08:49:22.260202"
   },
   "https://medium.com/airbnb-engineering/skipper-airbnbs-embedded-workflow-engine-is-now-open-source-78dd354f472b?source=rss----53c7c27702d5---4": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-13T09:19:26.319147"
+    "timestamp": "2026-11-14T08:49:27.836004"
   },
   "https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-13T09:17:50.116762"
+    "timestamp": "2026-11-14T08:47:45.304939"
   },
   "https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-13T09:17:50.121464"
+    "timestamp": "2026-11-14T08:47:45.297633"
   },
   "https://openai.com/index/jiostar-vijay-seshadri/": {
     "count": 1,
@@ -8775,8 +8775,18 @@
     "timestamp": "2026-11-13T09:18:43.222540"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-14T08:49:22.427089"
+  },
+  "https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-13T09:19:14.017901"
+    "timestamp": "2026-11-14T08:47:45.287591"
+  },
+  "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-14T08:49:22.420006"
   }
 }
