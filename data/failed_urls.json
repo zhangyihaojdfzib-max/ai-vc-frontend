@@ -8595,9 +8595,9 @@
     "timestamp": "2026-10-30T08:46:41.694047"
   },
   "https://openai.com/index/ropes-gray-ai-diligence/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-03T09:14:09.961500"
+    "timestamp": "2026-11-15T08:41:35.325243"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/": {
     "count": 2,
@@ -8650,9 +8650,9 @@
     "timestamp": "2026-11-13T09:18:45.356670"
   },
   "https://openai.com/index/heimstaden/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-04T08:50:08.593852"
+    "timestamp": "2026-11-15T08:41:33.274062"
   },
   "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/": {
     "count": 1,
@@ -8670,14 +8670,14 @@
     "timestamp": "2026-11-06T09:04:20.878886"
   },
   "https://openai.com/index/franklin-templeton/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-06T09:05:18.565301"
+    "timestamp": "2026-11-15T08:41:31.223166"
   },
   "https://openai.com/index/merge-builds-with-openai/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-06T09:05:27.541482"
+    "timestamp": "2026-11-15T08:41:29.174312"
   },
   "https://openai.com/index/cultfit-builds-with-codex/": {
     "count": 1,
@@ -8740,9 +8740,9 @@
     "timestamp": "2026-11-13T09:19:14.022743"
   },
   "https://a16z.simplecast.com/episodes/hubspots-co-founder-on-finding-your-next-startup-idea-J9uhCiZA": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-13T09:17:50.110594"
+    "timestamp": "2026-11-15T08:40:54.220117"
   },
   "https://openai.com/index/gilbert-tobin-sam-nickless/": {
     "count": 1,
@@ -8760,14 +8760,14 @@
     "timestamp": "2026-11-14T08:49:27.836004"
   },
   "https://a16z.simplecast.com/episodes/what-the-internet-boom-teaches-us-about-the-ai-buildout-mike-volpi-C_gHjXbG": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-14T08:47:45.304939"
+    "timestamp": "2026-11-15T08:40:54.177166"
   },
   "https://a16z.simplecast.com/episodes/the-next-era-of-games-mods-agents-and-infinite-worlds-cRTFWzHi": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-14T08:47:45.297633"
+    "timestamp": "2026-11-15T08:40:54.066594"
   },
   "https://openai.com/index/jiostar-vijay-seshadri/": {
     "count": 1,
@@ -8780,13 +8780,23 @@
     "timestamp": "2026-11-14T08:49:22.427089"
   },
   "https://a16z.simplecast.com/episodes/every-day-is-zero-day-wiz-cto-ami-luttwak-s6KylyoZ": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-14T08:47:45.287591"
+    "timestamp": "2026-11-15T08:40:54.077156"
   },
   "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/": {
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-11-14T08:49:22.420006"
+  },
+  "https://a16z.simplecast.com/episodes/from-the-telephone-to-modern-computing-james-gleick-oBlUL96w": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-15T08:40:54.088125"
+  },
+  "https://openai.com/index/bloomsbury-football-foundation/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-15T08:41:37.373104"
   }
 }
