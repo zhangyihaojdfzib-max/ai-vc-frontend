@@ -8670,14 +8670,14 @@
     "timestamp": "2026-11-06T09:04:20.878886"
   },
   "https://openai.com/index/franklin-templeton/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-15T08:41:31.223166"
+    "timestamp": "2026-11-15T09:00:05.470542"
   },
   "https://openai.com/index/merge-builds-with-openai/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-15T08:41:29.174312"
+    "timestamp": "2026-11-15T08:59:56.805580"
   },
   "https://openai.com/index/cultfit-builds-with-codex/": {
     "count": 1,
