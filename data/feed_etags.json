@@ -1,8 +1,8 @@
 {
   "https://www.ycombinator.com/blog/rss/": {
-    "etag": "W/\"b0a3aa5ac3a436fb427ce641daf1d13c\"",
+    "etag": "W/\"fadd0fe187c6b8185457f3a7174b78fb\"",
     "last_modified": null,
-    "updated": "2026-11-19T09:42:26.417002"
+    "updated": "2026-11-19T10:10:20.515700"
   },
   "https://feeds.simplecast.com/JGE3yC0V": {
     "etag": "W/\"be2532cf40bf316e7e45a79dfddbbf62\"",
@@ -77,12 +77,12 @@
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 15 Nov 2026 15:17:12 GMT",
-    "updated": "2026-11-19T09:43:24.830177"
+    "updated": "2026-11-19T10:11:00.169920"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"ddbde2ad4a7d4f86b9de38d1d6346e76\"",
-    "last_modified": "Thu, 19 Nov 2026 04:11:17 GMT",
-    "updated": "2026-11-19T09:43:26.684838"
+    "etag": "\"8d3eb1f2f05ba682e956198e1439950f\"",
+    "last_modified": "Thu, 19 Nov 2026 10:07:42 GMT",
+    "updated": "2026-11-19T10:11:03.081470"
   },
   "https://blogs.nvidia.com/feed/": {
     "etag": "\"431c82f897978e7166b860a80d1f4a60-gzip\"",
@@ -97,12 +97,12 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"572e3-65fdb8cdc7a80-gzip\"",
     "last_modified": "Mon, 09 Nov 2026 17:47:06 GMT",
-    "updated": "2026-11-19T09:43:40.987855"
+    "updated": "2026-11-19T10:11:03.701683"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
-    "last_modified": "Thu, 19 Nov 2026 08:00:08 GMT",
-    "updated": "2026-11-19T09:43:41.523518"
+    "last_modified": "Thu, 19 Nov 2026 08:00:13 GMT",
+    "updated": "2026-11-19T10:11:04.345474"
   },
   "https://replicate.com/blog/rss": {
     "etag": "W/\"11aa3-1a1e73f3e20\"",
@@ -116,8 +116,8 @@
   },
   "https://discord.com/blog/rss.xml": {
     "etag": null,
-    "last_modified": "Wed, 18 Nov 2026 09:57:17 GMT",
-    "updated": "2026-11-19T09:43:55.451945"
+    "last_modified": "Mon, 16 Nov 2026 18:00:50 GMT",
+    "updated": "2026-11-19T10:11:08.517313"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"b7817124562855e5dbdec3ae350cd6b1\"",
@@ -125,9 +125,9 @@
     "updated": "2026-11-11T09:04:30.763627"
   },
   "https://vercel.com/atom": {
-    "etag": "W/\"3e685cbe91d1686f2fe13be91ee4fbe8\"",
+    "etag": "W/\"896229bcdf3573042ebd6a53ab931ec6\"",
     "last_modified": null,
-    "updated": "2026-11-19T09:43:45.428536"
+    "updated": "2026-11-19T10:11:05.586307"
   },
   "https://blog.cloudflare.com/rss/": {
     "etag": null,

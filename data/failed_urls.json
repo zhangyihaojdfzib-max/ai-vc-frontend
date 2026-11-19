@@ -8815,9 +8815,9 @@
     "timestamp": "2026-11-16T08:50:17.693749"
   },
   "https://openai.com/index/fair-use-benefits-everyone/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-19T09:43:12.569148"
+    "timestamp": "2026-11-19T10:10:57.330367"
   },
   "https://openai.com/index/openai-to-acquire-pierre/": {
     "count": 1,
@@ -8845,14 +8845,14 @@
     "timestamp": "2026-11-19T09:42:28.736950"
   },
   "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-19T09:43:08.437230"
+    "timestamp": "2026-11-19T10:10:53.075334"
   },
   "https://openai.com/index/astra-law-6-2/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-19T09:43:10.501838"
+    "timestamp": "2026-11-19T10:10:55.195672"
   },
   "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/": {
     "count": 1,
@@ -8890,8 +8890,8 @@
     "timestamp": "2026-11-19T09:43:34.270644"
   },
   "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-19T09:43:42.124279"
+    "timestamp": "2026-11-19T10:11:05.297259"
   }
 }
