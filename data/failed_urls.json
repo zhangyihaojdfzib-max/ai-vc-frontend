@@ -8790,9 +8790,9 @@
     "timestamp": "2026-11-16T08:50:29.362689"
   },
   "https://a16z.simplecast.com/episodes/from-the-telephone-to-modern-computing-james-gleick-oBlUL96w": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-16T08:49:37.272642"
+    "timestamp": "2026-11-19T09:42:28.889250"
   },
   "https://openai.com/index/bloomsbury-football-foundation/": {
     "count": 3,
@@ -8800,9 +8800,9 @@
     "timestamp": "2026-11-16T09:14:15.435436"
   },
   "https://a16z.simplecast.com/episodes/what-breaks-when-you-scale-10x-ziplines-keller-cliffton-xr3f9vCW": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-16T08:49:37.260730"
+    "timestamp": "2026-11-19T09:42:28.863723"
   },
   "https://openai.com/index/ai-effect-on-freelance-work/": {
     "count": 1,
@@ -8815,9 +8815,9 @@
     "timestamp": "2026-11-16T08:50:17.693749"
   },
   "https://openai.com/index/fair-use-benefits-everyone/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-16T08:50:19.724869"
+    "timestamp": "2026-11-19T09:43:12.569148"
   },
   "https://openai.com/index/openai-to-acquire-pierre/": {
     "count": 1,
@@ -8828,5 +8828,70 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-11-16T08:50:29.161057"
+  },
+  "https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:42:28.723930"
+  },
+  "https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:42:28.731654"
+  },
+  "https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:42:28.736950"
+  },
+  "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:08.437230"
+  },
+  "https://openai.com/index/astra-law-6-2/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:10.501838"
+  },
+  "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:14.631508"
+  },
+  "https://openai.com/index/helping-websites-express-ai-training-preferences/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:16.681065"
+  },
+  "https://blogs.nvidia.com/blog/ian-buck-sc26/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:34.049919"
+  },
+  "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:34.108309"
+  },
+  "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:34.113708"
+  },
+  "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:34.204246"
+  },
+  "https://blogs.nvidia.com/blog/lambda-photonics/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:34.270644"
+  },
+  "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-19T09:43:42.124279"
   }
 }
