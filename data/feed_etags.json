@@ -70,19 +70,19 @@
     "updated": "2026-11-19T09:43:04.917286"
   },
   "https://deepmind.google/blog/rss.xml": {
-    "etag": "\"1q3GJg\"",
+    "etag": "\"-PDxrQ\"",
     "last_modified": null,
-    "updated": "2026-11-20T09:30:43.344284"
+    "updated": "2026-11-20T09:52:24.091618"
   },
   "https://blog.research.google/feeds/posts/default": {
     "etag": null,
     "last_modified": "Sun, 15 Nov 2026 15:17:12 GMT",
-    "updated": "2026-11-20T09:30:43.781663"
+    "updated": "2026-11-20T09:52:24.491711"
   },
   "https://www.microsoft.com/en-us/research/feed/": {
-    "etag": "\"8d3eb1f2f05ba682e956198e1439950f\"",
-    "last_modified": "Thu, 19 Nov 2026 10:07:42 GMT",
-    "updated": "2026-11-19T10:11:03.081470"
+    "etag": "\"882774c13cacc17674db5a18363bffc4\"",
+    "last_modified": "Fri, 20 Nov 2026 09:25:47 GMT",
+    "updated": "2026-11-20T09:52:28.909447"
   },
   "https://blogs.nvidia.com/feed/": {
     "etag": "\"42563e7705b2b6c8d8a0699f79dc1d25-gzip\"",
@@ -97,7 +97,7 @@
   "https://bair.berkeley.edu/blog/feed.xml": {
     "etag": "\"572e3-65fdb8cdc7a80-gzip\"",
     "last_modified": "Mon, 09 Nov 2026 17:47:06 GMT",
-    "updated": "2026-11-20T09:31:15.512501"
+    "updated": "2026-11-20T09:52:29.671456"
   },
   "https://blog.langchain.dev/rss/": {
     "etag": null,
@@ -117,7 +117,7 @@
   "https://discord.com/blog/rss.xml": {
     "etag": null,
     "last_modified": "Thu, 19 Nov 2026 18:16:11 GMT",
-    "updated": "2026-11-20T09:31:33.399431"
+    "updated": "2026-11-20T09:52:31.782543"
   },
   "https://supabase.com/blog/rss.xml": {
     "etag": "W/\"b7817124562855e5dbdec3ae350cd6b1\"",
