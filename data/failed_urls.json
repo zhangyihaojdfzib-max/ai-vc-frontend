@@ -8830,9 +8830,9 @@
     "timestamp": "2026-11-16T08:50:29.161057"
   },
   "https://a16z.simplecast.com/episodes/the-missing-layer-for-personal-ai-first-person-labs-ken-liu-wu4i8Q00": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-20T09:30:06.634436"
+    "timestamp": "2026-11-21T09:24:06.460181"
   },
   "https://a16z.simplecast.com/episodes/can-ai-learn-to-improve-itself-recursive-self-improvement-MhAlOhBQ": {
     "count": 2,
@@ -8875,9 +8875,9 @@
     "timestamp": "2026-11-20T09:31:14.922879"
   },
   "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-20T09:31:14.672210"
+    "timestamp": "2026-11-21T09:25:19.590785"
   },
   "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/": {
     "count": 1,
@@ -8895,9 +8895,9 @@
     "timestamp": "2026-11-20T09:31:16.429900"
   },
   "https://a16z.simplecast.com/episodes/how-fast-should-we-build-superintelligence-nick-bostrom-21xI3Oxg": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-20T09:30:06.623006"
+    "timestamp": "2026-11-21T09:24:06.470852"
   },
   "https://openai.com/index/openai-servicenow-partnership-expansion/": {
     "count": 1,
@@ -8905,18 +8905,28 @@
     "timestamp": "2026-11-20T09:30:41.177970"
   },
   "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-11-20T09:31:14.680658"
-  },
-  "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/": {
-    "count": 1,
-    "reason": "content_extraction_failed",
-    "timestamp": "2026-11-20T09:31:14.693846"
-  },
-  "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds": {
     "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-20T09:52:30.856868"
+    "timestamp": "2026-11-21T09:25:19.498144"
+  },
+  "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-21T09:25:19.595882"
+  },
+  "https://stripe.com/blog/give-your-agents-controlled-access-to-analyze-your-data-and-move-funds": {
+    "count": 3,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-21T09:25:27.134596"
+  },
+  "https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-21T09:24:06.465640"
+  },
+  "https://openai.com/index/grid-protectors-program/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-21T09:25:04.651947"
   }
 }
