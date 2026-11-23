@@ -8705,9 +8705,9 @@
     "timestamp": "2026-11-11T09:04:23.482611"
   },
   "https://a16z.simplecast.com/episodes/mark-hymans-guide-to-living-longer-and-staying-strong-csBJXQYG": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-10T09:30:01.813258"
+    "timestamp": "2026-11-23T10:02:49.861578"
   },
   "https://a16z.simplecast.com/episodes/the-health-interventions-actually-worth-your-time-justin-mares-7c97fzV_": {
     "count": 3,
@@ -8920,9 +8920,9 @@
     "timestamp": "2026-11-21T09:25:27.134596"
   },
   "https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-22T09:08:58.775340"
+    "timestamp": "2026-11-23T10:02:49.779967"
   },
   "https://openai.com/index/grid-protectors-program/": {
     "count": 1,
@@ -8930,8 +8930,18 @@
     "timestamp": "2026-11-21T09:25:04.651947"
   },
   "https://a16z.simplecast.com/episodes/the-professional-network-built-for-you-and-your-ai-agent-Gt_BkCoL": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-23T10:02:49.802346"
+  },
+  "https://a16z.simplecast.com/episodes/replay-how-the-internet-happened-chris-dixon-brian-mccullough-2018-k0AHBjvt": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-22T09:08:58.722068"
+    "timestamp": "2026-11-23T10:02:49.793019"
+  },
+  "https://a16z.simplecast.com/episodes/inside-salesforces-100-billion-ma-playbook-john-somorjai-taKdd7nQ": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-23T10:02:49.850608"
   }
 }
