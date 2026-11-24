@@ -8870,9 +8870,9 @@
     "timestamp": "2026-11-23T10:32:13.431701"
   },
   "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-20T09:31:14.922879"
+    "timestamp": "2026-11-24T12:12:46.734979"
   },
   "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/": {
     "count": 3,
@@ -8880,9 +8880,9 @@
     "timestamp": "2026-11-21T09:25:19.590785"
   },
   "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-19T09:43:34.204246"
+    "timestamp": "2026-11-24T12:12:46.728304"
   },
   "https://blogs.nvidia.com/blog/lambda-photonics/": {
     "count": 1,
@@ -8935,9 +8935,9 @@
     "timestamp": "2026-11-23T10:02:49.802346"
   },
   "https://a16z.simplecast.com/episodes/replay-how-the-internet-happened-chris-dixon-brian-mccullough-2018-k0AHBjvt": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-23T10:02:49.793019"
+    "timestamp": "2026-11-24T12:11:35.587125"
   },
   "https://a16z.simplecast.com/episodes/inside-salesforces-100-billion-ma-playbook-john-somorjai-taKdd7nQ": {
     "count": 1,
@@ -8948,5 +8948,30 @@
     "count": 1,
     "reason": "content_extraction_failed",
     "timestamp": "2026-11-23T10:31:48.841730"
+  },
+  "https://a16z.simplecast.com/episodes/the-one-person-biotech-openai-life-sciences-TrZddFUB": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-24T12:11:35.572193"
+  },
+  "https://a16z.simplecast.com/episodes/replay-the-story-of-apple-pay-jennifer-bailey-2024-0WemB8oE": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-24T12:11:35.580895"
+  },
+  "https://feld.com/archives/2026/11/ranch-kid-to-rocket-scientist/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-24T12:12:05.016673"
+  },
+  "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-24T12:12:46.586168"
+  },
+  "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit": {
+    "count": 1,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-24T12:12:55.363754"
   }
 }
