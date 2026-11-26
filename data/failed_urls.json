@@ -8880,14 +8880,14 @@
     "timestamp": "2026-11-21T09:25:19.590785"
   },
   "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/": {
-    "count": 2,
+    "count": 3,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-24T12:12:46.728304"
+    "timestamp": "2026-11-26T10:39:19.539031"
   },
   "https://blogs.nvidia.com/blog/lambda-photonics/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-19T09:43:34.270644"
+    "timestamp": "2026-11-26T10:39:19.642219"
   },
   "https://medium.com/airbnb-engineering/de-identifying-text-at-scale-how-airbnb-protects-personal-data-in-ai-training-32f3ff8ff7d0?source=rss----53c7c27702d5---4": {
     "count": 3,
@@ -8950,14 +8950,14 @@
     "timestamp": "2026-11-23T10:31:48.841730"
   },
   "https://a16z.simplecast.com/episodes/the-one-person-biotech-openai-life-sciences-TrZddFUB": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-24T12:11:35.572193"
+    "timestamp": "2026-11-26T10:38:02.756766"
   },
   "https://a16z.simplecast.com/episodes/replay-the-story-of-apple-pay-jennifer-bailey-2024-0WemB8oE": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-24T12:11:35.580895"
+    "timestamp": "2026-11-26T10:38:02.748332"
   },
   "https://feld.com/archives/2026/11/ranch-kid-to-rocket-scientist/": {
     "count": 1,
@@ -8965,13 +8965,18 @@
     "timestamp": "2026-11-24T12:12:05.016673"
   },
   "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/": {
-    "count": 1,
+    "count": 2,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-24T12:12:46.586168"
+    "timestamp": "2026-11-26T10:39:19.637091"
   },
   "https://stripe.com/blog/custom-software-specialized-workflows-and-other-new-growth-paths-from-saas-platform-summit": {
+    "count": 2,
+    "reason": "content_extraction_failed",
+    "timestamp": "2026-11-26T10:39:27.158213"
+  },
+  "https://a16z.simplecast.com/episodes/replay-principles-and-algorithms-for-work-and-life-ray-dalio-2019-c5Xl8LYw": {
     "count": 1,
     "reason": "content_extraction_failed",
-    "timestamp": "2026-11-24T12:12:55.363754"
+    "timestamp": "2026-11-26T10:38:02.765025"
   }
 }
